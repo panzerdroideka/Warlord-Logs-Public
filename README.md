@@ -22,6 +22,6 @@ Tools: MangoHud, Custom Analytical Scripts, Git-integration.
 📺 Se action i sanntid:
 Alle logger her er direkte knyttet til videobevis på min YouTube-kanal. Sjekk beskrivelsen i hver video for direkte lenker til de aktuelle filene i dette repoet.
 
-👉 [https://youtube.com/@willyolsen1017?si=G1Cs653nP_mf59lI]
+👉 https://youtube.com/@willyolsen1017
 
 “If it isn't documented, it didn't happen.” – The Warlord
