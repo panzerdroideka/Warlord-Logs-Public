@@ -1,0 +1,477 @@
+### Chat Log: Combat 04/17 10:07 AM ###
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 533 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 586 Lightning damage to Morale.
+Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+The Dourhand Blaster scored a critical hit with a weak melee attack on the Charged Fulgurite Rune-stone for 75 Common damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Dourhand Blaster but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 549 Lightning damage to Morale.
+The Dourhand Blaster scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 72 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Blaster for 1,536 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Dourhand Blaster scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 79 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Blaster for 1,536 Fire damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Dourhand Blaster but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 549 Lightning damage to Morale.
+The Dourhand Blaster tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+Nlkosi scored a hit with Sustaining Bolt on the Dourhand Blaster for 832 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 118 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,160 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Blaster for 1,536 Fire damage to Morale.
+Your mighty blow defeated the Dourhand Blaster.
+Nlkosi scored a hit with Epic Conclusion on the Dourhand Blaster for 4,437 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Excavator for 583 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Dourhand Excavator scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 67 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Excavator for 537 Lightning damage to Morale.
+The Dourhand Excavator tried to use a moderate melee attack on the Charged Fulgurite Rune-stone but it evaded the attempt.
+The Dourhand Excavator scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 67 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Excavator for 531 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Dourhand Excavator for 1,589 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Excavator for 554 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Dourhand Excavator for 857 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 106 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,099 points to Morale.
+Nlkosi tried to use Static Surge on the Dourhand Excavator but he resisted the attempt.
+Nlkosi tried to use Shocking Words on the Dourhand Excavator but he resisted the attempt.
+The Dourhand Excavator scored a critical hit with Bleeding Axe on Nlkosi.
+The Dourhand Excavator scored a critical hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 19 points to Power.
+Nlkosi scored a critical hit with Writ of Lightning on the Dourhand Excavator for 2,931 Lightning damage to Morale.
+Your mighty blow defeated the Dourhand Excavator.
+Nlkosi scored a hit with Ceaseless Argument on the Dourhand Excavator for 1,923 Lightning damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator tried to use Serious Wound on Nlkosi but he resisted the attempt.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster tried to use a moderate thrown attack on Nlkosi but he evaded the attempt.
+The Dourhand Mine-overseer scored a hit with a minor melee attack on Nlkosi for 454 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a partially evaded hit with a minor thrown attack on Nlkosi for 373 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Dourhand Mine-overseer tried to use Induce Knockeddown on the Volcanic Rune-stone but it was immune to the attempt.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on the Volcanic Rune-stone for 127 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with Shield Bash on the Volcanic Rune-stone.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on the Volcanic Rune-stone for 33 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 127 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 127 Common damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 549 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 588 Lightning damage to Morale.
+The Dourhand Blaster tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Mine-overseer scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 59 Common damage to Morale.
+The Dourhand Blaster scored a critical hit with a weak thrown attack on Nlkosi for 460 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Blaster tried to use a moderate thrown attack on Nlkosi but he evaded the attempt.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Mine-overseer scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 82 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 567 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 556 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 302 Frost damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 240 Frost damage to Morale.
+Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Mine-overseer scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 59 Common damage to Morale.
+The Dourhand Blaster scored a critical hit with a weak thrown attack on Nlkosi for 460 Fire damage to Morale.
+The Dourhand Blaster scored a partially evaded hit with Fire Pot on Nlkosi for 747 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Blaster scored a devastating hit with a minor thrown attack on Nlkosi for 782 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Dourhand Mine-overseer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 574 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Dourhand Mine-overseer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 577 Lightning damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on the Volcanic Rune-stone for 127 Common damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Dourhand Mine-overseer for 7,632 Lightning damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 428 Frost damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 378 Frost damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Dourhand Mine-overseer for 951 Lightning damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Mine-overseer scored a devastating hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 228 Common damage to Morale.
+Nlkosi tried to use Vivid Imagery on the Dourhand Mine-overseer but he resisted the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 548 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Dourhand Mine-overseer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 566 Lightning damage to Morale.
+Increased Morale applied a heal to Nlkosi restoring 1,221 points to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Dourhand Mine-overseer for 1,355 Lightning damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 360 Frost damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 375 Frost damage to Morale.
+Nothing to dispel.
+Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+Nlkosi scored a hit with Speak No Evil on the Dourhand Mine-overseer.
+The Dourhand Blaster tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+Nlkosi tried to use Essence of Storm on the Dourhand Mine-overseer but he resisted the attempt.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on Nlkosi for 250 Common damage to Morale.
+The Dourhand Blaster scored a partially evaded hit with Fire Pot on Nlkosi for 373 Fire damage to Morale.
+Your mighty blow defeated the Dourhand Mine-overseer.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 427 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Dourhand Mine-overseer for 1,505 Lightning damage to Morale.
+The Dourhand Blaster tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 166 Fire damage to Morale.
+The Dourhand Mine-overseer tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 207 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Dourhand Mine-overseer for 915 Fire damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 310 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Dourhand Mine-overseer for 1,721 Lightning damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Blaster for 268 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 19 points to Power.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 207 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 166 Fire damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Dourhand Mine-overseer for 3,997 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Dourhand Mine-overseer for 449 Fire damage to Morale.
+Your mighty blow defeated the Dourhand Mine-overseer.
+Nlkosi scored a critical hit with Sustaining Bolt on the Dourhand Mine-overseer for 2,430 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 114 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,227 points to Morale.
+The Dourhand Blaster tried to use a minor thrown attack on Nlkosi but he evaded the attempt.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 166 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+Morale Restoration applied a heal to Nlkosi restoring 564 points to Morale.
+The Dourhand Blaster scored a partially evaded hit with a weak thrown attack on Nlkosi for 299 Fire damage to Morale.
+Morale Restoration applied a heal to Nlkosi restoring 564 points to Morale.
+Morale Restoration applied a heal to Nlkosi restoring 564 points to Morale.
+Morale Restoration applied a heal to Nlkosi restoring 564 points to Morale.
+Morale Restoration applied a heal to Nlkosi restoring 564 points to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a partially evaded hit with a moderate thrown attack on Nlkosi for 411 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+Burst of Power applied a critical heal to Nlkosi restoring 9 points to Power.
+The Dourhand Blaster tried to use Fire Pot on Nlkosi but he evaded the attempt.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+Burst of Power applied a heal to Nlkosi restoring 4 points to Power.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+Burst of Power applied a heal to Nlkosi restoring 4 points to Power.
+The Dourhand Blaster incapacitated you.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+You succumb to your wounds.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 568 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Dourhand Blaster scored a partially evaded hit with a weak thrown attack on the Charged Fulgurite Rune-stone for 9 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 532 Lightning damage to Morale.
+Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 541 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 19 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Dourhand Blaster for 2,457 Lightning damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on the Charged Fulgurite Rune-stone for 13 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 583 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Dourhand Blaster for 1,505 Lightning damage to Morale.
+Your mighty blow defeated the Dourhand Blaster.
+Nlkosi scored a hit with Epic Conclusion on the Dourhand Blaster for 8,499 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 570 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Dourhand Blaster scored a partially evaded hit with a weak melee attack on the Charged Fulgurite Rune-stone for 37 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 542 Lightning damage to Morale.
+The Dourhand Blaster scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 72 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 560 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Dourhand Blaster for 2,258 Fire damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nlkosi scored a critical hit with Essence of Winter on the Dourhand Blaster for 3,130 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 539 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Dourhand Blaster for 1,234 Lightning damage to Morale.
+Your mighty blow defeated the Dourhand Blaster.
+Nlkosi scored a hit with Ceaseless Argument on the Dourhand Blaster for 1,203 Lightning damage to Morale.
+You have lost 2,059 points of temporary Morale!
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a partially evaded hit with a minor thrown attack on Nlkosi for 373 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a minor melee attack on Nlkosi for 454 Common damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on Nlkosi for 499 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Blaster scored a devastating hit with a minor thrown attack on Nlkosi for 782 Fire damage to Morale.
+The Dourhand Mine-overseer tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on the Volcanic Rune-stone for 33 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Mine-overseer missed trying to use Laceration on the Volcanic Rune-stone.
+The Dourhand Mine-overseer scored a devastating hit with a mighty melee attack on the Volcanic Rune-stone for 374 Common damage to Morale.
+The Dourhand Blaster scored a critical hit with Fire Pot on Nlkosi for 1,149 Fire damage to Morale.
+The Dourhand Blaster scored a partially blocked hit with Fire Pot on the Volcanic Rune-stone for 22 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Dourhand Mine-overseer for 993 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+The Dourhand Blaster scored a partially blocked hit with Fire Pot on the Volcanic Rune-stone for 22 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a minor melee attack on the Volcanic Rune-stone for 115 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on the Volcanic Rune-stone for 127 Common damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Dourhand Mine-overseer for 700 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 99 points to Power.
+Sustenance applied a heal to Nlkosi restoring 962 points to Morale.
+The Dourhand Mine-overseer missed trying to use a weak melee attack on the Volcanic Rune-stone.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,560 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Dourhand Mine-overseer for 1,274 Lightning damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 127 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 569 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 553 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 569 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Dourhand Blaster tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,560 Fire damage to Morale.
+The Dourhand Mine-overseer tried to use Induce Knockeddown on the Volcanic Rune-stone but it was immune to the attempt.
+The Dourhand Mine-overseer scored a hit with Shield Bash on the Volcanic Rune-stone.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 546 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 542 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 553 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,560 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 540 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 568 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Blaster for 1,536 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+Nlkosi tried to use Writ of Lightning on the Dourhand Mine-overseer but he resisted the attempt.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a mighty melee attack on the Charged Fulgurite Rune-stone for 207 Common damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Dourhand Mine-overseer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 586 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 582 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 542 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 581 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 539 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Dourhand Mine-overseer for 1,376 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Dourhand Mine-overseer for 1,252 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Dourhand Blaster for 1,277 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Dourhand Blaster for 1,460 Lightning damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+Nlkosi tried to use Induce Stunned on the Dourhand Mine-overseer but he was immune to the attempt.
+Nlkosi scored a hit with Shocking Words on the Dourhand Mine-overseer for 4,534 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 540 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 556 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 531 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 551 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Blaster for 573 Lightning damage to Morale.
+Nlkosi tried to use Writ of Lightning on the Dourhand Mine-overseer but he resisted the attempt.
+The Dourhand Mine-overseer scored a hit with a minor melee attack on Nlkosi for 454 Common damage to Morale.
+The Dourhand Blaster tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+Nlkosi scored a hit with Fiery Ridicule on the Dourhand Mine-overseer for 964 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a mighty melee attack on Nlkosi for 817 Common damage to Morale.
+Your mighty blow defeated the Dourhand Mine-overseer.
+Your mighty blow defeated the Dourhand Blaster.
+Nlkosi scored a hit with Essence of Winter on the Dourhand Mine-overseer for 2,376 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Winter on the Dourhand Mine-overseer for 2,373 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Winter on the Dourhand Blaster for 1,792 Frost damage to Morale.
+Nlkosi scored a critical hit with Essence of Winter on the Dourhand Blaster for 3,774 Frost damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+The Dourhand Blaster scored a partially evaded hit with a weak thrown attack on Nlkosi for 299 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 233 Frost damage to Morale.
+Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+The Dourhand Mine-overseer scored a hit with Laceration on Nlkosi.
+The Dourhand Blaster scored a critical hit with a moderate thrown attack on Nlkosi for 632 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a mighty melee attack on Nlkosi for 817 Common damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 333 Frost damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Dourhand Mine-overseer for 934 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 91 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 1,375 points to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with Shield Bash on Nlkosi.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 331 Frost damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on Nlkosi for 499 Common damage to Morale.
+Increased Morale applied a heal to Nlkosi restoring 1,185 points to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Speak No Evil on the Dourhand Mine-overseer.
+Prelude to Hope applied a heal to Nlkosi restoring 264 points to Morale.
+The Dourhand Blaster scored a critical hit with a moderate thrown attack on Nlkosi for 632 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 269 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 99 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 108 points to Morale.
+The Dourhand Mine-overseer scored a critical hit with a minor melee attack on Nlkosi for 629 Common damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Dourhand Mine-overseer for 1,442 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 80 points to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Dourhand Mine-overseer for 1,330 Lightning damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 313 Frost damage to Morale.
+Your mighty blow defeated the Dourhand Mine-overseer.
+Prelude to Hope applied a heal to Nlkosi restoring 111 points to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a devastating hit with a moderate thrown attack on Nlkosi for 860 Fire damage to Morale.
+Nlkosi scored a hit with Static Surge on the Dourhand Mine-overseer for 3,703 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 96 points to Morale.
+Your mighty blow defeated the Dourhand Blaster.
+Prelude to Hope applied a critical heal to Nlkosi restoring 111 points to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 402 Fire damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Dourhand Blaster for 6,715 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 88 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 108 points to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 322 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 82 points to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 442 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 110 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 106 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 107 points to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 804 Fire damage to Morale.
+The Dourhand Blaster scored a hit with Fire Pot on the Volcanic Rune-stone for 33 Fire damage to Morale.
+The Dourhand Blaster scored a partially evaded hit with a weak thrown attack on Nlkosi for 299 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+Burst of Power applied a critical heal to Nlkosi restoring 2 points to Power.
+The Dourhand Blaster incapacitated you.
+The Dourhand Blaster scored a hit with Fire Pot on Nlkosi for 829 Fire damage to Morale.
+You succumb to your wounds.
+The Dourhand Mine-overseer scored a critical hit with a moderate melee attack on Nlkosi for 692 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a minor melee attack on Nlkosi for 454 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a mighty melee attack on Nlkosi for 817 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with Laceration on Nlkosi.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+The Dourhand Mine-overseer scored a critical hit with a moderate melee attack on Nlkosi for 692 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 19 points to Power.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on Nlkosi for 499 Common damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Dourhand Mine-overseer for 2,227 Lightning damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on Nlkosi for 363 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Dourhand Mine-overseer scored a hit with a mighty melee attack on the Volcanic Rune-stone for 207 Common damage to Morale.
+The Dourhand Mine-overseer scored a partially parried hit with a moderate melee attack on the Volcanic Rune-stone for 82 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Mine-overseer tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+The Dourhand Mine-overseer scored a partially blocked hit with a mighty melee attack on the Volcanic Rune-stone for 134 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Mine-overseer scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 82 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on the Volcanic Rune-stone for 92 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 545 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 559 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on the Volcanic Rune-stone for 92 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+The Dourhand Mine-overseer scored a partially evaded hit with a minor melee attack on the Volcanic Rune-stone for 74 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 583 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 552 Lightning damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 306 Frost damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 391 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Dourhand Mine-overseer for 1,536 Fire damage to Morale.
+Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+The Dourhand Mine-overseer scored a hit with a weak melee attack on the Volcanic Rune-stone for 92 Common damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Dourhand Mine-overseer for 8,499 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Dourhand Mine-overseer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 577 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 534 Lightning damage to Morale.
+The Dourhand Mine-overseer tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+Master of Tragedy applied a heal to Nlkosi restoring 19 points to Power.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 453 Frost damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 499 Frost damage to Morale.
+The Flurry of Words defeated the Dourhand Mine-overseer.
+Nlkosi scored a critical hit with Vivid Imagery on the Dourhand Mine-overseer for 1,929 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Vivid Imagery on the Dourhand Mine-overseer for 2,526 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Dourhand Mine-overseer for 540 Lightning damage to Morale.
+Nlkosi scored a hit with Flurry of Words on the Dourhand Mine-overseer for 398 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Dourhand Mine-overseer for 1,614 Lightning damage to Morale.
+Nlkosi tried to use Scribe's Spark on the Dourhand Mine-overseer but he resisted the attempt.
+Nlkosi tried to use Induce Stunned on the Dourhand Mine-overseer but he was immune to the attempt.
+Your mighty blow defeated the Dourhand Mine-overseer.
+Nlkosi scored a critical hit with Shocking Words on the Dourhand Mine-overseer for 8,306 Lightning damage to Morale.
+Increased Morale applied a heal to Nlkosi restoring 1,170 points to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster tried to use Fire Pot on Nlkosi but he evaded the attempt.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster missed trying to use a minor thrown attack on Nlkosi.
+The Dourhand Blaster scored a critical hit with a minor thrown attack on Nlkosi for 574 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate melee attack on Nlkosi for 312 Common damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a devastating hit with a weak thrown attack on Nlkosi for 625 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a moderate thrown attack on Nlkosi for 456 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate melee attack on Nlkosi for 499 Common damage to Morale.
+The Dourhand Mine-overseer scored a critical hit with a weak melee attack on Nlkosi for 503 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a mighty melee attack on Nlkosi for 817 Common damage to Morale.
+The Dourhand Mine-overseer scored a partially evaded hit with a weak melee attack on Nlkosi for 327 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a moderate swipe attack on Nlkosi for 499 Common damage to Morale.
+The Dourhand Mine-overseer scored a hit with a minor melee attack on Nlkosi for 454 Common damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Blaster scored a devastating hit with Fire Pot on Nlkosi for 1,564 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a minor thrown attack on Nlkosi for 415 Fire damage to Morale.
+The Dourhand Blaster scored a hit with a weak thrown attack on Nlkosi for 332 Fire damage to Morale.
+The Dourhand Excavator scored a hit with a moderate melee attack on Nlkosi for 364 Common damage to Morale.
+The Dourhand Excavator scored a hit with a minor melee attack on Nlkosi for 331 Common damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator scored a hit with Bleeding Axe on Nlkosi.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
+The Dourhand Excavator scored a hit with Serious Wound on Nlkosi for 265 Common damage to Morale.
