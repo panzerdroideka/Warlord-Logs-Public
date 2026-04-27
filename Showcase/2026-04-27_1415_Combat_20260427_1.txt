@@ -1,0 +1,1099 @@
+### Chat Log: Combat 04/27 01:49 PM ###
+The Orc Labourer scored a hit with a minor melee attack on Nlkosi for 378 Common damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 686 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 668 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 722 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 666 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Orc Labourer scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 104 Common damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 95 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Orc Labourer scored a hit with a moderate melee attack on the Volcanic Rune-stone for 104 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 698 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 699 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 707 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 669 Lightning damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on the Volcanic Rune-stone for 95 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+The Orc Labourer scored a hit with a weak melee attack on the Volcanic Rune-stone for 76 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 405 points to Morale.
+The Orc Labourer scored a hit with a weak melee attack on the Volcanic Rune-stone for 76 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Orc Labourer.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Orc Labourer.
+The Volcanic Rune-stone defeated the Orc Labourer.
+Nlkosi applied a benefit with Prelude to Hope on the Volcanic Rune-stone.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 128 points to Morale.
+The Frost-bound Hobgoblin scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 114 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 684 Lightning damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on the Orc Labourer for 6,621 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Vivid Imagery on the Orc Labourer for 8,224 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Orc Labourer for 3,072 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 168 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 141 points to Morale.
+The Frost-bound Hobgoblin scored a partially parried hit with a minor melee attack on the Charged Fulgurite Rune-stone for 92 Common damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 199 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 698 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 152 points to Morale.
+Nlkosi tried to use Induce Stunned on the Frost-bound Hobgoblin but he was immune to the attempt.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 113 points to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 7,367 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 140 points to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 1,047 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 117 points to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 118 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,728 points to Morale.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Essence of Flame on the Frost-bound Hobgoblin for 10,521 Fire damage to Morale.
+You have lost 3,235 points of temporary Morale!
+Nlkosi applied a benefit with Call Hórin on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a melee double attack on Hórin for 388 Common damage to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+The Frost-bound Hobgoblin scored a hit with a melee double attack on Hórin for 388 Common damage to Morale.
+Hórin scored a hit with a weak melee attack on the Frost-bound Hobgoblin for 890 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 685 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Hórin scored a hit with a moderate swipe attack on the Frost-bound Hobgoblin for 1,224 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 724 Lightning damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a weak melee attack on Hórin for 388 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Hórin scored a hit with Defender's Strike on the Frost-bound Hobgoblin for 1 Common damage to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Hórin scored a hit with a moderate melee attack on the Frost-bound Hobgoblin for 1,224 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 684 Lightning damage to Morale.
+The Frost-bound Hobgoblin scored a partially parried hit with a minor melee attack on Hórin for 313 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 3,080 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Frost-bound Hobgoblin.
+The Frost-bound Hobgoblin tried to use a weak melee attack on Hórin but he parried the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 693 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 660 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 660 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Orc Labourer scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 76 Common damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Orc Labourer.
+The Orc Labourer scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 95 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 445 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 658 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 701 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 716 Lightning damage to Morale.
+Nlkosi applied a benefit with Prelude to Hope on the Charged Fulgurite Rune-stone.
+The Orc Labourer scored a partially evaded hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 67 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 130 points to Morale.
+The Orc Labourer tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 143 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 127 points to Morale.
+The Orc Labourer scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 76 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 688 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 700 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 716 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 158 points to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 104 Common damage to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 104 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 144 points to Morale.
+The Orc Labourer scored a partially evaded hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 67 Common damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 149 points to Morale.
+The Orc Labourer tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+Nlkosi scored a hit with Shocking Words on the Orc Labourer for 6,604 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 76 Common damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Orc Labourer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 676 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 667 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 219 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 120 points to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on the Volcanic Rune-stone for 104 Common damage to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on the Volcanic Rune-stone for 104 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Orc Labourer.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Orc Labourer.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 711 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 691 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 114 Common damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 114 Common damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 1,714 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Frost-bound Hobgoblin.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 659 Lightning damage to Morale.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost-bound Hobgoblin for 24,510 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Frost-bound Hobgoblin for 6,918 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 699 Lightning damage to Morale.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost-bound Hobgoblin for 5,922 Lightning damage to Morale.
+Nlkosi applied a heal with Rush of Power to the Charged Fulgurite Rune-stone restoring 507 points to Power.
+Nlkosi applied a heal with Veteran Inspiration to the Charged Fulgurite Rune-stone restoring 1,051 points to Morale.
+Hórin applied a benefit with Veteran Inspiration on the Charged Fulgurite Rune-stone.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with Taunt on the Orc Labourer.
+The Orc Labourer tried to use a weak melee attack on Hórin but he parried the attempt.
+Hórin scored a hit with Defender's Strike on the Orc Labourer for 1 Common damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Hórin for 323 Common damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Hórin for 323 Common damage to Morale.
+Hórin scored a hit with a moderate swipe attack on the Orc Labourer for 1,285 Common damage to Morale.
+Hórin scored a hit with a moderate swipe attack on the Orc Labourer for 1,285 Common damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Hórin for 259 Common damage to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on Hórin for 356 Common damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 454 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Orc Labourer scored a hit with a moderate melee attack on Hórin for 356 Common damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Hórin for 323 Common damage to Morale.
+Hórin scored a hit with Defender of All on the Frost-bound Hobgoblin.
+Hórin scored a hit with Defender of All on the Orc Labourer.
+Hórin scored a hit with Defender of All on the Orc Labourer.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with Taunt on the Orc Labourer.
+The Orc Labourer scored a hit with a weak melee attack on Hórin for 259 Common damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Hórin for 259 Common damage to Morale.
+The Frost-bound Hobgoblin tried to use a weak melee attack on Hórin but he parried the attempt.
+Nlkosi applied a heal with Rush of Power to the Volcanic Rune-stone restoring 507 points to Power.
+Nlkosi applied a heal with Veteran Inspiration to the Volcanic Rune-stone restoring 1,051 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 725 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 676 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 683 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Orc Labourer.
+Hórin applied a benefit with Veteran Inspiration on the Volcanic Rune-stone.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Hórin for 557 Common damage to Morale.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi applied a heal with Veteran Inspiration to the Volcanic Rune-stone restoring 1,051 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 698 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 711 Lightning damage to Morale.
+Hórin scored a critical hit with a minor melee attack on the Orc Labourer for 1,638 Common damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a minor melee attack on Hórin for 506 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 2,452 Lightning damage to Morale.
+The Orc Labourer scored a partially evaded hit with a moderate melee attack on Hórin for 229 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Frost-bound Hobgoblin.
+Nlkosi applied a heal with Veteran Inspiration to the Volcanic Rune-stone restoring 1,051 points to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Hórin for 259 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 712 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 657 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 9,302 Lightning damage to Morale.
+The Orc Labourer scored a critical hit with a minor melee attack on Hórin for 421 Common damage to Morale.
+Hórin applied a benefit with Veteran Inspiration on the Volcanic Rune-stone.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 666 Lightning damage to Morale.
+Hórin defeated the Orc Labourer.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Orc Labourer for 9,861 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Orc Labourer for 5,273 Fire damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Distracting Flame on the Orc Labourer.
+Nlkosi scored a hit with Sustaining Bolt on the Orc Labourer for 1,803 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 129 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,490 points to Morale.
+Nothing to dispel.
+The Orc Labourer scored a critical hit with a weak melee attack on Nlkosi for 420 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Nlkosi scored a hit with Essence of Storm on the Orc Labourer for 3,035 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Orc Labourer.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 435 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Hórin.
+The Orc Labourer scored a partially evaded hit with a moderate melee attack on Hórin for 229 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 115 points to Morale.
+Hórin defeated the Orc Labourer.
+Nlkosi scored a hit with Chilling Rhetoric on the Orc Labourer for 2,403 Frost damage to Morale.
+Hórin scored a hit with a minor melee attack on the Orc Labourer for 1,168 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 111 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Concession and Rebuttal: Shocking Words on the Orc Labourer for 21,777 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to Hórin restoring 160 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 662 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a melee double attack on the Charged Fulgurite Rune-stone for 114 Common damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to Hórin restoring 211 points to Morale.
+The Frost-bound Hobgoblin scored a partially evaded hit with a melee double attack on the Charged Fulgurite Rune-stone for 73 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 119 points to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 124 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 664 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 136 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 130 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 684 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 152 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 2,665 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to Hórin restoring 171 points to Morale.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Concession and Rebuttal: Writ of Lightning on the Frost-bound Hobgoblin for 6,727 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to Hórin restoring 190 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 126 points to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Essence of Storm on the Frost-bound Hobgoblin for 10,718 Lightning damage to Morale.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost-bound Hobgoblin for 33,883 Lightning damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 294 Common damage to Morale.
+You have lost 294 points of temporary Morale!
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Orc Labourer for 3,202 Lightning damage to Morale.
+Nlkosi scored a hit with Head-butt on the Orc Labourer for 2,273 Common damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Hórin for 323 Common damage to Morale.
+Hórin defeated the Orc Labourer.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Orc Labourer for 2,115 Lightning damage to Morale.
+You have lost 294 points of temporary Morale!
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Ceaseless Argument on the Orc Labourer for 5,739 Lightning damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 624 Common damage to Morale.
+You have lost 624 points of temporary Morale!
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+You have lost 303 points of temporary Morale!
+Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 2,625 Lightning damage to Morale.
+Hórin scored a hit with a mighty melee attack on the Frost-bound Hobgoblin for 2,203 Common damage to Morale.
+The Orc Labourer scored a partially evaded hit with a moderate melee attack on Nlkosi for 361 Common damage to Morale.
+You have lost 361 points of temporary Morale!
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Static Surge on the Frost-bound Hobgoblin for 15,014 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Static Surge on the Orc Labourer for 19,027 Lightning damage to Morale.
+You have lost 1,359 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 422 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 134 points to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on Nlkosi for 404 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Prelude to Hope applied a heal to Nlkosi restoring 147 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Orc Labourer for 2,401 Lightning damage to Morale.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a hit with Static Surge on the Orc Labourer for 6,688 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 196 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 131 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 221 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 132 points to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Essence of Storm on the Orc Labourer for 11,855 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 125 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 152 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 136 points to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Shocking Words on the Orc Labourer for 23,549 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 116 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 223 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 113 points to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a devastating hit with a moderate swipe attack on the Orc Labourer for 2,444 Common damage to Morale.
+The Orc Labourer tried to use a moderate melee attack on Hórin but he blocked the attempt.
+Nlkosi scored a hit with Ceaseless Argument on the Orc Labourer for 2,372 Lightning damage to Morale.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a hit with Essence of Storm on the Orc Labourer for 2,798 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 726 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 716 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 294 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Writ of Lightning on the Orc Labourer for 7,064 Lightning damage to Morale.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 714 Lightning damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 76 Common damage to Morale.
+The Orc Labourer missed trying to use a moderate melee attack on the Charged Fulgurite Rune-stone.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Writ of Lightning on the Orc Labourer for 6,759 Lightning damage to Morale.
+The Frost-bound Hobgoblin scored a partially evaded hit with a melee double attack on Nlkosi for 406 Common damage to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+The Frost-bound Hobgoblin tried to use a melee double attack on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 2,222 Lightning damage to Morale.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Epic Conclusion on the Frost-bound Hobgoblin for 12,304 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 371 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 136 points to Morale.
+Nlkosi applied a benefit with Word of Exaltation on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 142 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 143 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 137 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 145 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 134 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 142 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 120 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 161 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 145 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 216 points to Morale.
+You have lost 2,318 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 130 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 661 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Frost-bound Hobgoblin but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 686 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 1,935 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a critical hit with Improved Final Word on the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost-bound Hobgoblin for 2,324 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost-bound Hobgoblin for 2,107 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 678 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 3,152 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost-bound Hobgoblin for 654 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 1,393 Fire damage to Morale.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Chilling Rhetoric on the Frost-bound Hobgoblin for 2,990 Frost damage to Morale.
+Nlkosi applied a heal with Rush of Power to the Charged Fulgurite Rune-stone restoring 507 points to Power.
+Nlkosi applied a heal with Veteran Inspiration to the Charged Fulgurite Rune-stone restoring 1,051 points to Morale.
+Hórin applied a benefit with Veteran Inspiration on the Charged Fulgurite Rune-stone.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 672 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 715 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Orc Labourer.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 660 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 676 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 460 points to Morale.
+The Orc Labourer scored a partially evaded hit with a weak melee attack on the Charged Fulgurite Rune-stone for 49 Common damage to Morale.
+Nlkosi applied a critical benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 152 points to Morale.
+The Orc Labourer scored a critical hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 136 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 112 points to Morale.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Orc Labourer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 724 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 670 Lightning damage to Morale.
+The Orc Labourer scored a critical hit with a minor melee attack on the Charged Fulgurite Rune-stone for 123 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 125 points to Morale.
+The Orc Labourer scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 76 Common damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Orc Labourer for 2,801 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Orc Labourer for 3,428 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 129 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 151 points to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a hit with Chilling Rhetoric on the Orc Labourer for 3,125 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 702 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 171 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 213 points to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Nlkosi tried to use Induce Stunned on the Orc Labourer but he was immune to the attempt.
+Your mighty blow defeated the Orc Labourer.
+Prelude to Hope applied a heal to Nlkosi restoring 144 points to Morale.
+Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Orc Labourer for 8,287 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 122 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 152 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 146 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 116 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 440 Common damage to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Hórin scored a hit with a moderate swipe attack on the Frost-bound Hobgoblin for 1,224 Common damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 2,837 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Hórin scored a hit with a weak melee attack on the Frost-bound Hobgoblin for 979 Common damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Hórin for 557 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost-bound Hobgoblin for 1,155 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost-bound Hobgoblin for 5,166 Lightning damage to Morale.
+You have lost 303 points of temporary Morale!
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Essence of Storm on the Orc Labourer for 12,634 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 2,369 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 2,162 Lightning damage to Morale.
+The Frost-bound Hobgoblin tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Distracting Flame on the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Head-butt on the Frost-bound Hobgoblin for 2,165 Common damage to Morale.
+Hórin scored a hit with Defender's Strike on the Frost-bound Hobgoblin for 1 Common damage to Morale.
+The Frost-bound Hobgoblin scored a partially blocked hit with a weak melee attack on Hórin for 261 Common damage to Morale.
+Hórin scored a hit with a weak melee attack on the Frost-bound Hobgoblin for 979 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 2,202 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Concession and Rebuttal: Epic Conclusion on the Frost-bound Hobgoblin for 42,832 Lightning damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Orc Labourer for 6,884 Lightning damage to Morale.
+You have lost 420 points of temporary Morale!
+Your mighty blow defeated the Orc Labourer.
+You have lost 2,512 points of temporary Morale!
+Nlkosi scored a hit with Vivid Imagery on the Orc Labourer for 3,390 Lightning damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Fierce Cold-whelpling for 5,713 Lightning damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+The Orc Labourer scored a hit with a moderate melee attack on Nlkosi for 416 Common damage to Morale.
+The Fierce Cold-whelpling scored a hit with a moderate ranged attack on Nlkosi for 434 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Fierce Cold-whelpling for 2,773 Lightning damage to Morale.
+Hórin scored a hit with a moderate melee attack on the Fierce Cold-whelpling for 783 Common damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Orc Labourer for 2,937 Frost damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Hórin for 259 Common damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Essence of Flame on the Orc Labourer for 6,310 Fire damage to Morale.
+Nlkosi scored a critical hit with Essence of Flame on the Fierce Cold-whelpling for 16,705 Fire damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a devastating hit with Scribe's Spark on the Orc Labourer for 7,267 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Fierce Cold-whelpling for 2,640 Lightning damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a critical hit with Concession and Rebuttal: Shocking Words on the Fierce Cold-whelpling for 20,365 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Frost-bound Hobgoblin scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 77 Common damage to Morale.
+Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Fierce Cold-whelpling for 8,325 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Fierce Cold-whelpling for 1,920 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-whelpling for 2,622 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a minor melee attack on the Volcanic Rune-stone for 148 Common damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 2,198 Lightning damage to Morale.
+The Orc Labourer scored a critical hit with a moderate melee attack on Hórin for 463 Common damage to Morale.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 704 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 701 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 676 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 670 Lightning damage to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on Hórin for 356 Common damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a weak melee attack on the Volcanic Rune-stone for 119 Common damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Hórin for 323 Common damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Orc Labourer.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Orc Labourer.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a moderate melee attack on the Volcanic Rune-stone for 163 Common damage to Morale.
+Nlkosi tried to use Chilling Rhetoric on the Orc Labourer but he resisted the attempt.
+The Orc Labourer scored a hit with a weak melee attack on the Volcanic Rune-stone for 76 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 679 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 666 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone defeated the Orc Labourer.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 685 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 438 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Frost-bound Hobgoblin.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 136 points to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 104 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 124 points to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Orc Labourer but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 691 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 143 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Scribe's Spark on the Orc Labourer for 6,143 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 149 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 121 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 134 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 114 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 131 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 119 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 134 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 147 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 124 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Orc Labourer for 4,131 Lightning damage to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Nlkosi for 378 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a devastating hit with Shocking Words on the Orc Labourer for 20,235 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 662 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 719 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost-bound Hobgoblin scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 142 Common damage to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 104 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost-bound Hobgoblin for 5,886 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 667 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 724 Lightning damage to Morale.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+The Orc Labourer tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost-bound Hobgoblin for 35,913 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 333 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 134 points to Morale.
+The Orc Labourer scored a partially evaded hit with a minor melee attack on the Charged Fulgurite Rune-stone for 61 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 677 Lightning damage to Morale.
+Nlkosi applied a benefit with Word of Exaltation on the Charged Fulgurite Rune-stone.
+Prelude to Hope applied a heal to Nlkosi restoring 135 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Orc Labourer for 3,010 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 225 points to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Sustaining Bolt on the Orc Labourer for 3,542 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 183 points to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 123 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,798 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 121 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 227 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 120 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 171 points to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Nlkosi for 356 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 146 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 165 points to Morale.
+The Orc Labourer scored a critical hit with a weak melee attack on Nlkosi for 407 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 120 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 138 points to Morale.
+The Orc Labourer scored a critical hit with a minor melee attack on Nlkosi for 541 Common damage to Morale.
+Hórin scored a hit with a melee double attack on the Orc Labourer for 935 Common damage to Morale.
+Hórin scored a hit with a melee double attack on the Orc Labourer for 884 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Nlkosi scored a hit with Static Surge on the Orc Labourer for 4,926 Lightning damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Hórin for 259 Common damage to Morale.
+Hórin scored a hit with Melee Stun on the Orc Labourer.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Vivid Imagery on the Orc Labourer for 7,983 Lightning damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Essence of Storm on the Orc Labourer for 10,787 Lightning damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nothing to dispel.
+The Orc Labourer scored a hit with a minor melee attack on the Volcanic Rune-stone for 95 Common damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Orc Labourer.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 428 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Orc Labourer for 1,956 Fire damage to Morale.
+Hórin scored a hit with a mighty melee attack on the Orc Labourer for 2,103 Common damage to Morale.
+Nlkosi applied a benefit with Prelude to Hope on the Volcanic Rune-stone.
+The Orc Labourer scored a critical hit with a weak melee attack on Hórin for 337 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 123 points to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a hit with Shocking Touch on the Orc Labourer for 1,266 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 194 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 157 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 138 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 116 points to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Orc Labourer for 1,824 Lightning damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Nlkosi scored a hit with Epic Conclusion on the Orc Labourer for 7,233 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 168 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 154 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 135 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Orc Labourer for 2,716 Lightning damage to Morale.
+The Orc Labourer scored a partially parried hit with a weak melee attack on Nlkosi for 281 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 129 points to Morale.
+Nlkosi scored a hit with Distracting Flame on the Orc Labourer.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 148 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Scribe's Spark on the Orc Labourer for 6,097 Lightning damage to Morale.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Nlkosi scored a critical hit with Ceaseless Argument on the Fierce Cold-whelpling for 5,504 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak ranged attack on Nlkosi for 297 Frost damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Shocking Words on the Fierce Cold-whelpling for 10,521 Lightning damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Vivid Imagery on the Orc Labourer for 7,877 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Orc Labourer for 3,639 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Orc Labourer for 3,065 Lightning damage to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on Nlkosi for 416 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Orc Labourer.
+Hórin defeated the Orc Labourer.
+Hórin scored a hit with a minor melee attack on the Orc Labourer for 1,168 Common damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+The Orc Labourer scored a hit with a moderate melee attack on Hórin for 356 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Orc Labourer for 4,845 Lightning damage to Morale.
+The Orc Labourer tried to use a moderate melee attack on Hórin but he blocked the attempt.
+Hórin scored a critical hit with a moderate melee attack on the Orc Labourer for 1,801 Common damage to Morale.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a hit with Essence of Storm on the Orc Labourer for 3,806 Lightning damage to Morale.
+The Orc Labourer scored a partially evaded hit with a minor melee attack on Hórin for 208 Common damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Orc Labourer for 1,643 Lightning damage to Morale.
+Hórin scored a hit with a mighty melee attack on the Orc Labourer for 2,103 Common damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 133 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,398 points to Morale.
+The Orc Labourer scored a critical hit with a moderate melee attack on Hórin for 463 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Orc Labourer for 1,235 Fire damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a hit with Writ of Lightning on the Orc Labourer for 1,876 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 687 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Static Surge on the Fierce Cold-whelpling for 6,619 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Orc Labourer for 5,287 Lightning damage to Morale.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 294 Common damage to Morale.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Hórin scored a hit with a moderate melee attack on the Orc Labourer for 1,285 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 722 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone defeated the Orc Labourer.
+Nlkosi scored a critical hit with Shocking Words on the Fierce Cold-whelpling for 20,102 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Orc Labourer.
+Prelude to Hope applied a heal to Nlkosi restoring 420 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Prelude to Hope applied a critical heal to Nlkosi restoring 214 points to Morale.
+Nlkosi applied a critical benefit with Word of Exaltation on Nlkosi.
+Hórin scored a critical hit with a mighty melee attack on the Orc Labourer for 2,948 Common damage to Morale.
+Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 120 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Orc Labourer for 1,275 Fire damage to Morale.
+The Orc Labourer scored a partially parried hit with a minor melee attack on Hórin for 208 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 148 points to Morale.
+Nlkosi scored a critical hit with Chilling Rhetoric on the Orc Labourer for 2,772 Frost damage to Morale.
+Hórin scored a hit with Melee Stun on the Orc Labourer.
+Your mighty blow defeated the Orc Labourer.
+Prelude to Hope applied a heal to Nlkosi restoring 163 points to Morale.
+Nlkosi scored a devastating hit with Writ of Lightning on the Orc Labourer for 5,851 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 149 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 121 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 159 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 157 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 162 points to Morale.
+The Frost-bound Hobgoblin tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+Prelude to Hope applied a heal to Nlkosi restoring 158 points to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 2,027 Fire damage to Morale.
+Hórin scored a hit with a weak melee attack on the Frost-bound Hobgoblin for 890 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 136 points to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 123 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Frost-bound Hobgoblin.
+Nlkosi scored a critical hit with Essence of Storm on the Frost-bound Hobgoblin for 11,781 Lightning damage to Morale.
+You have lost 2,318 points of temporary Morale!
+Nlkosi scored a critical hit with Scribe's Spark on the Fierce Cold-whelpling for 5,438 Lightning damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Shocking Words on the Fierce Cold-whelpling for 10,069 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Orc Labourer.
+The Orc Labourer scored a hit with a weak melee attack on Nlkosi for 303 Common damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nlkosi scored a hit with Sustaining Bolt on the Orc Labourer for 1,052 Lightning damage to Morale.
+Hórin scored a hit with a weak melee attack on the Orc Labourer for 935 Common damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 119 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 2,149 points to Morale.
+The Orc Labourer scored a hit with a minor melee attack on Hórin for 323 Common damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Orc Labourer for 1,232 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Orc Labourer for 2,198 Lightning damage to Morale.
+The Orc Labourer tried to use a moderate melee attack on Hórin but he evaded the attempt.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Orc Labourer.
+Nlkosi scored a critical hit with Epic Conclusion on the Orc Labourer for 23,189 Lightning damage to Morale.
+The Orc Labourer scored a critical hit with a moderate melee attack on Nlkosi for 595 Common damage to Morale.
+You have lost 595 points of temporary Morale!
+Hórin scored a hit with Taunt on the Orc Labourer.
+Hórin scored a hit with a mighty melee attack on the Orc Labourer for 2,103 Common damage to Morale.
+The Orc Labourer tried to use a minor melee attack on Hórin but he parried the attempt.
+Prelude to Hope applied a heal to Nlkosi restoring 350 points to Morale.
+Hórin missed trying to use a weak melee attack on the Orc Labourer.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 147 points to Morale.
+Nlkosi applied a critical benefit with Word of Exaltation on Nlkosi.
+The Orc Labourer scored a hit with a weak melee attack on Hórin for 259 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Orc Labourer for 672 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 125 points to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Hórin scored a hit with a moderate swipe attack on the Orc Labourer for 1,285 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 150 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Orc Labourer for 2,593 Lightning damage to Morale.
+Hórin scored a hit with Taunt on the Orc Labourer.
+Prelude to Hope applied a heal to Nlkosi restoring 138 points to Morale.
+Hórin defeated the Orc Labourer.
+Hórin scored a critical hit with a weak melee attack on the Orc Labourer for 1,310 Common damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Orc Labourer for 2,571 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 118 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 139 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 210 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Orc Labourer for 6,708 Lightning damage to Morale.
+The Fierce Cold-whelpling missed trying to use a weak ranged attack on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 134 points to Morale.
+You have lost 303 points of temporary Morale!
+Your mighty blow defeated the Orc Labourer.
+Prelude to Hope applied a heal to Nlkosi restoring 119 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Orc Labourer for 4,078 Lightning damage to Morale.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+You have lost 2,337 points of temporary Morale!
+Prelude to Hope applied a critical heal to Nlkosi restoring 189 points to Morale.
+Hórin scored a hit with a mighty melee attack on the Fierce Cold-whelpling for 1,281 Common damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak melee attack on Hórin for 284 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 117 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 164 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Fierce Cold-whelpling for 3,142 Lightning damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Hórin applied a benefit with Veteran Inspiration on the Charged Fulgurite Rune-stone.
+Nlkosi scored a hit with Epic Conclusion on the Fierce Cold-whelpling for 16,288 Lightning damage to Morale.
+The Frost-bound Hobgoblin missed trying to use a weak melee attack on Nlkosi.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 2,054 Lightning damage to Morale.
+Hórin missed trying to use a moderate melee attack on the Frost-bound Hobgoblin.
+Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 1,151 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 145 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 2,224 points to Morale.
+The Frost-bound Hobgoblin scored a hit with a minor melee attack on Hórin for 485 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 1,650 Lightning damage to Morale.
+Hórin scored a hit with a mighty melee attack on the Frost-bound Hobgoblin for 2,003 Common damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost-bound Hobgoblin for 2,705 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 1,458 Fire damage to Morale.
+Hórin scored a hit with a moderate melee attack on the Frost-bound Hobgoblin for 1,346 Common damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Frost-bound Hobgoblin for 1,622 Frost damage to Morale.
+The Frost-bound Hobgoblin scored a hit with a minor melee attack on Hórin for 506 Common damage to Morale.
+Hórin scored a hit with Taunt on the Frost-bound Hobgoblin.
+Nlkosi tried to use Essence of Flame on the Frost-bound Hobgoblin but he resisted the attempt.
+Hórin defeated the Frost-bound Hobgoblin.
+Hórin scored a critical hit with a weak melee attack on the Frost-bound Hobgoblin for 1,353 Common damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost-bound Hobgoblin for 1,220 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 722 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 714 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Fierce Cold-whelpling scored a partially evaded hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 192 Frost damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Fierce Cold-whelpling for 7,133 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 704 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Fierce Cold-whelpling but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 657 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Fierce Cold-whelpling.
+Nlkosi scored a hit with Sustaining Bolt on the Fierce Cold-whelpling for 846 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a devastating hit with a weak melee attack on Nlkosi for 804 Frost damage to Morale.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 153 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,430 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 673 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Fierce Cold-whelpling but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 668 Lightning damage to Morale.
+Hórin defeated the Fierce Cold-whelpling.
+Hórin scored a hit with a mighty melee attack on the Fierce Cold-whelpling for 1,281 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Fierce Cold-whelpling for 5,860 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 217 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 712 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Fierce Cold-whelpling for 1,282 Lightning damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 7,968 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Hobgoblin Frost-caller for 2,645 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Hobgoblin Frost-caller for 2,822 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Hobgoblin Frost-caller for 1,646 Fire damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Hobgoblin Frost-caller.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Hobgoblin Frost-caller.
+Nlkosi scored a critical hit with Scribe's Spark on the Hobgoblin Frost-caller for 7,161 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak ranged attack on Nlkosi for 316 Frost damage to Morale.
+The Fierce Cold-whelpling scored a critical hit with a weak ranged attack on Nlkosi for 451 Frost damage to Morale.
+The Fierce Cold-whelpling missed trying to use a weak melee attack on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 672 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 677 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Fierce Cold-whelpling scored a hit with a weak melee attack on Nlkosi for 416 Frost damage to Morale.
+Hórin scored a hit with a weak melee attack on the Fierce Cold-whelpling for 570 Common damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Fierce Cold-whelpling for 2,337 Lightning damage to Morale.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Nlkosi scored a hit with Head-butt on the Fierce Cold-whelpling for 1,340 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 694 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 693 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Fierce Cold-whelpling.
+The Fierce Cold-whelpling tried to use a weak melee attack on Hórin but he evaded the attempt.
+Nlkosi applied a critical heal with Prelude to Hope to Hórin restoring 507 points to Morale.
+Hórin scored a hit with Defender of All on the Fierce Cold-whelpling.
+Hórin scored a hit with Defender of All on the Fierce Cold-whelpling.
+Nlkosi applied a benefit with Prelude to Hope on Hórin.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 145 points to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Fierce Cold-whelpling for 9,558 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 697 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 156 points to Morale.
+The Fierce Cold-whelpling scored a partially parried hit with a weak melee attack on Hórin for 183 Frost damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 136 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a critical hit with Essence of Storm on the Fierce Cold-whelpling for 9,686 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 114 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 133 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 130 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 113 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 145 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 123 points to Morale.
+The Hobgoblin Frost-caller scored a hit with a weak melee attack on Nlkosi for 502 Frost damage to Morale.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 156 points to Morale.
+Hórin scored a hit with a weak melee attack on the Hobgoblin Frost-caller for 890 Common damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 123 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to Hórin restoring 121 points to Morale.
+Hórin scored a hit with a moderate melee attack on the Hobgoblin Frost-caller for 1,224 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Hórin for 310 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 363 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Fierce Cold-whelpling for 3,421 Lightning damage to Morale.
+The Hobgoblin Frost-caller scored a partially evaded hit with Poison Gourd on Hórin.
+The Hobgoblin Frost-caller scored a hit with Poison Gourd on Nlkosi.
+Hórin scored a hit with a mighty melee attack on the Hobgoblin Frost-caller for 2,003 Common damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Hobgoblin Frost-caller for 7,554 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak ranged attack on Nlkosi for 316 Frost damage to Morale.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Your mighty blow defeated the Hobgoblin Frost-caller.
+The Fierce Cold-whelpling tried to use a moderate melee attack on Hórin but he evaded the attempt.
+Nlkosi scored a hit with Vivid Imagery on the Hobgoblin Frost-caller for 3,489 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Fierce Cold-whelpling for 2,842 Lightning damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Hórin for 310 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 363 Common damage to Morale.
+The Fierce Cold-whelpling scored a partially parried hit with a weak melee attack on Hórin for 183 Frost damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Static Surge on the Fierce Cold-whelpling for 5,655 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Fierce Cold-whelpling for 5,910 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak melee attack on Nlkosi for 404 Frost damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Hórin for 310 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 352 Common damage to Morale.
+The Fierce Cold-whelpling scored a hit with Artic Tussis on Hórin for 431 Frost damage to Morale.
+Hórin scored a hit with a melee double attack on the Fierce Cold-whelpling for 570 Common damage to Morale.
+Hórin scored a hit with a melee double attack on the Fierce Cold-whelpling for 521 Common damage to Morale.
+The Fierce Cold-whelpling tried to use a weak melee attack on Hórin but he blocked the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 704 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 722 Lightning damage to Morale.
+The Hobgoblin Frost-caller tried to use Poison on Hórin but he resisted the attempt.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 352 Common damage to Morale.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Hórin scored a hit with a weak melee attack on the Fierce Cold-whelpling for 570 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Fierce Cold-whelpling for 1,910 Lightning damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Static Surge on the Fierce Cold-whelpling for 4,858 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Fierce Cold-whelpling for 5,448 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 685 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone defeated the Fierce Cold-whelpling.
+Hórin scored a hit with a mighty melee attack on the Fierce Cold-whelpling for 1,281 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Hórin for 310 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 341 Common damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Hobgoblin Frost-caller scored a hit with Poison on Hórin for 310 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 341 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Hórin for 310 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 341 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Hórin for 310 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with Poison on Nlkosi for 363 Common damage to Morale.
+The Fierce Cold-whelpling scored a hit with a moderate melee attack on Nlkosi for 573 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 700 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nothing to dispel.
+Nlkosi scored a critical hit with Scribe's Spark on the Fierce Cold-whelpling for 5,149 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Fierce Cold-whelpling.
+The Fierce Cold-whelpling scored a hit with a minor melee attack on Nlkosi for 505 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 701 Lightning damage to Morale.
+Hórin scored a hit with Melee Stun on the Fierce Cold-whelpling.
+Nlkosi scored a critical hit with Shocking Touch on the Fierce Cold-whelpling for 2,294 Lightning damage to Morale.
+The Fierce Cold-whelpling missed trying to use a weak melee attack on the Charged Fulgurite Rune-stone.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Nlkosi tried to use Induce Stunned on the Fierce Cold-whelpling but he was immune to the attempt.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a critical hit with Shocking Words on the Fierce Cold-whelpling for 18,155 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Fierce Cold-whelpling but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 698 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 298 Frost damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Fierce Cold-whelpling for 7,882 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Fierce Cold-whelpling but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 666 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone defeated the Fierce Cold-whelpling.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Essence of Storm on the Fierce Cold-whelpling for 9,686 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak ranged attack on Nlkosi for 287 Frost damage to Morale.
+The Fierce Cold-whelpling scored a critical hit with a weak ranged attack on Nlkosi for 411 Frost damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Fierce Cold-whelpling for 3,160 Lightning damage to Morale.
+Hórin scored a hit with a weak melee attack on the Fierce Cold-whelpling for 570 Common damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Fierce Cold-whelpling scored a hit with a minor ranged attack on Nlkosi for 359 Frost damage to Morale.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Hórin scored a hit with Taunt on the Fierce Cold-whelpling.
+Hórin defeated the Fierce Cold-whelpling.
+Hórin scored a hit with a moderate swipe attack on the Fierce Cold-whelpling for 783 Common damage to Morale.
+Nlkosi scored a hit with Static Surge on the Fierce Cold-whelpling for 6,161 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-whelpling for 2,622 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 709 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 696 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Fierce Cold-whelpling tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 676 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 711 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Nlkosi scored a hit with Improved Final Word on the Fierce Cold-whelpling.
+The Fierce Cold-whelpling scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 271 Frost damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 452 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 699 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 705 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with Artic Tussis on the Charged Fulgurite Rune-stone for 329 Frost damage to Morale.
+Nlkosi applied a critical benefit with Prelude to Hope on the Charged Fulgurite Rune-stone.
+The Fierce Cold-whelpling scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 271 Frost damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 139 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 143 points to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Fierce Cold-whelpling but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 665 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 667 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 128 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Fierce Cold-whelpling for 3,357 Lightning damage to Morale.
+The Fierce Cold-whelpling scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 217 Frost damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 214 points to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 7,442 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 9,355 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 390 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 154 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Fierce Cold-whelpling for 2,654 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 134 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Prelude to Hope applied a critical heal to Nlkosi restoring 202 points to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Fierce Cold-whelpling for 6,170 Lightning damage to Morale.
+Your mighty blow defeated the Fierce Cold-whelpling.
+Nlkosi scored a critical hit with Concession and Rebuttal: Epic Conclusion on the Fierce Cold-whelpling for 40,803 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 186 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 123 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 119 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 150 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 123 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 176 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 198 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 141 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 115 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 694 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 681 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Hobgoblin Frost-caller scored a hit with Destroying Acid on the Charged Fulgurite Rune-stone.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 678 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 669 Lightning damage to Morale.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+The Hobgoblin Frost-caller scored a hit with Disease Gourd on the Charged Fulgurite Rune-stone.
+The Hobgoblin Frost-caller scored a hit with Disease Gourd on Nlkosi.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on Thrugdar the Slaughterer for 673 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Hobgoblin Frost-caller but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 697 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 715 Lightning damage to Morale.
+Nlkosi applied a heal with Rush of Power to the Charged Fulgurite Rune-stone restoring 507 points to Power.
+Nlkosi applied a heal with Veteran Inspiration to the Charged Fulgurite Rune-stone restoring 1,051 points to Morale.
+The Fierce Cold-drake scored a hit with a weak ranged attack on Nlkosi for 492 Frost damage to Morale.
+Hórin applied a benefit with Veteran Inspiration on the Charged Fulgurite Rune-stone.
+The Hobgoblin Frost-caller scored a hit with a weak melee attack on Hórin for 353 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 1,898 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Thrugdar the Slaughterer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Fierce Cold-drake for 3,406 Lightning damage to Morale.
+Nothing to dispel.
+The Hobgoblin Frost-caller scored a partially blocked hit with Destroying Acid on Hórin.
+Nlkosi scored a hit with Improved Final Word on the Fierce Cold-drake.
+Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-drake for 657 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 711 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Thrugdar the Slaughterer for 724 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Hobgoblin Frost-caller for 664 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 1,898 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Thrugdar the Slaughterer for 1,956 Fire damage to Morale.
+Nlkosi applied a heal with Veteran Inspiration to the Charged Fulgurite Rune-stone restoring 1,051 points to Morale.
+The Fierce Cold-drake tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+Hórin scored a hit with Taunt on the Fierce Cold-drake.
+Hórin scored a hit with Taunt on Thrugdar the Slaughterer.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a hit with Vivid Imagery on the Fierce Cold-drake for 3,900 Lightning damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on Thrugdar the Slaughterer for 8,255 Lightning damage to Morale.
+The Hobgoblin Frost-caller scored a hit with a weak melee attack on Hórin for 391 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 1,898 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Thrugdar the Slaughterer for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Hobgoblin Frost-caller for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Static Surge on the Fierce Cold-drake for 8,730 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on Thrugdar the Slaughterer for 6,528 Lightning damage to Morale.
+The Hobgoblin Frost-caller tried to use a weak melee attack on Hórin but he parried the attempt.
+Hórin scored a hit with a mighty melee attack on the Hobgoblin Frost-caller for 2,003 Common damage to Morale.
+The Hobgoblin Frost-caller scored a hit with a minor melee attack on Hórin for 489 Frost damage to Morale.
+The Fierce Cold-drake scored a hit with a weak melee attack on the Volcanic Rune-stone for 289 Frost damage to Morale.
+Thrugdar the Slaughterer scored a critical hit with a melee double attack on Nlkosi for 756 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 1,898 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Hobgoblin Frost-caller for 1,956 Fire damage to Morale.
+Thrugdar the Slaughterer scored a critical hit with a melee double attack on Nlkosi for 756 Common damage to Morale.
+Your mighty blow defeated the Fierce Cold-drake.
+Nlkosi scored a hit with Ceaseless Argument on the Fierce Cold-drake for 2,386 Lightning damage to Morale.
+The Hobgoblin Frost-caller scored a hit with a moderate melee attack on Hórin for 537 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Hobgoblin Frost-caller for 1,956 Fire damage to Morale.
+Thrugdar the Slaughterer scored a critical hit with a weak melee attack on Nlkosi for 945 Frost damage to Morale.
+Your mighty blow defeated Thrugdar the Slaughterer.
+Nlkosi applied a heal with Rush of Power to the Volcanic Rune-stone restoring 507 points to Power.
+Nlkosi applied a heal with Veteran Inspiration to the Volcanic Rune-stone restoring 1,051 points to Morale.
+Nlkosi scored a critical hit with Epic Conclusion on Thrugdar the Slaughterer for 41,002 Lightning damage to Morale.
+Hórin applied a benefit with Veteran Inspiration on the Volcanic Rune-stone.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+Hórin scored a hit with Taunt on the Hobgoblin Frost-caller.
+Nlkosi scored a hit with Volcanic Rune-stone on the Hobgoblin Frost-caller for 1,956 Fire damage to Morale.
+Nlkosi defeated the Hobgoblin Frost-caller.
+Hórin scored a hit with a mighty melee attack on the Hobgoblin Frost-caller for 2,003 Common damage to Morale.
+The Hobgoblin Frost-caller scored a partially evaded hit with a moderate melee attack on Hórin for 346 Frost damage to Morale.
+Hórin scored a hit with a weak melee attack on the Hobgoblin Frost-caller for 890 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Hobgoblin Frost-caller for 3,131 Lightning damage to Morale.
+The Hobgoblin Frost-caller tried to use Poisoned Lethargy on Hórin but he resisted the attempt.
+The Hobgoblin Frost-caller scored a partially evaded hit with Slowing Poison on Hórin.
+Nlkosi scored a hit with Ceaseless Argument on the Hobgoblin Frost-caller for 1,836 Lightning damage to Morale.
+Hórin scored a hit with a minor melee attack on the Hobgoblin Frost-caller for 1,113 Common damage to Morale.
+Your mighty blow defeated the Hobgoblin Frost-caller.
+Nlkosi scored a hit with Scribe's Spark on the Hobgoblin Frost-caller for 2,479 Lightning damage to Morale.
