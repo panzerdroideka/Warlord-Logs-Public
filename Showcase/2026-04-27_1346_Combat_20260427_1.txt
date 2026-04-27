@@ -1,0 +1,276 @@
+Logging chat tab Combat to file Z:\home\wils\Games\WARLORDLOTRO\Spillfiler\Combat_20260427_1.txt
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 677 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi applied a critical heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 564 points to Morale.
+Nothing to dispel.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Nlkosi applied a critical benefit with Prelude to Hope on the Charged Fulgurite Rune-stone.
+Nlkosi scored a hit with Improved Final Word on the Goblin-town Sentry.
+The Goblin-town Sentry scored a hit with Tar Pot on the Charged Fulgurite Rune-stone.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 146 points to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 673 Lightning damage to Morale.
+The Goblin-town Sentry tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it evaded the attempt.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 111 points to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 207 points to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Goblin-town Sentry for 1,460 Frost damage to Morale.
+Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Goblin-town Sentry for 6,147 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 158 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 701 Lightning damage to Morale.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Sentry for 2,373 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 113 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 128 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 123 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Charged Fulgurite Rune-stone restoring 142 points to Morale.
+The Goblin-town Soldier scored a partially evaded hit with a melee double attack on Nlkosi for 316 Common damage to Morale.
+You have lost 316 points of temporary Morale!
+The Goblin-town Soldier scored a hit with a melee double attack on Nlkosi for 353 Common damage to Morale.
+You have lost 353 points of temporary Morale!
+Nlkosi scored a hit with Scribe's Spark on the Goblin-town Soldier for 1,766 Lightning damage to Morale.
+The Goblin-town Soldier tried to use Melee Med Bleed on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Soldier for 1,738 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Vivid Imagery on the Goblin-town Soldier for 7,454 Lightning damage to Morale.
+Your mighty blow defeated the Goblin-town Soldier.
+Nlkosi scored a hit with Scribe's Spark on the Goblin-town Soldier for 2,697 Lightning damage to Morale.
+You have lost 2,566 points of temporary Morale!
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 771 Common damage to Morale.
+The Goblin-town Look-out scored a critical hit with a weak melee attack on Nlkosi for 420 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Look-out for 1,696 Lightning damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Goblin-town Look-out for 11,086 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Look-out for 672 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Soldier for 722 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Goblin-town Soldier scored a hit with Serious Wound on the Charged Fulgurite Rune-stone for 88 Common damage to Morale.
+The Goblin-town Soldier scored a hit with Melee Med Bleed on the Charged Fulgurite Rune-stone.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Look-out for 706 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Soldier for 689 Lightning damage to Morale.
+The Goblin-town Soldier scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 88 Common damage to Morale.
+The Goblin-town Soldier tried to use Serious Wound on the Charged Fulgurite Rune-stone but it resisted the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Soldier for 1,956 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 95 Common damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Goblin-town Soldier tried to use a moderate melee attack on the Volcanic Rune-stone but it blocked the attempt.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin-town Look-out but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Look-out for 670 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Soldier for 664 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Soldier for 1,956 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a weak melee attack on the Volcanic Rune-stone for 76 Common damage to Morale.
+The Goblin-town Soldier scored a hit with Serious Wound on the Charged Fulgurite Rune-stone for 88 Common damage to Morale.
+The Goblin-town Soldier scored a hit with a weak melee attack on the Volcanic Rune-stone for 88 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Look-out for 697 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Soldier for 705 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Soldier for 1,956 Fire damage to Morale.
+The Goblin-town Look-out scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 67 Common damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Soldier for 2,533 Lightning damage to Morale.
+The Goblin-town Soldier scored a hit with a minor melee attack on the Volcanic Rune-stone for 111 Common damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Goblin-town Soldier.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 328 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Soldier for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Goblin-town Soldier.
+The Goblin-town Look-out tried to use Induce Rooted on the Volcanic Rune-stone but it was immune to the attempt.
+Nlkosi applied a benefit with Prelude to Hope on the Volcanic Rune-stone.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 202 points to Morale.
+The Goblin-town Look-out scored a hit with Thrown Root on the Volcanic Rune-stone.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 121 points to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Shocking Words on the Goblin-town Look-out for 7,201 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 142 points to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 199 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 149 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 121 points to Morale.
+The Goblin-town Sentry scored a hit with Tar Pot on Nlkosi.
+The Goblin-town Look-out scored a partially evaded hit with a mighty thrown attack on Nlkosi for 710 Common damage to Morale.
+The Goblin-town Sentry scored a hit with a weak melee attack on Nlkosi for 353 Common damage to Morale.
+The Goblin-town Sentry scored a hit with a minor melee attack on Nlkosi for 441 Common damage to Morale.
+The Goblin-town Look-out tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+The Goblin-town Sentry scored a hit with a moderate melee attack on Nlkosi for 486 Common damage to Morale.
+The Goblin-town Look-out scored a critical hit with a weak melee attack on Nlkosi for 433 Common damage to Morale.
+The Goblin-town Sentry scored a hit with a weak melee attack on Nlkosi for 353 Common damage to Morale.
+The Goblin-town Look-out scored a hit with a melee double attack on Nlkosi for 303 Common damage to Morale.
+The Goblin-town Look-out scored a critical hit with a melee double attack on Nlkosi for 433 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Sentry for 2,821 Lightning damage to Morale.
+The Goblin-town Sentry scored a partially evaded hit with Fire Gourd on Nlkosi for 846 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a weak thrown attack on Nlkosi for 353 Common damage to Morale.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a hit with Epic Conclusion on the Goblin-town Sentry for 9,373 Lightning damage to Morale.
+The Goblin-town Look-out scored a hit with a moderate thrown attack on Nlkosi for 486 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Look-out for 699 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Shocking Words on the Goblin-town Look-out for 6,575 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Look-out for 1,668 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 724 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Look-out for 708 Lightning damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Static Surge on the Goblin-town Look-out for 6,978 Lightning damage to Morale.
+The Goblin-town Sentry scored a hit with Tar Pot on the Charged Fulgurite Rune-stone.
+The Goblin-town Sentry scored a hit with Tar Pot on Nlkosi.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin-town Sentry but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 697 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Goblin-town Sentry for 3,091 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Sentry for 1,298 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Soldier for 666 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 694 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi tried to use Writ of Lightning on the Goblin-town Sentry but he resisted the attempt.
+Nlkosi scored a hit with Improved Final Word on the Goblin-town Sentry.
+Nlkosi scored a hit with Head-butt on the Goblin-town Sentry for 2,165 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Goblin-town Sentry for 800 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 402 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 128 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Goblin-town Sentry.
+The Goblin-town Soldier scored a hit with a weak melee attack on Nlkosi for 353 Common damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Goblin-town Sentry for 6,065 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 154 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 156 points to Morale.
+The Goblin-town Soldier scored a hit with Serious Wound on Nlkosi for 353 Common damage to Morale.
+The Goblin-town Soldier scored a hit with Melee Med Bleed on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Soldier for 2,027 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 158 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Soldier for 4,156 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 212 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Soldier for 2,027 Fire damage to Morale.
+The Goblin-town Soldier scored a hit with a melee double attack on the Volcanic Rune-stone for 88 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 150 points to Morale.
+The Goblin-town Soldier scored a hit with Serious Wound on Nlkosi for 353 Common damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Goblin-town Soldier for 2,952 Lightning damage to Morale.
+The Goblin-town Soldier scored a hit with a melee double attack on the Volcanic Rune-stone for 88 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 133 points to Morale.
+Your mighty blow defeated the Goblin-town Soldier.
+Nlkosi scored a devastating hit with Chilling Rhetoric on the Goblin-town Soldier for 7,737 Frost damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 171 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 122 points to Morale.
+The Goblin-town Soldier tried to use Serious Wound on Nlkosi but he resisted the attempt.
+Prelude to Hope applied a heal to Nlkosi restoring 121 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 204 points to Morale.
+The Goblin-town Soldier scored a hit with Serious Wound on Nlkosi for 353 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 150 points to Morale.
+The Goblin-town Sentry scored a hit with Tar Pot on Nlkosi.
+The Goblin-town Soldier scored a hit with Serious Wound on Nlkosi for 353 Common damage to Morale.
+The Goblin-town Soldier scored a hit with Serious Wound on Nlkosi for 353 Common damage to Morale.
+The Goblin-town Sentry scored a critical hit with a weak melee attack on Nlkosi for 505 Common damage to Morale.
+The Goblin-town Sentry scored a hit with a moderate melee attack on Nlkosi for 486 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 671 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a devastating hit with Scribe's Spark on the Goblin-town Sentry for 7,150 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Sentry for 707 Lightning damage to Morale.
+Nlkosi tried to use Improved Final Word on the Goblin-town Sentry but he resisted the attempt.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a hit with Epic Conclusion on the Goblin-town Sentry for 13,227 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Goblin-town Look-out.
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 795 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 367 points to Morale.
+Nlkosi scored a hit with Distracting Flame on the Goblin-town Look-out for 602 Fire damage to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 150 points to Morale.
+The Goblin-town Look-out scored a hit with a moderate thrown attack on Nlkosi for 486 Common damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 176 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 149 points to Morale.
+The Goblin-town Look-out scored a hit with a weak thrown attack on Nlkosi for 353 Common damage to Morale.
+Nlkosi tried to use Fiery Ridicule on the Goblin-town Look-out but he resisted the attempt.
+Nlkosi scored a hit with Distracting Flame on the Goblin-town Look-out for 695 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 147 points to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Goblin-town Look-out for 1,807 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Goblin-town Look-out for 1,987 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 190 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 193 points to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Look-out for 1,958 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Goblin-town Look-out for 651 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 125 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Look-out for 698 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 126 points to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Goblin-town Look-out scored a partially evaded hit with a melee double attack on Nlkosi for 271 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 128 points to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Look-out for 3,191 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 139 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 126 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 123 points to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Soldier for 1,670 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Goblin-town Soldier for 1,936 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Goblin-town Soldier for 2,147 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Goblin-town Soldier for 719 Lightning damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Soldier for 1,985 Fire damage to Morale.
+Nlkosi tried to use Induce Stunned on the Goblin-town Soldier but he was immune to the attempt.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Goblin-town Soldier.
+Nlkosi scored a critical hit with Shocking Words on the Goblin-town Soldier for 21,069 Lightning damage to Morale.
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 795 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Goblin-town Look-out scored a hit with a minor melee attack on Nlkosi for 378 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+The Goblin-town Look-out scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 67 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Look-out for 2,937 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a critical hit with Epic Conclusion on the Goblin-town Look-out for 26,151 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Sentry for 1,956 Fire damage to Morale.
+The Goblin-town Sentry scored a partially evaded hit with Tar Pot on Nlkosi.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Goblin-town Sentry scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 57 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Sentry for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Sentry for 1,812 Lightning damage to Morale.
+The Goblin-town Sentry scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 78 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Sentry for 1,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Goblin-town Sentry.
+Nothing to dispel.
+Nlkosi scored a hit with Shocking Words on the Goblin-town Sentry for 5,660 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Goblin-town Sentry.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+You have lost 3,235 points of temporary Morale!
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 795 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Goblin-town Look-out scored a hit with a moderate melee attack on the Volcanic Rune-stone for 104 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+The Goblin-town Look-out tried to use Induce Rooted on the Volcanic Rune-stone but it was immune to the attempt.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Look-out for 2,723 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with Thrown Root on the Volcanic Rune-stone.
+The Goblin-town Look-out scored a hit with a weak melee attack on the Volcanic Rune-stone for 76 Common damage to Morale.
+Nlkosi scored a critical hit with Distracting Flame on the Goblin-town Look-out.
+Nlkosi scored a hit with Volcanic Rune-stone on the Goblin-town Look-out for 1,956 Fire damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Epic Conclusion on the Goblin-town Look-out for 11,697 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Blúghosh, Emissary of Gorgar for 705 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on Blúghosh, Emissary of Gorgar for 682 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Blúghosh, Emissary of Gorgar for 1,956 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on Blúghosh, Emissary of Gorgar for 723 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Blúghosh, Emissary of Gorgar for 1,956 Fire damage to Morale.
+Blúghosh, Emissary of Gorgar scored a hit with Destroying Acid on the Volcanic Rune-stone.
+Nlkosi scored a hit with Volcanic Rune-stone on Blúghosh, Emissary of Gorgar for 1,956 Fire damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on Blúghosh, Emissary of Gorgar but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on Blúghosh, Emissary of Gorgar for 700 Lightning damage to Morale.
+Blúghosh, Emissary of Gorgar scored a hit with a mighty melee attack on the Volcanic Rune-stone for 231 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Blúghosh, Emissary of Gorgar for 1,956 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on Blúghosh, Emissary of Gorgar for 1,903 Lightning damage to Morale.
+Nothing to dispel.
+Blúghosh, Emissary of Gorgar scored a hit with a weak melee attack on the Volcanic Rune-stone for 103 Fire damage to Morale.
+Nlkosi scored a critical hit with Improved Final Word on Blúghosh, Emissary of Gorgar.
+Nlkosi scored a hit with Volcanic Rune-stone on Blúghosh, Emissary of Gorgar for 1,956 Fire damage to Morale.
+Nlkosi scored a critical hit with Distracting Flame on Blúghosh, Emissary of Gorgar.
+Master of Tragedy applied a heal to Nlkosi restoring 23 points to Power.
+Nlkosi scored a critical hit with Epic Conclusion on Blúghosh, Emissary of Gorgar for 29,833 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Blúghosh, Emissary of Gorgar for 1,956 Fire damage to Morale.
+Blúghosh, Emissary of Gorgar scored a hit with Slowing Poison on the Volcanic Rune-stone.
+Nlkosi scored a hit with Shocking Touch on Blúghosh, Emissary of Gorgar for 1,053 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on Blúghosh, Emissary of Gorgar for 914 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on Blúghosh, Emissary of Gorgar for 2,427 Lightning damage to Morale.
+Your mighty blow defeated Blúghosh, Emissary of Gorgar.
+Nlkosi scored a hit with Ceaseless Argument on Blúghosh, Emissary of Gorgar for 2,160 Lightning damage to Morale.
