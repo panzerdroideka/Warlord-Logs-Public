@@ -1,0 +1,8 @@
+os,cpu,gpu,ram,kernel,driver,cpuscheduler
+Ubuntu 25.10,AMD Ryzen 7 255 w/ Radeon 780M Graphics,AMD Radeon 780M Graphics (RADV PHOENIX),32127200,6.17.0-20-generic,,performance
+fps,frametime,cpu_load,gpu_load,cpu_temp,gpu_temp,gpu_core_clock,gpu_mem_clock,gpu_vram_used,gpu_power,ram_used,swap_used,process_rss,elapsed
+37.3503,26.7735,3.79437,69,67,62,972,2800,0.467148,13,10.3234,0,0,515947227
+35.7704,27.9561,3.79437,69,67,62,972,2800,0.467148,13,10.3234,0,0,543902688
+41.4271,24.1388,3.79437,69,67,62,972,2800,0.467148,13,10.3234,0,0,568043281
+38.32,26.0961,3.79437,69,67,62,972,2800,0.467148,13,10.3234,0,0,594138220
+41.5682,24.0569,3.79437,69,67,62,972,2800,0.467148,13,10.3234,0,0,618195787
