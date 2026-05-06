@@ -1,0 +1,438 @@
+### Chat Log: Combat 05/06 05:41 PM ###
+The Ghâshfra Defiler scored a hit with a weak thrown attack on Nlkosi for 665 Fire damage to Morale.
+The Ghâshfra Warrior scored a hit with a weak melee attack on Nlkosi for 665 Fire damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Ghâshfra Warrior for 3,448 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Ghâshfra Berserker for 3,049 Lightning damage to Morale.
+The Ghâshfra Defiler scored a hit with a moderate thrown attack on Nlkosi for 915 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a hit with Epic Conclusion on the Ghâshfra Warrior for 11,132 Lightning damage to Morale.
+The Ghâshfra Defiler scored a hit with a weak thrown attack on Nlkosi for 665 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Berserker for 2,081 Lightning damage to Morale.
+The Ghâshfra Defiler scored a hit with a minor thrown attack on Nlkosi for 832 Fire damage to Morale.
+The Ghâshfra Berserker scored a hit with a weak melee attack on Nlkosi for 698 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Berserker for 2,392 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Ghâshfra Berserker for 1,194 Lightning damage to Morale.
+The Ghâshfra Defiler scored a hit with a moderate thrown attack on Nlkosi for 915 Fire damage to Morale.
+The Ghâshfra Berserker missed trying to use a minor melee attack on Nlkosi.
+Sustaining Bolt applied a heal to Nlkosi restoring 159 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,989 points to Morale.
+Nlkosi scored a hit with Shocking Touch on the Ghâshfra Berserker for 1,014 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Ghâshfra Berserker for 1,161 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Berserker.
+Nlkosi scored a hit with Essence of Flame on the Ghâshfra Berserker for 6,914 Fire damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 694 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a critical heal to Nlkosi restoring 243 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 165 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 187 points to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+You have lost 529 points of temporary Morale!
+Nlkosi scored a hit with Head-butt on the Ghâshfra Defiler for 2,810 Common damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 269 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 2,763 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 189 points to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Ghâshfra Defiler scored a hit with a moderate melee attack on the Volcanic Rune-stone for 31 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 168 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Defiler for 2,919 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 2,763 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 173 points to Morale.
+Your mighty blow defeated the Ghâshfra Defiler.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Defiler for 2,444 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 167 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 177 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 181 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 275 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 180 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 687 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 810 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Ghâshfra Berserker scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 34 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Ghâshfra Warrior for 6,830 Lightning damage to Morale.
+The Ghâshfra Berserker scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 27 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+You have lost 621 points of temporary Morale!
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 745 Lightning damage to Morale.
+You have lost 4,043 points of temporary Morale!
+Nlkosi scored a critical hit with Vivid Imagery on the Ghâshfra Warrior for 11,233 Lightning damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on the Ghâshfra Berserker for 9,548 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a weak ranged attack on Nlkosi for 643 Fire damage to Morale.
+The Ghâshfra Defiler scored a hit with a weak thrown attack on Nlkosi for 621 Fire damage to Morale.
+The Ghâshfra Defiler scored a hit with a minor thrown attack on Nlkosi for 807 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a partially evaded hit with a moderate ranged attack on Nlkosi for 817 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 677 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Berserker for 2,270 Lightning damage to Morale.
+Your mighty blow defeated the Ghâshfra Berserker.
+The Ghâshfra Skirmisher scored a hit with a weak ranged attack on Nlkosi for 668 Fire damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Ghâshfra Berserker for 12,185 Lightning damage to Morale.
+The Ghâshfra Defiler scored a hit with a moderate thrown attack on Nlkosi for 888 Fire damage to Morale.
+The Ghâshfra Defiler scored a hit with a weak thrown attack on Nlkosi for 645 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a moderate ranged attack on Nlkosi for 918 Fire damage to Morale.
+The Ghâshfra Defiler scored a hit with a minor thrown attack on Nlkosi for 807 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a partially evaded hit with a weak ranged attack on Nlkosi for 594 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a weak melee attack on Nlkosi for 520 Fire damage to Morale.
+The Ghâshfra Defiler scored a hit with a weak melee attack on Nlkosi for 567 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a minor melee attack on Nlkosi for 669 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 2,591 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Skirmisher for 2,591 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Ghâshfra Skirmisher scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 13 Fire damage to Morale.
+The Ghâshfra Defiler scored a hit with a minor melee attack on the Volcanic Rune-stone for 28 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Defiler's Totem for 3,842 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 2,591 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Skirmisher for 2,591 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Defiler's Totem.
+Nlkosi scored a hit with Shocking Words on the Ghâshfra Skirmisher for 7,455 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Ghâshfra Skirmisher.
+The Ghâshfra Defiler tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 2,591 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Skirmisher for 2,591 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Ghâshfra Skirmisher.
+The Ghâshfra Defiler scored a devastating hit with a moderate melee attack on the Volcanic Rune-stone for 56 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 2,591 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Defiler.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Defiler for 2,911 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 710 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 837 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 860 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Defiler for 818 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Ghâshfra Warrior scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 36 Fire damage to Morale.
+The Ghâshfra Berserker scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 37 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Warrior for 2,672 Lightning damage to Morale.
+The Ghâshfra Berserker scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 34 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 857 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Defiler for 819 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 690 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 864 Lightning damage to Morale.
+The Ghâshfra Warrior scored a hit with a weak melee attack on Nlkosi for 645 Fire damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Ghâshfra Warrior.
+The Ghâshfra Defiler scored a partially evaded hit with a weak melee attack on the Charged Fulgurite Rune-stone for 15 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Ghâshfra Warrior.
+The Ghâshfra Skirmisher scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 21 Fire damage to Morale.
+Nlkosi scored a critical hit with Essence of Storm on the Ghâshfra Warrior for 15,839 Lightning damage to Morale.
+The Ghâshfra Defiler tried to use a moderate melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+Your mighty blow defeated the Ghâshfra Defiler.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 742 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 828 Lightning damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on the Ghâshfra Skirmisher for 11,797 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Vivid Imagery on the Ghâshfra Defiler for 14,624 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Ghâshfra Berserker for 4,019 Lightning damage to Morale.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Skirmisher for 4,118 Lightning damage to Morale.
+Your mighty blow defeated the Ghâshfra Berserker.
+Nlkosi scored a critical hit with Static Surge on the Ghâshfra Berserker for 16,001 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a partially evaded hit with a weak ranged attack on Nlkosi for 613 Fire damage to Morale.
+The Ghâshfra Leader scored a partially evaded hit with a minor melee attack on Nlkosi for 885 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 1,295 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+The Ghâshfra Warrior scored a hit with Bleeding Cut on Nlkosi for 1,399 Common damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Ghâshfra Warrior scored a hit with a minor melee attack on the Volcanic Rune-stone for 40 Fire damage to Morale.
+The Ghâshfra Warrior scored a hit with Bleeding Cut (Tier 1) on Nlkosi for 1,399 Common damage to Morale.
+The Ghâshfra Leader scored a hit with a moderate melee attack on the Volcanic Rune-stone for 43 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 1,295 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+The Ghâshfra Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 32 Fire damage to Morale.
+The Ghâshfra Warrior scored a hit with Bleeding Cut (Tier 1) on Nlkosi for 1,399 Common damage to Morale.
+The Ghâshfra Leader scored a partially evaded hit with a mighty melee attack on the Volcanic Rune-stone for 45 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a hit with Rain of Arrows on Nlkosi for 2,036 Common damage to Morale.
+The Ghâshfra Skirmisher scored a hit with Rain of Arrows on the Volcanic Rune-stone for 472 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 1,295 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 436 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 422 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Leader for 823 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Ghâshfra Warrior tried to use a moderate melee attack on the Volcanic Rune-stone but it evaded the attempt.
+The Ghâshfra Warrior scored a hit with Bleeding Cut (Tier 1) on Nlkosi for 1,399 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 1,315 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Ghâshfra Warrior for 1,917 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 423 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Leader for 791 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 445 Lightning damage to Morale.
+Nlkosi scored a critical hit with Shocking Touch on the Ghâshfra Warrior for 1,483 Lightning damage to Morale.
+The Ghâshfra Warrior scored a hit with Bleeding Cut (Tier 1) on Nlkosi for 1,399 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 1,315 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a weak ranged attack on the Charged Fulgurite Rune-stone for 27 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Warrior for 1,624 Lightning damage to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a hit with Epic Conclusion on the Ghâshfra Warrior for 7,411 Lightning damage to Morale.
+The Ghâshfra Warrior scored a hit with Bleeding Cut (Tier 1) on Nlkosi for 1,399 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Ghâshfra Skirmisher but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 414 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Leader for 843 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Ghâshfra Skirmisher for 2,851 Lightning damage to Morale.
+Nlkosi scored a critical hit with Static Surge on the Ghâshfra Leader for 14,502 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a minor ranged attack on the Charged Fulgurite Rune-stone for 33 Fire damage to Morale.
+The Ghâshfra Warrior tried to use Bleeding Cut (Tier 1) on Nlkosi but he resisted the attempt.
+Your mighty blow defeated the Ghâshfra Leader.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 825 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a moderate melee attack on Nlkosi for 960 Fire damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Ghâshfra Leader for 6,633 Lightning damage to Morale.
+The Ghâshfra Skirmisher tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Skirmisher for 2,521 Lightning damage to Morale.
+Nlkosi tried to use Induce Stunned on the Ghâshfra Skirmisher but he was immune to the attempt.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Nlkosi scored a critical hit with Shocking Words on the Ghâshfra Skirmisher for 22,339 Lightning damage to Morale.
+Self-motivation applied a critical heal to Nlkosi restoring 337 points to Power.
+Nlkosi applied a critical benefit with Self-motivation on Nlkosi.
+Nothing to cure.
+Burst of Power applied a critical heal to Nlkosi restoring 3 points to Power.
+Increased Morale applied a heal to Nlkosi restoring 4,406 points to Morale.
+Nlkosi applied a benefit with Finesse on Nlkosi.
+Burst of Power applied a heal to Nlkosi restoring 2 points to Power.
+Burst of Power applied a heal to Nlkosi restoring 1 point to Power.
+Burst of Power applied a heal to Nlkosi restoring 2 points to Power.
+Burst of Power applied a heal to Nlkosi restoring 2 points to Power.
+Burst of Power applied a heal to Nlkosi restoring 2 points to Power.
+The Ghâshfra Skirmisher scored a hit with a weak ranged attack on Nlkosi for 688 Fire damage to Morale.
+The Ghâshfra Warrior scored a partially evaded hit with a weak melee attack on Nlkosi for 592 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 808 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 803 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Ghâshfra Skirmisher scored a hit with a moderate ranged attack on Nlkosi for 946 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 2,591 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Ghâshfra Warrior scored a devastating hit with a minor melee attack on the Volcanic Rune-stone for 58 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 21 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Vivid Imagery on the Ghâshfra Warrior for 8,374 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 2,591 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Ghâshfra Warrior.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 880 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 29 Fire damage to Morale.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 524 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 803 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 265 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Prelude to Hope applied a critical heal to Nlkosi restoring 237 points to Morale.
+Nlkosi scored a critical hit with Concession and Rebuttal: Shocking Words on the Ghâshfra Skirmisher for 27,219 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 197 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 138 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 179 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 172 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 243 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 275 points to Morale.
+Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Ghâshfra Warrior for 4,000 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 216 points to Morale.
+Powerful Sustenance applied a heal to Nlkosi restoring 3,419 points to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 189 points to Power.
+Prelude to Hope applied a heal to Nlkosi restoring 176 points to Morale.
+The Ghâshfra Warrior scored a hit with a weak melee attack on Nlkosi for 665 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Prelude to Hope applied a heal to Nlkosi restoring 189 points to Morale.
+Nlkosi scored a critical hit with Shocking Touch on the Ghâshfra Warrior for 2,533 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 164 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Ghâshfra Warrior for 2,897 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a critical hit with Essence of Storm on the Ghâshfra Warrior for 15,857 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a devastating hit with a minor ranged attack on Nlkosi for 1,660 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Nlkosi scored a devastating hit with Concession and Rebuttal: Epic Conclusion on the Ghâshfra Skirmisher for 50,334 Lightning damage to Morale.
+The Ghâshfra Warrior scored a hit with a weak melee attack on Nlkosi for 665 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Ghâshfra Warrior for 6,947 Lightning damage to Morale.
+The Ghâshfra Warrior scored a critical hit with a minor melee attack on Nlkosi for 1,189 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a critical hit with Essence of Storm on the Ghâshfra Warrior for 16,028 Lightning damage to Morale.
+The Ghâshfra Berserker tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Ghâshfra Berserker for 7,517 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Berserker for 2,202 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Your mighty blow defeated the Ghâshfra Berserker.
+Nlkosi scored a critical hit with Static Surge on the Ghâshfra Berserker for 14,568 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Ghâshfra Warrior for 8,453 Lightning damage to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a critical hit with Essence of Storm on the Ghâshfra Warrior for 16,851 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Ghâshfra Skirmisher for 9,238 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a minor ranged attack on Nlkosi for 834 Fire damage to Morale.
+The Ghâshfra Skirmisher tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Skirmisher for 2,894 Lightning damage to Morale.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Ghâshfra Skirmisher for 15,387 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a devastating hit with Ceaseless Argument on the Ghâshfra Skirmisher for 7,574 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a weak ranged attack on Nlkosi for 647 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Ghâshfra Skirmisher for 2,972 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a partially evaded hit with a minor melee attack on Nlkosi for 542 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Ghâshfra Skirmisher for 4,497 Lightning damage to Morale.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Skirmisher for 2,659 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 426 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Leader for 788 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Ghâshfra Skirmisher scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 27 Fire damage to Morale.
+The Ghâshfra Leader scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 39 Fire damage to Morale.
+The Ghâshfra Skirmisher scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 34 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 432 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 799 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Leader for 842 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Ghâshfra Skirmisher for 2,200 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Ghâshfra Leader for 3,687 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Ghâshfra Leader.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 418 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Leader for 771 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 428 Lightning damage to Morale.
+The Ghâshfra Warrior scored a partially parried hit with Bleeding Cut on the Charged Fulgurite Rune-stone for 210 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 410 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 153 points to Morale.
+The Ghâshfra Warrior scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 32 Fire damage to Morale.
+The Ghâshfra Warrior tried to use Bleeding Cut (Tier 1) on the Charged Fulgurite Rune-stone but it resisted the attempt.
+You have lost 652 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 172 points to Morale.
+Nlkosi tried to use Induce Stunned on the Ghâshfra Leader but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Skirmisher for 421 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Ghâshfra Leader but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Leader for 781 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 422 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Ghâshfra Leader for 8,845 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 175 points to Morale.
+The Ghâshfra Warrior scored a partially parried hit with a minor melee attack on the Charged Fulgurite Rune-stone for 26 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+You have lost 896 points of temporary Morale!
+Nlkosi scored a critical hit with Scribe's Spark on the Ghâshfra Skirmisher for 3,723 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 148 points to Morale.
+Your mighty blow defeated the Ghâshfra Leader.
+Nlkosi scored a hit with Static Surge on the Ghâshfra Skirmisher for 4,645 Lightning damage to Morale.
+Nlkosi scored a critical hit with Static Surge on the Ghâshfra Leader for 18,056 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 216 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 146 points to Morale.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Skirmisher for 3,319 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 151 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 2,591 Fire damage to Morale.
+You have lost 621 points of temporary Morale!
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 161 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Warrior for 2,708 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 143 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 2,591 Fire damage to Morale.
+The Ghâshfra Warrior scored a hit with a moderate melee attack on the Volcanic Rune-stone for 36 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 159 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Ghâshfra Warrior for 3,121 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 224 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Warrior for 2,591 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Ghâshfra Warrior.
+Prelude to Hope applied a heal to Nlkosi restoring 156 points to Morale.
+The Ghâshfra Berserker scored a hit with a minor melee attack on Nlkosi for 815 Fire damage to Morale.
+You have lost 815 points of temporary Morale!
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 714 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nothing to dispel.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Berserker for 1,863 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Ghâshfra Berserker.
+You have lost 2,209 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 400 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 701 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 848 Lightning damage to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+The Ghâshfra Berserker scored a hit with a minor melee attack on Nlkosi for 846 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 155 points to Morale.
+The Ghâshfra Warrior scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 36 Fire damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Ghâshfra Berserker for 9,789 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 142 points to Morale.
+The Ghâshfra Berserker scored a hit with a weak melee attack on Nlkosi for 677 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Prelude to Hope applied a critical heal to Nlkosi restoring 226 points to Morale.
+The Ghâshfra Warrior scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 32 Fire damage to Morale.
+Nlkosi scored a critical hit with Sustaining Bolt on the Ghâshfra Berserker for 2,752 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 815 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Ghâshfra Berserker but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Berserker for 719 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone defeated the Ghâshfra Berserker.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 867 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 147 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,640 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 163 points to Morale.
+The Ghâshfra Warrior scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 36 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Ghâshfra Warrior for 5,789 Lightning damage to Morale.
+The Ghâshfra Warrior tried to use a moderate melee attack on the Charged Fulgurite Rune-stone but it blocked the attempt.
+Prelude to Hope applied a heal to Nlkosi restoring 193 points to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a hit with Shocking Words on the Ghâshfra Warrior for 9,176 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 831 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 160 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 176 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Warrior for 2,456 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 185 points to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Ghâshfra Warrior for 2,139 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 278 points to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a critical hit with Vivid Imagery on the Ghâshfra Warrior for 8,854 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 228 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 237 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a critical hit with Essence of Storm on the Ghâshfra Warrior for 14,134 Lightning damage to Morale.
+Nlkosi scored a critical hit with Static Surge on the Ghâshfra Defiler for 8,917 Lightning damage to Morale.
+The Ghâshfra Defiler scored a partially evaded hit with a minor thrown attack on Nlkosi for 652 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 1,295 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Ghâshfra Defiler scored a hit with a weak melee attack on Nlkosi for 657 Fire damage to Morale.
+The Ghâshfra Leader scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 28 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Defiler for 1,295 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Defiler.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Defiler for 1,506 Lightning damage to Morale.
+The Ghâshfra Leader tried to use a minor melee attack on the Volcanic Rune-stone but it blocked the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Ghâshfra Leader for 5,756 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Ghâshfra Leader for 4,711 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Ghâshfra Leader for 6,620 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Ghâshfra Leader for 2,493 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Leader.
+Nlkosi scored a critical hit with Static Surge on the Ghâshfra Leader for 20,163 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 804 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Ghâshfra Warrior scored a partially evaded hit with a weak melee attack on Nlkosi for 592 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Ghâshfra Warrior for 2,707 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Vivid Imagery on the Ghâshfra Warrior for 3,619 Lightning damage to Morale.
+Nlkosi scored a critical hit with Improved Final Word on the Ghâshfra Warrior.
+Nlkosi scored a hit with Fulgurite Strike on the Ghâshfra Warrior for 818 Lightning damage to Morale.
+Nlkosi scored a hit with Head-butt on the Ghâshfra Warrior for 2,810 Common damage to Morale.
+Your mighty blow defeated the Ghâshfra Warrior.
+Nlkosi scored a hit with Essence of Storm on the Ghâshfra Warrior for 3,819 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Ghâshfra Skirmisher for 8,389 Lightning damage to Morale.
+The Ghâshfra Skirmisher scored a devastating hit with a moderate ranged attack on Nlkosi for 1,771 Fire damage to Morale.
+Your mighty blow defeated the Ghâshfra Skirmisher.
+Nlkosi scored a hit with Shocking Words on the Ghâshfra Skirmisher for 13,711 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Dagtark for 806 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Dagtark scored a partially evaded hit with a minor melee attack on the Charged Fulgurite Rune-stone for 25 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Dagtark for 2,493 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Dagtark scored a critical hit with a weak melee attack on the Charged Fulgurite Rune-stone for 39 Fire damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on Dagtark but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on Dagtark for 809 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on Dagtark for 5,207 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Dagtark for 2,493 Fire damage to Morale.
+Dagtark scored a hit with a moderate melee attack on Nlkosi for 1,071 Fire damage to Morale.
+Nlkosi scored a critical hit with Essence of Storm on Dagtark for 16,440 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on Dagtark but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on Dagtark for 779 Lightning damage to Morale.
+Nlkosi tried to use Induce Dazed on Dagtark but he was immune to the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on Dagtark for 2,493 Fire damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on Dagtark for 4,782 Lightning damage to Morale.
+Your mighty blow defeated Dagtark.
+Nlkosi scored a hit with Scribe's Spark on Dagtark for 3,623 Lightning damage to Morale.
