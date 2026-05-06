@@ -1,0 +1,954 @@
+### Chat Log: Combat 05/06 04:57 PM ###
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 799 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,757 Lightning damage to Morale.
+The Frost Grim missed trying to use Frost Swipe High on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 822 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,638 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,576 Lightning damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 182 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,243 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 799 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Essence of Flame on the Frost Grim for 11,270 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 434 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Nlkosi applied a benefit with Word of Exaltation on Nlkosi.
+You have lost 3,722 points of temporary Morale!
+Prelude to Hope applied a critical heal to Nlkosi restoring 259 points to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 200 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 145 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,640 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 145 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Shocking Words on the Frost Grim for 17,559 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 161 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 165 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 176 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 170 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,832 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,091 Frost damage to Morale.
+You have lost 1,091 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 170 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 2,635 Fire damage to Morale.
+Nlkosi scored a critical hit with Sustaining Bolt on the Frost Grim for 3,664 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 268 points to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 153 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 2,646 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,442 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 196 points to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 864 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 576 Frost damage to Morale.
+You have lost 864 points of temporary Morale!
+You have lost 576 points of temporary Morale!
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Frost Grim for 1,177 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,722 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 10,610 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 576 Frost damage to Morale.
+You have lost 576 points of temporary Morale!
+The Frost Grim scored a hit with Freezing on Nlkosi for 576 Frost damage to Morale.
+You have lost 576 points of temporary Morale!
+You have lost 1,510 points of temporary Morale!
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,076 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 3,413 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,483 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 158 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,822 points to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,777 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,399 Lightning damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Frost Grim for 1,727 Frost damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 897 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 852 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,404 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 796 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost Grim scored a devastating hit with Frost Vortex on Nlkosi for 1,060 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 549 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 549 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,699 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 832 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,456 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+The Frost Grim scored a hit with Form of the Beast on the Charged Fulgurite Rune-stone for 745 Frost damage to Morale.
+Nlkosi scored a critical hit with Distracting Flame on the Frost Grim.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 859 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Frost Grim for 22,401 Lightning damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 8,702 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 6,583 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,336 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 6,050 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,526 Fire damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 7,216 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 2,087 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 208 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,278 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 3,167 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 3,176 Fire damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Nlkosi scored a hit with Head-butt on the Frost Grim for 2,724 Common damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,746 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Frost Grim for 1,603 Fire damage to Morale.
+The Frost Grim scored a critical hit with Form of the Beast on Nlkosi for 2,089 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 19,460 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim tried to use Freezing on Nlkosi but he resisted the attempt.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,147 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a critical hit with Frost Vortex on Nlkosi for 836 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,795 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,558 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 168 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,795 points to Morale.
+The Frost Grim scored a critical hit with Melee Frost Max on Nlkosi for 3,231 Frost damage to Morale.
+Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,552 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,417 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,417 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,552 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,307 Lightning damage to Morale.
+The Frost Grim scored a devastating hit with Melee Frost Max on Nlkosi for 4,360 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 3,093 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,552 Fire damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 850 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 897 Frost damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 16,419 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 580 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,552 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Vivid Imagery on the Frost Grim for 3,486 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 561 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 561 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 561 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 815 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,760 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 867 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 7,767 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,729 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,552 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,600 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 147 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,044 points to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,262 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Frost Grim for 5,615 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 10,161 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,935 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,884 Fire damage to Morale.
+The Frost Grim tried to use Form of the Beast on Nlkosi but he evaded the attempt.
+The Frost Grim scored a critical hit with Form of the Beast on Nlkosi for 2,026 Frost damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Frost Grim for 3,807 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 975 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Essence of Storm on the Frost Grim for 16,081 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,520 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,400 Lightning damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 154 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,621 points to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,274 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Frost Grim for 1,438 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 2,909 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 7,095 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 16,464 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,990 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,063 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,432 Fire damage to Morale.
+Nlkosi scored a hit with Static Surge on the Frost Grim for 9,159 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,329 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,329 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,870 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,657 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 11,660 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,660 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 6,631 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,953 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a devastating hit with Epic Conclusion on the Frost Grim for 49,836 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,267 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,666 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 9,398 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 840 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 856 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,273 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 925 Frost damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Frost Grim but it was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 821 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 872 Lightning damage to Morale.
+Nlkosi scored a critical hit with Distracting Flame on the Frost Grim.
+Nothing to dispel.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,079 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 10,946 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Frost Grim but it was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 870 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim tried to use Frost Wave on the Charged Fulgurite Rune-stone but it evaded the attempt.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,234 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 882 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 8,025 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Frost Grim for 5,237 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,218 Fire damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Frost Grim for 2,053 Frost damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Frost Grim for 3,324 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 951 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 13,052 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Frost Grim for 2,883 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 181 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,174 points to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+The Frost Grim tried to use Form of the Beast on Nlkosi but he evaded the attempt.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,364 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 560 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+You have lost 5,193 points of temporary Morale!
+You have lost 1,364 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 173 points to Morale.
+Nlkosi applied a critical benefit with Word of Exaltation on Nlkosi.
+Prelude to Hope applied a critical heal to Nlkosi restoring 261 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,701 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 204 points to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Shocking Words on the Frost Grim for 17,980 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 175 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 167 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 156 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 205 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 204 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 179 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 173 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,468 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 188 points to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,196 Frost damage to Morale.
+You have lost 1,196 points of temporary Morale!
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,901 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 164 points to Morale.
+You have lost 1,162 points of temporary Morale!
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,390 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 161 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,171 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 790 Fire damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 7,656 Lightning damage to Morale.
+The Frost Grim scored a partially evaded hit with Form of the Beast on Nlkosi for 1,331 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,495 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,665 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 2,444 Fire damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,364 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,391 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 682 Frost damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Frost Grim for 1,904 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 682 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 682 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,765 Fire damage to Morale.
+The Frost Grim scored a critical hit with Frost Swipe High on Nlkosi for 2,862 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,486 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,228 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 9,309 Lightning damage to Morale.
+Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 861 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 825 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,275 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 157 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,196 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,394 Fire damage to Morale.
+The Frost Grim scored a partially evaded hit with Form of the Beast on Nlkosi for 1,564 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 810 Lightning damage to Morale.
+The Frost Grim tried to use Form of the Beast on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Essence of Flame on the Frost Grim for 6,852 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,262 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,541 Lightning damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,406 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 2,001 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,757 Frost damage to Morale.
+The Frost Grim scored a partially evaded hit with Form of the Beast on Nlkosi for 1,564 Frost damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,802 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 1,054 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a devastating hit with Frost Swipe High on Nlkosi for 3,863 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,406 Frost damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,802 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,757 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,757 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a partially evaded hit with Frost Swipe High on Nlkosi for 1,781 Frost damage to Morale.
+The Frost Grim scored a critical hit with Frost Vortex on Nlkosi for 1,005 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 703 Frost damage to Morale.
+The Frost Grim incapacitated you.
+You succumb to your wounds.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,660 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,034 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 850 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,705 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,496 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Frost Grim.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 9,294 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a devastating hit with Essence of Flame on the Frost Grim for 13,971 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,562 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,969 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 10,238 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,505 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Frost Grim for 3,662 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 149 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,131 points to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,567 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 881 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost Grim tried to use Melee Frost Max on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 881 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 3,025 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 2,051 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,618 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 169 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,783 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 856 Lightning damage to Morale.
+Nlkosi scored a hit with Head-butt on the Frost Grim for 2,724 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 935 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Static Surge on the Frost Grim for 15,379 Lightning damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,546 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,339 Fire damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,373 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,945 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,373 Frost damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 3,150 Fire damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Frost Grim for 3,113 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 7,406 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 855 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 851 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 3,352 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Wave on the Charged Fulgurite Rune-stone for 596 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,697 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,831 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 853 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Static Surge on the Frost Grim for 19,020 Lightning damage to Morale.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 8,763 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,992 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,417 Frost damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 190 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 2,874 points to Morale.
+The Frost Grim missed trying to use Form of the Beast on Nlkosi.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 9,713 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,851 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,259 Frost damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 6,212 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,931 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Snow Geyser on Nlkosi for 1,216 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,883 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Chilling Rhetoric on the Frost Grim for 2,640 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,723 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 6,927 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,564 Frost damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,886 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 1,036 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 3,671 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost Grim for 50,942 Lightning damage to Morale.
+The Frost Grim tried to use Freezing on Nlkosi but he resisted the attempt.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 2,933 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 3,505 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,845 Fire damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 160 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 2,758 points to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,589 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 6,411 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 5,766 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Frost Swipe High on Nlkosi for 2,221 Frost damage to Morale.
+You have lost 2,221 points of temporary Morale!
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 9,666 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 5,142 Lightning damage to Morale.
+You have lost 2,972 points of temporary Morale!
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,268 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 2,676 Fire damage to Morale.
+The Frost Grim tried to use Frost Swipe High on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,666 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Frost Grim for 1,701 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 13,496 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,784 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 7,640 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,238 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 154 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 2,845 points to Morale.
+Nlkosi scored a critical hit with Chilling Rhetoric on the Frost Grim for 3,213 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Essence of Flame on the Frost Grim for 6,475 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 2,829 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a devastating hit with Ceaseless Argument on the Frost Grim for 7,105 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,928 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,784 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 2,115 Fire damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,670 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 3,760 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,614 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,814 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+Nlkosi scored a critical hit with Static Surge on the Frost Grim for 20,592 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,045 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 179 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 2,571 points to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,259 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 5,908 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Shocking Words on the Frost Grim for 20,243 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 925 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Frost Grim for 2,883 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 159 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,630 points to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,542 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,542 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,745 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,234 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,175 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Melee Frost Max on Nlkosi for 3,493 Frost damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 9,735 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 7,120 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 617 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 812 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 842 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 3,393 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on the Volcanic Rune-stone for 298 Frost damage to Morale.
+The Frost Grim tried to use Induce Rooted on the Volcanic Rune-stone but it was immune to the attempt.
+The Frost Grim scored a hit with Frost Vortex on the Volcanic Rune-stone for 298 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on the Volcanic Rune-stone for 298 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 4,051 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Frost Grim but it was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 806 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Frost Grim.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,705 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,297 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Frost Grim for 6,299 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,113 Lightning damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nlkosi scored a hit with Head-butt on the Frost Grim for 2,724 Common damage to Morale.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 505 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 912 Fire damage to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a critical heal to Nlkosi restoring 276 points to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,629 Frost damage to Morale.
+You have lost 1,629 points of temporary Morale!
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,888 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 143 points to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Frost Grim for 8,931 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 139 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 154 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 194 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 181 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 140 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 226 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 164 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 3,226 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost Grim for 33,112 Lightning damage to Morale.
+You have lost 3,564 points of temporary Morale!
+Nlkosi scored a critical hit with Sustaining Bolt on the Frost Grim for 4,087 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 850 Frost damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 178 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,035 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,519 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 11,133 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 450 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a critical heal to Nlkosi restoring 236 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 151 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 262 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 141 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 5,766 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 549 Frost damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 241 points to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 6,019 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,373 Frost damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 231 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 2,635 Fire damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,373 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 179 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 585 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Prelude to Hope applied a heal to Nlkosi restoring 161 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,849 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 187 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 585 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 187 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 161 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,723 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost Grim for 39,121 Lightning damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 6,920 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 849 Frost damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 7,222 Lightning damage to Morale.
+Nothing to dispel.
+The Frost Grim scored a hit with Freezing on Nlkosi for 547 Frost damage to Morale.
+Nlkosi scored a devastating hit with Improved Final Word on the Frost Grim.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 10,162 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 547 Frost damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 7,259 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,093 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 4,048 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 547 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,877 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 577 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 577 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 547 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 577 Frost damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Frost Grim.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,285 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 7,239 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 547 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 643 Frost damage to Morale.
+You have been incapacitated by misadventure.
+You succumb to your wounds.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 2,404 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Frost Grim for 2,955 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 8,806 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 1,250 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 157 points to Power.
+Sustenance applied a heal to Nlkosi restoring 1,938 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 6,429 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,772 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,207 Fire damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Nlkosi scored a critical hit with Chilling Rhetoric on the Frost Grim for 3,309 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,276 Fire damage to Morale.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 6,409 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 4,415 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 6,768 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 6,707 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Static Surge on the Frost Grim for 9,316 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 662 points to Morale.
+Nothing to dispel.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Nlkosi scored a devastating hit with Improved Final Word on the Frost Grim.
+Prelude to Hope applied a heal to Nlkosi restoring 138 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 144 points to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 201 Lightning damage to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 241 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 172 points to Morale.
+Nlkosi scored a hit with Head-butt on the Frost Grim for 2,724 Common damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 143 points to Morale.
+You have lost 584 points of temporary Morale!
+Nlkosi scored a hit with a melee attack on the Frost Grim for 231 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 546 Frost damage to Morale.
+You have lost 584 points of temporary Morale!
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+You have lost 546 points of temporary Morale!
+You have lost 584 points of temporary Morale!
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 4,902 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 259 points to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 184 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost Grim for 25,204 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 192 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 170 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 155 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 245 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 155 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 151 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 140 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,336 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 546 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 546 Frost damage to Morale.
+Nlkosi scored a hit with Static Surge on the Frost Grim for 7,033 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 546 Frost damage to Morale.
+You have lost 546 points of temporary Morale!
+You have lost 546 points of temporary Morale!
+You have lost 546 points of temporary Morale!
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 9,727 Lightning damage to Morale.
+You have lost 1,257 points of temporary Morale!
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 4,997 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Frost Wave on Nlkosi for 1,671 Frost damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Frost Grim for 2,041 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Snow Geyser on Nlkosi for 1,253 Frost damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 221 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 3,271 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 3,177 Fire damage to Morale.
+The Frost Grim scored a critical hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,622 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 7,171 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 850 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 561 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 162 points to Morale.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 9,523 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 146 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Frost Grim for 2,909 Fire damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 153 points to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 3,154 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 142 points to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,587 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 172 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 170 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 139 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 234 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 7,684 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 162 points to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 7,449 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 229 points to Morale.
+Your mighty blow defeated the Frost Grim.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Frost Grim for 3,110 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 167 points to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 6,109 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,417 Frost damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Frost Grim for 2,159 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,417 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Epic Conclusion on the Frost Grim for 31,779 Lightning damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,406 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Form of the Beast on Nlkosi for 2,026 Frost damage to Morale.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 7,646 Lightning damage to Morale.
+The Frost Grim scored a devastating hit with Form of the Beast on Nlkosi for 2,735 Frost damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Frost Grim for 4,269 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 9,028 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 7,120 Lightning damage to Morale.
+The Frost Grim scored a critical hit with Frost Wave on Nlkosi for 1,671 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,541 Fire damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Frost Grim for 1,885 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost Grim for 1,042 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 3,484 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 6,753 Lightning damage to Morale.
+The Frost Grim tried to use Melee Frost Max on Nlkosi but he parried the attempt.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 5,766 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Shocking Words on the Frost Grim for 7,866 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Frost Grim.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Essence of Storm on the Frost Grim for 3,294 Lightning damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 8,062 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Scribe's Spark on the Frost Grim for 7,620 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a critical hit with Ceaseless Argument on the Frost Grim for 6,707 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a devastating hit with Epic Conclusion on the Frost Grim for 52,217 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 567 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,461 Fire damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 850 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a devastating hit with Writ of Lightning on the Frost Grim for 6,946 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Frost Grim for 1,346 Fire damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Shocking Words on the Frost Grim for 22,985 Lightning damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,798 Lightning damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Nlkosi scored a critical hit with Writ of Lightning on the Frost Grim for 6,259 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Shocking Words on the Frost Grim for 23,809 Lightning damage to Morale.
+Nlkosi scored a critical hit with Essence of Storm on the Frost Grim for 13,097 Lightning damage to Morale.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a hit with Epic Conclusion on the Frost Grim for 12,514 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+The Frost Grim tried to use Form of the Beast on Nlkosi but he evaded the attempt.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Freezing on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+The Frost Grim scored a partially evaded hit with Form of the Beast on Nlkosi for 1,300 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+The Frost Grim tried to use Frost Wave on Nlkosi but he evaded the attempt.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a devastating hit with Frost Vortex on Nlkosi for 1,128 Frost damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Scribe's Spark on the Frost Grim for 2,988 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on the Volcanic Rune-stone for 849 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 31 points to Power.
+Your mighty blow defeated the Frost Grim.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 8,473 Lightning damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on the Frost Grim for 8,473 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Frost Grim for 2,514 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Frost Grim.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 867 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on the Charged Fulgurite Rune-stone for 849 Frost damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 830 Lightning damage to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 225 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 860 Lightning damage to Morale.
+The Frost Grim tried to use Knockaway on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+The Frost Grim scored a hit with Freezing on the Charged Fulgurite Rune-stone for 298 Frost damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on the Charged Fulgurite Rune-stone for 447 Frost damage to Morale.
+The Frost Grim scored a hit with Melee Frost Max on Nlkosi for 2,329 Frost damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Frost Grim but it was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Frost Grim for 846 Lightning damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+Increased Morale applied a heal to Nlkosi restoring 4,281 points to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+The Frost Grim tried to use Freezing on Nlkosi but he resisted the attempt.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+The Frost Grim tried to use Form of the Beast on Nlkosi but he evaded the attempt.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Vortex on Nlkosi for 584 Frost damage to Morale.
+The Frost Grim scored a hit with Frost Swipe High on Nlkosi for 1,664 Frost damage to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 197 Lightning damage to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 231 Lightning damage to Morale.
+The Frost Grim scored a hit with Snow Geyser on Nlkosi for 876 Frost damage to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 193 Lightning damage to Morale.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+The Frost Grim tried to use Freezing on Nlkosi but he resisted the attempt.
+The Frost Grim scored a hit with Form of the Beast on Nlkosi for 1,461 Frost damage to Morale.
+Nlkosi scored a hit with a melee attack on the Frost Grim for 212 Lightning damage to Morale.
+The Frost Grim incapacitated you.
+The Frost Grim scored a hit with Frost Wave on Nlkosi for 1,169 Frost damage to Morale.
+You succumb to your wounds.
