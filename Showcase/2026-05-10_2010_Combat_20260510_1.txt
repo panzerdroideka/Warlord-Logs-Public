@@ -1,0 +1,386 @@
+### Chat Log: Combat 05/10 08:01 PM ###
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 8,763 Frost damage to Morale.
+The Cold-whelpling tried to use a weak melee attack on Linnoh but he evaded the attempt.
+The Cold-whelpling scored a critical hit with a weak melee attack on Linnoh for 9,559 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 8,763 Frost damage to Morale.
+Linnoh tried to use Cracked Earth on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 28,538 Fire damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+Linnoh scored a hit with Gust of Wind on the Cold-whelpling for 6,370 Frost damage to Morale.
+Linnoh scored a hit with Gust of Wind on the Cold-whelpling for 10,509 Frost damage to Morale.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 8,705 Frost damage to Morale.
+Nothing to dispel.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 9,576 Frost damage to Morale.
+Linnoh scored a hit with Dispel Corruption on the Cold-whelpling.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+Linnoh scored a hit with Power of Knowledge on the Cold-whelpling.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 8,705 Frost damage to Morale.
+Linnoh scored a hit with Wizard's Fire on the Cold-whelpling for 15,440 Fire damage to Morale.
+Linnoh scored a hit with Wizard's Fire on the Cold-whelpling for 10,916 Fire damage to Morale.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 8,464 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Wizard's Fire: Istari Power applied a heal to Linnoh restoring 956 points to Power.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,771 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a critical hit with Minor Call - Flank on the Cold-whelpling for 1,635 Beleriand damage to Morale.
+Linnoh scored a hit with Wizard's Fire Burn on the Cold-whelpling for 2,239 Fire damage to Morale.
+Linnoh tried to use Dispel Corruption on the Cold-whelpling but he resisted the attempt.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,771 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Wizard's Fire Burn on the Cold-whelpling for 2,424 Fire damage to Morale.
+The Cold-whelpling scored a hit with Artic Tussis on Linnoh for 14,510 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Wizard's Fire on the Cold-whelpling for 15,440 Fire damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh scored a hit with Wizard's Fire on the Cold-whelpling for 11,198 Fire damage to Morale.
+Wizard's Fire: Istari Power applied a heal to Linnoh restoring 887 points to Power.
+The Cold-whelpling scored a hit with Artic Tussis on Linnoh for 14,510 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 13,042 Frost damage to Morale.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 2,102 Beleriand damage to Morale.
+Linnoh applied a benefit with Clever Escape on Linnoh.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh scored a hit with Lightning-charged Staff Strike on the Cold-whelpling for 13,848 Lightning damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,373 Frost damage to Morale.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 8,763 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 9,576 Frost damage to Morale.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 9,576 Frost damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 8,705 Frost damage to Morale.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 8,705 Frost damage to Morale.
+Linnoh tried to use Sticky Gourd on the Cold-whelpling but he resisted the attempt.
+Linnoh tried to use Slow Burn on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 21,132 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 23,218 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 21,442 Fire damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,923 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,923 Frost damage to Morale.
+The Cold-whelpling scored a hit with Artic Tussis on Linnoh for 14,923 Frost damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 13,773 Fire damage to Morale.
+Linnoh scored a critical hit with Smouldering Embers on the Cold-whelpling for 7,938 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,696 Fire damage to Morale.
+Linnoh scored a critical hit with Sticky Gourd on the Cold-whelpling for 16,605 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,676 Fire damage to Morale.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 9,576 Frost damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 29,694 Fire damage to Morale.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 27,478 Fire damage to Morale.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 31,626 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,783 Fire damage to Morale.
+Nothing to dispel.
+Linnoh scored a hit with Dispel Corruption on the Cold-whelpling.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,649 Fire damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh applied a benefit with Track Mines on Linnoh.
+Linnoh applied a benefit with Track Artifacts on Linnoh.
+Linnoh applied a benefit with Call to the Valar on Linnoh.
+Increased Morale applied a heal to Linnoh restoring 79,553 points to Morale.
+Linnoh scored a hit with Call to Bears on the Cold-whelpling for 10,869 Beleriand damage to Morale.
+Linnoh applied a benefit with Ring of Fire on Linnoh.
+Linnoh scored a hit with Ring of Fire on the Cold-whelpling for 25,692 Fire damage to Morale.
+The Bear tried to use Bear's Swipe on the Cold-whelpling but he evaded the attempt.
+Nothing to dispel.
+Linnoh scored a hit with Dispel Corruption on the Cold-whelpling.
+Linnoh scored a hit with Ring of Fire on the Cold-whelpling for 25,692 Fire damage to Morale.
+Linnoh scored a hit with Ring of Fire on the Cold-whelpling for 25,692 Fire damage to Morale.
+The Ring of Fire defeated the Cold-whelpling.
+Linnoh applied a benefit with Clever Escape on Linnoh.
+Linnoh tried to use Slow Burn on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a critical hit with Sticky Gourd on the Cold-whelpling for 36,792 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 20,147 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 23,668 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 14,284 Fire damage to Morale.
+Linnoh scored a critical hit with Smouldering Embers on the Cold-whelpling for 7,829 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 13,999 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,658 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 13,866 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,662 Fire damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,373 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,656 Frost damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 14,446 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,794 Fire damage to Morale.
+Linnoh tried to use Sticky Gourd on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,711 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 13,960 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,690 Fire damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh scored a hit with Nature's Fury on the Cold-whelpling for 17,828 Frost damage to Morale.
+Nothing to dispel.
+Linnoh scored a hit with Dispel Corruption on the Cold-whelpling.
+Linnoh tried to use Sticky Gourd on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,617 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 14,289 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,576 Fire damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Your mighty blow defeated the Cold-whelpling.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+Nothing to dispel.
+Linnoh scored a devastating hit with Dispel Corruption on the Cold-whelpling.
+Linnoh scored a hit with Major Call - Harrying Flanks on the Cold-whelpling for 1,759 Beleriand damage to Morale.
+Linnoh scored a critical hit with Flanked Strike on the Cold-whelpling for 42,004 Frost damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh scored a critical hit with Lightning-charged Staff Strike on the Cold-whelpling for 26,815 Lightning damage to Morale.
+Linnoh applied a benefit with Clever Escape on Linnoh.
+The Cold-whelpling scored a critical hit with a weak melee attack on Linnoh for 9,559 Frost damage to Morale.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 7,966 Frost damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,373 Frost damage to Morale.
+Nothing to dispel.
+Linnoh scored a devastating hit with Dispel Corruption on the Cold-whelpling.
+The Cold-whelpling tried to use a moderate melee attack on Linnoh but he evaded the attempt.
+The Cold-whelpling scored a partially evaded hit with a minor melee attack on Linnoh for 7,312 Frost damage to Morale.
+The Cold-whelpling scored a partially evaded hit with a weak melee attack on Linnoh for 5,850 Frost damage to Morale.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 26,360 Fire damage to Morale.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 27,927 Fire damage to Morale.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 25,531 Fire damage to Morale.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 8,498 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 8,498 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a critical hit with Lightning-charged Staff Strike on the Cold-whelpling for 26,815 Lightning damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 7,725 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,180 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 12,556 Frost damage to Morale.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 12,631 Frost damage to Morale.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 12,855 Frost damage to Morale.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 2,310 Beleriand damage to Morale.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 2,117 Beleriand damage to Morale.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 2,209 Beleriand damage to Morale.
+Linnoh applied a benefit with Track Artifacts on Linnoh.
+Linnoh tried to use Fierce Lightning on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a hit with Lightning-charged Staff Strike on the Cold-whelpling for 12,652 Lightning damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,180 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 8,498 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh tried to use Lightning Strike on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a hit with Wizard's Fire on the Cold-whelpling for 15,440 Fire damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh scored a hit with Wizard's Fire on the Cold-whelpling for 10,406 Fire damage to Morale.
+The Cold-whelpling scored a hit with Artic Tussis on Linnoh for 13,243 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Wizard's Fire: Istari Power applied a heal to Linnoh restoring 969 points to Power.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh scored a hit with Cracked Earth on the Cold-whelpling for 31,114 Fire damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 13,243 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+The Cold-whelpling scored a critical hit with Breath of Ice on Linnoh for 19,865 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Power of Knowledge on the Cold-whelpling.
+Linnoh scored a hit with Power of Knowledge on the Cold-whelpling for 9,642 Lightning damage to Morale.
+Power of Knowledge applied a critical heal to Linnoh restoring 3,813 points to Power.
+Linnoh scored a critical hit with Power of Knowledge on the Cold-whelpling for 15,658 Lightning damage to Morale.
+Power of Knowledge applied a heal to Linnoh restoring 2,771 points to Power.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 9,310 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Power of Knowledge on the Cold-whelpling for 10,099 Lightning damage to Morale.
+Power of Knowledge applied a critical heal to Linnoh restoring 3,924 points to Power.
+Your mighty blow defeated the Cold-whelpling.
+The Cold-whelpling tried to use a weak melee attack on Linnoh but he evaded the attempt.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,964 Frost damage to Morale.
+The Cold-whelpling scored a partially parried hit with a weak melee attack on Linnoh for 6,909 Frost damage to Morale.
+Linnoh tried to use Sticky Gourd on the Cold-whelpling but he resisted the attempt.
+Linnoh tried to use Slow Burn on the Cold-whelpling but he resisted the attempt.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,923 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,923 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,923 Frost damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,923 Frost damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 20,181 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 23,812 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 22,656 Fire damage to Morale.
+The Cold-whelpling scored a hit with Artic Tussis on Linnoh for 14,923 Frost damage to Morale.
+The Cold-whelpling scored a hit with Artic Tussis on Linnoh for 14,923 Frost damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 13,803 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,646 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,616 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 14,394 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,609 Fire damage to Morale.
+The Cold-whelpling scored a hit with Artic Tussis on Linnoh for 14,923 Frost damage to Morale.
+The Cold-whelpling scored a hit with a moderate melee attack on Linnoh for 9,576 Frost damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,585 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 13,817 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,623 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Cold-whelpling for 14,044 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,594 Fire damage to Morale.
+The Cold-whelpling scored a hit with a minor melee attack on Linnoh for 8,705 Frost damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh tried to use Ents go to War on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a devastating hit with Ents go to War on the Cold-whelpling for 80,023 Beleriand damage to Morale.
+Linnoh scored a critical hit with Ents go to War on the Cold-whelpling for 60,332 Beleriand damage to Morale.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,510 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+The Cold-whelpling scored a hit with Breath of Ice on Linnoh for 14,510 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,770 Fire damage to Morale.
+The Cold-whelpling scored a partially evaded hit with a minor melee attack on Linnoh for 7,769 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,569 Fire damage to Morale.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,771 Frost damage to Morale.
+Linnoh reflected 1,836 Fire damage to the Morale of the Cold-whelpling.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 13,613 Frost damage to Morale.
+Linnoh scored a hit with Staff Sweep on the Cold-whelpling for 1,295 Beleriand damage to Morale.
+Linnoh scored a hit with Call to Bears on the Cold-whelpling for 11,481 Beleriand damage to Morale.
+Linnoh scored a hit with Call to Bears on the Cold-whelpling for 12,579 Beleriand damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Cold-whelpling for 4,621 Fire damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+Linnoh applied a benefit with Clever Escape on Linnoh.
+Linnoh tried to use Dispel Corruption on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a hit with Lightning Storm on the Cold-whelpling for 24,584 Lightning damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+The Bear scored a hit with Bear's Swipe on the Cold-whelpling for 1,103 Beleriand damage to Morale.
+Linnoh scored a hit with Lightning Storm on the Cold-whelpling for 14,365 Lightning damage to Morale.
+Linnoh scored a hit with Lightning Storm on the Cold-whelpling for 11,247 Lightning damage to Morale.
+Increased Morale applied a heal to Linnoh restoring 81,975 points to Morale.
+Linnoh scored a critical hit with Nature's Fury on the Cold-whelpling for 32,005 Frost damage to Morale.
+Nothing to dispel.
+Linnoh scored a critical hit with Dispel Corruption on the Cold-whelpling.
+The Cold-whelpling scored a hit with a weak melee attack on Linnoh for 6,373 Frost damage to Morale.
+Linnoh tried to use Nature's Fury on the Cold-whelpling but he resisted the attempt.
+Linnoh scored a critical hit with Nature's Fury Frost on the Cold-whelpling for 33,760 Frost damage to Morale.
+Your mighty blow defeated the Cold-whelpling.
+The Spawn of Athramóth scored a hit with a mighty ranged attack on Linnoh for 28,678 Frost damage to Morale.
+Linnoh applied a benefit with Track Artifacts on Linnoh.
+The Spawn of Athramóth scored a hit with a weak ranged attack on Linnoh for 12,746 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a moderate ranged attack on Linnoh for 17,525 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a minor ranged attack on Linnoh for 15,932 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a moderate ranged attack on Linnoh for 17,525 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 17,982 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with a weak ranged attack on Linnoh for 12,746 Frost damage to Morale.
+Linnoh scored a hit with Power of Knowledge on the Spawn of Athramóth.
+Linnoh scored a critical hit with Sticky Gourd on the Spawn of Athramóth for 13,182 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,834 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a mighty ranged attack on Linnoh for 28,678 Frost damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,834 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 11,257 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Nothing to dispel.
+Linnoh scored a hit with Dispel Corruption on the Spawn of Athramóth.
+The Spawn of Athramóth scored a hit with a minor ranged attack on Linnoh for 15,932 Frost damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,821 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 11,222 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with a weak melee attack on Linnoh for 11,608 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth incapacitated you.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,707 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 11,523 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with a moderate melee attack on Linnoh for 15,961 Frost damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 1,899 Fire damage to Morale.
+You succumb to your wounds.
+Water-lore applied a heal to Linnoh restoring 3,214 points to Morale.
+Linnoh applied a benefit with Water Lore on Linnoh.
+Water-lore applied a heal to Linnoh restoring 7,619 points to Morale.
+Water-lore applied a heal to Linnoh restoring 7,904 points to Morale.
+Linnoh tried to use Slow Burn on the Spawn of Athramóth but he resisted the attempt.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 14,687 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with a minor ranged attack on Linnoh for 15,932 Frost damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 10,266 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,354 Fire damage to Morale.
+Water-lore applied a heal to Linnoh restoring 7,526 points to Morale.
+The Spawn of Athramóth tried to use a mighty ranged attack on Linnoh but he evaded the attempt.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 10,278 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,396 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 10,167 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,405 Fire damage to Morale.
+Water-lore applied a heal to Linnoh restoring 7,785 points to Morale.
+The Spawn of Athramóth scored a hit with a weak ranged attack on Linnoh for 12,746 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Nothing to dispel.
+Linnoh scored a hit with Dispel Corruption on the Spawn of Athramóth.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 10,311 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,424 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a hit with Wizard's Frost on the Spawn of Athramóth for 5,950 Frost damage to Morale.
+Linnoh tried to use Sticky Gourd on the Spawn of Athramóth but he resisted the attempt.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,507 Fire damage to Morale.
+Water-lore applied a heal to Linnoh restoring 7,590 points to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a melee triple attack on Linnoh for 5,804 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a melee triple attack on Linnoh for 5,804 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a melee triple attack on Linnoh for 5,804 Frost damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 10,254 Fire damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,437 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a devastating hit with a weak melee attack on Linnoh for 23,215 Frost damage to Morale.
+Linnoh scored a hit with Smouldering Embers on the Spawn of Athramóth for 3,508 Fire damage to Morale.
+Linnoh scored a hit with Sticky Gourd on the Spawn of Athramóth for 10,330 Fire damage to Morale.
+Water-lore applied a heal to Linnoh restoring 7,732 points to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a minor melee attack on Linnoh for 14,510 Frost damage to Morale.
+Linnoh scored a critical hit with Smouldering Embers on the Spawn of Athramóth for 5,756 Fire damage to Morale.
+Linnoh tried to use Sticky Gourd on the Spawn of Athramóth but he resisted the attempt.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a moderate melee attack on Linnoh for 15,961 Frost damage to Morale.
+Nothing to dispel.
+Water-lore applied a heal to Linnoh restoring 7,901 points to Morale.
+Linnoh scored a hit with Dispel Corruption on the Spawn of Athramóth.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a weak melee attack on Linnoh for 11,608 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a hit with Power of Knowledge on the Spawn of Athramóth.
+The Spawn of Athramóth scored a hit with a minor melee attack on Linnoh for 14,510 Frost damage to Morale.
+Water-lore applied a heal to Linnoh restoring 7,798 points to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a hit with Minor Call - Flank on the Spawn of Athramóth for 1,434 Beleriand damage to Morale.
+Linnoh scored a hit with Lightning Strike on the Spawn of Athramóth for 22,043 Lightning damage to Morale.
+Linnoh scored a hit with Light of the Rising Dawn on the Spawn of Athramóth for 794 Light damage to Morale.
+The Spawn of Athramóth scored a hit with a weak melee attack on Linnoh for 11,608 Frost damage to Morale.
+The Spawn of Athramóth tried to use Chilling Cold on Linnoh but he resisted the attempt.
+Linnoh scored a hit with Fierce Lightning on the Spawn of Athramóth for 3,974 Fire damage to Morale.
+Linnoh scored a hit with Gust of Wind on the Spawn of Athramóth for 10,160 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a mighty melee attack on Linnoh for 26,117 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a hit with Fierce Lightning on the Spawn of Athramóth for 3,974 Fire damage to Morale.
+Linnoh scored a hit with Wizard's Fire on the Spawn of Athramóth for 7,781 Fire damage to Morale.
+Wizard's Fire: Istari Power applied a critical heal to Linnoh restoring 1,440 points to Power.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with a weak melee attack on Linnoh for 11,608 Frost damage to Morale.
+Linnoh scored a hit with Fierce Lightning on the Spawn of Athramóth for 3,974 Fire damage to Morale.
+Linnoh scored a hit with Wizard's Fire Burn on the Spawn of Athramóth for 1,733 Fire damage to Morale.
+Linnoh scored a hit with Lightning-charged Staff Strike on the Spawn of Athramóth for 14,931 Lightning damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Nothing to dispel.
+Linnoh scored a hit with Fierce Lightning on the Spawn of Athramóth for 3,974 Fire damage to Morale.
+Linnoh scored a hit with Dispel Corruption on the Spawn of Athramóth.
+Linnoh scored a hit with Wizard's Fire Burn on the Spawn of Athramóth for 1,755 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with a minor melee attack on Linnoh for 14,510 Frost damage to Morale.
+Linnoh scored a hit with Fierce Lightning on the Spawn of Athramóth for 3,974 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a hit with Fierce Lightning on the Spawn of Athramóth for 3,974 Fire damage to Morale.
+Linnoh scored a hit with Wizard's Fire Burn on the Spawn of Athramóth for 1,663 Fire damage to Morale.
+Linnoh tried to use Fierce Lightning on the Spawn of Athramóth but he resisted the attempt.
+The Spawn of Athramóth tried to use Chilling Cold on Linnoh but he resisted the attempt.
+Linnoh scored a hit with Wizard's Fire Burn on the Spawn of Athramóth for 1,640 Fire damage to Morale.
+Linnoh tried to use Fierce Lightning on the Spawn of Athramóth but he resisted the attempt.
+The Spawn of Athramóth scored a hit with a weak melee attack on Linnoh for 11,608 Frost damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a critical hit with Fierce Lightning on the Spawn of Athramóth for 4,595 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with a moderate melee attack on Linnoh for 15,961 Frost damage to Morale.
+Linnoh applied a benefit with Ring of Fire on Linnoh.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Increased Morale applied a heal to Linnoh restoring 81,763 points to Morale.
+Linnoh scored a hit with Ring of Fire on the Spawn of Athramóth for 18,520 Fire damage to Morale.
+Linnoh scored a hit with Fierce Lightning on the Spawn of Athramóth for 3,974 Fire damage to Morale.
+Linnoh tried to use Dispel Corruption on the Spawn of Athramóth but he resisted the attempt.
+Linnoh scored a hit with Ring of Fire on the Spawn of Athramóth for 18,520 Fire damage to Morale.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 7,587 Frost damage to Morale.
+Linnoh scored a hit with Ring of Fire on the Spawn of Athramóth for 18,520 Fire damage to Morale.
+The Ring of Fire defeated the Spawn of Athramóth.
+The Spawn of Athramóth scored a hit with Chilling Cold on Linnoh for 1,973 Frost damage to Morale.
+Linnoh applied a benefit with Track Artifacts on Linnoh.
