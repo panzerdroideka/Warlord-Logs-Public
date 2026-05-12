@@ -1,0 +1,472 @@
+### Chat Log: Combat 05/12 12:49 PM ###
+Nofishthewise applied a benefit with Focus on Nofishthewise.
+Nofishthewise scored a hit with Heart Seeker on the Gundabad Warrior for 47,262 Beleriand damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on the Gundabad Warrior for 5,316 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 20,254 Beleriand damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on the Gundabad Warrior for 5,316 Beleriand damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on the Gundabad Warrior for 5,316 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 36,030 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 6,837 Common damage to Morale.
+The Gundabad Warrior tried to use a moderate melee attack on Nofishthewise but he parried the attempt.
+Nofishthewise scored a hit with Upper-cut on the Gundabad Warrior for 27,620 Common damage to Morale.
+Nofishthewise scored a hit with Upshot on the Gundabad Warrior for 12,109 (0 from 0 Focus) Beleriand damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Warrior for 5,850 Beleriand damage to Morale.
+The Gundabad Warrior scored a partially evaded hit with a moderate melee attack on Nofishthewise for 9,263 Common damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Warrior for 5,695 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 6,014 Common damage to Morale.
+Nofishthewise scored a hit with Long Shot on the Gundabad Warrior for 30,617 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a critical hit with Penetrating Shot on the Gundabad Warrior for 56,600 Beleriand damage to Morale.
+Nofishthewise applied a benefit with Call Ausma on Nofishthewise.
+The Gundabad Troll scored a hit with a weak swipe attack on Nofishthewise for 10,347 Common damage to Morale.
+The Gundabad Troll scored a hit with a weak swipe attack on Scout-master Ausma for 9,677 Common damage to Morale.
+Scout-master Ausma scored a devastating hit with a weak melee attack on the Gundabad Troll for 25,878 Common damage to Morale.
+Scout-master Ausma scored a critical hit with a melee double attack on the Gundabad Troll for 18,814 Common damage to Morale.
+Scout-master Ausma scored a hit with a melee double attack on the Gundabad Troll for 14,084 Common damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Troll for 22,125 Beleriand damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Troll for 21,416 Beleriand damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Troll for 29,070 Beleriand damage to Morale.
+The Gundabad Troll scored a hit with a weak swipe attack on Scout-master Ausma for 10,368 Common damage to Morale.
+Scout-master Ausma scored a hit with a minor melee attack on the Gundabad Troll for 17,659 Common damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Troll for 36,706 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Troll.
+Nofishthewise scored a hit with Bard's Arrow on the Gundabad Troll for 19,876 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Improved Swift Bow on the Gundabad Warrior for 39,506 Beleriand damage to Morale.
+Nofishthewise scored a hit with Improved Swift Bow on the Gundabad Warrior for 13,242 Beleriand damage to Morale.
+Nofishthewise scored a hit with Improved Swift Bow on the Gundabad Warrior for 8,440 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Quick Shot on the Gundabad Warrior for 14,500 Beleriand damage to Morale.
+Blood Arrow Heal applied a heal to Nofishthewise restoring 6,019 points to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Blood Arrow on the Gundabad Warrior for 31,087 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 6,837 Common damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 19,343 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 16,167 Beleriand damage to Morale.
+Scout-master Ausma scored a devastating hit with a weak melee attack on the Gundabad Warrior for 24,005 Common damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 26,132 Beleriand damage to Morale.
+Nofishthewise applied a benefit with Focus on Nofishthewise.
+Nofishthewise scored a hit with Heart Seeker on the Gundabad Warrior for 51,963 Beleriand damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on the Gundabad Warrior for 5,316 Beleriand damage to Morale.
+Blood Arrow Heal applied a heal to Nofishthewise restoring 6,019 points to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Blood Arrow on the Gundabad Warrior for 27,654 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak melee attack on Scout-master Ausma for 4,567 Common damage to Morale.
+The Gundabad Captain scored a critical hit with a mighty swipe attack on Scout-master Ausma for 15,236 Common damage to Morale.
+Scout-master Ausma scored a hit with a moderate swipe attack on the Gundabad Captain for 20,704 Common damage to Morale.
+Scout-master Ausma scored a hit with a moderate swipe attack on the Gundabad Black-arrow for 21,739 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor melee attack on Scout-master Ausma for 4,385 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a minor melee attack on Nofishthewise for 7,033 Common damage to Morale.
+The Gundabad Captain scored a critical hit with a weak swipe attack on Scout-master Ausma for 6,771 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Captain for 15,057 Common damage to Morale.
+Scout-master Ausma missed trying to use a moderate melee attack on the Gundabad Captain.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor ranged attack on Nofishthewise for 8,315 Common damage to Morale.
+The Gundabad Captain scored a critical hit with a weak swipe attack on Scout-master Ausma for 7,401 Common damage to Morale.
+The Gundabad Captain scored a critical hit with a moderate swipe attack on Scout-master Ausma for 10,177 Common damage to Morale.
+The Gundabad Black-arrow tried to use a weak melee attack on Scout-master Ausma but she blocked the attempt.
+Scout-master Ausma scored a critical hit with a mighty melee attack on the Gundabad Captain for 45,120 Common damage to Morale.
+The Gundabad Captain tried to use a melee double attack on Scout-master Ausma but she evaded the attempt.
+The Gundabad Black-arrow scored a hit with a weak ranged attack on Nofishthewise for 7,391 Common damage to Morale.
+The Gundabad Captain scored a hit with a melee double attack on Scout-master Ausma for 5,685 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Captain for 15,057 Common damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 17,289 Beleriand damage to Morale.
+The Gundabad Captain scored a hit with a weak swipe attack on Scout-master Ausma for 5,685 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor ranged attack on Nofishthewise for 9,239 Common damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 3,799 Common damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Warrior for 5,791 Beleriand damage to Morale.
+The Gundabad Warrior scored a critical hit with a weak melee attack on Nofishthewise for 5,698 Common damage to Morale.
+Scout-master Ausma scored a hit with Melee Stun on the Gundabad Captain.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Scout-master Ausma for 3,992 Common damage to Morale.
+The Gundabad Captain scored a hit with a mighty swipe attack on Nofishthewise for 12,514 Common damage to Morale.
+Nofishthewise scored a hit with Upshot on the Gundabad Warrior for 34,924 (52,386 from 5 Focus) Beleriand damage to Morale.
+The Gundabad Captain scored a hit with a minor swipe attack on Scout-master Ausma for 7,107 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak ranged attack on Nofishthewise for 7,391 Common damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Warrior for 6,249 Beleriand damage to Morale.
+Scout-master Ausma scored a hit with a moderate melee attack on the Gundabad Captain for 20,704 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 4,749 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+The Gundabad Captain scored a hit with a minor swipe attack on Nofishthewise for 6,952 Common damage to Morale.
+The Gundabad Warrior tried to use a minor melee attack on Nofishthewise but he evaded the attempt.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Warrior for 6,679 Beleriand damage to Morale.
+The Gundabad Captain scored a hit with a weak swipe attack on Scout-master Ausma for 5,685 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate ranged attack on Nofishthewise for 10,162 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Captain for 15,057 Common damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Warrior for 5,860 Beleriand damage to Morale.
+The Gundabad Black-arrow tried to use a minor melee attack on Scout-master Ausma but she evaded the attempt.
+The Gundabad Captain scored a critical hit with a moderate swipe attack on Scout-master Ausma for 10,177 Common damage to Morale.
+The Gundabad Warrior scored a partially parried hit with a weak melee attack on Nofishthewise for 4,509 Common damage to Morale.
+The Gundabad Warrior tried to use a moderate melee attack on Nofishthewise but he evaded the attempt.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 17,229 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a minor ranged attack on Nofishthewise for 8,215 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Scout-master Ausma for 3,992 Common damage to Morale.
+The Gundabad Captain scored a hit with a minor swipe attack on Scout-master Ausma for 7,107 Common damage to Morale.
+Rush of Power applied a heal to Nofishthewise restoring 528 points to Power.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Scout-master Ausma applied a benefit with Veteran Inspiration on Nofishthewise.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 25,616 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Nofishthewise for 6,580 Common damage to Morale.
+Nofishthewise scored a hit with Upper-cut on the Gundabad Captain for 32,494 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate ranged attack on Nofishthewise for 10,162 Common damage to Morale.
+The Gundabad Captain scored a hit with a weak swipe attack on Scout-master Ausma for 5,685 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+Scout-master Ausma scored a critical hit with a weak melee attack on the Gundabad Captain for 20,053 Common damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 4,786 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak ranged attack on Nofishthewise for 11,086 Common damage to Morale.
+The Gundabad Captain scored a hit with a melee double attack on Nofishthewise for 4,826 Common damage to Morale.
+Scout-master Ausma scored a hit with a mighty melee attack on the Gundabad Captain for 33,879 Common damage to Morale.
+Nofishthewise scored a hit with Barbed Arrow on the Gundabad Captain for 12,511 Beleriand damage to Morale.
+The Gundabad Captain scored a hit with a melee double attack on Nofishthewise for 4,826 Common damage to Morale.
+The Gundabad Warrior scored a critical hit with a minor melee attack on Nofishthewise for 8,973 Common damage to Morale.
+The Gundabad Black-arrow tried to use a minor melee attack on Scout-master Ausma but she blocked the attempt.
+The Gundabad Captain scored a hit with a melee double attack on Scout-master Ausma for 5,685 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor ranged attack on Nofishthewise for 9,239 Common damage to Morale.
+The Gundabad Captain scored a hit with a melee double attack on Scout-master Ausma for 5,685 Common damage to Morale.
+Scout-master Ausma scored a hit with a moderate melee attack on the Gundabad Captain for 20,704 Common damage to Morale.
+The Gundabad Captain scored a hit with a weak swipe attack on Nofishthewise for 6,079 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise scored a critical hit with Barbed Arrow on the Gundabad Captain for 11,291 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Captain for 24,010 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 18,811 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a devastating hit with a weak melee attack on Scout-master Ausma for 7,193 Common damage to Morale.
+The Gundabad Captain scored a hit with a weak swipe attack on Scout-master Ausma for 5,685 Common damage to Morale.
+The Gundabad Warrior scored a critical hit with a moderate melee attack on Nofishthewise for 9,870 Common damage to Morale.
+Scout-master Ausma scored a hit with a minor melee attack on the Gundabad Captain for 18,821 Common damage to Morale.
+Nofishthewise scored a hit with Barbed Arrow on the Gundabad Captain for 6,552 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 20,809 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Captain for 22,399 Beleriand damage to Morale.
+The Gundabad Captain scored a hit with a mighty swipe attack on Scout-master Ausma for 12,792 Common damage to Morale.
+The Gundabad Captain scored a hit with a moderate swipe attack on Nofishthewise for 8,359 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a moderate melee attack on Scout-master Ausma for 3,540 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 5,982 Common damage to Morale.
+Nofishthewise scored a hit with Barbed Arrow on the Gundabad Captain for 6,552 Beleriand damage to Morale.
+Rush of Power applied a heal to Nofishthewise restoring 528 points to Power.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Captain scored a hit with a minor swipe attack on Scout-master Ausma for 7,107 Common damage to Morale.
+The Gundabad Captain scored a hit with a minor swipe attack on Nofishthewise for 7,599 Common damage to Morale.
+Scout-master Ausma applied a benefit with Veteran Inspiration on Nofishthewise.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 3,799 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Scout-master Ausma for 3,992 Common damage to Morale.
+The Gundabad Captain scored a partially blocked hit with a moderate swipe attack on Scout-master Ausma for 5,042 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Scout-master Ausma defeated the Gundabad Captain.
+Nofishthewise scored a hit with Barbed Arrow on the Gundabad Captain for 6,552 Beleriand damage to Morale.
+The Gundabad Captain tried to use a weak swipe attack on Nofishthewise but he parried the attempt.
+Nofishthewise scored a hit with Long Shot on the Gundabad Captain for 33,234 Beleriand damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Captain for 15,057 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak ranged attack on Nofishthewise for 11,086 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 5,982 Common damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Captain for 27,466 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 21,085 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Black-arrow for 27,091 Beleriand damage to Morale.
+The Gundabad Captain scored a hit with a moderate swipe attack on Nofishthewise for 8,359 Common damage to Morale.
+Nofishthewise scored a critical hit with Barbed Arrow on the Gundabad Captain for 11,291 Beleriand damage to Morale.
+Blood Arrow Heal applied a heal to Nofishthewise restoring 6,019 points to Morale.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Nofishthewise for 4,268 Common damage to Morale.
+Nofishthewise scored a hit with Blood Arrow on the Gundabad Captain for 34,251 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor ranged attack on Scout-master Ausma for 8,640 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Black-arrow for 7,871 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Barbed Arrow on the Gundabad Captain for 11,291 Beleriand damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Black-arrow scored a hit with a minor melee attack on Nofishthewise for 5,335 Common damage to Morale.
+Nofishthewise scored a hit with Upshot on the Gundabad Black-arrow for 21,493 (6,448 from 1 Focus) Beleriand damage to Morale.
+Scout-master Ausma defeated the Gundabad Black-arrow.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 5,562 Common damage to Morale.
+Your mighty blow defeated the Gundabad Captain.
+Scout-master Ausma scored a hit with a mighty melee attack on the Gundabad Black-arrow for 35,573 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Captain for 22,872 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 17,885 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Black-arrow for 20,665 Beleriand damage to Morale.
+Scout-master Ausma defeated the Gundabad Warrior.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Warrior for 12,799 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Rush of Power applied a heal to Nofishthewise restoring 528 points to Power.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Scout-master Ausma applied a benefit with Veteran Inspiration on Nofishthewise.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak ranged attack on Scout-master Ausma for 8,999 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Scout-master Ausma scored a devastating hit with a weak melee attack on the Gundabad Black-arrow for 29,653 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Black-arrow scored a partially blocked hit with a moderate melee attack on Scout-master Ausma for 3,540 Common damage to Morale.
+Nofishthewise scored a hit with a melee attack on the Gundabad Black-arrow for 1,763 Beleriand damage to Morale.
+Scout-master Ausma scored a hit with Melee Stun on the Gundabad Black-arrow.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Black-arrow for 23,244 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Black-arrow.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Black-arrow for 26,189 Beleriand damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise applied a benefit with Track Mines on Nofishthewise.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise applied a benefit with Focus on Nofishthewise.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise scored a critical hit with Heart Seeker on the Gundabad Troll for 159,259 Beleriand damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on the Gundabad Troll for 6,566 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Troll for 26,291 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak ranged attack on Nofishthewise for 9,978 Common damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on the Gundabad Troll for 6,566 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Heart Seeker Bleed on the Gundabad Troll for 11,317 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Troll.
+The Gundabad Black-arrow scored a hit with a moderate ranged attack on Nofishthewise for 9,146 Common damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 4,786 Common damage to Morale.
+The Gundabad Black-arrow tried to use a weak melee attack on Scout-master Ausma but she evaded the attempt.
+Scout-master Ausma scored a critical hit with a minor melee attack on the Gundabad Black-arrow for 27,185 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate ranged attack on Scout-master Ausma for 8,554 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 4,823 Common damage to Morale.
+The Gundabad Warrior tried to use a minor melee attack on Nofishthewise but he parried the attempt.
+The Gundabad Black-arrow scored a hit with a weak ranged attack on Nofishthewise for 7,391 Common damage to Morale.
+You have dispelled Shared Corruption from Gundabad Warrior.
+Nofishthewise scored a critical hit with Oromë's Arrow on the Gundabad Warrior for 24,216 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Melee Blindside on the Gundabad Warrior for 37,036 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Black-arrow for 15,810 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak ranged attack on Scout-master Ausma for 8,099 Common damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 25,947 Beleriand damage to Morale.
+Scout-master Ausma scored a hit with a minor melee attack on the Gundabad Black-arrow for 19,763 Common damage to Morale.
+The Gundabad Black-arrow tried to use a weak melee attack on Scout-master Ausma but she evaded the attempt.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Scout-master Ausma for 3,992 Common damage to Morale.
+Scout-master Ausma defeated the Gundabad Black-arrow.
+Scout-master Ausma scored a hit with a moderate swipe attack on the Gundabad Black-arrow for 21,739 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate ranged attack on Scout-master Ausma for 9,504 Common damage to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a moderate melee attack on Scout-master Ausma for 3,540 Common damage to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a moderate melee attack on Scout-master Ausma for 3,540 Common damage to Morale.
+Scout-master Ausma scored a hit with Melee Stun on the Gundabad Black-arrow.
+The Gundabad Black-arrow tried to use a weak melee attack on Scout-master Ausma but she blocked the attempt.
+The Gundabad Black-arrow tried to use a minor melee attack on Scout-master Ausma but she parried the attempt.
+Scout-master Ausma scored a hit with a minor melee attack on the Gundabad Black-arrow for 19,763 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+Your mighty blow defeated the Gundabad Black-arrow.
+Nofishthewise scored a critical hit with Rain of Arrows on the Gundabad Black-arrow for 82,200 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 42,038 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a devastating hit with a moderate ranged attack on Nofishthewise for 20,325 Common damage to Morale.
+Scout-master Ausma scored a hit with Threatening Shout on the Gundabad Black-arrow.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+Scout-master Ausma scored a hit with a melee double attack on the Gundabad Black-arrow for 15,810 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Scout-master Ausma for 3,992 Common damage to Morale.
+Scout-master Ausma scored a hit with a melee double attack on the Gundabad Black-arrow for 15,765 Common damage to Morale.
+Blood Arrow Heal applied a heal to Nofishthewise restoring 6,019 points to Morale.
+Your mighty blow defeated the Gundabad Black-arrow.
+Nofishthewise scored a critical hit with Blood Arrow on the Gundabad Black-arrow for 123,943 Beleriand damage to Morale.
+Nofishthewise applied a benefit with Focus on Nofishthewise.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 30,779 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Rain of Arrows on the Gundabad Warrior for 69,870 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 21,315 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 22,700 Beleriand damage to Morale.
+The Gundabad Warrior scored a partially evaded hit with a weak melee attack on Nofishthewise for 3,378 Common damage to Morale.
+Nofishthewise scored a hit with Long Shot on the Gundabad Warrior for 27,023 Beleriand damage to Morale.
+Scout-master Ausma defeated the Gundabad Warrior.
+Scout-master Ausma scored a hit with a mighty melee attack on the Gundabad Warrior for 28,797 Common damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 17,136 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Scout-master Ausma for 5,595 Common damage to Morale.
+Scout-master Ausma scored a hit with a mighty melee attack on the Gundabad Warrior for 28,797 Common damage to Morale.
+The Gundabad Warrior scored a partially parried hit with a weak melee attack on Scout-master Ausma for 2,887 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Warrior for 12,799 Common damage to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Scout-master Ausma for 6,819 Common damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Scout-master Ausma scored a hit with a moderate melee attack on the Gundabad Warrior for 17,598 Common damage to Morale.
+Nofishthewise scored a hit with Heart Seeker on the Gundabad Warrior for 57,191 Beleriand damage to Morale.
+The Gundabad Warrior scored a partially evaded hit with a weak melee attack on Scout-master Ausma for 2,887 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a moderate melee attack on Nofishthewise for 7,736 Common damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Scout-master Ausma for 4,476 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Warrior for 12,799 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Nofishthewise for 3,751 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Scout-master Ausma for 5,595 Common damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Black-arrow for 21,572 Beleriand damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Black-arrow for 30,449 Beleriand damage to Morale.
+The Gundabad Warrior scored a partially evaded hit with a moderate melee attack on Scout-master Ausma for 3,969 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a minor melee attack on Nofishthewise for 7,033 Common damage to Morale.
+Scout-master Ausma missed trying to use Threatening Shout on the Gundabad Black-arrow.
+Scout-master Ausma scored a hit with Threatening Shout on the Gundabad Warrior.
+Scout-master Ausma scored a hit with Threatening Shout on the Gundabad Warrior.
+Nofishthewise scored a hit with Low Cut on the Gundabad Black-arrow for 20,897 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 18,006 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 18,892 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Black-arrow for 23,868 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a moderate melee attack on Nofishthewise for 4,586 Common damage to Morale.
+Scout-master Ausma defeated the Gundabad Black-arrow.
+Scout-master Ausma scored a critical hit with a minor melee attack on the Gundabad Black-arrow for 27,185 Common damage to Morale.
+The Gundabad Warrior scored a partially parried hit with a moderate melee attack on Scout-master Ausma for 4,399 Common damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Scout-master Ausma for 4,476 Common damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 38,876 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 31,693 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 32,734 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 32,409 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 35,571 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 34,855 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor melee attack on Nofishthewise for 5,335 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Nofishthewise for 5,157 Common damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 4,786 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Scout-master Ausma for 6,199 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Black-arrow for 15,810 Common damage to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Scout-master Ausma for 6,487 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak melee attack on Scout-master Ausma for 5,197 Common damage to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a minor melee attack on Nofishthewise for 4,169 Common damage to Morale.
+Nofishthewise scored a hit with Upshot on the Gundabad Black-arrow for 15,185 (0 from 0 Focus) Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Scout-master Ausma for 4,960 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 5,982 Common damage to Morale.
+Scout-master Ausma scored a hit with a mighty melee attack on the Gundabad Warrior for 28,797 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Scout-master Ausma for 5,897 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate melee attack on Scout-master Ausma for 5,489 Common damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Black-arrow for 6,924 Beleriand damage to Morale.
+The Gundabad Warrior scored a partially parried hit with a moderate melee attack on Scout-master Ausma for 4,399 Common damage to Morale.
+Scout-master Ausma scored a hit with Melee Stun on the Gundabad Warrior.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Nofishthewise for 3,388 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor melee attack on Scout-master Ausma for 4,990 Common damage to Morale.
+The Gundabad Warrior scored a partially evaded hit with a weak melee attack on Nofishthewise for 3,378 Common damage to Morale.
+The Gundabad Warrior scored a partially blocked hit with a minor melee attack on Scout-master Ausma for 3,999 Common damage to Morale.
+Nofishthewise scored a hit with Heart Seeker on the Gundabad Black-arrow for 57,569 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Black-arrow.
+The Gundabad Warrior scored a partially blocked hit with a weak melee attack on Scout-master Ausma for 3,043 Common damage to Morale.
+Rush of Power applied a heal to Nofishthewise restoring 528 points to Power.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Nofishthewise for 5,223 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak melee attack on Scout-master Ausma for 3,992 Common damage to Morale.
+Scout-master Ausma applied a benefit with Veteran Inspiration on Nofishthewise.
+The Gundabad Warrior scored a hit with a moderate melee attack on Scout-master Ausma for 6,819 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Scout-master Ausma for 6,199 Common damage to Morale.
+Nofishthewise scored a hit with Penetrating Shot on the Gundabad Warrior for 26,997 Beleriand damage to Morale.
+Scout-master Ausma defeated the Gundabad Warrior.
+The Gundabad Black-arrow tried to use a moderate melee attack on Scout-master Ausma but she blocked the attempt.
+Scout-master Ausma scored a critical hit with a mighty melee attack on the Gundabad Warrior for 39,613 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 5,982 Common damage to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Scout-master Ausma for 6,819 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Scout-master Ausma defeated the Gundabad Warrior.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Long Shot on the Gundabad Warrior for 29,358 Beleriand damage to Morale.
+Scout-master Ausma scored a hit with a moderate melee attack on the Gundabad Warrior for 17,598 Common damage to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a minor melee attack on Scout-master Ausma for 3,218 Common damage to Morale.
+Scout-master Ausma defeated the Gundabad Black-arrow.
+Scout-master Ausma scored a hit with a moderate swipe attack on the Gundabad Black-arrow for 21,739 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Nofishthewise applied a benefit with Focus on Nofishthewise.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Your mighty blow defeated the Gundabad Black-arrow.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Captain for 41,471 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 38,956 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 40,827 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 35,542 Beleriand damage to Morale.
+Nofishthewise scored a devastating hit with Rain of Arrows on the Gundabad Black-arrow for 103,958 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 36,757 Beleriand damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Black-arrow scored a hit with a weak ranged attack on Nofishthewise for 6,652 Common damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Captain for 21,977 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 21,631 Beleriand damage to Morale.
+The Gundabad Captain scored a hit with a mighty swipe attack on Nofishthewise for 12,514 Common damage to Morale.
+The Gundabad Captain scored a hit with a mighty swipe attack on Scout-master Ausma for 11,703 Common damage to Morale.
+Scout-master Ausma scored a hit with a mighty melee attack on the Gundabad Captain for 33,879 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 5,982 Common damage to Morale.
+Nofishthewise scored a critical hit with Upshot on the Gundabad Captain for 46,617 (13,985 from 1 Focus) Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate ranged attack on Nofishthewise for 9,146 Common damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Captain for 7,565 Beleriand damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 3,799 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Captain for 15,057 Common damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Captain for 20,635 Beleriand damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Captain for 29,675 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a minor ranged attack on Nofishthewise for 5,869 Common damage to Morale.
+Blood Arrow Heal applied a heal to Nofishthewise restoring 6,019 points to Morale.
+Your mighty blow defeated the Gundabad Captain.
+Nofishthewise scored a hit with Blood Arrow on the Gundabad Captain for 35,622 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 4,786 Common damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a critical hit with Low Cut on the Gundabad Warrior for 33,651 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 19,903 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak ranged attack on Nofishthewise for 7,391 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Warrior scored a devastating hit with a minor melee attack on Nofishthewise for 11,964 Common damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a critical hit with Penetrating Shot on the Gundabad Warrior for 56,600 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a moderate ranged attack on Nofishthewise for 10,162 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a moderate ranged attack on Nofishthewise for 15,244 Common damage to Morale.
+Scout-master Ausma scored a hit with a moderate melee attack on the Gundabad Black-arrow for 21,739 Common damage to Morale.
+The Gundabad Black-arrow scored a critical hit with a weak melee attack on Scout-master Ausma for 5,197 Common damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+The Gundabad Black-arrow scored a partially evaded hit with a weak ranged attack on Nofishthewise for 5,217 Common damage to Morale.
+Nofishthewise scored a hit with Quick Shot on the Gundabad Black-arrow for 7,728 Beleriand damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Black-arrow for 15,810 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor melee attack on Scout-master Ausma for 4,990 Common damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Black-arrow for 22,151 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a minor ranged attack on Nofishthewise for 9,239 Common damage to Morale.
+Your mighty blow defeated the Gundabad Black-arrow.
+Nofishthewise scored a critical hit with Quick Shot on the Gundabad Black-arrow for 17,059 Beleriand damage to Morale.
+Veteran Inspiration applied a heal to Nofishthewise restoring 8,169 points to Morale.
+Scout-master Ausma defeated the Gundabad Black-arrow.
+Scout-master Ausma scored a hit with a moderate melee attack on the Gundabad Black-arrow for 21,739 Common damage to Morale.
+Nofishthewise applied a benefit with Focus on Nofishthewise.
+Your mighty blow defeated the Gundabad Black-arrow.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 40,116 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 29,653 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Rain of Arrows on the Gundabad Black-arrow for 82,200 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 29,260 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Black-arrow for 38,513 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak ranged attack on Nofishthewise for 6,652 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with a weak ranged attack on Nofishthewise for 6,652 Common damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Black-arrow for 22,364 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 19,245 Beleriand damage to Morale.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 19,755 Beleriand damage to Morale.
+Nofishthewise scored a hit with Upshot on the Gundabad Warrior for 19,036 (11,422 from 2 Focus) Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 5,982 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 4,749 Common damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Scout-master Ausma scored a critical hit with Melee Stun on the Gundabad Black-arrow.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 19,676 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with Minor Poison on Nofishthewise for 2,813 Common damage to Morale.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 20,641 Beleriand damage to Morale.
+The Gundabad Black-arrow scored a hit with Lesser Venom on Nofishthewise.
+Your mighty blow defeated the Gundabad Black-arrow.
+Your mighty blow defeated the Gundabad Black-arrow.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Black-arrow for 15,810 Common damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Warrior for 16,007 Beleriand damage to Morale.
+Nofishthewise scored a hit with Low Cut on the Gundabad Black-arrow for 19,600 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Low Cut on the Gundabad Black-arrow for 41,568 Beleriand damage to Morale.
+The Gundabad Warrior scored a critical hit with a moderate melee attack on Nofishthewise for 9,870 Common damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Upper-cut on the Gundabad Warrior for 27,620 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with Minor Poison on Nofishthewise for 2,813 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with Minor Poison on Nofishthewise for 2,813 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with Minor Poison on Nofishthewise for 2,813 Common damage to Morale.
+The Gundabad Black-arrow scored a hit with Minor Poison on Nofishthewise for 2,813 Common damage to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Nofishthewise for 6,580 Common damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nofishthewise for 5,982 Common damage to Morale.
+Scout-master Ausma scored a hit with a weak melee attack on the Gundabad Warrior for 12,799 Common damage to Morale.
+Scout-master Ausma scored a hit with a minor melee attack on the Gundabad Warrior for 15,998 Common damage to Morale.
+The Gundabad Warrior tried to use a moderate melee attack on Scout-master Ausma but she evaded the attempt.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 17,417 Beleriand damage to Morale.
+Scout-master Ausma defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Melee Blindside on the Gundabad Warrior for 26,111 Beleriand damage to Morale.
+Scout-master Ausma scored a critical hit with a weak melee attack on the Gundabad Warrior for 17,606 Common damage to Morale.
+Nofishthewise applied a benefit with Focus on Nofishthewise.
+Nofishthewise scored a critical hit with Heart Seeker on Quartermaster Khorglam for 150,188 Beleriand damage to Morale.
+Nofishthewise scored a critical hit with Heart Seeker Bleed on Quartermaster Khorglam for 10,778 Beleriand damage to Morale.
+Quartermaster Khorglam scored a hit with a weak ranged attack on Nofishthewise for 10,162 Common damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on Quartermaster Khorglam for 41,887 Beleriand damage to Morale.
+Nofishthewise scored a hit with Rain of Arrows on the Gundabad Warrior for 34,206 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nofishthewise for 4,786 Common damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on Quartermaster Khorglam for 6,254 Beleriand damage to Morale.
+Blood Arrow Heal applied a heal to Nofishthewise restoring 6,019 points to Morale.
+Nofishthewise scored a hit with Blood Arrow on Quartermaster Khorglam for 33,204 Beleriand damage to Morale.
+Nofishthewise scored a hit with Heart Seeker Bleed on Quartermaster Khorglam for 6,254 Beleriand damage to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Nofishthewise for 6,580 Common damage to Morale.
+Quartermaster Khorglam scored a critical hit with a moderate ranged attack on Nofishthewise for 20,960 Common damage to Morale.
+Scout-master Ausma defeated Quartermaster Khorglam.
+Nofishthewise scored a hit with Low Cut on Quartermaster Khorglam for 21,863 Beleriand damage to Morale.
+Scout-master Ausma scored a hit with a melee double attack on Quartermaster Khorglam for 15,810 Common damage to Morale.
+Scout-master Ausma scored a hit with a mighty melee attack on the Gundabad Warrior for 28,797 Common damage to Morale.
+Nofishthewise scored a hit with Bard's Arrow on the Gundabad Warrior for 19,497 Beleriand damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+Nofishthewise scored a hit with Split Shot on the Gundabad Warrior for 21,077 Beleriand damage to Morale.
