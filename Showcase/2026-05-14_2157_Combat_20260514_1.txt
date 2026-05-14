@@ -1,0 +1,139 @@
+### Chat Log: Combat 05/14 09:53 PM ###
+The Slade Stalker scored a hit with a weak melee attack on Nlkosi for 529 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Slade Stalker for 2,344 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Slade Stalker.
+Nlkosi scored a devastating hit with Essence of Storm on the Slade Stalker for 15,609 Lightning damage to Morale.
+Your mighty blow defeated the Slade Warg.
+Nlkosi scored a hit with Epic Conclusion on the Slade Warg for 16,500 Lightning damage to Morale.
+Nlkosi scored a critical hit with Distracting Flame on the Slade Stalker.
+Nlkosi scored a critical hit with Scribe's Spark on the Slade Stalker for 9,032 Lightning damage to Morale.
+Your mighty blow defeated the Slade Stalker.
+Nlkosi scored a hit with Shocking Words on the Slade Stalker for 14,346 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Slade Warg for 3,005 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Slade Warg for 7,386 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Slade Warg for 3,060 Lightning damage to Morale.
+Your mighty blow defeated the Slade Warg.
+Nlkosi scored a critical hit with Scribe's Spark on the Slade Warg for 8,814 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on Drauglok.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Slade Warg for 950 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 919 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Slade Stalker for 939 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Slade Stalker scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 120 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Slade Warg for 3,490 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Slade Warg for 985 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 965 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Slade Stalker for 982 Lightning damage to Morale.
+The Slade Warg scored a hit with a minor melee attack on the Volcanic Rune-stone for 150 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Slade Warg for 3,490 Fire damage to Morale.
+Your mighty blow defeated the Slade Warg.
+Nlkosi scored a hit with Epic Conclusion on the Slade Warg for 13,738 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 1,009 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Slade Stalker for 939 Lightning damage to Morale.
+The Slade Stalker scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 165 Common damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on Drauglok but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 956 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Slade Stalker for 1,006 Lightning damage to Morale.
+The Slade Stalker scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 120 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Slade Stalker for 3,864 Lightning damage to Morale.
+Nlkosi tried to use Induce Stunned on the Slade Stalker but he was immune to the attempt.
+Nlkosi scored a hit with Shocking Words on the Slade Stalker for 8,107 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Slade Stalker for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Slade Stalker.
+Drauglok scored a hit with Chilled on Nlkosi for 889 Shadow damage to Morale.
+Drauglok scored a hit with Chilled on Nlkosi.
+You have lost 889 points of temporary Morale!
+You have lost 433 points of temporary Morale!
+Nlkosi scored a hit with Distracting Flame on the Warg Reinforcement.
+Nothing to dispel.
+Nlkosi scored a hit with Ceaseless Argument on the Warg Reinforcement for 2,834 Lightning damage to Morale.
+You have lost 4,064 points of temporary Morale!
+Nlkosi scored a hit with Improved Final Word on the Warg Reinforcement.
+Drauglok scored a hit with Chilled on Nlkosi for 957 Shadow damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Warg Reinforcement for 3,305 Lightning damage to Morale.
+Drauglok scored a hit with Serious Wound on Nlkosi for 433 Common damage to Morale.
+The Warg Reinforcement scored a hit with Melee Med Bleed on Nlkosi.
+Nlkosi scored a hit with Distracting Flame on the Warg Reinforcement for 903 Fire damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Warg Reinforcement for 2,129 Frost damage to Morale.
+Drauglok scored a partially evaded hit with a weak melee attack on Nlkosi for 731 Common damage to Morale.
+Nlkosi scored a hit with Head-butt on the Warg Reinforcement for 3,117 Common damage to Morale.
+The Warg Reinforcement scored a hit with a weak melee attack on Nlkosi for 433 Common damage to Morale.
+Drauglok scored a hit with Serious Wound on Nlkosi for 433 Common damage to Morale.
+Your mighty blow defeated the Warg Reinforcement.
+Drauglok scored a hit with Chilled on Nlkosi for 957 Shadow damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Warg Reinforcement for 3,489 Lightning damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,022 Common damage to Morale.
+Drauglok scored a hit with Shadow Surge on Nlkosi for 957 Shadow damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,022 Common damage to Morale.
+Drauglok scored a hit with Serious Wound on Nlkosi for 433 Common damage to Morale.
+Drauglok scored a hit with a minor melee attack on Nlkosi for 1,022 Common damage to Morale.
+Drauglok scored a hit with Chilled on Nlkosi for 957 Shadow damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,022 Common damage to Morale.
+Drauglok scored a hit with Dread Howl on Nlkosi.
+Drauglok scored a hit with Serious Wound on Nlkosi for 438 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 972 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,033 Common damage to Morale.
+Drauglok scored a hit with Chilled on Nlkosi for 968 Shadow damage to Morale.
+Drauglok scored a partially evaded hit with a weak melee attack on the Charged Fulgurite Rune-stone for 119 Common damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,033 Common damage to Morale.
+Drauglok scored a hit with Serious Wound on Nlkosi for 438 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 942 Lightning damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,033 Common damage to Morale.
+Drauglok scored a hit with Serious Wound on Nlkosi for 438 Common damage to Morale.
+Drauglok scored a hit with Chilled on Nlkosi for 968 Shadow damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 1,021 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Drauglok for 3,490 Fire damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,033 Common damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Drauglok scored a devastating hit with a weak melee attack on the Charged Fulgurite Rune-stone for 333 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Drauglok for 3,490 Fire damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,033 Common damage to Morale.
+Drauglok tried to use Crippled on the Volcanic Rune-stone but it resisted the attempt.
+Drauglok scored a hit with Crippling Bite on the Volcanic Rune-stone.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on Drauglok but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on Drauglok for 988 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Ceaseless Argument on Drauglok for 2,741 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on Drauglok.
+Nlkosi scored a hit with Volcanic Rune-stone on Drauglok for 3,490 Fire damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,033 Common damage to Morale.
+Drauglok missed trying to use a mighty melee attack on the Volcanic Rune-stone.
+Nlkosi scored a hit with Ceaseless Argument on Drauglok for 2,750 Lightning damage to Morale.
+Nlkosi tried to use Induce Stunned on Drauglok but he was immune to the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on Drauglok for 3,490 Fire damage to Morale.
+Drauglok tried to use Deep Wound on Nlkosi but he resisted the attempt.
+Nlkosi scored a hit with Shocking Words on Drauglok for 13,444 Lightning damage to Morale.
+Drauglok scored a partially parried hit with a weak melee attack on the Volcanic Rune-stone for 119 Common damage to Morale.
+Nlkosi scored a hit with Shocking Touch on Drauglok for 1,293 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Drauglok for 3,490 Fire damage to Morale.
+Drauglok scored a hit with Deep Wound on Nlkosi for 1,033 Common damage to Morale.
+Nlkosi scored a devastating hit with Chilling Rhetoric on Drauglok for 5,172 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Drauglok for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Distracting Flame on Drauglok.
+Drauglok scored a hit with a weak melee attack on Nlkosi for 827 Common damage to Morale.
+Nlkosi scored a hit with Essence of Flame on Drauglok for 8,633 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on Drauglok for 2,869 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on Drauglok for 910 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 26 points to Power.
+Your mighty blow defeated Drauglok.
+Nlkosi scored a critical hit with Epic Conclusion on Drauglok for 52,670 Lightning damage to Morale.
+The Slade Warg scored a hit with a weak melee attack on Nlkosi for 535 Common damage to Morale.
+The Slade Warg scored a hit with Serious Wound on Nlkosi for 535 Common damage to Morale.
+The Slade Warg scored a hit with Melee Med Bleed on Nlkosi.
+Nlkosi scored a hit with Writ of Lightning on the Slade Warg for 3,611 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Slade Warg for 4,203 Lightning damage to Morale.
+The Slade Warg scored a hit with Serious Wound on Nlkosi for 519 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 26 points to Power.
+Your mighty blow defeated the Slade Warg.
+Nlkosi scored a critical hit with Ceaseless Argument on the Slade Warg for 8,224 Lightning damage to Morale.
+The Slade Warg scored a hit with Serious Wound on Nlkosi for 519 Common damage to Morale.
+The Slade Warg scored a hit with Serious Wound on Nlkosi for 519 Common damage to Morale.
+The Slade Warg scored a hit with Serious Wound on Nlkosi for 529 Common damage to Morale.
+The Slade Warg scored a hit with Serious Wound on Nlkosi for 529 Common damage to Morale.
