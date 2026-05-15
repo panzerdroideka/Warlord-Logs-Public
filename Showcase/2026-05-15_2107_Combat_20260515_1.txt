@@ -1,0 +1,566 @@
+### Chat Log: Combat 05/15 08:56 PM ###
+The Sundergrót Sentry scored a hit with Tar Pot on Nlkosi.
+The Sundergrót Sentry scored a hit with a moderate melee attack on Nlkosi for 771 Common damage to Morale.
+The Sundergrót Sentry scored a hit with a weak melee attack on Nlkosi for 561 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Sundergrót Sentry for 5,773 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Sundergrót Sentry for 9,736 Lightning damage to Morale.
+Your mighty blow defeated the Sundergrót Sentry.
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Sentry for 2,990 Lightning damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Essence of Storm on the Sundergrót Drudge for 3,473 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a weak melee attack on Nlkosi for 401 Common damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Drudge for 2,628 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 551 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Nlkosi scored a critical hit with Shocking Touch on the Sundergrót Drudge for 2,907 Lightning damage to Morale.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Epic Conclusion on the Sundergrót Drudge for 18,819 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 955 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Writ of Lightning on the Sundergrót Drudge for 3,213 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Sundergrót Drudge for 2,308 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 940 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 242 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,186 points to Morale.
+Nlkosi tried to use Induce Stunned on the Sundergrót Drudge but he was immune to the attempt.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a devastating hit with Shocking Words on the Sundergrót Drudge for 33,254 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Sundergrót Sentry for 10,651 Lightning damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Sundergrót Sentry for 1,990 Frost damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nothing to dispel.
+The Sundergrót Sentry tried to use Fire Gourd on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Improved Final Word on the Sundergrót Sentry.
+Your mighty blow defeated the Sundergrót Sentry.
+Nlkosi scored a devastating hit with Ceaseless Argument on the Sundergrót Sentry for 8,386 Lightning damage to Morale.
+The Sundergrót Sentry scored a hit with Tar Pot on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+You have lost 771 points of temporary Morale!
+The Troll Crusher tried to use a mighty swipe attack on the Volcanic Rune-stone but it parried the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 931 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sentry for 975 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Sundergrót Sentry for 3,610 Lightning damage to Morale.
+You have lost 1,103 points of temporary Morale!
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 1,014 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sentry for 981 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 747 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi applied a critical benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 231 points to Morale.
+Nlkosi scored a hit with Head-butt on the Sundergrót Sentry for 3,117 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 192 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 961 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sentry for 924 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Sentry for 2,968 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 202 points to Morale.
+The Sundergrót Sentry scored a partially evaded hit with a weak melee attack on Nlkosi for 501 Common damage to Morale.
+You have lost 501 points of temporary Morale!
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Sundergrót Sentry for 1,735 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 222 points to Morale.
+Your mighty blow defeated the Sundergrót Sentry.
+The Troll Crusher tried to use Induce Stunned on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+The Troll Crusher tried to use Induce Stunned on the Volcanic Rune-stone but it was immune to the attempt.
+Nlkosi scored a hit with Writ of Lightning on the Sundergrót Sentry for 2,755 Lightning damage to Morale.
+The Troll Crusher scored a hit with Crush on the Volcanic Rune-stone for 305 Common damage to Morale.
+The Troll Crusher scored a hit with Crush on the Charged Fulgurite Rune-stone for 305 Common damage to Morale.
+You have lost 3,011 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 184 points to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Troll Crusher but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 966 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Troll Crusher for 4,389 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 227 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Troll Crusher for 6,004 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 210 points to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 258 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,499 points to Morale.
+Your mighty blow defeated the Troll Crusher.
+Prelude to Hope applied a critical heal to Nlkosi restoring 306 points to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Troll Crusher for 10,071 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 185 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 175 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 320 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 221 points to Morale.
+Nlkosi scored a hit with Shocking Words on the Sundergrót Sentry for 10,131 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Sundergrót Sentry.
+Nlkosi scored a critical hit with Fiery Ridicule on the Sundergrót Sentry for 3,635 Fire damage to Morale.
+Your mighty blow defeated the Sundergrót Sentry.
+Nlkosi scored a hit with Chilling Rhetoric on the Sundergrót Sentry for 2,773 Frost damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Sapper for 3,690 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Sapper for 3,690 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with a moderate melee attack on the Volcanic Rune-stone for 100 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sapper for 1,016 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Sapper for 3,690 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Sapper.
+Prelude to Hope applied a heal to Nlkosi restoring 505 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 190 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 209 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 288 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Nlkosi scored a devastating hit with Scribe's Spark on the Sundergrót Sapper for 9,024 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 279 points to Morale.
+Your mighty blow defeated the Sundergrót Sapper.
+Nlkosi scored a hit with Epic Conclusion on the Sundergrót Sapper for 17,405 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 215 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 169 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 219 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 229 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 214 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 254 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 198 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 306 points to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on Nlkosi for 501 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on Nlkosi for 501 Common damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Drudge for 3,361 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a weak melee attack on Nlkosi for 401 Common damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Sundergrót Drudge.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 551 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 615 points to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 551 Common damage to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 202 points to Morale.
+The Sundergrót Drudge scored a devastating hit with a minor melee attack on Nlkosi for 966 Common damage to Morale.
+Nlkosi scored a critical hit with Chilling Rhetoric on the Sundergrót Drudge for 4,218 Frost damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 193 points to Morale.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Vivid Imagery on the Sundergrót Drudge for 4,831 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Sundergrót Drudge for 4,862 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 216 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 199 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Sundergrót Drudge for 4,715 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 278 points to Morale.
+The Sundergrót Drudge scored a hit with a weak melee attack on Nlkosi for 389 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 180 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a critical hit with Ceaseless Argument on the Sundergrót Drudge for 8,007 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 259 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 172 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a critical hit with Explosive Blackpowder on Nlkosi for 2,094 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 193 points to Morale.
+The Sundergrót Drudge tried to use a weak melee attack on Nlkosi but he parried the attempt.
+Nlkosi scored a hit with Ceaseless Argument on the Sundergrót Sapper for 3,060 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 183 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Your mighty blow defeated the Sundergrót Sapper.
+Nlkosi scored a hit with Shocking Words on the Sundergrót Sapper for 9,729 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 534 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 182 points to Morale.
+Nlkosi scored a hit with Static Surge on the Sundergrót Drudge for 9,205 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 254 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Ceaseless Argument on the Sundergrót Drudge for 2,823 Lightning damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Sundergrót Drudge scored a hit with a minor melee attack on the Volcanic Rune-stone for 113 Common damage to Morale.
+The Troll Crusher tried to use Knockaway on the Volcanic Rune-stone but it was immune to the attempt.
+The Troll Crusher scored a hit with Melee Arc Knockback on the Volcanic Rune-stone for 203 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 1,016 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 978 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 958 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on the Volcanic Rune-stone for 113 Common damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on the Volcanic Rune-stone for 125 Common damage to Morale.
+The Sundergrót Drudge scored a partially blocked hit with a moderate melee attack on the Volcanic Rune-stone for 80 Common damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 761 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi applied a benefit with Prelude to Hope on the Volcanic Rune-stone.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 1,018 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 978 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 195 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 199 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Troll Crusher scored a partially blocked hit with a weak swipe attack on the Volcanic Rune-stone for 131 Common damage to Morale.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 203 points to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Troll Crusher but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 979 Lightning damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 211 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 521 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 170 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 220 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 165 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 220 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Troll Crusher but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 934 Lightning damage to Morale.
+Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 270 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 195 points to Morale.
+Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 216 points to Morale.
+Nothing to dispel.
+Prelude to Hope applied a critical heal to Nlkosi restoring 279 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Troll Crusher.
+Nlkosi scored a hit with Improved Final Word on the Troll Crusher.
+The Troll Crusher scored a hit with Crush on Nlkosi for 1,346 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 228 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 188 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 187 points to Morale.
+Nlkosi scored a hit with Distracting Flame on the Troll Crusher for 990 Fire damage to Morale.
+Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 226 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 204 points to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Troll Crusher for 4,641 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 230 points to Morale.
+Nlkosi scored a hit with Distracting Flame on the Troll Crusher for 972 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Troll Crusher.
+Nlkosi scored a critical hit with Essence of Storm on the Troll Crusher for 15,304 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 182 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 326 points to Morale.
+The Sundergrót Sentry scored a partially evaded hit with Tar Pot on Nlkosi.
+The Sundergrót Sentry scored a hit with a moderate melee attack on Nlkosi for 925 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Sundergrót Sentry for 3,447 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Sundergrót Sentry for 2,013 Fire damage to Morale.
+The Sundergrót Sentry scored a hit with a weak melee attack on Nlkosi for 673 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Sundergrót Sentry for 3,721 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Touch on the Sundergrót Sentry for 1,651 Lightning damage to Morale.
+Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+Nlkosi scored a hit with Fiery Ridicule on the Sundergrót Sentry for 2,333 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Sundergrót Sentry for 2,055 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 197 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,327 points to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Sundergrót Sentry.
+The Sundergrót Sentry scored a hit with a moderate melee attack on Nlkosi for 463 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Sundergrót Sentry for 1,562 Fire damage to Morale.
+Your mighty blow defeated the Sundergrót Sentry.
+The Sundergrót Drudge tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+The Sundergrót Drudge scored a hit with a weak melee attack on Nlkosi for 200 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 1,014 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 924 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 928 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Troll Crusher but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 991 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Sundergrót Drudge but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 954 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 970 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on the Volcanic Rune-stone for 125 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on the Volcanic Rune-stone for 113 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 545 points to Morale.
+The Sundergrót Drudge scored a hit with a weak melee attack on the Volcanic Rune-stone for 91 Common damage to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 212 points to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Troll Crusher but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 997 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 997 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Sundergrót Drudge but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 989 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Nlkosi scored a critical hit with Vivid Imagery on the Troll Crusher for 11,662 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Vivid Imagery on the Sundergrót Drudge for 14,635 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Sundergrót Drudge for 4,160 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 309 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 170 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 976 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 188 points to Morale.
+The Troll Crusher scored a hit with a weak swipe attack on Nlkosi for 897 Common damage to Morale.
+The Troll Crusher scored a critical hit with a weak swipe attack on the Volcanic Rune-stone for 264 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 194 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi tried to use Induce Stunned on the Troll Crusher but he was immune to the attempt.
+Your mighty blow defeated the Troll Crusher.
+Nlkosi scored a critical hit with Shocking Words on the Troll Crusher for 28,692 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 226 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 319 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 169 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 174 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 325 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 211 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 250 points to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 551 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a weak melee attack on Nlkosi for 401 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a weak melee attack on Nlkosi for 401 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on Nlkosi for 501 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 551 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a weak melee attack on Nlkosi for 401 Common damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 588 points to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 551 Common damage to Morale.
+You have lost 551 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 193 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+You have lost 501 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 229 points to Morale.
+Nlkosi scored a devastating hit with Distracting Flame on the Sundergrót Drudge.
+Prelude to Hope applied a heal to Nlkosi restoring 176 points to Morale.
+You have lost 401 points of temporary Morale!
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Drudge for 2,739 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 551 Common damage to Morale.
+You have lost 551 points of temporary Morale!
+Prelude to Hope applied a critical heal to Nlkosi restoring 293 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Sundergrót Drudge for 4,393 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 203 points to Morale.
+Nlkosi scored a hit with Distracting Flame on the Sundergrót Drudge for 885 Fire damage to Morale.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Ceaseless Argument on the Sundergrót Drudge for 2,784 Lightning damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 280 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 190 points to Morale.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Epic Conclusion on the Sundergrót Drudge for 18,638 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 198 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 234 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 228 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 174 points to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Sundergrót Sapper for 3,119 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 220 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Sapper for 3,030 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Sundergrót Sapper.
+Nlkosi scored a critical hit with Sustaining Bolt on the Sundergrót Sapper for 5,130 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 176 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,302 points to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 872 Fire damage to Morale.
+You have lost 872 points of temporary Morale!
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 872 Fire damage to Morale.
+You have lost 872 points of temporary Morale!
+You have lost 1,638 points of temporary Morale!
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Sundergrót Drudge tried to use a weak melee attack on the Volcanic Rune-stone but it parried the attempt.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 972 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 1,012 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 1,008 Lightning damage to Morale.
+The Troll Crusher scored a hit with a weak swipe attack on the Volcanic Rune-stone for 203 Common damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Shocking Words on the Troll Crusher for 12,191 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Troll Crusher.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 978 Lightning damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,800 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Troll Crusher for 2,785 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Troll Crusher but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 995 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Troll Crusher.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a critical hit with Essence of Storm on the Troll Crusher for 16,408 Lightning damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Sapper for 2,609 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Sundergrót Sapper.
+Nlkosi scored a critical hit with Essence of Storm on the Sundergrót Sapper for 14,126 Lightning damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sapper scored a hit with Powder Burns on Nlkosi for 938 Fire damage to Morale.
+The Sundergrót Sentry scored a hit with Tar Pot on Nlkosi.
+Nlkosi scored a hit with Sustaining Bolt on the Sundergrót Sentry for 1,224 Lightning damage to Morale.
+The Sundergrót Sentry scored a hit with Fire Gourd on Nlkosi for 1,407 Fire damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 171 points to Power.
+Sustenance applied a heal to Nlkosi restoring 2,547 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Nothing to dispel.
+Nlkosi scored a critical hit with Scribe's Spark on the Sundergrót Sentry for 6,953 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Sundergrót Sentry.
+The Sundergrót Sentry scored a hit with a weak melee attack on Nlkosi for 561 Common damage to Morale.
+Your mighty blow defeated the Sundergrót Sentry.
+Nlkosi scored a devastating hit with Shocking Words on the Sundergrót Sentry for 32,215 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 481 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 228 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 234 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 221 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 270 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 199 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 211 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 1,000 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 982 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sapper for 964 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Prelude to Hope applied a critical heal to Nlkosi restoring 261 points to Morale.
+The Sundergrót Sapper tried to use Knockback on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+The Sundergrót Sapper scored a hit with Explosive Blackpowder on the Charged Fulgurite Rune-stone for 58 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 226 points to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Sundergrót Drudge scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 113 Common damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 297 points to Morale.
+The Sundergrót Sapper scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 73 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 983 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sapper for 928 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 1,015 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on the Volcanic Rune-stone for 113 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 305 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 35 points to Power.
+Your mighty blow defeated the Sundergrót Drudge.
+Nlkosi scored a critical hit with Scribe's Spark on the Sundergrót Drudge for 10,380 Lightning damage to Morale.
+The Sundergrót Sapper scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 91 Common damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 304 points to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sapper for 944 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 228 points to Morale.
+The Sundergrót Sapper scored a partially blocked hit with a weak melee attack on the Charged Fulgurite Rune-stone for 47 Common damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Sundergrót Sapper for 4,378 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sapper for 1,004 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Sundergrót Sapper.
+Your mighty blow defeated the Sundergrót Sapper.
+Nlkosi scored a hit with Fiery Ridicule on the Sundergrót Sapper for 2,307 Fire damage to Morale.
+The Sundergrót Sentry scored a hit with Tar Pot on Nlkosi.
+Nlkosi scored a hit with Scribe's Spark on the Sundergrót Sentry for 2,911 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Sundergrót Sentry.
+The Sundergrót Sentry tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 632 points to Morale.
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 193 points to Morale.
+Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Sundergrót Sentry for 9,763 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 171 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 176 points to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Sundergrót Sentry for 2,062 Lightning damage to Morale.
+Your mighty blow defeated the Sundergrót Sentry.
+Nlkosi scored a hit with Fiery Ridicule on the Sundergrót Sentry for 1,628 Fire damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 244 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 231 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 215 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 225 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 203 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 209 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 175 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 254 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 216 points to Morale.
+The Sundergrót Sentry scored a hit with Tar Pot on Nlkosi.
+Nlkosi scored a hit with Writ of Lightning on the Troll Crusher for 2,822 Lightning damage to Morale.
+The Sundergrót Sentry scored a critical hit with Seared on Nlkosi for 422 Fire damage to Morale.
+Nlkosi scored a hit with a melee attack on the Sundergrót Sentry for 243 Lightning damage to Morale.
+The Sundergrót Sentry scored a critical hit with Fire Gourd on Nlkosi for 2,012 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Sundergrót Sentry for 4,158 Lightning damage to Morale.
+Nlkosi scored a hit with a melee attack on the Sundergrót Sentry for 215 Lightning damage to Morale.
+The Sundergrót Sentry scored a hit with a weak melee attack on Nlkosi for 561 Common damage to Morale.
+Nlkosi scored a critical hit with Distracting Flame on the Sundergrót Sentry.
+The Troll Crusher scored a partially evaded hit with a mighty swipe attack on Nlkosi for 1,805 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,962 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Sentry for 3,590 Fire damage to Morale.
+The Sundergrót Sentry scored a hit with Seared on Nlkosi for 422 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Sundergrót Sentry scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 113 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 1,012 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Sentry for 975 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,962 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Sentry for 3,590 Fire damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Sundergrót Sentry for 1,140 Fire damage to Morale.
+The Sundergrót Sentry scored a partially evaded hit with a minor melee attack on the Volcanic Rune-stone for 102 Common damage to Morale.
+The Sundergrót Sentry scored a hit with Seared on Nlkosi for 422 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,962 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Sentry for 3,590 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Sentry.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 1,004 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,962 Fire damage to Morale.
+The Sundergrót Sentry scored a hit with Seared on Nlkosi for 422 Fire damage to Morale.
+The Troll Crusher tried to use Induce Stunned on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+The Troll Crusher tried to use Induce Stunned on the Volcanic Rune-stone but it was immune to the attempt.
+The Troll Crusher scored a hit with Crush on Nlkosi for 1,346 Common damage to Morale.
+The Troll Crusher scored a hit with Crush on the Volcanic Rune-stone for 305 Common damage to Morale.
+The Troll Crusher scored a hit with Crush on the Charged Fulgurite Rune-stone for 305 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 953 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,962 Fire damage to Morale.
+The Sundergrót Sentry tried to use Seared on Nlkosi but he resisted the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Troll Crusher for 3,962 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Troll Crusher for 1,027 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Troll Crusher.
+The Sundergrót Sentry scored a hit with Seared on Nlkosi for 506 Fire damage to Morale.
+Your mighty blow defeated the Troll Crusher.
+Nlkosi scored a hit with Epic Conclusion on the Troll Crusher for 20,612 Lightning damage to Morale.
+Nlkosi missed trying to use Shocking Words on the Sundergrót Drudge.
+Nlkosi missed trying to use Essence of Storm on the Sundergrót Drudge.
+Nlkosi missed trying to use Scribe's Spark on the Sundergrót Drudge.
+Nlkosi missed trying to use Ceaseless Argument on the Sundergrót Drudge.
+The Sundergrót Drudge scored a partially evaded hit with a moderate melee attack on Nlkosi for 591 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on Nlkosi for 601 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Sundergrót Drudge for 2,683 Lightning damage to Morale.
+The Sundergrót Drudge scored a hit with a moderate melee attack on Nlkosi for 661 Common damage to Morale.
+The Sundergrót Drudge scored a partially evaded hit with a weak melee attack on Nlkosi for 430 Common damage to Morale.
+The Sundergrót Drudge scored a hit with a minor melee attack on Nlkosi for 601 Common damage to Morale.
+The Sundergrót Drudge scored a critical hit with a minor melee attack on Nlkosi for 859 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Sundergrót Drudge scored a hit with a weak melee attack on the Volcanic Rune-stone for 91 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 937 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Sundergrót Drudge for 938 Lightning damage to Morale.
+The Sundergrót Drudge tried to use Impending Stun on the Volcanic Rune-stone but it resisted the attempt.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Sundergrót Drudge scored a hit with Impending Stun on the Volcanic Rune-stone for 181 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Volcanic Rune-stone on the Sundergrót Drudge for 3,490 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Sundergrót Drudge.
+Nlkosi scored a hit with Essence of Storm on the Sundergrót Drudge for 4,493 Lightning damage to Morale.
