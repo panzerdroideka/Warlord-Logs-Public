@@ -1266,3 +1266,10 @@
 [ 5221.697112] sh (9787): drop_caches: 3
 [ 5520.795186] sh (10173): drop_caches: 3
 [ 5820.907494] sh (10861): drop_caches: 3
+[ 6120.988557] sh (11027): drop_caches: 3
+[ 6421.144209] sh (11568): drop_caches: 3
+[ 6721.298404] sh (11662): drop_caches: 3
+[ 7021.138821] sh (11788): drop_caches: 3
+[ 7321.697886] sh (12856): drop_caches: 3
+[ 7621.833167] sh (13082): drop_caches: 3
+[ 7920.987827] sh (13500): drop_caches: 3
