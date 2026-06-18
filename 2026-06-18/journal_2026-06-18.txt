@@ -4667,3 +4667,89 @@ juni 18 13:34:28 WARLORD sudo[9768]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; US
 juni 18 13:34:28 WARLORD sudo[9768]: pam_unix(sudo:session): session closed for user root
 juni 18 13:34:28 WARLORD sudo[9772]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 18 13:34:28 WARLORD sudo[9772]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 18 13:34:28 WARLORD sudo[9772]: pam_unix(sudo:session): session closed for user root
+juni 18 13:35:01 WARLORD CRON[9783]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 13:35:01 WARLORD CRON[9787]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 13:35:01 WARLORD kernel: sh (9787): drop_caches: 3
+juni 18 13:35:01 WARLORD CRON[9783]: pam_unix(cron:session): session closed for user root
+juni 18 13:35:18 WARLORD dolphin[9813]: [swscaler @ 0x61ca02a59840] deprecated pixel format used, make sure you did set range correctly
+juni 18 13:35:18 WARLORD dolphin[9813]: [swscaler @ 0x61ca02a4ac40] deprecated pixel format used, make sure you did set range correctly
+juni 18 13:36:33 WARLORD kwin_wayland_wrapper[1218]: This plugin does not support grabbing the keyboard
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://github.com, folder: ksshaskpass"
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://github.com', folder: ksshaskpass"
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://github.com , folder: ksshaskpass"
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:49 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://github.com' , folder: ksshaskpass"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:37:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://github.com, folder: ksshaskpass"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://github.com', folder: ksshaskpass"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://github.com , folder: ksshaskpass"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:22 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://github.com' , folder: ksshaskpass"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:32 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:38:50 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 18 13:40:01 WARLORD CRON[10171]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 13:40:01 WARLORD CRON[10173]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 13:40:01 WARLORD kernel: sh (10173): drop_caches: 3
+juni 18 13:40:01 WARLORD CRON[10171]: pam_unix(cron:session): session closed for user root
+juni 18 13:40:10 WARLORD wireplumber[1109]: wp-event-dispatcher: <WpAsyncEventHook:0x5ef718e76d00> failed: <WpSiStandardLink:0x5ef719059820> link failed: 1 of 1 PipeWire links failed to activate
+juni 18 13:40:14 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 18 13:40:14 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 18 13:40:14 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: \"/home/wils/.ssh/id_ed25519\" (empty for no passphrase), folder: ksshaskpass"
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: '\"/home/wils/.ssh/id_ed25519\" (empty for no passphrase)', folder: ksshaskpass"
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: \"/home/wils/.ssh/id_ed25519\" (empty for no passphrase) , folder: ksshaskpass"
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:40:31 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: '\"/home/wils/.ssh/id_ed25519\" (empty for no passphrase)' , folder: ksshaskpass"
+juni 18 13:41:06 WARLORD wireplumber[1109]: wp-event-dispatcher: <WpAsyncEventHook:0x5ef718e76d00> failed: <WpSiStandardLink:0x5ef71911ab80> link failed: 1 of 1 PipeWire links failed to activate
+juni 18 13:41:07 WARLORD systemd[1075]: Started app-md.obsidian.Obsidian@eaba378001104302878b79551ce2cda5.service - Obsidian.
+juni 18 13:41:07 WARLORD systemd[1075]: Started app-flatpak-md.obsidian.Obsidian-2668041887.scope.
+juni 18 13:41:07 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Flatpak' unit='flatpak-portal.service' requested by ':1.144' (uid=1000 pid=10237 comm="xdg-dbus-proxy --args=72")
+juni 18 13:41:07 WARLORD systemd[1075]: Starting flatpak-portal.service - flatpak portal...
+juni 18 13:41:07 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Successfully activated service 'org.freedesktop.portal.Flatpak'
+juni 18 13:41:07 WARLORD systemd[1075]: Started flatpak-portal.service - flatpak portal.
+juni 18 13:41:08 WARLORD systemd[1075]: Started app-flatpak-md.obsidian.Obsidian-2356707904.scope.
+juni 18 13:41:08 WARLORD flatpak[10241]: [2:0618/134108.102685:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Ingen slik fil eller filkatalog
+juni 18 13:41:08 WARLORD flatpak[10300]: LaunchProcess: failed to execvp:
+juni 18 13:41:08 WARLORD flatpak[10300]: xdg-settings
+juni 18 13:41:08 WARLORD flatpak[10241]: 2026-06-18 11:41:08 Loaded main app package /app/resources/obsidian.asar
+juni 18 13:41:08 WARLORD flatpak[10241]: 2026-06-18 11:41:08 Checking for update using Github
+juni 18 13:41:08 WARLORD flatpak[10241]: 2026-06-18 11:41:08 Success.
+juni 18 13:41:08 WARLORD flatpak[10241]: 2026-06-18 11:41:08 Latest version is 1.12.7
+juni 18 13:41:08 WARLORD flatpak[10241]: 2026-06-18 11:41:08 App is up to date.
+juni 18 13:42:34 WARLORD wireplumber[1109]: wp-event-dispatcher: <WpAsyncEventHook:0x5ef718e76d00> failed: <WpSiStandardLink:0x5ef7190a8040> link failed: 1 of 1 PipeWire links failed to activate
+juni 18 13:42:44 WARLORD sudo[10532]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 13:42:44 WARLORD sudo[10532]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 18 13:42:44 WARLORD sudo[10532]: pam_unix(sudo:session): session closed for user root
+juni 18 13:42:44 WARLORD sudo[10536]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 13:42:44 WARLORD sudo[10536]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
