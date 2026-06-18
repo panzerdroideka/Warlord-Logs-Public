@@ -4753,3 +4753,17 @@ juni 18 13:42:44 WARLORD sudo[10532]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/Git
 juni 18 13:42:44 WARLORD sudo[10532]: pam_unix(sudo:session): session closed for user root
 juni 18 13:42:44 WARLORD sudo[10536]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 18 13:42:44 WARLORD sudo[10536]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 18 13:42:44 WARLORD sudo[10536]: pam_unix(sudo:session): session closed for user root
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:45 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 18 13:42:55 WARLORD sudo[10595]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 13:42:55 WARLORD sudo[10595]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 18 13:42:55 WARLORD sudo[10595]: pam_unix(sudo:session): session closed for user root
+juni 18 13:42:55 WARLORD sudo[10599]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 13:42:55 WARLORD sudo[10599]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
