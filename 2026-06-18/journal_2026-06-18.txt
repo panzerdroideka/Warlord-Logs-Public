@@ -4767,3 +4767,25 @@ juni 18 13:42:55 WARLORD sudo[10595]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/Git
 juni 18 13:42:55 WARLORD sudo[10595]: pam_unix(sudo:session): session closed for user root
 juni 18 13:42:55 WARLORD sudo[10599]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 18 13:42:55 WARLORD sudo[10599]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 18 13:42:55 WARLORD sudo[10599]: pam_unix(sudo:session): session closed for user root
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Item not found"
+juni 18 13:42:55 WARLORD org.kde.kwalletd6[1818]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 18 13:42:59 WARLORD spectacle[6540]: QQmlComponent: Cannot create a component in an invalid context
+juni 18 13:42:59 WARLORD spectacle[6540]: QQmlComponent: Cannot create a component in an invalid context
+juni 18 13:43:06 WARLORD spectacle[6540]: "There are still \"1\" items in the process of being created at engine destruction."
+juni 18 13:43:06 WARLORD systemd[1075]: app-org.kde.spectacle.service: Consumed 3.116s CPU time over 1h 30min 32.052s wall clock time, 347.6M memory peak.
+juni 18 13:45:01 WARLORD CRON[10859]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 13:45:01 WARLORD CRON[10861]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 13:45:01 WARLORD kernel: sh (10861): drop_caches: 3
+juni 18 13:45:01 WARLORD CRON[10859]: pam_unix(cron:session): session closed for user root
+juni 18 13:45:40 WARLORD sudo[10938]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 13:45:40 WARLORD sudo[10938]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 18 13:45:40 WARLORD sudo[10938]: pam_unix(sudo:session): session closed for user root
+juni 18 13:45:40 WARLORD sudo[10942]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 13:45:40 WARLORD sudo[10942]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
