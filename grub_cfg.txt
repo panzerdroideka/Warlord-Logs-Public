@@ -1,0 +1,63 @@
+  GNU nano 8.7.1                                          grub.cfg                                                    
+168                 search --no-floppy --fs-uuid --set=root e911b271-2474-4c19-84b7-90a32abddf95
+169                 echo    'Loading Linux 7.0.0-15-generic ...'
+170                 linux   /@/boot/vmlinuz-7.0.0-15-generic root=UUID=e911b271-2474-4c19-84b7-90a32abddf95 ro rootfl>
+171                 echo    'Loading initial ramdisk ...'
+172                 initrd  /@/boot/initrd.img-7.0.0-15-generic
+173         }
+174         menuentry 'Warlord GNU/Linux, with Linux 7.0.0-15-generic (recovery mode)' --class warlord --class gnu-li>
+175                 recordfail
+176                 load_video
+177                 insmod gzio
+178                 if [ x$grub_platform = xxen ]; then insmod xzio; insmod lzopio; fi
+179                 insmod part_gpt
+180                 insmod btrfs
+181                 search --no-floppy --fs-uuid --set=root e911b271-2474-4c19-84b7-90a32abddf95
+182                 echo    'Loading Linux 7.0.0-15-generic ...'
+183                 linux   /@/boot/vmlinuz-7.0.0-15-generic root=UUID=e911b271-2474-4c19-84b7-90a32abddf95 ro recove>
+184                 echo    'Loading initial ramdisk ...'
+185                 initrd  /@/boot/initrd.img-7.0.0-15-generic
+186         }
+187         menuentry 'Warlord GNU/Linux, with Linux 6.17.0-29-generic' --class warlord --class gnu-linux --class gnu>
+188                 recordfail
+189                 load_video
+190                 set gfxpayload=$linux_gfx_mode
+191                 insmod gzio
+192                 if [ x$grub_platform = xxen ]; then insmod xzio; insmod lzopio; fi
+193                 insmod part_gpt
+194                 insmod btrfs
+195                 search --no-floppy --fs-uuid --set=root e911b271-2474-4c19-84b7-90a32abddf95
+196                 echo    'Loading Linux 6.17.0-29-generic ...'
+197                 linux   /@/boot/vmlinuz-6.17.0-29-generic root=UUID=e911b271-2474-4c19-84b7-90a32abddf95 ro rootf>
+198                 echo    'Loading initial ramdisk ...'
+199                 initrd  /@/boot/initrd.img-6.17.0-29-generic
+200         }
+201         menuentry 'Warlord GNU/Linux, with Linux 6.17.0-29-generic (recovery mode)' --class warlord --class gnu-l>
+202                 recordfail
+203                 load_video
+204                 insmod gzio
+205                 if [ x$grub_platform = xxen ]; then insmod xzio; insmod lzopio; fi
+206                 insmod part_gpt
+207                 insmod btrfs
+208                 search --no-floppy --fs-uuid --set=root e911b271-2474-4c19-84b7-90a32abddf95
+209                 echo    'Loading Linux 6.17.0-29-generic ...'
+210                 linux   /@/boot/vmlinuz-6.17.0-29-generic root=UUID=e911b271-2474-4c19-84b7-90a32abddf95 ro recov>
+211                 echo    'Loading initial ramdisk ...'
+212                 initrd  /@/boot/initrd.img-6.17.0-29-generic
+213         }
+214 }
+215
+216 ### END /etc/grub.d/10_linux ###
+217
+218 ### BEGIN /etc/grub.d/10_linux_zfs ###
+219 ### END /etc/grub.d/10_linux_zfs ###
+220
+221 ### BEGIN /etc/grub.d/20_linux_xen ###
+222
+223 ### END /etc/grub.d/20_linux_xen ###
+224
+225 ### BEGIN /etc/grub.d/20_memtest86+ ###
+226 if [ "$grub_platform" = efi -a "$grub_cpu" = x86_64 ]; then
+
+^G Hjelp        ^O Lagre        ^F Hvor er      ^K Klipp ut     ^T Utfør        ^C Plassering   M-U Angre
+^X Avslutt      ^R Les fil      ^\ Erstatt      ^U Lim inn      ^J Juster       ^/ Gå til linje M-E Gjør om

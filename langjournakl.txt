@@ -1,0 +1,1008 @@
+juni 18 12:09:11 WARLORD falkon[2076]: Library plugin "KDEFrameworksIntegration.so" not found
+juni 18 12:09:11 WARLORD falkon[2076]: Falkon: 1 extensions loaded
+juni 18 12:09:11 WARLORD falkon[2076]: [2076:2113:0618/120911.614781:ERROR:simple_backend_impl.cc(79)] Failed to create directory: /home/wils/.cache/falkon/default/Cache/Cache_Data
+juni 18 12:09:11 WARLORD falkon[2076]: [2076:2113:0618/120911.614849:ERROR:simple_backend_impl.cc(79)] Failed to create directory: /home/wils/.cache/falkon/default/Cache/Cache_Data
+juni 18 12:09:11 WARLORD falkon[2076]: [2076:2113:0618/120911.614861:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/falkon/default/Cache/Cache_Data
+juni 18 12:09:11 WARLORD falkon[2076]: [2076:2167:0618/120911.614949:ERROR:disk_cache.cc(216)] Unable to create cache
+juni 18 12:09:30 WARLORD bluetoothd[761]: Player registered: sender=:1.19 path=/_1_64
+juni 18 12:09:48 WARLORD plasmashell[1386]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+juni 18 12:09:48 WARLORD systemd[1075]: Started app-org.kde.dolphin@57ce62cb9f94418cbc1187242a7ffb66.service - Dolphin - Filbehandler.
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=2317 comm="/usr/bin/dolphin")
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 18 12:09:48 WARLORD dolphin[2317]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 18 12:09:48 WARLORD dolphin[2317]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=2317 comm="/usr/bin/dolphin")
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=2317 comm="/usr/bin/dolphin")
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 18 12:09:48 WARLORD dolphin[2317]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=2317 comm="/usr/bin/dolphin")
+juni 18 12:09:48 WARLORD dbus-daemon[765]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 18 12:09:48 WARLORD dolphin[2317]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 18 12:10:01 WARLORD CRON[2359]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:10:01 WARLORD CRON[2361]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:10:01 WARLORD kernel: sh (2361): drop_caches: 3
+juni 18 12:10:01 WARLORD CRON[2359]: pam_unix(cron:session): session closed for user root
+juni 18 12:10:05 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 18 12:10:05 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 18 12:10:05 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 18 12:10:19 WARLORD sudo[2369]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2369]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/mount -o remount,rw /
+juni 18 12:10:19 WARLORD sudo[2369]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2374]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2374]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /etc/fstab
+juni 18 12:10:19 WARLORD sudo[2374]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2378]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2378]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /etc/apt/sources.list.d/ubuntu.sources
+juni 18 12:10:19 WARLORD sudo[2378]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2382]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2382]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /etc/default/grub
+juni 18 12:10:19 WARLORD sudo[2382]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2386]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2386]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /boot/grub/grub.cfg
+juni 18 12:10:19 WARLORD sudo[2386]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2390]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2390]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /boot/grub
+juni 18 12:10:19 WARLORD sudo[2390]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2394]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2394]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/rm -f /etc/apt/sources.list.d/google-chrome.sources.12856.tmp
+juni 18 12:10:19 WARLORD sudo[2394]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2398]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2398]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/rm -f /etc/apt/sources.list.d/*.distUpgrade
+juni 18 12:10:19 WARLORD sudo[2398]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2402]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2402]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/rm -f /etc/apt/sources.list.d/*.bak
+juni 18 12:10:19 WARLORD sudo[2402]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:19 WARLORD sudo[2406]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:19 WARLORD sudo[2406]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl unmask alsa-utils.service avahi-daemon.service cryptdisks-early.service cryptdisks.service cups.service dbus-org.freedesktop.Avahi.service dbus-org.freedesktop.ModemManager1.service google-chrome-update.service hwclock.service libvirtd.service ModemManager.service packagekit.service qemu-kvm.service saned.service screen-cleanup.service stop.service sudo.service systemctl.service udisks2.service virtlockd.service virtlogd.service x11-common.service avahi-daemon.socket libvirtd-admin.socket libvirtd-ro.socket libvirtd.socket virtlockd-admin.socket virtlockd.socket virtlogd-admin.socket virtlogd.socket
+juni 18 12:10:19 WARLORD systemd[1]: Reload requested from client PID 2409 ('systemctl') (unit user@1000.service)...
+juni 18 12:10:19 WARLORD systemd[1]: Reloading...
+juni 18 12:10:19 WARLORD systemd[1]: Reloading finished in 168 ms.
+juni 18 12:10:19 WARLORD sudo[2406]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:21 WARLORD sudo[2510]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:21 WARLORD sudo[2510]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/mount -o remount,rw /
+juni 18 12:10:21 WARLORD sudo[2510]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:21 WARLORD sudo[2514]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:21 WARLORD sudo[2514]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /etc/fstab /etc/default/grub /boot/grub/grub.cfg
+juni 18 12:10:21 WARLORD sudo[2514]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:21 WARLORD sudo[2518]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:21 WARLORD sudo[2518]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /etc/apt/sources.list.d/google-chrome.sources /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/vscode.sources /etc/apt/sources.list.d/winehq-plucky.sources
+juni 18 12:10:21 WARLORD sudo[2518]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:21 WARLORD sudo[2522]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:21 WARLORD sudo[2522]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/rm -f /etc/apt/sources.list.d/*.tmp /etc/apt/sources.list.d/*_txt
+juni 18 12:10:21 WARLORD sudo[2522]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:21 WARLORD sudo[2526]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:21 WARLORD sudo[2526]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt update
+juni 18 12:10:21 WARLORD systemd[1]: Starting apt-news.service - Update APT News...
+juni 18 12:10:21 WARLORD systemd[1]: Starting esm-cache.service - Update the local ESM caches...
+juni 18 12:10:21 WARLORD systemd[1]: apt-news.service: Deactivated successfully.
+juni 18 12:10:21 WARLORD systemd[1]: Finished apt-news.service - Update APT News.
+juni 18 12:10:21 WARLORD systemd[1]: esm-cache.service: Deactivated successfully.
+juni 18 12:10:21 WARLORD systemd[1]: Finished esm-cache.service - Update the local ESM caches.
+juni 18 12:10:21 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.68' (uid=0 pid=2598 comm="/usr/bin/gdbus call --system --dest org.freedeskto")
+juni 18 12:10:21 WARLORD systemd[1]: Starting packagekit.service - PackageKit Daemon...
+juni 18 12:10:21 WARLORD PackageKit[2602]: daemon start
+juni 18 12:10:21 WARLORD dbus-daemon[765]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+juni 18 12:10:21 WARLORD systemd[1]: Started packagekit.service - PackageKit Daemon.
+juni 18 12:10:23 WARLORD PackageKit[2602]: get-updates transaction /609_ccbadace from uid 1000 finished with success after 1109ms
+juni 18 12:10:24 WARLORD sudo[2526]: pam_unix(sudo:session): session closed for user root
+juni 18 12:10:24 WARLORD sudo[2710]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:10:24 WARLORD sudo[2710]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt full-upgrade -y
+juni 18 12:10:25 WARLORD PackageKit[2602]: get-updates transaction /610_ebebbcac from uid 1000 finished with success after 446ms
+juni 18 12:10:54 WARLORD systemd[1075]: Started app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@65b914db870c449089b8147cb6e7bbc9.service - Start--LotRO Warlord Edition.
+juni 18 12:10:54 WARLORD bash[2852]: Chrome kjørte ikke
+juni 18 12:10:54 WARLORD sudo[2860]: pam_unix(sudo:auth): conversation failed
+juni 18 12:10:54 WARLORD sudo[2860]: pam_unix(sudo:auth): auth could not identify password for [wils]
+juni 18 12:10:54 WARLORD bash[2860]: sudo: A terminal is required to authenticate
+juni 18 12:10:54 WARLORD bash[2852]: CPU-Governor: PERFORMANCE aktivert
+juni 18 12:10:54 WARLORD sudo[2861]: pam_unix(sudo:auth): conversation failed
+juni 18 12:10:54 WARLORD sudo[2861]: pam_unix(sudo:auth): auth could not identify password for [wils]
+juni 18 12:10:54 WARLORD bash[2861]: sudo: A terminal is required to authenticate
+juni 18 12:10:54 WARLORD bash[2864]: RAM ledig for kamp: 26Gi
+juni 18 12:10:54 WARLORD bash[2852]: Starter LotRO (MangoHud & FSR aktivert)...
+juni 18 12:10:54 WARLORD bash[2852]: =========================================
+juni 18 12:10:54 WARLORD bash[2852]: ✓ WARLORD er klar for Umbar.
+juni 18 12:10:54 WARLORD bash[2852]: =========================================
+juni 18 12:10:54 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=2876 comm="C:\windows\system32\winedevice.exe               ")
+juni 18 12:10:54 WARLORD systemd[1]: Starting udisks2.service - Disk Manager...
+juni 18 12:10:54 WARLORD dbus-daemon[765]: [system] Successfully activated service 'org.freedesktop.UDisks2'
+juni 18 12:10:54 WARLORD systemd[1]: Started udisks2.service - Disk Manager.
+juni 18 12:11:05 WARLORD kwin_wayland_wrapper[1218]: kwin_wayland_drm: The main thread was hanging temporarily!
+juni 18 12:11:05 WARLORD sudo[2710]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:05 WARLORD sudo[3212]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:05 WARLORD sudo[3212]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/flatpak update -y
+juni 18 12:11:05 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.79' (uid=0 pid=3215 comm="flatpak update -y")
+juni 18 12:11:05 WARLORD systemd[1]: Starting systemd-localed.service - Locale Service...
+juni 18 12:11:05 WARLORD systemd[1]: Started systemd-localed.service - Locale Service.
+juni 18 12:11:05 WARLORD dbus-daemon[765]: [system] Successfully activated service 'org.freedesktop.locale1'
+juni 18 12:11:05 WARLORD flatpak[3215]: libostree pull from 'flathub' for runtime/org.gtk.Gtk3theme.Breeze/x86_64/3.22 complete
+                                        security: GPG: summary+commit 
+                                        security: SIGN: disabled http: TLS
+                                        delta: parts: 1 loose: 3
+                                        transfer: secs: 0 size: 12,0 kB
+juni 18 12:11:05 WARLORD flatpak[3215]: system: Pulled runtime/org.gtk.Gtk3theme.Breeze/x86_64/3.22 from flathub
+juni 18 12:11:05 WARLORD flatpak[3215]: system: Updated runtime/org.gtk.Gtk3theme.Breeze/x86_64/3.22 from flathub
+juni 18 12:11:06 WARLORD flatpak[3215]: libostree pull from 'flathub' for appstream2/x86_64 complete
+                                        security: GPG: summary+commit 
+                                        security: SIGN: disabled http: TLS
+                                        non-delta: meta: 7 content: 5
+                                        transfer: secs: 0 size: 10,4 MB
+juni 18 12:11:06 WARLORD flatpak[3215]: system: Pulled appstream2/x86_64 from flathub
+juni 18 12:11:07 WARLORD sudo[3212]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:07 WARLORD sudo[3261]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:07 WARLORD sudo[3261]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/home/wils/scripts/fix.sh
+juni 18 12:11:07 WARLORD sudo[3268]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=0)
+juni 18 12:11:07 WARLORD sudo[3268]: root : TTY=/dev/pts/2 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dpkg --configure -a
+juni 18 12:11:07 WARLORD sudo[3268]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:07 WARLORD sudo[3272]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=0)
+juni 18 12:11:07 WARLORD sudo[3272]: root : TTY=/dev/pts/2 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt install -f -y
+juni 18 12:11:08 WARLORD sudo[3272]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:08 WARLORD sudo[3261]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:08 WARLORD sudo[3286]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:08 WARLORD sudo[3286]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt autoremove -y
+juni 18 12:11:08 WARLORD PackageKit[2602]: get-updates transaction /611_ccabeddd from uid 1000 finished with success after 462ms
+juni 18 12:11:08 WARLORD kded6[1346]: ApportEvent :: hidden= false apport-kde= true apport-gtk= false
+juni 18 12:11:08 WARLORD kded6[1346]: Using ApportEvent
+juni 18 12:11:08 WARLORD kded6[1346]: ""
+juni 18 12:11:08 WARLORD kded6[1346]: foundCrashFile false foundAutoUpload false
+juni 18 12:11:08 WARLORD kded6[1346]: QDBusArgument& operator<<(QDBusArgument&, const DeviceList&) is noop
+juni 18 12:11:08 WARLORD kded6[1346]: KDE Languages: QList()
+juni 18 12:11:08 WARLORD kded6[1346]: got dbus error; abort
+juni 18 12:11:08 WARLORD sudo[3286]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:08 WARLORD sudo[3293]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:08 WARLORD sudo[3293]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt autoclean
+juni 18 12:11:08 WARLORD sudo[3293]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:08 WARLORD sudo[3302]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:08 WARLORD sudo[3302]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/sbin/update-grub
+juni 18 12:11:08 WARLORD PackageKit[2602]: search-name transaction /612_decdeecb from uid 1000 finished with success after 258ms
+juni 18 12:11:08 WARLORD kded6[1346]: QList("nb_NO.UTF-8", "nb", "_NO", "NO", ".UTF-8", "UTF-8")
+juni 18 12:11:08 WARLORD kded6[1346]: System Language Matchables: QList("nb_NO", "nb")
+juni 18 12:11:09 WARLORD systemd[1]: tmp-grub\x2dbtrfs.UHFdTuaZOl.mount: Deactivated successfully.
+juni 18 12:11:09 WARLORD sudo[3302]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:09 WARLORD sudo[4628]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:09 WARLORD sudo[4628]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /etc/fstab /etc/default/grub /boot/grub/grub.cfg
+juni 18 12:11:09 WARLORD sudo[4628]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:09 WARLORD sudo[4632]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:09 WARLORD sudo[4632]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /etc/apt/sources.list.d/*.list /etc/apt/sources.list.d/google-chrome.sources /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/vscode.sources /etc/apt/sources.list.d/winehq-plucky.sources
+juni 18 12:11:09 WARLORD sudo[4632]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:09 WARLORD sudo[4636]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:09 WARLORD sudo[4636]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/killall packagekitd
+juni 18 12:11:09 WARLORD sudo[4636]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:09 WARLORD systemd[1]: packagekit.service: Deactivated successfully.
+juni 18 12:11:09 WARLORD systemd[1]: packagekit.service: Consumed 2.231s CPU time over 47.842s wall clock time, 462.8M memory peak.
+juni 18 12:11:09 WARLORD sudo[4640]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:09 WARLORD sudo[4640]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl stop udisks2.service
+juni 18 12:11:09 WARLORD systemd[1]: Stopping udisks2.service - Disk Manager...
+juni 18 12:11:09 WARLORD systemd[1]: udisks2.service: Deactivated successfully.
+juni 18 12:11:09 WARLORD systemd[1]: Stopped udisks2.service - Disk Manager.
+juni 18 12:11:09 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=2876 comm="C:\windows\system32\winedevice.exe               ")
+juni 18 12:11:09 WARLORD systemd[1]: Starting udisks2.service - Disk Manager...
+juni 18 12:11:09 WARLORD sudo[4640]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:09 WARLORD sudo[4648]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:09 WARLORD sudo[4648]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl stop systemd-journald.service
+juni 18 12:11:09 WARLORD systemd-journald[449]: Journal stopped
+juni 18 12:11:09 WARLORD systemd-journald[449]: Received SIGTERM from PID 1 (systemd).
+juni 18 12:11:09 WARLORD systemd[1]: Stopping systemd-journald.service - Journal Service...
+juni 18 12:11:09 WARLORD systemd[1]: systemd-journald.service: Deactivated successfully.
+juni 18 12:11:09 WARLORD systemd[1]: Stopped systemd-journald.service - Journal Service.
+juni 18 12:11:09 WARLORD systemd[1]: Starting systemd-journald.service - Journal Service...
+juni 18 12:11:09 WARLORD systemd-journald[4661]: Collecting audit messages is disabled.
+juni 18 12:11:09 WARLORD systemd-journald[4661]: Journal started
+juni 18 12:11:09 WARLORD systemd-journald[4661]: System Journal (/var/log/journal/7851163930084b6181fbc663b648a116) is 16M, max 102.4M, 86.4M free.
+juni 18 12:11:09 WARLORD sudo[4648]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:09 WARLORD systemd[1]: Started systemd-journald.service - Journal Service.
+juni 18 12:11:09 WARLORD dbus-daemon[765]: [system] Successfully activated service 'org.freedesktop.UDisks2'
+juni 18 12:11:09 WARLORD systemd[1]: Started udisks2.service - Disk Manager.
+juni 18 12:11:17 WARLORD sudo[4667]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:17 WARLORD sudo[4667]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/lsattr /boot/grub/grub.cfg
+juni 18 12:11:17 WARLORD sudo[4667]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:17 WARLORD sudo[4672]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:17 WARLORD sudo[4672]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl start systemd-journald.service
+juni 18 12:11:17 WARLORD sudo[4672]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:17 WARLORD sudo[4677]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:17 WARLORD sudo[4677]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl start udisks2.service
+juni 18 12:11:17 WARLORD sudo[4677]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:21 WARLORD sudo[4685]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:21 WARLORD sudo[4685]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/mount -o remount,rw /
+juni 18 12:11:21 WARLORD sudo[4685]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:21 WARLORD sudo[4689]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:21 WARLORD sudo[4689]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /etc/fstab /etc/default/grub /boot/grub/grub.cfg
+juni 18 12:11:21 WARLORD sudo[4689]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:21 WARLORD sudo[4693]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:21 WARLORD sudo[4693]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr -i /etc/apt/sources.list.d/google-chrome.sources /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/vscode.sources /etc/apt/sources.list.d/winehq-plucky.sources
+juni 18 12:11:21 WARLORD sudo[4693]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:21 WARLORD sudo[4697]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:21 WARLORD sudo[4697]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/rm -f /etc/apt/sources.list.d/*.tmp /etc/apt/sources.list.d/*_txt
+juni 18 12:11:21 WARLORD sudo[4697]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:21 WARLORD sudo[4701]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:21 WARLORD sudo[4701]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt update
+juni 18 12:11:21 WARLORD systemd[1]: Starting apt-news.service - Update APT News...
+juni 18 12:11:21 WARLORD systemd[1]: Starting esm-cache.service - Update the local ESM caches...
+juni 18 12:11:21 WARLORD systemd[1]: apt-news.service: Deactivated successfully.
+juni 18 12:11:21 WARLORD systemd[1]: Finished apt-news.service - Update APT News.
+juni 18 12:11:21 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.82' (uid=0 pid=4755 comm="/usr/bin/gdbus call --system --dest org.freedeskto")
+juni 18 12:11:21 WARLORD systemd[1]: Starting packagekit.service - PackageKit Daemon...
+juni 18 12:11:21 WARLORD PackageKit[4759]: daemon start
+juni 18 12:11:21 WARLORD dbus-daemon[765]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+juni 18 12:11:21 WARLORD systemd[1]: Started packagekit.service - PackageKit Daemon.
+juni 18 12:11:21 WARLORD systemd[1]: esm-cache.service: Deactivated successfully.
+juni 18 12:11:21 WARLORD systemd[1]: Finished esm-cache.service - Update the local ESM caches.
+juni 18 12:11:22 WARLORD sudo[4701]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:22 WARLORD sudo[4794]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:22 WARLORD sudo[4794]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt full-upgrade -y
+juni 18 12:11:22 WARLORD PackageKit[4759]: get-updates transaction /613_aaedbaee from uid 1000 finished with success after 1033ms
+juni 18 12:11:23 WARLORD sudo[4794]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:23 WARLORD sudo[4817]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:23 WARLORD sudo[4817]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/flatpak update -y
+juni 18 12:11:23 WARLORD sudo[4817]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:23 WARLORD sudo[4833]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:23 WARLORD sudo[4833]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/home/wils/scripts/fix.sh
+juni 18 12:11:23 WARLORD sudo[4840]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=0)
+juni 18 12:11:23 WARLORD sudo[4840]: root : TTY=/dev/pts/2 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dpkg --configure -a
+juni 18 12:11:23 WARLORD sudo[4840]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:23 WARLORD sudo[4844]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=0)
+juni 18 12:11:23 WARLORD sudo[4844]: root : TTY=/dev/pts/2 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt install -f -y
+juni 18 12:11:23 WARLORD sudo[4844]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:23 WARLORD sudo[4833]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:23 WARLORD sudo[4854]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:23 WARLORD sudo[4854]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt autoremove -y
+juni 18 12:11:24 WARLORD sudo[4854]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:24 WARLORD sudo[4864]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:24 WARLORD sudo[4864]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/apt autoclean
+juni 18 12:11:24 WARLORD PackageKit[4759]: get-updates transaction /614_cdcebbcd from uid 1000 finished with success after 419ms
+juni 18 12:11:24 WARLORD sudo[4864]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:24 WARLORD sudo[4870]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:24 WARLORD sudo[4870]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/sbin/update-grub
+juni 18 12:11:25 WARLORD systemd[1]: tmp-grub\x2dbtrfs.w53nUCPJum.mount: Deactivated successfully.
+juni 18 12:11:25 WARLORD sudo[4870]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:25 WARLORD sudo[6196]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:25 WARLORD sudo[6196]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /etc/fstab /etc/default/grub /boot/grub/grub.cfg
+juni 18 12:11:25 WARLORD sudo[6196]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:25 WARLORD sudo[6200]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:25 WARLORD sudo[6200]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /etc/apt/sources.list.d/*.list /etc/apt/sources.list.d/google-chrome.sources /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/vscode.sources /etc/apt/sources.list.d/winehq-plucky.sources
+juni 18 12:11:25 WARLORD sudo[6200]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:25 WARLORD sudo[6204]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:25 WARLORD sudo[6204]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/killall packagekitd
+juni 18 12:11:25 WARLORD sudo[6204]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:25 WARLORD systemd[1]: packagekit.service: Deactivated successfully.
+juni 18 12:11:25 WARLORD systemd[1]: packagekit.service: Consumed 1.462s CPU time over 3.472s wall clock time, 186.6M memory peak.
+juni 18 12:11:25 WARLORD sudo[6208]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:25 WARLORD sudo[6208]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl stop udisks2.service
+juni 18 12:11:25 WARLORD systemd[1]: Stopping udisks2.service - Disk Manager...
+juni 18 12:11:25 WARLORD systemd[1]: udisks2.service: Deactivated successfully.
+juni 18 12:11:25 WARLORD systemd[1]: Stopped udisks2.service - Disk Manager.
+juni 18 12:11:25 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=2876 comm="C:\windows\system32\winedevice.exe               ")
+juni 18 12:11:25 WARLORD sudo[6208]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:25 WARLORD systemd[1]: Starting udisks2.service - Disk Manager...
+juni 18 12:11:25 WARLORD sudo[6215]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:25 WARLORD sudo[6215]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl stop systemd-journald.service
+juni 18 12:11:25 WARLORD systemd-journald[4661]: Journal stopped
+juni 18 12:11:25 WARLORD systemd-journald[4661]: Received SIGTERM from PID 1 (systemd).
+juni 18 12:11:25 WARLORD systemd[1]: Stopping systemd-journald.service - Journal Service...
+juni 18 12:11:25 WARLORD systemd[1]: systemd-journald.service: Deactivated successfully.
+juni 18 12:11:25 WARLORD systemd[1]: Stopped systemd-journald.service - Journal Service.
+juni 18 12:11:25 WARLORD systemd[1]: Starting systemd-journald.service - Journal Service...
+juni 18 12:11:25 WARLORD systemd-journald[6223]: Collecting audit messages is disabled.
+juni 18 12:11:25 WARLORD systemd-journald[6223]: Journal started
+juni 18 12:11:25 WARLORD systemd-journald[6223]: System Journal (/var/log/journal/7851163930084b6181fbc663b648a116) is 16M, max 102.4M, 86.4M free.
+juni 18 12:11:25 WARLORD sudo[6215]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:25 WARLORD systemd[1]: Started systemd-journald.service - Journal Service.
+juni 18 12:11:25 WARLORD dbus-daemon[765]: [system] Successfully activated service 'org.freedesktop.UDisks2'
+juni 18 12:11:25 WARLORD systemd[1]: Started udisks2.service - Disk Manager.
+juni 18 12:11:33 WARLORD sudo[6234]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:33 WARLORD sudo[6234]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/lsattr /boot/grub/grub.cfg
+juni 18 12:11:33 WARLORD sudo[6234]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:33 WARLORD sudo[6239]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:33 WARLORD sudo[6239]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl start systemd-journald.service
+juni 18 12:11:33 WARLORD sudo[6239]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:33 WARLORD sudo[6244]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:33 WARLORD sudo[6244]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl start udisks2.service
+juni 18 12:11:33 WARLORD sudo[6244]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:41 WARLORD sudo[6272]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:41 WARLORD sudo[6272]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/mount -o remount,rw /
+juni 18 12:11:41 WARLORD sudo[6272]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:41 WARLORD sudo[6276]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:41 WARLORD sudo[6276]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl mask --force alsa-utils.service avahi-daemon.service cryptdisks-early.service cryptdisks.service cups.service dbus-org.freedesktop.ModemManager1.service hwclock.service libvirtd.service ModemManager.service packagekit.service qemu-kvm.service saned.service screen-cleanup.service sudo.service udisks2.service virtlockd.service virtlogd.service x11-common.service avahi-daemon.socket cups.socket libvirtd-admin.socket libvirtd-ro.socket libvirtd.socket virtlockd-admin.socket virtlockd.socket virtlogd-admin.socket virtlogd.socket
+juni 18 12:11:41 WARLORD systemd[1]: Reload requested from client PID 6279 ('systemctl') (unit user@1000.service)...
+juni 18 12:11:41 WARLORD systemd[1]: Reloading...
+juni 18 12:11:41 WARLORD systemd[1]: Reloading finished in 127 ms.
+juni 18 12:11:41 WARLORD sudo[6276]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:41 WARLORD sudo[6382]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:41 WARLORD sudo[6382]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl stop fwupd
+juni 18 12:11:41 WARLORD sudo[6382]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:41 WARLORD sudo[6387]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:41 WARLORD sudo[6387]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/sync
+juni 18 12:11:41 WARLORD sudo[6387]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:44 WARLORD sudo[6392]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:44 WARLORD sudo[6392]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /etc/fstab
+juni 18 12:11:44 WARLORD sudo[6392]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:44 WARLORD sudo[6396]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:44 WARLORD sudo[6396]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /etc/apt/sources.list.d/ubuntu.sources
+juni 18 12:11:44 WARLORD sudo[6396]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:44 WARLORD sudo[6400]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:44 WARLORD sudo[6400]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /etc/default/grub
+juni 18 12:11:44 WARLORD sudo[6400]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:44 WARLORD sudo[6404]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:44 WARLORD sudo[6404]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /boot/grub/grub.cfg
+juni 18 12:11:44 WARLORD sudo[6404]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:44 WARLORD sudo[6408]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:44 WARLORD sudo[6408]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/chattr +i /boot/grub
+juni 18 12:11:44 WARLORD sudo[6408]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:46 WARLORD sudo[6414]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:46 WARLORD sudo[6414]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/mount -o remount,ro /
+juni 18 12:11:46 WARLORD sudo[6414]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:46 WARLORD sudo[6418]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:11:46 WARLORD sudo[6418]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/lsattr /boot/grub/grub.cfg
+juni 18 12:11:46 WARLORD sudo[6418]: pam_unix(sudo:session): session closed for user root
+juni 18 12:11:53 WARLORD systemd[1]: systemd-localed.service: Deactivated successfully.
+juni 18 12:11:59 WARLORD bash[6431]: info:  Game: lotroclient64.exe
+juni 18 12:11:59 WARLORD bash[6431]: info:  DXVK: v2.7.1
+juni 18 12:11:59 WARLORD bash[6431]: info:  Build: x86_64 gcc 15.1.0
+juni 18 12:11:59 WARLORD bash[6431]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffec344560
+juni 18 12:11:59 WARLORD bash[6431]: info:  Extension providers:
+juni 18 12:11:59 WARLORD bash[6431]: info:    Platform WSI
+juni 18 12:11:59 WARLORD bash[6431]: info:    OpenVR
+juni 18 12:11:59 WARLORD bash[6431]: info:  OpenVR: could not open registry key, status 2
+juni 18 12:11:59 WARLORD bash[6431]: info:  OpenVR: Failed to locate module
+juni 18 12:11:59 WARLORD bash[6431]: info:    OpenXR
+juni 18 12:12:00 WARLORD bash[6431]: info:  Enabled instance extensions:
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_surface_maintenance1
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_get_surface_capabilities2
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_surface
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_win32_surface
+juni 18 12:12:00 WARLORD bash[6431]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+juni 18 12:12:00 WARLORD bash[6431]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Skipping: Software driver
+juni 18 12:12:00 WARLORD bash[6431]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+juni 18 12:12:00 WARLORD bash[6431]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+juni 18 12:12:00 WARLORD bash[6431]: warn:  D3D11DeviceFeatures: External memory features not supported
+juni 18 12:12:00 WARLORD bash[6431]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+juni 18 12:12:00 WARLORD bash[6431]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_10_0
+juni 18 12:12:00 WARLORD bash[6431]: info:  Creating device:
+juni 18 12:12:00 WARLORD bash[6431]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+juni 18 12:12:00 WARLORD bash[6431]: info:    Driver   : radv 26.0.3
+juni 18 12:12:00 WARLORD bash[6431]: info:  Queues:
+juni 18 12:12:00 WARLORD bash[6431]: info:    Graphics : (0, 0)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Transfer : (1, 0)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Sparse   : (0, 0)
+juni 18 12:12:00 WARLORD bash[6431]: info:  Memory:
+juni 18 12:12:00 WARLORD bash[6431]: info:    Heap 0: 5.50 GiB
+juni 18 12:12:00 WARLORD bash[6431]: info:    Budget: 5.20 GiB
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Budget: 10.40 GiB
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  0: DEVICE_LOCAL
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  1: DEVICE_LOCAL
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:  Enabled extensions:
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_attachment_feedback_loop_layout
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_conservative_rasterization
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_custom_border_color
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_depth_clip_enable
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_depth_bias_control
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_descriptor_buffer
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_extended_dynamic_state3
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_fragment_shader_interlock
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_graphics_pipeline_library
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_hdr_metadata
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_line_rasterization
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_memory_priority
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_multi_draw
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_non_seamless_cube_map
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_robustness2
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_shader_module_identifier
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_shader_stencil_export
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_swapchain_maintenance1
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_transform_feedback
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_vertex_attribute_divisor
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_load_store_op_none
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_maintenance5
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_maintenance6
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_pipeline_library
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_present_id
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_present_wait
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_swapchain
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_swapchain_mutable_format
+juni 18 12:12:00 WARLORD bash[6431]: info:  Enabled features:
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBiasClamp                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBounds                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthClamp                     : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    drawIndirectFirstInstance      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    dualSrcBlend                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fillModeNonSolid               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fragmentStoresAndAtomics       : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fullDrawIndexUint32            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    geometryShader                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    imageCubeArray                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    independentBlend               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    logicOp                        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    multiDrawIndirect              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    multiViewport                  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    occlusionQueryPrecise          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    pipelineStatisticsQuery        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustBufferAccess             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sampleRateShading              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    samplerAnisotropy              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderClipDistance             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderCullDistance             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderFloat64                  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderImageGatherExtended      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderInt16                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderInt64                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderSampledImageArrayDynamicIndexing : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseBinding                  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyBuffer          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyImage2D         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyImage3D         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency2Samples        : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency4Samples        : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency8Samples        : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency16Samples       : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyAliased         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderResourceResidency        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderResourceMinLod           : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    tessellationShader             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    textureCompressionBC           : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    variableMultisampleRate        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    vertexPipelineStoresAndAtomics : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    wideLines                      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderDrawParameters           : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    storagePushConstant16          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    bufferDeviceAddress            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorIndexing             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBindingPartiallyBound : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    drawIndirectCount              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    hostQueryReset                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    runtimeDescriptorArray         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    samplerFilterMinmax            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    samplerMirrorClampToEdge       : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderInt8                     : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderOutputViewportIndex      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderOutputLayer              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    timelineSemaphore              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    uniformBufferStandardLayout    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    vulkanMemoryModel              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    dynamicRendering               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance4                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustImageAccess              : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    pipelineCreationCacheControl   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderDemoteToHelperInvocation : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderZeroInitializeWorkgroupMemory : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    synchronization2               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_attachment_feedback_loop_layout:
+juni 18 12:12:00 WARLORD bash[6431]: info:    attachmentFeedbackLoopLayout   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_conservative_rasterization:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extConservativeRasterization   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_custom_border_color:
+juni 18 12:12:00 WARLORD bash[6431]: info:    customBorderColors             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    customBorderColorWithoutFormat : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_depth_clip_enable:
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthClipEnable                : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_depth_bias_control:
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBiasControl               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    leastRepresentableValueForceUnormRepresentation : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    floatRepresentation            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBiasExact                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_descriptor_buffer:
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBuffer               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_extended_dynamic_state3:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3DepthClipEnable : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3RasterizationSamples : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3SampleMask : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3LineRasterizationMode : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_fragment_shader_interlock:
+juni 18 12:12:00 WARLORD bash[6431]: info:    fragmentShaderSampleInterlock  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fragmentShaderPixelInterlock   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_full_screen_exclusive:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extFullScreenExclusive         : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_graphics_pipeline_library:
+juni 18 12:12:00 WARLORD bash[6431]: info:    graphicsPipelineLibrary        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_hdr_metadata:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extHdrMetadata                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_line_rasterization:
+juni 18 12:12:00 WARLORD bash[6431]: info:    rectangularLines               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    smoothLines                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_memory_budget:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extMemoryBudget                : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_memory_priority:
+juni 18 12:12:00 WARLORD bash[6431]: info:    memoryPriority                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_multi_draw:
+juni 18 12:12:00 WARLORD bash[6431]: info:    multiDraw                      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_non_seamless_cube_map:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nonSeamlessCubeMap             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_pageable_device_local_memory:
+juni 18 12:12:00 WARLORD bash[6431]: info:    pageableDeviceLocalMemory      : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_robustness2:
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustBufferAccess2            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustImageAccess2             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    nullDescriptor                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_shader_module_identifier:
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderModuleIdentifier         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_shader_stencil_export:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extShaderStencilExport         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_swapchain_colorspace:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extSwapchainColorSpace         : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_swapchain_maintenance1:
+juni 18 12:12:00 WARLORD bash[6431]: info:    swapchainMaintenance1          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_transform_feedback:
+juni 18 12:12:00 WARLORD bash[6431]: info:    transformFeedback              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    geometryStreams                : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_vertex_attribute_divisor:
+juni 18 12:12:00 WARLORD bash[6431]: info:    vertexAttributeInstanceRateDivisor : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_external_memory_win32:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrExternalMemoryWin32         : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_external_semaphore_win32:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrExternalSemaphoreWin32      : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_load_store_op_none:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrLoadStoreOpNone             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_maintenance5:
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance5                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_maintenance6:
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance6                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_maintenance7:
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance7                   : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_pipeline_library:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrPipelineLibrary             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_present_id:
+juni 18 12:12:00 WARLORD bash[6431]: info:    presentId                      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_present_wait:
+juni 18 12:12:00 WARLORD bash[6431]: info:    presentWait                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_swapchain:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrSwapchain                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_swapchain_mutable_format:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrSwapchainMutableFormat      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_win32_keyed_mutex:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrWin32KeyedMutex             : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NV_descriptor_pool_overallocation:
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorPoolOverallocation   : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NV_low_latency2:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nvLowLatency2                  : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NV_raw_access_chains:
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderRawAccessChains          : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NVX_binary_import:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nvxBinaryImport                : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NVX_image_view_handle:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nvxImageViewHandle             : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  Descriptor sizes (set alignment: 64)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Sampler              : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Uniform buffer       : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Storage buffer       : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Uniform texel buffer : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Storage texel buffer : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Sampled image        : 32
+juni 18 12:12:00 WARLORD bash[6431]: info:    Storage image        : 32
+juni 18 12:12:00 WARLORD bash[6431]: info:  Memory type mask for sparse resources: 0x7ad
+juni 18 12:12:00 WARLORD bash[6431]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+juni 18 12:12:00 WARLORD bash[6431]: info:  Creating sampler descriptor heap (32 kB)
+juni 18 12:12:00 WARLORD bash[6431]: info:  DXVK: Graphics pipeline libraries supported
+juni 18 12:12:00 WARLORD bash[6431]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+juni 18 12:12:00 WARLORD bash[6431]: info:  Creating resource descriptor heap (8192 kB)
+juni 18 12:12:00 WARLORD bash[6431]: info:  Game: lotroclient64.exe
+juni 18 12:12:00 WARLORD bash[6431]: info:  DXVK: v2.7.1
+juni 18 12:12:00 WARLORD bash[6431]: info:  Build: x86_64 gcc 15.1.0
+juni 18 12:12:00 WARLORD bash[6431]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffee0f4560
+juni 18 12:12:00 WARLORD bash[6431]: info:  Extension providers:
+juni 18 12:12:00 WARLORD bash[6431]: info:    Platform WSI
+juni 18 12:12:00 WARLORD bash[6431]: info:    OpenVR
+juni 18 12:12:00 WARLORD bash[6431]: info:  OpenVR: could not open registry key, status 2
+juni 18 12:12:00 WARLORD bash[6431]: info:  OpenVR: Failed to locate module
+juni 18 12:12:00 WARLORD bash[6431]: info:    OpenXR
+juni 18 12:12:00 WARLORD bash[6431]: info:  Enabled instance extensions:
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_surface_maintenance1
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_get_surface_capabilities2
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_surface
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_win32_surface
+juni 18 12:12:00 WARLORD bash[6431]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+juni 18 12:12:00 WARLORD bash[6431]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Skipping: Software driver
+juni 18 12:12:00 WARLORD bash[6431]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+juni 18 12:12:00 WARLORD bash[6431]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+juni 18 12:12:00 WARLORD bash[6431]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+juni 18 12:12:00 WARLORD bash[6431]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+juni 18 12:12:00 WARLORD bash[6431]: info:  Creating device:
+juni 18 12:12:00 WARLORD bash[6431]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+juni 18 12:12:00 WARLORD bash[6431]: info:    Driver   : radv 26.0.3
+juni 18 12:12:00 WARLORD bash[6431]: info:  Queues:
+juni 18 12:12:00 WARLORD bash[6431]: info:    Graphics : (0, 0)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Transfer : (1, 0)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Sparse   : (0, 0)
+juni 18 12:12:00 WARLORD bash[6431]: info:  Memory:
+juni 18 12:12:00 WARLORD bash[6431]: info:    Heap 0: 5.50 GiB
+juni 18 12:12:00 WARLORD bash[6431]: info:    Budget: 5.20 GiB
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Budget: 10.40 GiB
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  0: DEVICE_LOCAL
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  1: DEVICE_LOCAL
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 18 12:12:00 WARLORD bash[6431]: info:  Enabled extensions:
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_attachment_feedback_loop_layout
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_conservative_rasterization
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_custom_border_color
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_depth_clip_enable
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_depth_bias_control
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_descriptor_buffer
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_extended_dynamic_state3
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_fragment_shader_interlock
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_graphics_pipeline_library
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_hdr_metadata
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_line_rasterization
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_memory_priority
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_multi_draw
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_non_seamless_cube_map
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_robustness2
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_shader_module_identifier
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_shader_stencil_export
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_swapchain_maintenance1
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_transform_feedback
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_EXT_vertex_attribute_divisor
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_load_store_op_none
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_maintenance5
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_maintenance6
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_pipeline_library
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_present_id
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_present_wait
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_swapchain
+juni 18 12:12:00 WARLORD bash[6431]: info:    VK_KHR_swapchain_mutable_format
+juni 18 12:12:00 WARLORD bash[6431]: info:  Enabled features:
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBiasClamp                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBounds                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthClamp                     : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    drawIndirectFirstInstance      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    dualSrcBlend                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fillModeNonSolid               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fragmentStoresAndAtomics       : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fullDrawIndexUint32            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    geometryShader                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    imageCubeArray                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    independentBlend               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    logicOp                        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    multiDrawIndirect              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    multiViewport                  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    occlusionQueryPrecise          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    pipelineStatisticsQuery        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustBufferAccess             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sampleRateShading              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    samplerAnisotropy              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderClipDistance             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderCullDistance             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderFloat64                  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderImageGatherExtended      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderInt16                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderInt64                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderSampledImageArrayDynamicIndexing : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseBinding                  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyBuffer          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyImage2D         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyImage3D         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency2Samples        : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency4Samples        : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency8Samples        : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidency16Samples       : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    sparseResidencyAliased         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderResourceResidency        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderResourceMinLod           : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    tessellationShader             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    textureCompressionBC           : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    variableMultisampleRate        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    vertexPipelineStoresAndAtomics : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    wideLines                      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderDrawParameters           : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    storagePushConstant16          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    bufferDeviceAddress            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorIndexing             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBindingPartiallyBound : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    drawIndirectCount              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    hostQueryReset                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    runtimeDescriptorArray         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    samplerFilterMinmax            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    samplerMirrorClampToEdge       : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderInt8                     : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderOutputViewportIndex      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderOutputLayer              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    timelineSemaphore              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    uniformBufferStandardLayout    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    vulkanMemoryModel              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    dynamicRendering               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance4                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustImageAccess              : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:    pipelineCreationCacheControl   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderDemoteToHelperInvocation : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderZeroInitializeWorkgroupMemory : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    synchronization2               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_attachment_feedback_loop_layout:
+juni 18 12:12:00 WARLORD bash[6431]: info:    attachmentFeedbackLoopLayout   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_conservative_rasterization:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extConservativeRasterization   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_custom_border_color:
+juni 18 12:12:00 WARLORD bash[6431]: info:    customBorderColors             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    customBorderColorWithoutFormat : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_depth_clip_enable:
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthClipEnable                : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_depth_bias_control:
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBiasControl               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    leastRepresentableValueForceUnormRepresentation : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    floatRepresentation            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    depthBiasExact                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_descriptor_buffer:
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorBuffer               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_extended_dynamic_state3:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3DepthClipEnable : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3RasterizationSamples : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3SampleMask : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    extendedDynamicState3LineRasterizationMode : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_fragment_shader_interlock:
+juni 18 12:12:00 WARLORD bash[6431]: info:    fragmentShaderSampleInterlock  : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    fragmentShaderPixelInterlock   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_full_screen_exclusive:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extFullScreenExclusive         : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_graphics_pipeline_library:
+juni 18 12:12:00 WARLORD bash[6431]: info:    graphicsPipelineLibrary        : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_hdr_metadata:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extHdrMetadata                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_line_rasterization:
+juni 18 12:12:00 WARLORD bash[6431]: info:    rectangularLines               : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    smoothLines                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_memory_budget:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extMemoryBudget                : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_memory_priority:
+juni 18 12:12:00 WARLORD bash[6431]: info:    memoryPriority                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_multi_draw:
+juni 18 12:12:00 WARLORD bash[6431]: info:    multiDraw                      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_non_seamless_cube_map:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nonSeamlessCubeMap             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_pageable_device_local_memory:
+juni 18 12:12:00 WARLORD bash[6431]: info:    pageableDeviceLocalMemory      : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_robustness2:
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustBufferAccess2            : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    robustImageAccess2             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    nullDescriptor                 : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_shader_module_identifier:
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderModuleIdentifier         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_shader_stencil_export:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extShaderStencilExport         : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_swapchain_colorspace:
+juni 18 12:12:00 WARLORD bash[6431]: info:    extSwapchainColorSpace         : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_swapchain_maintenance1:
+juni 18 12:12:00 WARLORD bash[6431]: info:    swapchainMaintenance1          : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_transform_feedback:
+juni 18 12:12:00 WARLORD bash[6431]: info:    transformFeedback              : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    geometryStreams                : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_EXT_vertex_attribute_divisor:
+juni 18 12:12:00 WARLORD bash[6431]: info:    vertexAttributeInstanceRateDivisor : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_external_memory_win32:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrExternalMemoryWin32         : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_external_semaphore_win32:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrExternalSemaphoreWin32      : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_load_store_op_none:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrLoadStoreOpNone             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_maintenance5:
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance5                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_maintenance6:
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance6                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_maintenance7:
+juni 18 12:12:00 WARLORD bash[6431]: info:    maintenance7                   : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_pipeline_library:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrPipelineLibrary             : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_present_id:
+juni 18 12:12:00 WARLORD bash[6431]: info:    presentId                      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_present_wait:
+juni 18 12:12:00 WARLORD bash[6431]: info:    presentWait                    : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_swapchain:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrSwapchain                   : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_swapchain_mutable_format:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrSwapchainMutableFormat      : 1
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_KHR_win32_keyed_mutex:
+juni 18 12:12:00 WARLORD bash[6431]: info:    khrWin32KeyedMutex             : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NV_descriptor_pool_overallocation:
+juni 18 12:12:00 WARLORD bash[6431]: info:    descriptorPoolOverallocation   : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NV_low_latency2:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nvLowLatency2                  : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NV_raw_access_chains:
+juni 18 12:12:00 WARLORD bash[6431]: info:    shaderRawAccessChains          : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NVX_binary_import:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nvxBinaryImport                : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  VK_NVX_image_view_handle:
+juni 18 12:12:00 WARLORD bash[6431]: info:    nvxImageViewHandle             : 0
+juni 18 12:12:00 WARLORD bash[6431]: info:  Descriptor sizes (set alignment: 64)
+juni 18 12:12:00 WARLORD bash[6431]: info:    Sampler              : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Uniform buffer       : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Storage buffer       : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Uniform texel buffer : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Storage texel buffer : 16
+juni 18 12:12:00 WARLORD bash[6431]: info:    Sampled image        : 32
+juni 18 12:12:00 WARLORD bash[6431]: info:    Storage image        : 32
+juni 18 12:12:00 WARLORD bash[6431]: info:  Memory type mask for sparse resources: 0x7ad
+juni 18 12:12:00 WARLORD bash[6431]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+juni 18 12:12:00 WARLORD bash[6431]: info:  Creating sampler descriptor heap (32 kB)
+juni 18 12:12:00 WARLORD bash[6431]: info:  DXVK: Graphics pipeline libraries supported
+juni 18 12:12:00 WARLORD bash[6431]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+juni 18 12:12:00 WARLORD bash[6431]: info:  Creating resource descriptor heap (8192 kB)
+juni 18 12:12:00 WARLORD bash[6431]: warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+juni 18 12:12:00 WARLORD bash[6431]: warn:  0ec870a6-5d7e-4c22-8cfc-5baae07616ed
+juni 18 12:12:00 WARLORD bash[6431]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juni 18 12:12:00 WARLORD bash[6431]: info:  DXVK: Using 16 compiler threads
+juni 18 12:12:00 WARLORD bash[6431]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juni 18 12:12:00 WARLORD kded6[1346]: Registering ":1.68/StatusNotifierItem" to system tray
+juni 18 12:12:00 WARLORD kded6[1346]: Service  ":1.68" unregistered
+juni 18 12:12:00 WARLORD kded6[1346]: Registering ":1.69/StatusNotifierItem" to system tray
+juni 18 12:12:00 WARLORD kded6[1346]: Service  ":1.69" unregistered
+juni 18 12:12:00 WARLORD kded6[1346]: Registering ":1.70/StatusNotifierItem" to system tray
+juni 18 12:12:00 WARLORD kded6[1346]: Service  ":1.70" unregistered
+juni 18 12:12:00 WARLORD kded6[1346]: Registering ":1.71/StatusNotifierItem" to system tray
+juni 18 12:12:00 WARLORD kded6[1346]: Service  ":1.71" unregistered
+juni 18 12:12:01 WARLORD kded6[1346]: Registering ":1.72/StatusNotifierItem" to system tray
+juni 18 12:12:01 WARLORD bash[6431]: info:  Presenter: Actual swapchain properties:
+juni 18 12:12:01 WARLORD bash[6431]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+juni 18 12:12:01 WARLORD bash[6431]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+juni 18 12:12:01 WARLORD bash[6431]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+juni 18 12:12:01 WARLORD bash[6431]: info:    Buffer size:  3200x1800
+juni 18 12:12:01 WARLORD bash[6431]: info:    Image count:  4
+juni 18 12:12:01 WARLORD bash[6431]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juni 18 12:12:01 WARLORD bash[6431]: info:  Presenter: Actual swapchain properties:
+juni 18 12:12:01 WARLORD bash[6431]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+juni 18 12:12:01 WARLORD bash[6431]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+juni 18 12:12:01 WARLORD bash[6431]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+juni 18 12:12:01 WARLORD bash[6431]: info:    Buffer size:  3200x1800
+juni 18 12:12:01 WARLORD bash[6431]: info:    Image count:  4
+juni 18 12:12:34 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1218 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 18 12:12:34 WARLORD systemd[1075]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 18 12:12:35 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 18 12:12:35 WARLORD systemd[1075]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 18 12:12:35 WARLORD spectacle[6540]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 18 12:12:35 WARLORD spectacle[6540]: spectacle: Detected Tesseract version "5.5.0"
+juni 18 12:12:35 WARLORD spectacle[6540]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 18 12:13:06 WARLORD anacron[759]: Job `cron.daily' started
+juni 18 12:13:06 WARLORD anacron[6650]: Updated timestamp for job `cron.daily' to 2026-06-18
+juni 18 12:13:06 WARLORD anacron[759]: Job `cron.daily' terminated (mailing output)
+juni 18 12:13:06 WARLORD anacron[759]: Can't find sendmail at /usr/sbin/sendmail, not mailing output
+juni 18 12:13:06 WARLORD anacron[759]: anacron: Can't find sendmail at /usr/sbin/sendmail, not mailing output
+juni 18 12:13:06 WARLORD anacron[759]: Normal exit (1 job run)
+juni 18 12:13:06 WARLORD systemd[1]: anacron.service: Deactivated successfully.
+juni 18 12:13:10 WARLORD dbus-daemon[765]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.58' (uid=1000 pid=1622 comm="/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier")
+juni 18 12:13:10 WARLORD dbus-daemon[765]: [system] Activation via systemd failed for unit 'packagekit.service': Unit packagekit.service is masked.
+juni 18 12:13:47 WARLORD systemd[1075]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache skipped, unmet condition check ConditionPathExists=/home/wils/.launchpadlib/api.launchpad.net/cache
+juni 18 12:15:01 WARLORD CRON[6716]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:15:01 WARLORD CRON[6718]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:15:01 WARLORD kernel: sh (6718): drop_caches: 3
+juni 18 12:15:01 WARLORD CRON[6716]: pam_unix(cron:session): session closed for user root
+juni 18 12:17:01 WARLORD CRON[6768]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:17:01 WARLORD CRON[6770]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+juni 18 12:17:01 WARLORD CRON[6768]: pam_unix(cron:session): session closed for user root
+juni 18 12:20:01 WARLORD CRON[6828]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:20:01 WARLORD CRON[6830]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:20:01 WARLORD kernel: sh (6830): drop_caches: 3
+juni 18 12:20:01 WARLORD CRON[6828]: pam_unix(cron:session): session closed for user root
+juni 18 12:20:06 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 18 12:20:06 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 18 12:20:06 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 18 12:21:42 WARLORD kwin_wayland_wrapper[1218]: qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Unable to open /proc/1218/root")
+juni 18 12:23:06 WARLORD systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+juni 18 12:23:06 WARLORD systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+juni 18 12:23:06 WARLORD systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+juni 18 12:25:02 WARLORD CRON[6978]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:25:02 WARLORD CRON[6980]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:25:02 WARLORD kernel: sh (6980): drop_caches: 3
+juni 18 12:25:02 WARLORD CRON[6978]: pam_unix(cron:session): session closed for user root
+juni 18 12:30:01 WARLORD CRON[7084]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:30:01 WARLORD CRON[7083]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:30:01 WARLORD CRON[7087]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:30:01 WARLORD CRON[7088]: (root) CMD (if [ -x /etc/init.d/anacron ] && ! [ -d /run/systemd/system ]; then exec /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+juni 18 12:30:01 WARLORD CRON[7083]: pam_unix(cron:session): session closed for user root
+juni 18 12:30:01 WARLORD kernel: sh (7087): drop_caches: 3
+juni 18 12:30:01 WARLORD CRON[7084]: pam_unix(cron:session): session closed for user root
+juni 18 12:30:36 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 18 12:30:36 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 18 12:30:36 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 18 12:31:37 WARLORD systemd[1]: Started anacron.service - Run anacron jobs.
+juni 18 12:31:37 WARLORD anacron[7161]: Anacron 2.3 started on 2026-06-18
+juni 18 12:31:37 WARLORD anacron[7161]: Normal exit (0 jobs run)
+juni 18 12:31:37 WARLORD systemd[1]: anacron.service: Deactivated successfully.
+juni 18 12:35:01 WARLORD CRON[7249]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:35:01 WARLORD CRON[7252]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:35:01 WARLORD kernel: sh (7252): drop_caches: 3
+juni 18 12:35:01 WARLORD CRON[7249]: pam_unix(cron:session): session closed for user root
+juni 18 12:38:08 WARLORD systemd[1075]: drkonqi-coredump-pickup.service: Service reached runtime time limit. Stopping.
+juni 18 12:38:08 WARLORD systemd[1075]: drkonqi-coredump-pickup.service: Failed with result 'timeout'.
+juni 18 12:38:49 WARLORD systemd[1075]: Started app-org.kde.kcalc@47efb64af02449b8b1083dfdf28d3304.service - KCalc - Vitenskapelig kalkulator.
+juni 18 12:38:51 WARLORD systemd[1075]: app-org.kde.kcalc@47efb64af02449b8b1083dfdf28d3304.service: Consumed 193ms CPU time over 2.653s wall clock time, 104.9M memory peak.
+juni 18 12:40:01 WARLORD CRON[7391]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:40:01 WARLORD CRON[7393]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:40:01 WARLORD kernel: sh (7393): drop_caches: 3
+juni 18 12:40:01 WARLORD CRON[7391]: pam_unix(cron:session): session closed for user root
+juni 18 12:40:47 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 18 12:40:47 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 18 12:40:47 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 18 12:45:01 WARLORD CRON[7526]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:45:01 WARLORD CRON[7529]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:45:01 WARLORD kernel: sh (7529): drop_caches: 3
+juni 18 12:45:01 WARLORD CRON[7526]: pam_unix(cron:session): session closed for user root
+juni 18 12:50:01 WARLORD CRON[7653]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:50:01 WARLORD CRON[7656]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:50:01 WARLORD kernel: sh (7656): drop_caches: 3
+juni 18 12:50:01 WARLORD CRON[7653]: pam_unix(cron:session): session closed for user root
+juni 18 12:50:06 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 18 12:50:06 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 18 12:50:06 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 18 12:54:11 WARLORD bash[6431]: [2026-06-18 12:54:11.124] [MANGOHUD] [info] [logging.cpp:79] /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/mango-hud/telemetry/wine_2026-06-18_12-12-09_summary.csv
+juni 18 12:54:21 WARLORD wpa_supplicant[923]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+juni 18 12:55:01 WARLORD CRON[7758]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 18 12:55:01 WARLORD CRON[7760]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 18 12:55:01 WARLORD kernel: sh (7760): drop_caches: 3
+juni 18 12:55:01 WARLORD CRON[7758]: pam_unix(cron:session): session closed for user root
+juni 18 12:55:02 WARLORD systemd[1075]: Started app-google\x2dchrome@97d877d1fcb2415eac05905c269053b8.service - Google Chrome - Nettleser.
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7830:0618/125503.449931:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7793:0618/125503.449937:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7830:0618/125503.449989:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7830:0618/125503.449993:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7793:0618/125503.450000:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7793:0618/125503.450008:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7856:0618/125503.450048:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7856:0618/125503.450054:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 18 12:55:03 WARLORD systemd[1075]: Started app-com.google.Chrome-7763.scope.
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7839:7844:0618/125503.533639:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7839:7844:0618/125503.533712:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7839:7844:0618/125503.533721:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7839:7845:0618/125503.535416:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: Created TensorFlow Lite XNNPACK delegate for CPU.
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7763:0618/125503.607289:ERROR:ui/ozone/platform/wayland/host/wayland_wp_color_manager.cc:277] Unable to set image transfer function.
+juni 18 12:55:03 WARLORD google-chrome-stable[7768]: [7763:7763:0618/125503.607297:ERROR:ui/ozone/platform/wayland/host/wayland_wp_color_manager.cc:195] Failed to populate image description for color space {primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}
+juni 18 12:55:05 WARLORD google-chrome-stable[7768]: [7763:7796:0618/125505.953963:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 18 12:55:33 WARLORD google-chrome-stable[7768]: [7763:7852:0618/125533.424162:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 18 12:55:33 WARLORD google-chrome-stable[7768]: [7763:7850:0618/125533.424162:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 18 12:55:33 WARLORD google-chrome-stable[7768]: [7763:7851:0618/125533.424162:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 18 12:55:33 WARLORD chrome[7763]: [7763:7793:0618/125533.460360:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+juni 18 12:55:34 WARLORD google-chrome-stable[7768]: [7763:7796:0618/125534.012616:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 18 12:56:27 WARLORD google-chrome-stable[7768]: [7763:7796:0618/125627.657341:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 18 12:56:52 WARLORD kactivitymanagerd[1402]: org.kde.kactivities.plugin.recentlyused-eventspy: could not parse "/home/wils/.local/share/recently-used.xbel" error was  "Expected '>' or '/', but got '[a-zA-Z]'."
+juni 18 12:57:36 WARLORD wireplumber[1109]: wp-event-dispatcher: <WpAsyncEventHook:0x5ef718e76d00> failed: <WpSiStandardLink:0x5ef718f05a60> link failed: 1 of 1 PipeWire links failed to activate
+juni 18 12:57:52 WARLORD sudo[8418]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:57:52 WARLORD sudo[8418]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 18 12:57:52 WARLORD sudo[8418]: pam_unix(sudo:session): session closed for user root
+juni 18 12:57:58 WARLORD systemd[1075]: Started app-md.obsidian.Obsidian@9249e181b49742b786a6a7cf9e2a9a2f.service - Obsidian.
+juni 18 12:57:58 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Activating via systemd: service name='org.freedesktop.Flatpak' unit='flatpak-session-helper.service' requested by ':1.91' (uid=1000 pid=8426 comm="/usr/bin/flatpak run --branch=stable --arch=x86_64")
+juni 18 12:57:58 WARLORD systemd[1075]: Starting flatpak-session-helper.service - flatpak session helper...
+juni 18 12:57:58 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Successfully activated service 'org.freedesktop.Flatpak'
+juni 18 12:57:58 WARLORD systemd[1075]: Started flatpak-session-helper.service - flatpak session helper.
+juni 18 12:57:58 WARLORD systemd[1075]: Started app-flatpak-md.obsidian.Obsidian-1803731230.scope.
+juni 18 12:57:58 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Flatpak' unit='flatpak-portal.service' requested by ':1.93' (uid=1000 pid=8440 comm="xdg-dbus-proxy --args=73")
+juni 18 12:57:58 WARLORD systemd[1075]: Starting flatpak-portal.service - flatpak portal...
+juni 18 12:57:58 WARLORD dbus-daemon[1096]: [session uid=1000 pid=1096 pidfd=5] Successfully activated service 'org.freedesktop.portal.Flatpak'
+juni 18 12:57:58 WARLORD systemd[1075]: Started flatpak-portal.service - flatpak portal.
+juni 18 12:57:58 WARLORD systemd[1075]: Started app-flatpak-md.obsidian.Obsidian-2563865758.scope.
+juni 18 12:57:58 WARLORD flatpak[8444]: [2:0618/125758.872048:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Ingen slik fil eller filkatalog
+juni 18 12:57:58 WARLORD flatpak[8503]: LaunchProcess: failed to execvp:
+juni 18 12:57:58 WARLORD flatpak[8503]: xdg-settings
+juni 18 12:57:58 WARLORD flatpak[8444]: 2026-06-18 10:57:58 Loaded main app package /app/resources/obsidian.asar
+juni 18 12:57:59 WARLORD flatpak[8444]: 2026-06-18 10:57:59 Checking for update using Github
+juni 18 12:57:59 WARLORD flatpak[8444]: 2026-06-18 10:57:59 Success.
+juni 18 12:57:59 WARLORD flatpak[8444]: 2026-06-18 10:57:59 Latest version is 1.12.7
+juni 18 12:57:59 WARLORD flatpak[8444]: 2026-06-18 10:57:59 App is up to date.
+juni 18 12:58:21 WARLORD google-chrome-stable[7768]: [7763:7796:0618/125821.635881:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 18 12:58:51 WARLORD sudo[8683]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:58:51 WARLORD sudo[8683]: pam_unix(sudo:session): session closed for user root
+juni 18 12:58:55 WARLORD flatpak[8523]: [64:0618/125855.455643:ERROR:ui/gl/gl_surface_presentation_helper.cc:260] GetVSyncParametersIfAvailable() failed for 1 times!
+juni 18 12:59:25 WARLORD sudo[8699]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 18 12:59:25 WARLORD sudo[8699]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl -xe

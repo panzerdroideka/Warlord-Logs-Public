@@ -1,0 +1,1012 @@
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     81a8b2c9751aeb1faba7dbde5ee9691dc0eaee2a31c38b1491a8146756a6b770
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     495300790e6c9bf2510daba59db3d57e9d2b85d7d7640434ec75baa3851c74e5
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     3a91f0f9e5287fa2994c7d930b2c1a5ee14ce8e1c8304ae495adc58cc4453c0c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     0257ff710f2a16e489b37493c07604a7cda96129d8a8fd68d2b6af633904315d
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     dccc3ce1c00ee4b0b10487d372a0fa47f5c26f57a359be7b27801e144eacbac4
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     e7c20b3ab481ec885501eca5293781d84b5a1ac24f88266b5270e7ecb4aa2538
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     e24b315a551671483d8b9073b32de11b4de1eb2eab211afd2d9c319ff55e08d0
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     68ee4632c7be1c66c83e89dd93eaee1294159abf45b4c2c72d7dc7499aa2a043
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     3ece27cbb3ec4438cce523b927c4f05fdc5c593a3766db984c5e437a3ff6a16b
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     1cb4dccaf2c812cfa7b4938e1371fe2b96910fe407216fd95428672d6c7e7316
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     e800395dbe0e045781e8005178b4baf5a257f06e159121a67c595f6ae22506fd
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     7bc9cb5463ce0f011fb5085eb8ba77d1acd283c43f4a57603cc113f22cebc579
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     f1863ec8b7f43f94ad14fb0b8b4a69497a8c65ecbc2a55e0bb420e772b8cdc91
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     c452ab846073df5ace25cca64d6b7a09d906308a1a65eb5240e3c4ebcaa9cc0c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     badff5e4f0fea711701ca8fb22e4c43821e31e210cf52d1d4f74dd50f1d039bc
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     835881f2a5572d7059b5c8635018552892e945626f115fc9ca07acf7bde857a4
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     0dc24c75eb1aef56b9f13ab9de60e2eca1c4510034e290bbb36cf60a549b234c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     f277af4f9bdc918ae89fa35cc1b34e34984c04ae9765322c3cb049574d36509c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     d8d4e6ddf6e42d74a6a536ea62fd1217e4290b145c9e5c3695a31b42efb5f5a4
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     9d00ae4cd47a41c783dc48f342c076c2c16f3413f4d2df50d181ca3bb5ad859d
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     6efefe0b5b01478b7b944c10d3a8aca2cca4208888e2059f8a06cb5824d7bab0
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     02e6216acaef6401401fa555ecbed940b1a5f2569aed92956137ae58482ef1b7
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     95049f0e4137c790b0d2767195e56f73807d123adcf8f6e7bf2d4d991d305f89
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     0ce02100f67c7ef85f4eed368f02bf7092380a3c23ca91fd7f19430d94b00c19
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     bb1dd16d530008636f232303a7a86f3dff969f848815c0574b12c2d787fec93f
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     2679650fe341f2cf1ea883460b3556aaaf77a70d6b8dc484c9301d1b746cf7b5
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     5b248e913d71853d3da5aedd8d9a4bc57a917126573817fb5fcb2d86a2f1c886
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     65f3c0a01b8402d362b9722e98f75e5e991e6c186e934f7b2b2e6be6dec800ec
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     dbaf9e056d3d5b38b68553304abc88827ebc00f80cb9c7e197cdbc5822cd316c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     dd59af56084406e38c63fbe0850f30a0cd1277462a2192590fb05bc259e61273
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     9f1863ed5717c394b42ef10a6607b144a65ba11fb6579df94b8eb2f0c4cd60c1
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     b3e506340fbf6b5786973393079f24b66ba46507e35e911db0362a2acde97049
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     c9ec350406f26e559affb4030de2ebde5435054c35a998605b8fcf04972d8d55
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     89f3d1f6e485c334cd059d0995e3cdfdc00571b1849854847a44dc5548e2dcfb
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     4b8668a5d465bcdd9000aa8dfcff42044fcbd0aece32fc7011a83e9160e89f09
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     10d45fcba396aef3153ee8f6ecae58afe8476a280a2026fc71f6217dcf49ba2f
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     32f5940ca29dd812a2c145e6fc89646628ffcc7c7a42cae512337d8d29c40bbd
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     39dbc2288ef44b5f95332cb777e31103e840dba680634aa806f5c9b100061802
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     e19dae83c02e6f281358d4ebd11d7723b4f5ea0e357907d5443decc5f93c1e9d
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     b92af298dc08049b78c77492d6551b710cd72aada3d77be54609e43278ef6e4d
+juni 06 00:35:31 WARLORD systemd[1]: alsa-state.service - Manage Sound Card State (restore and store) skipped, unmet condition check ConditionPathExists=/etc/alsa/state-daemon.conf
+juni 06 00:35:31 WARLORD chronyd[882]: Loaded seccomp filter (level 1)
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     81d8fb4c9e2e7a8225656b4b8273b7cba4b03ef2e9eb20e0a0291624eca1ba86
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     45c7c8ae750acfbb48fc37527d6412dd644daed8913ccd8a24c94d856967df8e
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     64575bd912789a2e14ad56f6341f52af6bf80cf94400785975e9f04e2d64d745
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     c90f336617b8e7f983975413c997f10b73eb267fd8a10cb9e3bdbfc667abdb8b
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     c617c1a8b1ee2a811c28b5a81b4c83d7c98b5b0c27281d610207ebe692c2967f
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     c409bdac4775add8db92aa22b5b718fb8c94a1462c1fe9a416b95d8a3388c2fc
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     aeebae3151271273ed95aa2e671139ed31a98567303a332298f83709a9d55aa1
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     8d8ea289cfe70a1c07ab7365cb28ee51edd33cf2506de888fbadd60ebf80481c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     8ad64859f195b5f58dafaa940b6a6167acd67a886e8f469364177221c55945b9
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     82db3bceb4f60843ce9d97c3d187cd9b5941cd3de8100e586f2bda5637575f67
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     71f2906fd222497e54a34662ab2497fcc81020770ff51368e9e3d9bfcbfd6375
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     47cc086127e2069a86e03a6bef2cd410f8c55a6d6bdb362168c31b2ce32a5adf
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     3fce9b9fdf3ef09d5452b0f95ee481c2b7f06d743a737971558e70136ace3e73
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     2e70916786a6f773511fa7181fab0f1d70b557c6322ea923b2a8d3b92b51af7d
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     2b99cf26422e92fe365fbf4bc30d27086c9ee14b7a6fff44fb2f6b9001699939
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD chronyd[882]: Added pool 1.ntp.ubuntu.com
+juni 06 00:35:31 WARLORD kernel: NET: Registered PF_ALG protocol family
+juni 06 00:35:31 WARLORD sbkeysync[841]:     174e3a0b5b43c6a607bbd3404f05341e3dcf396267ce94f8b50e2e23a9da920c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     106faceacfecfd4e303b74f480a08098e2d0802b936f8ec774ce21f31686689c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     90fbe70e69d633408d3e170c6832dbb2d209e0272527dfb63d49d29572a6f44c
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     29c6eb52b43c3aa18b2cd8ed6ea8607cef3cfae1bafe1165755cf2e614844a44
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     d063ec28f67eba53f1642dbf7dff33c6a32add869f6013fe162e2c32f1cbe56d
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     d626157e1d6a718bc124ab8da27cbb65072ca03a7b6b257dbdcbbd60f65ef3d1
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     5391c3a2fb112102a6aa1edc25ae77e19f5d6f09cd09eeb2509922bfcd5992ea
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     58fb941aef95a25943b3fb5f2510a0df3fe44c58c95e0ab80487297568ab9771
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     c3a99a460da464a057c3586d83cef5f4ae08b7103979ed8932742df0ed530c66
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     1aec84b84b6c65a51220a9be7181965230210d62d6d33c48999c6b295a2b0a06
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     c5d9d8a186e2c82d09afaa2a6f7f2e73870d3e64f72c4e08ef67796a840f0fbd
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     f52f83a3fa9cfbd6920f722824dbe4034534d25b8507246b3b957dac6e1bce7a
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]:     80b4d96931bf0d02fd91a61e19d14f1da452e66db2408ca8604d411f92659f0a
+juni 06 00:35:31 WARLORD sbkeysync[841]:      from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+juni 06 00:35:31 WARLORD sbkeysync[841]: New keys in filesystem:
+juni 06 00:35:31 WARLORD chronyd[882]: Added pool 2.ntp.ubuntu.com
+juni 06 00:35:31 WARLORD systemd[1]: Starting alsa-restore.service - Save/Restore Sound Card State...
+juni 06 00:35:31 WARLORD chronyd[882]: Added pool 3.ntp.ubuntu.com
+juni 06 00:35:31 WARLORD chronyd[882]: Added pool 4.ntp.ubuntu.com
+juni 06 00:35:31 WARLORD chronyd[882]: Added pool ntp-bootstrap.ubuntu.com
+juni 06 00:35:31 WARLORD systemd[1]: Starting systemd-hostnamed.service - Hostname Service...
+juni 06 00:35:31 WARLORD polkitd[780]: Started polkitd version 127
+juni 06 00:35:31 WARLORD dbus-daemon[761]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.4' (uid=0 pid=754 comm="/usr/libexec/accounts-daemon")
+juni 06 00:35:31 WARLORD systemd[1]: Starting wpa_supplicant.service - WPA supplicant...
+juni 06 00:35:31 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+juni 06 00:35:31 WARLORD systemd[1]: Started chrony.service - chrony, an NTP client/server.
+juni 06 00:35:31 WARLORD accounts-daemon[754]: started daemon version 23.13.9
+juni 06 00:35:31 WARLORD systemd[1]: Started polkit.service - Authorization Manager.
+juni 06 00:35:31 WARLORD systemd[1]: Started accounts-daemon.service - Accounts Service.
+juni 06 00:35:31 WARLORD systemd[1]: Starting ModemManager.service - Modem Manager...
+juni 06 00:35:31 WARLORD wpa_supplicant[922]: Successfully initialized wpa_supplicant
+juni 06 00:35:31 WARLORD systemd[1]: Starting bolt.service - Thunderbolt system service...
+juni 06 00:35:31 WARLORD systemd[1]: Finished alsa-restore.service - Save/Restore Sound Card State.
+juni 06 00:35:31 WARLORD sensors[816]: spd5118-i2c-13-51
+juni 06 00:35:31 WARLORD sensors[816]: Adapter: SMBus PIIX4 adapter port 0 at 0b00
+juni 06 00:35:31 WARLORD sensors[816]: temp1:        +27.2°C  (low  =  +0.0°C, high = +55.0°C)  ALARM (HIGH)
+juni 06 00:35:31 WARLORD sensors[816]:                        (crit low =  +0.0°C, crit = +85.0°C)
+juni 06 00:35:31 WARLORD sensors[816]: k10temp-pci-00c3
+juni 06 00:35:31 WARLORD sensors[816]: Adapter: PCI adapter
+juni 06 00:35:31 WARLORD sensors[816]: Tctl:         +45.4°C
+juni 06 00:35:31 WARLORD sensors[816]: nvme-pci-0300
+juni 06 00:35:31 WARLORD sensors[816]: Adapter: PCI adapter
+juni 06 00:35:31 WARLORD sensors[816]: Composite:    +40.9°C  (low  = -273.1°C, high = +89.8°C)
+juni 06 00:35:31 WARLORD sensors[816]:                        (crit = +94.8°C)
+juni 06 00:35:31 WARLORD sensors[816]: Sensor 1:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+juni 06 00:35:31 WARLORD sensors[816]: Sensor 2:     +26.9°C  (low  = -273.1°C, high = +65261.8°C)
+juni 06 00:35:31 WARLORD sensors[816]: acpitz-acpi-0
+juni 06 00:35:31 WARLORD sensors[816]: Adapter: ACPI interface
+juni 06 00:35:31 WARLORD sensors[816]: temp1:        +20.0°C
+juni 06 00:35:31 WARLORD sensors[816]: spd5118-i2c-13-50
+juni 06 00:35:31 WARLORD sensors[816]: Adapter: SMBus PIIX4 adapter port 0 at 0b00
+juni 06 00:35:31 WARLORD sensors[816]: temp1:        +28.5°C  (low  =  +0.0°C, high = +55.0°C)  ALARM (HIGH)
+juni 06 00:35:31 WARLORD sensors[816]:                        (crit low =  +0.0°C, crit = +85.0°C)
+juni 06 00:35:31 WARLORD sensors[816]: amdgpu-pci-c400
+juni 06 00:35:31 WARLORD sensors[816]: Adapter: PCI adapter
+juni 06 00:35:31 WARLORD sensors[816]: vddgfx:        1.26 V
+juni 06 00:35:31 WARLORD sensors[816]: vddnb:       765.00 mV
+juni 06 00:35:31 WARLORD sensors[816]: edge:         +35.0°C
+juni 06 00:35:31 WARLORD sensors[816]: PPT:          47.24 W  (avg =  11.01 W)
+juni 06 00:35:31 WARLORD sensors[816]: sclk:         800 MHz
+juni 06 00:35:31 WARLORD sensors[816]: r8169_0_100:00-mdio-0
+juni 06 00:35:31 WARLORD sensors[816]: Adapter: MDIO adapter
+juni 06 00:35:31 WARLORD sensors[816]: temp1:        +29.5°C  (high = +120.0°C)
+juni 06 00:35:31 WARLORD systemd[1]: Finished lm-sensors.service - Initialize hardware monitoring sensors.
+juni 06 00:35:31 WARLORD systemd[1]: Started wpa_supplicant.service - WPA supplicant.
+juni 06 00:35:31 WARLORD systemd[1]: Reached target sound.target - Sound Card.
+juni 06 00:35:31 WARLORD boltd[936]: bolt 0.9.10 starting up.
+juni 06 00:35:31 WARLORD boltd[936]: manager: initializing store
+juni 06 00:35:31 WARLORD systemd[1]: Started udisks2.service - Disk Manager.
+juni 06 00:35:31 WARLORD boltd[936]: store: located at: /var/lib/boltd
+juni 06 00:35:31 WARLORD boltd[936]: config: loading user config
+juni 06 00:35:31 WARLORD boltd[936]: bouncer: initializing polkit
+juni 06 00:35:31 WARLORD boltd[936]: watchdog: enabled [pulse: 90s]
+juni 06 00:35:31 WARLORD boltd[936]: udev: initializing udev
+juni 06 00:35:31 WARLORD boltd[936]: store: loading domains
+juni 06 00:35:31 WARLORD boltd[936]: store: loading devices
+juni 06 00:35:31 WARLORD boltd[936]: power: state located at: /run/boltd/power
+juni 06 00:35:31 WARLORD boltd[936]: power: force power support: no
+juni 06 00:35:31 WARLORD boltd[936]: udev: enumerating devices
+juni 06 00:35:31 WARLORD systemd[1]: Started systemd-hostnamed.service - Hostname Service.
+juni 06 00:35:31 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.freedesktop.hostname1'
+juni 06 00:35:31 WARLORD ModemManager[935]: <msg> ModemManager (version 1.25.95) starting in system bus...
+juni 06 00:35:31 WARLORD boltd[936]: probing: adding /sys/devices/pci0000:00 to roots
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-domain0                    ] newly connected [iommu+user] (/sys/devices/pci0000:00/0000:00:08.3/0000:c6:00.5/domain0/0-0)
+juni 06 00:35:31 WARLORD boltd[936]: security level set to 'user'
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-domain0                    ] domain: registered (bootacl: 0/0)
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-domain0                    ] bootacl: bootacl not supported, no sync
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-domain0                    ] udev: failed to determine if uid is stable: unknown NHI PCI id '0x1668'
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-domain0                    ] udev: uuid is stable: no (for NHI: 0x1668)
+juni 06 00:35:31 WARLORD boltd[936]: global 'generation' set to '4'
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-Default string             ] device added, status: authorized, at /sys/devices/pci0000:00/0000:00:08.3/0000:c6:00.5/domain0/0-0
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-Default string             ] labeling device: Default string Default string
+juni 06 00:35:31 WARLORD boltd[936]: probing: adding /sys/devices/pci0000:00 to roots
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-domain1                    ] newly connected [iommu+user] (/sys/devices/pci0000:00/0000:00:08.3/0000:c6:00.6/domain1/1-0)
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-domain1                    ] domain: registered (bootacl: 0/0)
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-domain1                    ] bootacl: bootacl not supported, no sync
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-domain1                    ] udev: failed to determine if uid is stable: unknown NHI PCI id '0x1669'
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-domain1                    ] udev: uuid is stable: no (for NHI: 0x1669)
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-Default string             ] device added, status: authorized, at /sys/devices/pci0000:00/0000:00:08.3/0000:c6:00.6/domain1/1-0
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-Default string             ] labeling device: Default string Default string
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-domain0                    ] dbus: exported domain at /org/freedesktop/bolt/domains/9a3c3804_d0c6_8678_ffff_ffffffffffff
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-domain1                    ] dbus: exported domain at /org/freedesktop/bolt/domains/9a3c3804_d1c6_8678_ffff_ffffffffffff
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d0c6-Default string             ] dbus: exported device at /org/freedesktop/bolt/devices/9a3c3804_d0c6...
+juni 06 00:35:31 WARLORD boltd[936]: [9a3c3804-d1c6-Default string             ] dbus: exported device at /org/freedesktop/bolt/devices/9a3c3804_d1c6...
+juni 06 00:35:31 WARLORD systemd[1]: Started bolt.service - Thunderbolt system service.
+juni 06 00:35:31 WARLORD kernel: NET: Registered PF_QIPCRTR protocol family
+juni 06 00:35:31 WARLORD systemd[1]: Started ModemManager.service - Modem Manager.
+juni 06 00:35:31 WARLORD systemd[1]: Finished netplan-configure.service - Netplan Backend Configuration.
+juni 06 00:35:31 WARLORD systemd[1]: Reached target network-pre.target - Preparation for Network.
+juni 06 00:35:31 WARLORD systemd[1]: Starting NetworkManager.service - Network Manager...
+juni 06 00:35:31 WARLORD boltd[936]: probing: started [1000]
+juni 06 00:35:31 WARLORD ModemManager[935]: <wrn> [plugin-manager] task 1: port context already scheduled
+juni 06 00:35:31 WARLORD ModemManager[935]: <wrn> [plugin-manager] task 0: port context already scheduled
+juni 06 00:35:31 WARLORD networkd-dispatcher[775]: No valid path found for iwconfig
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9014] NetworkManager (version 1.54.3) is starting... (boot:77dc8265-31e0-4eb6-9d19-b15e859b2c7f)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9014] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/{10-default-firewall-use-iptables.conf,no-mac-addr-change.conf}, /run/NetworkManager/conf.d/{10-globally-managed-devices.conf,netplan.conf}, /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9036] manager[0x56de19c20610]: monitoring kernel firmware directory '/lib/firmware'.
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9036] monitoring ifupdown state file '/run/network/ifstate'.
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9042] hostname: hostname: using hostnamed
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9042] hostname: static hostname changed from (none) to "WARLORD"
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9043] dns-mgr: init: dns=systemd-resolved rc-manager=unmanaged (auto), plugin=systemd-resolved
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9048] rfkill1: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:02.2/0000:02:00.0/ieee80211/phy0/rfkill1) (driver mt7921e)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9050] manager[0x56de19c20610]: rfkill: Wi-Fi hardware radio set enabled
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9050] manager[0x56de19c20610]: rfkill: WWAN hardware radio set enabled
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9054] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.54.3/libnm-device-plugin-adsl.so)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9067] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.54.3/libnm-device-plugin-bluetooth.so)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9077] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.54.3/libnm-device-plugin-team.so)
+juni 06 00:35:31 WARLORD systemd[1]: Started networkd-dispatcher.service - Dispatcher daemon for systemd-networkd.
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9083] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.54.3/libnm-device-plugin-wifi.so)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9085] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.54.3/libnm-device-plugin-wwan.so)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9086] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9086] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9086] manager: Networking is enabled by state file
+juni 06 00:35:31 WARLORD dbus-daemon[761]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.13' (uid=0 pid=970 comm="/usr/sbin/NetworkManager --no-daemon")
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9092] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.54.3/libnm-settings-plugin-ifupdown.so")
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9092] settings: Loaded settings plugin: keyfile (internal)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9092] ifupdown: management mode: unmanaged
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9092] ifupdown: interfaces file /etc/network/interfaces doesn't exist
+juni 06 00:35:31 WARLORD systemd[1]: Starting NetworkManager-dispatcher.service - Network Manager Script Dispatcher Service...
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9130] dhcp: init: Using DHCP client 'internal'
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9131] manager: (lo): new Loopback device (/org/freedesktop/NetworkManager/Devices/1)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9134] device (lo): state change: unmanaged -> unavailable (reason 'connection-assumed', managed-type: 'external')
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9135] device (lo): state change: unavailable -> disconnected (reason 'connection-assumed', managed-type: 'external')
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9137] device (lo): Activation: starting connection 'lo' (73d206eb-0594-4fa2-a0f5-c52374483086)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9140] manager: (eno1): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+juni 06 00:35:31 WARLORD NetworkManager[970]: <info>  [1780698931.9141] device (eno1): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+juni 06 00:35:31 WARLORD systemd[1]: gpu-manager.service: Deactivated successfully.
+juni 06 00:35:31 WARLORD systemd[1]: Finished gpu-manager.service - Detect the available GPUs and deal with any system changes.
+juni 06 00:35:31 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+juni 06 00:35:31 WARLORD systemd[1]: Started NetworkManager-dispatcher.service - Network Manager Script Dispatcher Service.
+juni 06 00:35:31 WARLORD kernel: Realtek Internal NBASE-T PHY r8169-0-100:00: attached PHY driver (mii_bus:phy_addr=r8169-0-100:00, irq=MAC)
+juni 06 00:35:32 WARLORD kernel: r8169 0000:01:00.0 eno1: Link is Down
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.0811] device (wlp2s0): driver supports Access Point (AP) mode
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.0814] manager: (wlp2s0): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.0816] device (wlp2s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6298] failed to open /run/network/ifstate
+juni 06 00:35:32 WARLORD systemd[1]: Started NetworkManager.service - Network Manager.
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6302] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6308] device (lo): state change: disconnected -> prepare (reason 'none', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6309] device (lo): state change: prepare -> config (reason 'none', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6310] device (lo): state change: config -> ip-config (reason 'none', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6311] device (lo): state change: ip-config -> ip-check (reason 'none', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6314] modem-manager: oFono is not available
+juni 06 00:35:32 WARLORD systemd[1]: Reached target network.target - Network.
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6327] device (lo): state change: ip-check -> secondaries (reason 'none', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6327] modem-manager: ModemManager available
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6327] device (lo): state change: secondaries -> activated (reason 'none', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6329] device (lo): Activation: successful, device activated.
+juni 06 00:35:32 WARLORD systemd[1]: Reached target network-online.target - Network is Online.
+juni 06 00:35:32 WARLORD systemd[1]: Starting libvirt-guests.service - libvirt guests suspend/resume service...
+juni 06 00:35:32 WARLORD systemd[1]: Started ollama.service - Ollama Service.
+juni 06 00:35:32 WARLORD systemd[1]: open-iscsi.service - Login to default iSCSI targets skipped, no trigger condition checks were met.
+juni 06 00:35:32 WARLORD systemd[1]: Reached target remote-fs-pre.target - Preparation for Remote File Systems.
+juni 06 00:35:32 WARLORD systemd[1]: Reached target remote-fs.target - Remote File Systems.
+juni 06 00:35:32 WARLORD systemd[1]: Starting apport.service - automatic crash report generation...
+juni 06 00:35:32 WARLORD systemd[1]: Starting blk-availability.service - Availability of block devices...
+juni 06 00:35:32 WARLORD systemd[1]: Started cron.service - Regular background program processing daemon.
+juni 06 00:35:32 WARLORD systemd[1]: systemd-pcrphase.service - TPM PCR Barrier (User) skipped, unmet condition check ConditionSecurity=measured-uki
+juni 06 00:35:32 WARLORD systemd[1]: Starting systemd-user-sessions.service - Permit User Sessions...
+juni 06 00:35:32 WARLORD systemd[1]: ubuntu-advantage.service - Ubuntu Pro Background Auto Attach skipped, no trigger condition checks were met.
+juni 06 00:35:32 WARLORD systemd[1]: Started unattended-upgrades.service - Unattended Upgrades Shutdown.
+juni 06 00:35:32 WARLORD (cron)[1018]: cron.service: Referenced but unset environment variable evaluates to an empty string: EXTRA_OPTS
+juni 06 00:35:32 WARLORD systemd[1]: Starting warlord-clean.service - WARLORD Clear Cache on Boot...
+juni 06 00:35:32 WARLORD cron[1018]: (CRON) INFO (pidfile fd = 3)
+juni 06 00:35:32 WARLORD cron[1018]: (CRON) INFO (Running @reboot jobs)
+juni 06 00:35:32 WARLORD systemd[1]: Started libvirt-guests.service - libvirt guests suspend/resume service.
+juni 06 00:35:32 WARLORD systemd[1]: Finished blk-availability.service - Availability of block devices.
+juni 06 00:35:32 WARLORD clear-cache.sh[1022]: --- 🧹 Starter F1-optimalisert systemrens ---
+juni 06 00:35:32 WARLORD clear-cache.sh[1022]: Trimmer systemlogger...
+juni 06 00:35:32 WARLORD systemd[1]: Finished systemd-user-sessions.service - Permit User Sessions.
+juni 06 00:35:32 WARLORD systemd[1]: Starting plymouth-quit.service - Terminate Plymouth Boot Screen...
+juni 06 00:35:32 WARLORD systemd[1]: Starting setvtrgb.service - Set console scheme...
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6721] device (wlp2s0): supplicant interface state: internal-starting -> disconnected
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6722] Wi-Fi P2P device controlled by interface wlp2s0 created
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6723] manager: (p2p-dev-wlp2s0): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6724] device (p2p-dev-wlp2s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <warn>  [1780698932.6724] device (p2p-dev-wlp2s0): error setting IPv4 forwarding to '0': Suksess
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6726] device (wlp2s0): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+juni 06 00:35:32 WARLORD NetworkManager[970]: <info>  [1780698932.6728] device (p2p-dev-wlp2s0): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+juni 06 00:35:32 WARLORD systemd[1]: Finished setvtrgb.service - Set console scheme.
+juni 06 00:35:32 WARLORD systemd[1]: Created slice system-getty.slice - Slice /system/getty.
+juni 06 00:35:32 WARLORD sudo[1030]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+juni 06 00:35:32 WARLORD sudo[1030]: root :  PWD=/ ; USER=root ; COMMAND=/usr/bin/journalctl --vacuum-time=2d
+juni 06 00:35:32 WARLORD clear-cache.sh[1041]: Vacuuming done, freed 0B of archived journals from /run/log/journal.
+juni 06 00:35:32 WARLORD clear-cache.sh[1041]: Vacuuming done, freed 0B of archived journals from /var/log/journal.
+juni 06 00:35:32 WARLORD clear-cache.sh[1041]: Vacuuming done, freed 0B of archived journals from /var/log/journal/7851163930084b6181fbc663b648a116.
+juni 06 00:35:32 WARLORD sudo[1030]: pam_unix(sudo:session): session closed for user root
+juni 06 00:35:32 WARLORD clear-cache.sh[1022]: Tømmer Chrome-cache og thumbnails...
+juni 06 00:35:32 WARLORD systemd[1]: Finished plymouth-quit.service - Terminate Plymouth Boot Screen.
+juni 06 00:35:32 WARLORD systemd[1]: Starting sddm.service - Simple Desktop Display Manager...
+juni 06 00:35:32 WARLORD clear-cache.sh[1022]: =========================================
+juni 06 00:35:32 WARLORD clear-cache.sh[1022]: ✓ WARLORD: Systemet er trimmet og klart!
+juni 06 00:35:32 WARLORD clear-cache.sh[1022]: =========================================
+juni 06 00:35:32 WARLORD systemd[1]: warlord-clean.service: Deactivated successfully.
+juni 06 00:35:32 WARLORD systemd[1]: Finished warlord-clean.service - WARLORD Clear Cache on Boot.
+juni 06 00:35:32 WARLORD systemd[1]: Started sddm.service - Simple Desktop Display Manager.
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.693+02:00 level=INFO source=routes.go:1782 msg="server config" env="map[CUDA_VISIBLE_DEVICES: GGML_VK_VISIBLE_DEVICES: GPU_DEVICE_ORDINAL: HIP_VISIBLE_DEVICES: HSA_OVERRIDE_GFX_VERSION: HTTPS_PROXY: HTTP_PROXY: NO_PROXY: OLLAMA_CONTEXT_LENGTH:0 OLLAMA_DEBUG:INFO OLLAMA_DEBUG_LOG_REQUESTS:false OLLAMA_EDITOR: OLLAMA_FLASH_ATTENTION:false OLLAMA_GPU_OVERHEAD:0 OLLAMA_HOST:http://127.0.0.1:11434 OLLAMA_KEEP_ALIVE:5m0s OLLAMA_KV_CACHE_TYPE: OLLAMA_LLM_LIBRARY: OLLAMA_LOAD_TIMEOUT:5m0s OLLAMA_MAX_LOADED_MODELS:0 OLLAMA_MAX_QUEUE:512 OLLAMA_MODELS:/usr/share/ollama/.ollama/models OLLAMA_MULTIUSER_CACHE:false OLLAMA_NEW_ENGINE:false OLLAMA_NOHISTORY:false OLLAMA_NOPRUNE:false OLLAMA_NO_CLOUD:false OLLAMA_NUM_PARALLEL:1 OLLAMA_ORIGINS:[http://localhost https://localhost http://localhost:* https://localhost:* http://127.0.0.1 https://127.0.0.1 http://127.0.0.1:* https://127.0.0.1:* http://0.0.0.0 https://0.0.0.0 http://0.0.0.0:* https://0.0.0.0:* app://* file://* tauri://* vscode-webview://* vscode-file://*] OLLAMA_REMOTES:[ollama.com] OLLAMA_SCHED_SPREAD:false OLLAMA_VULKAN:false ROCR_VISIBLE_DEVICES: http_proxy: https_proxy: no_proxy:]"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.693+02:00 level=INFO source=routes.go:1784 msg="Ollama cloud disabled: false"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.694+02:00 level=INFO source=images.go:517 msg="total blobs: 14"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.694+02:00 level=INFO source=images.go:524 msg="total unused blobs removed: 0"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.694+02:00 level=INFO source=routes.go:1847 msg="Listening on 127.0.0.1:11434 (version 0.23.1)"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.695+02:00 level=INFO source=runner.go:67 msg="discovering available GPUs..."
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.695+02:00 level=INFO source=server.go:433 msg="starting runner" cmd="/usr/local/bin/ollama runner --ollama-engine --port 46499"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.695+02:00 level=WARN source=model_recommendations.go:170 msg="model recommendations refresh failed" error="Get \"https://ollama.com/api/experimental/model-recommendations\": dial tcp: lookup ollama.com: Temporary failure in name resolution"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.696+02:00 level=INFO source=model_recommendations.go:179 msg="model recommendations cache sleep scheduled" wait=4m47.41492836s consecutive_failures=1
+juni 06 00:35:32 WARLORD sddm[1053]: Initializing...
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.724+02:00 level=INFO source=server.go:433 msg="starting runner" cmd="/usr/local/bin/ollama runner --ollama-engine --port 37031"
+juni 06 00:35:32 WARLORD sddm[1053]: Starting...
+juni 06 00:35:32 WARLORD sddm[1053]: Logind interface found
+juni 06 00:35:32 WARLORD sddm[1053]: Adding new display...
+juni 06 00:35:32 WARLORD sddm[1053]: Loaded empty theme configuration
+juni 06 00:35:32 WARLORD sddm[1053]: Using VT 1
+juni 06 00:35:32 WARLORD sddm[1053]: Reading from "/usr/local/share/wayland-sessions/plasma.desktop"
+juni 06 00:35:32 WARLORD sddm[1053]: Reading from "/usr/share/wayland-sessions/plasma.desktop"
+juni 06 00:35:32 WARLORD sddm[1053]: Session "/usr/share/wayland-sessions/plasma.desktop" selected, command: "/usr/lib/x86_64-linux-gnu/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland" for VT 1
+juni 06 00:35:32 WARLORD sddm-helper[1078]: [PAM] Starting...
+juni 06 00:35:32 WARLORD sddm-helper[1078]: [PAM] Authenticating...
+juni 06 00:35:32 WARLORD sddm-helper[1078]: [PAM] returning.
+juni 06 00:35:32 WARLORD sddm[1053]: Authentication for user  "wils"  successful
+juni 06 00:35:32 WARLORD sddm-helper[1078]: pam_unix(sddm-autologin:session): session opened for user wils(uid=1000) by wils(uid=0)
+juni 06 00:35:32 WARLORD systemd-logind[792]: New session '1' of user 'wils' with class 'user' and type 'wayland'.
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.745+02:00 level=INFO source=server.go:433 msg="starting runner" cmd="/usr/local/bin/ollama runner --ollama-engine --port 39737"
+juni 06 00:35:32 WARLORD systemd[1]: Created slice user-1000.slice - User Slice of UID 1000.
+juni 06 00:35:32 WARLORD systemd[1]: Starting user-runtime-dir@1000.service - User Runtime Directory /run/user/1000...
+juni 06 00:35:32 WARLORD avahi-daemon[757]: Server startup complete. Host name is WARLORD.local. Local service cookie is 3406123849.
+juni 06 00:35:32 WARLORD systemd[1]: Finished apport.service - automatic crash report generation.
+juni 06 00:35:32 WARLORD systemd[1]: Reached target multi-user.target - Multi-User System.
+juni 06 00:35:32 WARLORD systemd-user-runtime-dir[1110]: Successfully configured disk quota for UID 1000 on /dev/shm to 12.2G
+juni 06 00:35:32 WARLORD systemd[1]: Starting power-profiles-daemon.service - Power Profiles daemon...
+juni 06 00:35:32 WARLORD systemd[1]: Finished user-runtime-dir@1000.service - User Runtime Directory /run/user/1000.
+juni 06 00:35:32 WARLORD systemd[1]: Starting user@1000.service - User Manager for UID 1000...
+juni 06 00:35:32 WARLORD (systemd)[1115]: pam_unix(systemd-user:session): session opened for user wils(uid=1000) by wils(uid=0)
+juni 06 00:35:32 WARLORD systemd-logind[792]: New session '2' of user 'wils' with class 'manager' and type 'unspecified'.
+juni 06 00:35:32 WARLORD systemd[1]: Started power-profiles-daemon.service - Power Profiles daemon.
+juni 06 00:35:32 WARLORD systemd[1]: Reached target graphical.target - Graphical Interface.
+juni 06 00:35:32 WARLORD systemd-xdg-autostart-generator[1127]: Exec binary '/home/wils/maale_reboot.sh' does not exist: No such file or directory
+juni 06 00:35:32 WARLORD systemd-xdg-autostart-generator[1127]: /home/wils/.config/autostart/maale_reboot.sh.desktop: not generating unit, executable specified in Exec= does not exist.
+juni 06 00:35:32 WARLORD systemd[1115]: /usr/lib/systemd/user/spice-vdagent.service:23: Unknown key 'StandardError' in section [Install], ignoring.
+juni 06 00:35:32 WARLORD systemd[1115]: Queued start job for default target default.target.
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.868+02:00 level=INFO source=runner.go:106 msg="experimental Vulkan support disabled.  To enable, set OLLAMA_VULKAN=1"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.868+02:00 level=INFO source=server.go:433 msg="starting runner" cmd="/usr/local/bin/ollama runner --ollama-engine --port 45793"
+juni 06 00:35:32 WARLORD systemd[1115]: Created slice app.slice - User Application Slice.
+juni 06 00:35:32 WARLORD systemd[1115]: Created slice session.slice - User Core Session Slice.
+juni 06 00:35:32 WARLORD systemd[1115]: Started drkonqi-sentry-postman.path - Submitting pending crash events (file monitor).
+juni 06 00:35:32 WARLORD systemd[1115]: drkonqi-coredump-cleanup.timer - Cleanup lingering KCrash metadata skipped, unmet condition check ConditionPathExistsGlob=/home/wils/.cache/kcrash-metadata/*.ini
+juni 06 00:35:32 WARLORD systemd[1115]: drkonqi-sentry-postman.timer - Submitting pending crash events skipped, unmet condition check ConditionPathExistsGlob=/home/wils/.cache/drkonqi/sentry-envelopes/*
+juni 06 00:35:32 WARLORD systemd[1115]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+juni 06 00:35:32 WARLORD systemd[1115]: Reached target paths.target - Paths.
+juni 06 00:35:32 WARLORD systemd[1115]: Reached target timers.target - Timers.
+juni 06 00:35:32 WARLORD systemd[1115]: Starting dbus.socket - D-Bus User Message Bus Socket...
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on drkonqi-coredump-launcher.socket - Socket to launch DrKonqi for a systemd-coredump crash.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+juni 06 00:35:32 WARLORD systemd[1115]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+juni 06 00:35:32 WARLORD systemd[1115]: Starting gpg-agent.socket - GnuPG cryptographic agent and passphrase cache...
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on keyboxd.socket - GnuPG public key management service.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on pipewire-pulse.socket - PipeWire PulseAudio.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on pipewire.socket - PipeWire Multimedia System Sockets.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on pk-debconf-helper.socket - debconf communication socket.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on speech-dispatcher.socket - Speech Dispatcher Socket.
+juni 06 00:35:32 WARLORD systemd[1115]: Starting ssh-agent.socket - OpenSSH Agent socket...
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on systemd-ask-password.socket - Query the User Interactively for a Password.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on systemd-importd.socket - Disk Image Download Service Socket.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on systemd-machined.socket - Virtual Machine and Container Registration Service Socket.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on dbus.socket - D-Bus User Message Bus Socket.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+juni 06 00:35:32 WARLORD systemd[1115]: Listening on ssh-agent.socket - OpenSSH Agent socket.
+juni 06 00:35:32 WARLORD systemd[1115]: Reached target sockets.target - Sockets.
+juni 06 00:35:32 WARLORD systemd[1115]: Reached target basic.target - Basic System.
+juni 06 00:35:32 WARLORD systemd[1]: Started user@1000.service - User Manager for UID 1000.
+juni 06 00:35:32 WARLORD systemd[1115]: Starting dbus.service - D-Bus User Message Bus...
+juni 06 00:35:32 WARLORD systemd[1115]: drkonqi-coredump-cleanup.service - Cleanup lingering KCrash metadata skipped, unmet condition check ConditionPathExistsGlob=/home/wils/.cache/kcrash-metadata/*.ini
+juni 06 00:35:32 WARLORD systemd[1115]: Started pipewire.service - PipeWire Multimedia Service.
+juni 06 00:35:32 WARLORD systemd[1]: Started session-1.scope - Session 1 of User wils.
+juni 06 00:35:32 WARLORD systemd[1]: Startup finished in 5.997s (firmware) + 5.122s (loader) + 3.545s (kernel) + 3.467s (userspace) = 18.132s.
+juni 06 00:35:32 WARLORD sddm-helper[1078]: Starting Wayland user session: "/etc/sddm/wayland-session" "/usr/lib/x86_64-linux-gnu/libexec/plasma-dbus-run-session-if-needed /usr/bin/startplasma-wayland"
+juni 06 00:35:32 WARLORD sddm-helper[1158]: Jumping to VT 1
+juni 06 00:35:32 WARLORD sddm-helper[1158]: VT mode fixed
+juni 06 00:35:32 WARLORD sddm[1053]: Session started true
+juni 06 00:35:32 WARLORD sddm-helper[1078]: Failed to write utmpx:  Fila eller mappa finnes ikke
+juni 06 00:35:32 WARLORD systemd[1115]: Started dbus.service - D-Bus User Message Bus.
+juni 06 00:35:32 WARLORD systemd[1115]: Started mpris-proxy.service - Bluetooth mpris proxy.
+juni 06 00:35:32 WARLORD systemd[1115]: Started wireplumber.service - Multimedia Service Session Manager.
+juni 06 00:35:32 WARLORD systemd[1115]: Started filter-chain.service - PipeWire filter chain daemon.
+juni 06 00:35:32 WARLORD systemd[1115]: Started pipewire-pulse.service - PipeWire PulseAudio.
+juni 06 00:35:32 WARLORD systemd[1115]: Reached target default.target - Main User Target.
+juni 06 00:35:32 WARLORD systemd[1115]: Startup finished in 108ms.
+juni 06 00:35:32 WARLORD dbus-daemon[761]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.21' (uid=1000 pid=1157 comm="/usr/bin/pipewire")
+juni 06 00:35:32 WARLORD systemd[1]: Starting rtkit-daemon.service - RealtimeKit Scheduling Policy Service...
+juni 06 00:35:32 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+juni 06 00:35:32 WARLORD systemd[1]: Started rtkit-daemon.service - RealtimeKit Scheduling Policy Service.
+juni 06 00:35:32 WARLORD rtkit-daemon[1181]: Handling system-suspend using logind.
+juni 06 00:35:32 WARLORD systemd[1]: dmesg.service: Deactivated successfully.
+juni 06 00:35:32 WARLORD wireplumber[1170]: m-snapd-permission-prompting: <WpAudioPermissionPrompting:0x5fc6258effd0> Failed to connect to snapd: Fila eller mappa finnes ikke
+juni 06 00:35:32 WARLORD rtkit-daemon[1181]: Successfully made thread 1157 of process 1157 owned by '1000' high priority at nice level -11.
+juni 06 00:35:32 WARLORD rtkit-daemon[1181]: Successfully made thread 1182 of process 1157 owned by '1000' RT at priority 20.
+juni 06 00:35:32 WARLORD im-config[1247]: @ IM_CONFIG_ENTRY='profile' XDG_SESSION_TYPE ='wayland' UID=1000 PID=1158 PPID=1078
+juni 06 00:35:32 WARLORD rtkit-daemon[1181]: Successfully made thread 1173 of process 1173 owned by '1000' high priority at nice level -11.
+juni 06 00:35:32 WARLORD rtkit-daemon[1181]: Successfully made thread 1170 of process 1170 owned by '1000' high priority at nice level -11.
+juni 06 00:35:32 WARLORD im-config[1249]:   GTK_IM_MODULE='' QT_IM_MODULE='' CLUTTER_IM_MODULE='' SDL_IM_MODULE='' XMODIFIERS=''
+juni 06 00:35:32 WARLORD rtkit-daemon[1181]: Successfully made thread 1194 of process 1173 owned by '1000' RT at priority 20.
+juni 06 00:35:32 WARLORD rtkit-daemon[1181]: Successfully made thread 1215 of process 1170 owned by '1000' RT at priority 20.
+juni 06 00:35:32 WARLORD im-config[1254]:   Set IM_CONFIG_CURRENT_DESKTOP <- XDG_CURRENT_DESKTOP='KDE'
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.990+02:00 level=INFO source=runner.go:462 msg="failure during GPU discovery" OLLAMA_LIBRARY_PATH="[/usr/local/lib/ollama /usr/local/lib/ollama/rocm]" extra_envs="map[GGML_CUDA_INIT:1 ROCR_VISIBLE_DEVICES:0]" error="runner crashed" detail="error: Cannot read /usr/local/lib/ollama/rocm/rocblas/library/TensileLibrary.dat: Illegal seek for GPU arch : gfx1103"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.991+02:00 level=INFO source=types.go:60 msg="inference compute" id=cpu library=cpu compute="" name=cpu description=cpu libdirs=ollama driver="" pci_id="" type="" total="30.6 GiB" available="29.5 GiB"
+juni 06 00:35:32 WARLORD ollama[1002]: time=2026-06-06T00:35:32.991+02:00 level=INFO source=routes.go:1897 msg="vram-based default context" total_vram="0 B" default_num_ctx=4096
+juni 06 00:35:33 WARLORD dbus-daemon[761]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.28' (uid=1000 pid=1158 comm="/usr/bin/startplasma-wayland")
+juni 06 00:35:33 WARLORD systemd[1]: Starting systemd-localed.service - Locale Service...
+juni 06 00:35:33 WARLORD systemd[1]: Started systemd-localed.service - Locale Service.
+juni 06 00:35:33 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.freedesktop.locale1'
+juni 06 00:35:33 WARLORD systemd[1115]: Reload requested from client PID 1158 ('startplasma-way')...
+juni 06 00:35:33 WARLORD systemd[1115]: Reloading...
+juni 06 00:35:33 WARLORD systemd-xdg-autostart-generator[1267]: Exec binary '/home/wils/maale_reboot.sh' does not exist: No such file or directory
+juni 06 00:35:33 WARLORD systemd-xdg-autostart-generator[1267]: /home/wils/.config/autostart/maale_reboot.sh.desktop: not generating unit, executable specified in Exec= does not exist.
+juni 06 00:35:33 WARLORD wireplumber[1170]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+juni 06 00:35:33 WARLORD wireplumber[1170]: wp-device: SPA handle 'api.libcamera.enum.manager' could not be loaded; is it installed?
+juni 06 00:35:33 WARLORD wireplumber[1170]: s-monitors-libcamera: PipeWire's libcamera SPA plugin is missing or broken. Some camera types may not be supported.
+juni 06 00:35:33 WARLORD kernel: Bluetooth: RFCOMM TTY layer initialized
+juni 06 00:35:33 WARLORD kernel: Bluetooth: RFCOMM socket layer initialized
+juni 06 00:35:33 WARLORD kernel: Bluetooth: RFCOMM ver 1.11
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/ldac
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSink/aptx_hd
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/aptx_hd
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSink/aptx
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/aptx
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSink/opus_g
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/opus_g
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSink/sbc
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/sbc
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/aptx_ll_1
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/aptx_ll_0
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/aptx_ll_duplex_1
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/aptx_ll_duplex_0
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/faststream
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/faststream_duplex
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSink/opus_05
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/opus_05
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSink/opus_05_duplex
+juni 06 00:35:33 WARLORD bluetoothd[758]: Endpoint registered: sender=:1.30 path=/MediaEndpoint/A2DPSource/opus_05_duplex
+juni 06 00:35:33 WARLORD systemd[1115]: /usr/lib/systemd/user/spice-vdagent.service:23: Unknown key 'StandardError' in section [Install], ignoring.
+juni 06 00:35:33 WARLORD systemd[1115]: Reloading finished in 67 ms.
+juni 06 00:35:33 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating service name='org.kde.KSplash' requested by ':1.10' (uid=1000 pid=1158 comm="/usr/bin/startplasma-wayland")
+juni 06 00:35:33 WARLORD systemd[1115]: Created slice background.slice - User Background Tasks Slice.
+juni 06 00:35:33 WARLORD systemd[1115]: drkonqi-sentry-postman.timer - Submitting pending crash events skipped, unmet condition check ConditionPathExistsGlob=/home/wils/.cache/drkonqi/sentry-envelopes/*
+juni 06 00:35:33 WARLORD systemd[1115]: Starting plasma-kglobalaccel.service - KDE Global Shortcuts Server...
+juni 06 00:35:33 WARLORD systemd[1115]: Starting plasma-kwin_wayland.service - KDE Window Manager...
+juni 06 00:35:33 WARLORD systemd[1115]: Started ssh-agent.service - OpenSSH Agent.
+juni 06 00:35:33 WARLORD systemd[1115]: Starting user-session-migration.service - User Session Migration...
+juni 06 00:35:33 WARLORD systemd[1115]: Starting xdg-desktop-portal-rewrite-launchers.service - Rewrite dynamic launcher portal entries...
+juni 06 00:35:33 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+juni 06 00:35:33 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT before freq=2467 max_tx_power=2000 no_ir=1
+juni 06 00:35:33 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT after freq=2467 max_tx_power=2000
+juni 06 00:35:33 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+juni 06 00:35:33 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT before freq=2467 max_tx_power=2000 no_ir=1
+juni 06 00:35:33 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT after freq=2467 max_tx_power=2000
+juni 06 00:35:33 WARLORD systemd[1115]: Starting xdg-user-dirs.service - User folders update...
+juni 06 00:35:33 WARLORD systemd[1115]: Starting kde-baloo.service - Baloo File Indexer Daemon...
+juni 06 00:35:33 WARLORD systemd[1115]: Finished user-session-migration.service - User Session Migration.
+juni 06 00:35:33 WARLORD systemd[1115]: Finished xdg-desktop-portal-rewrite-launchers.service - Rewrite dynamic launcher portal entries.
+juni 06 00:35:33 WARLORD systemd[1115]: Finished xdg-user-dirs.service - User folders update.
+juni 06 00:35:33 WARLORD systemd[1115]: Reached target graphical-session-pre.target - Session services which should run early before the graphical session is brought up.
+juni 06 00:35:33 WARLORD systemd[1115]: Started plasma-kwin_wayland.service - KDE Window Manager.
+juni 06 00:35:33 WARLORD systemd[1115]: Starting plasma-kcminit.service - KDE Config Module Initialization...
+juni 06 00:35:33 WARLORD systemd[1115]: Starting plasma-ksplash.service - Splash screen shown during boot...
+juni 06 00:35:33 WARLORD baloo_file[1286]: Baloo File Indexing has been disabled
+juni 06 00:35:33 WARLORD systemd[1115]: Started plasma-kglobalaccel.service - KDE Global Shortcuts Server.
+juni 06 00:35:33 WARLORD systemd[1115]: Started kde-baloo.service - Baloo File Indexer Daemon.
+juni 06 00:35:33 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Desktop' unit='xdg-desktop-portal.service' requested by ':1.14' (uid=1000 pid=1291 comm="/usr/bin/kcminit_startup")
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1287]: No backend specified, automatically choosing drm
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1287]: kwin_libinput: Libinput: Failed to load the device quirks from /usr/share/libinput and /etc/libinput/local-overrides.quirks. This will negatively affect device behavior. See https://wayland.freedesktop.org/libinput/doc/1.31.1/device-quirks.html for details.
+juni 06 00:35:33 WARLORD boltd[936]: probing: timeout, done: [2000413] (2000000)
+juni 06 00:35:33 WARLORD kcminit_startup[1291]: Initializing  "/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/kcms/systemsettings/kcm_fonts.so"
+juni 06 00:35:33 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.kde.KSplash'
+juni 06 00:35:33 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.17' (uid=1000 pid=1372 comm="busctl call --user org.a11y.Bus /org/a11y/bus org.")
+juni 06 00:35:33 WARLORD systemd[1115]: Starting at-spi-dbus-bus.service - Accessibility services bus...
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: The XKEYBOARD keymap compiler (xkbcomp) reports:
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: > Warning:          Unsupported maximum keycode 708, clipping.
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: >                   X11 cannot support keycodes above 255.
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: > Warning:          Virtual modifier Hyper multiply defined
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: >                   Using 0, ignoring 0
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: > Warning:          Virtual modifier ScrollLock multiply defined
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: >                   Using 0, ignoring 0
+juni 06 00:35:33 WARLORD kwin_wayland_wrapper[1374]: Errors from xkbcomp are not fatal to the X server
+juni 06 00:35:33 WARLORD kcminit_startup[1291]: Initializing  "/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/kcms/systemsettings/kcm_mouse.so"
+juni 06 00:35:33 WARLORD kcminit_startup[1291]: Initializing  "/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/kcms/systemsettings/kcm_style.so"
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.a11y.Bus'
+juni 06 00:35:34 WARLORD systemd[1115]: Started at-spi-dbus-bus.service - Accessibility services bus.
+juni 06 00:35:34 WARLORD kwin_wayland_wrapper[1376]: Initializing  "/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/kcms/systemsettings/kcm_fonts.so"
+juni 06 00:35:34 WARLORD kwin_wayland_wrapper[1376]: Initializing  "/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/kcms/systemsettings/kcm_style.so"
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-kcminit.service - KDE Config Module Initialization.
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-ksmserver.service - KDE Session Management Server...
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-kwallet-pam.service - Unlock kwallet from pam credentials.
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-kded6.service - KDE Daemon 6...
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-kded6.service - KDE Daemon 6.
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-kcminit-phase1.service - KDE Configuration Module Initialization (Phase 1)...
+juni 06 00:35:34 WARLORD kcminit_startup[1291]: Initializing  "/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/kcms/systemsettings_qwidgets/kcm_kgamma.so"
+juni 06 00:35:34 WARLORD kcminit_startup[1291]: Initializing  "/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/kcms/systemsettings/kcm_touchpad.so"
+juni 06 00:35:34 WARLORD systemd[1115]: Finished plasma-kcminit-phase1.service - KDE Configuration Module Initialization (Phase 1).
+juni 06 00:35:34 WARLORD kded6[1415]: org.kde.colorcorrectlocationupdater: Geolocator stopped
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.33' (uid=1000 pid=1415 comm="/usr/bin/kded6")
+juni 06 00:35:34 WARLORD systemd[1]: Starting upower.service - Daemon for power management...
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-ksmserver.service - KDE Session Management Server.
+juni 06 00:35:34 WARLORD at-spi-bus-launcher[1404]: dbus-daemon[1404]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1413 comm="/usr/bin/ksmserver")
+juni 06 00:35:34 WARLORD at-spi-bus-launcher[1404]: dbus-daemon[1404]: Successfully activated service 'org.a11y.atspi.Registry'
+juni 06 00:35:34 WARLORD at-spi-bus-launcher[1477]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-plasmashell.service - KDE Plasma Workspace...
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.freedesktop.UPower'
+juni 06 00:35:34 WARLORD systemd[1]: Started upower.service - Daemon for power management.
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='ca.desrt.dconf' unit='dconf.service' requested by ':1.27' (uid=1000 pid=1415 comm="/usr/bin/kded6")
+juni 06 00:35:34 WARLORD systemd[1115]: Starting dconf.service - User preferences database...
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.kde.ActivityManager' unit='plasma-kactivitymanagerd.service' requested by ':1.26' (uid=1000 pid=1482 comm="/usr/bin/plasmashell --no-respawn")
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-kactivitymanagerd.service - KActivityManager Activity manager Service...
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'ca.desrt.dconf'
+juni 06 00:35:34 WARLORD systemd[1115]: Started dconf.service - User preferences database.
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-plasmashell.service - KDE Plasma Workspace.
+juni 06 00:35:34 WARLORD systemd[1115]: Reached target plasma-core.target - KDE Plasma Workspace Core.
+juni 06 00:35:34 WARLORD systemd[1115]: Started drkonqi-coredump-pickup.service - Consume pending crashes using DrKonqi.
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-gmenudbusmenuproxy.service - Proxies GTK DBus menus to a Plasma readable format.
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-kaccess.service - KAccess.
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-ksplash-ready.service - KSplash "ready" Stage...
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-polkit-agent.service - KDE PolicyKit Authentication Agent...
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.kde.ActivityManager'
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-powerdevil.service - Powerdevil...
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-xembedsniproxy.service - Handle legacy xembed system tray icons.
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-kactivitymanagerd.service - KActivityManager Activity manager Service.
+juni 06 00:35:34 WARLORD systemd[1115]: Finished plasma-ksplash-ready.service - KSplash "ready" Stage.
+juni 06 00:35:34 WARLORD kaccess[1531]: Xlib XKB extension major= 1  minor= 0
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Starting libddcutil. library built Feb  2 2026 at 21:27:42. stdout_stderr_redirected=true
+juni 06 00:35:34 WARLORD kded6[1415]: org.kde.kameleon: found no RGB LED devices
+juni 06 00:35:34 WARLORD kded6[1415]: QDBusObjectPath: invalid path "/modules/kded_plasma-welcome"
+juni 06 00:35:34 WARLORD kded6[1415]: kf.dbusaddons: The kded module name "kded_plasma-welcome" is invalid!
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Initializing libddcutil.  ddcutil version: 2.2.5, shared library: /usr/lib/x86_64-linux-gnu/libddcutil.so.5.4.1
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]:                           library built Feb  2 2026 at 21:27:42. stdout_stderr_redirected=true
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Options passed from client:
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Applying combined libddcutil options:
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-polkit-agent.service - KDE PolicyKit Authentication Agent.
+juni 06 00:35:34 WARLORD polkit-kde-authentication-agent-1[1535]: New PolkitAgentListener  0x58e1df9d7ef0
+juni 06 00:35:34 WARLORD polkit-kde-authentication-agent-1[1535]: Adding new listener  PolkitQt1::Agent::Listener(0x58e1df9d7b20) for  0x58e1df9d7ef0
+juni 06 00:35:34 WARLORD polkit-kde-authentication-agent-1[1535]: Listener online
+juni 06 00:35:34 WARLORD polkit-kde-authentication-agent-1[1535]: Authentication agent result: true
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-0 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-1 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-2 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-3 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-4 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-5 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-6 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-7 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-8 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-9 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-10 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-11 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Device /dev/i2c-12 lacks R/W permissions
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Library initialization complete.
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Watching for DPMS state changes unimplemented
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Watching for DPMS state changes unimplemented
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Watching for display connection changes, resolved watch mode = Watch_Mode_Udev, poll loop interval = 500 millisec
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error(s) opening ddc devices
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-0
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-1
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-2
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536]                                          extra_stabilization_millisec: 0,  stabilization_poll_millisec: 100
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-3
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-4
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-5
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-6
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-7
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-8
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-9
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-10
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-11
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: Error EACCES(-13): Ikke tilgang opening /dev/i2c-12
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] libddcutil recheck thread 0x5de0ed36ae80 started
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] libddcutil watch thread 0x5de0ed36dca0 started
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1612] (dw_recheck_displays_func) Recheck interval: Sleeping for 200 milliseconds
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error(s) opening ddc devices
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-0
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-1
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-2
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-3
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-4
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-5
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-6
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-7
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-8
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-9
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-10
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-11
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: [  1536] Error EACCES(-13): Ikke tilgang opening /dev/i2c-12
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Activating service name='org.kde.powerdevil.discretegpuhelper' requested by ':1.42' (uid=1000 pid=1536 comm="/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdev") (using servicehelper)
+juni 06 00:35:34 WARLORD kaccess[1531]: X server XKB extension major= 1  minor= 0
+juni 06 00:35:34 WARLORD org.kde.powerdevil.discretegpuhelper[1615]: Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
+                                                                     Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
+                                                                     If this causes problems, reconfigure your locale. See the locale(1) manual
+                                                                     for more information.
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.kde.powerdevil.discretegpuhelper'
+juni 06 00:35:34 WARLORD kded6[1415]: QDBusObjectPath: invalid path "/modules/oom-notifier"
+juni 06 00:35:34 WARLORD kded6[1415]: kf.dbusaddons: The kded module name "oom-notifier" is invalid!
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.3549] agent-manager: agent[30dd307ddeb777ac,:1.33/org.kde.plasma.networkmanagement/1000]: agent registered
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Activating service name='org.kde.powerdevil.chargethresholdhelper' requested by ':1.42' (uid=1000 pid=1536 comm="/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdev") (using servicehelper)
+juni 06 00:35:34 WARLORD kded6[1415]: QDBusObjectPath: invalid path "/modules/plasma-session-shortcuts"
+juni 06 00:35:34 WARLORD kded6[1415]: kf.dbusaddons: The kded module name "plasma-session-shortcuts" is invalid!
+juni 06 00:35:34 WARLORD org.kde.powerdevil.chargethresholdhelper[1629]: Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
+                                                                         Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
+                                                                         If this causes problems, reconfigure your locale. See the locale(1) manual
+                                                                         for more information.
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.kde.powerdevil.chargethresholdhelper'
+juni 06 00:35:34 WARLORD kded6[1415]: QDBusObjectPath: invalid path "/modules/wpad-detector"
+juni 06 00:35:34 WARLORD kded6[1415]: kf.dbusaddons: The kded module name "wpad-detector" is invalid!
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Activating service name='org.kde.powerdevil.backlighthelper' requested by ':1.42' (uid=1000 pid=1536 comm="/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdev") (using servicehelper)
+juni 06 00:35:34 WARLORD kded6[1643]: kf.config.kconf_update: /usr/share/kconf_update/filepicker.upd defined Version=5 but Version=6 was expected
+juni 06 00:35:34 WARLORD org.kde.powerdevil.backlighthelper[1646]: org.kde.powerdevil: no kernel backlight interface found
+juni 06 00:35:34 WARLORD org.kde.powerdevil.backlighthelper[1646]: Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
+                                                                   Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
+                                                                   If this causes problems, reconfigure your locale. See the locale(1) manual
+                                                                   for more information.
+juni 06 00:35:34 WARLORD kded6[1415]: qt.dbus.integration: QDBusConnection: name 'org.freedesktop.UPower' had owner '' but we thought it was ':1.40'
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.kde.powerdevil.backlighthelper'
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: org.kde.powerdevil: org.kde.powerdevil.chargethresholdhelper.getthreshold failed "Charge thresholds are not supported by the kernel for this hardware"
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: org.kde.powerdevil: org.kde.powerdevil.backlighthelper.brightness failed
+juni 06 00:35:34 WARLORD kded6[1415]: Known activities: QList("5095b7a0-9973-4f39-b50d-9d813ebe52fc")
+juni 06 00:35:34 WARLORD plasmashell[1482]: kf.plasma.quick: Applet preload policy set to 1
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.bluez.obex' unit='obex.service' requested by ':1.20' (uid=1000 pid=1415 comm="/usr/bin/kded6")
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Activating service name='org.kde.kded.smart' requested by ':1.33' (uid=1000 pid=1415 comm="/usr/bin/kded6") (using servicehelper)
+juni 06 00:35:34 WARLORD kded6[1665]: xsettingsd: Loaded 16 settings from /home/wils/.config/xsettingsd/xsettingsd.conf
+juni 06 00:35:34 WARLORD kded6[1665]: xsettingsd: Created window 0xe00001 on screen 0 with timestamp 8528
+juni 06 00:35:34 WARLORD kded6[1665]: xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+juni 06 00:35:34 WARLORD kded6[1665]: xsettingsd: Took ownership of selection _XSETTINGS_S0
+juni 06 00:35:34 WARLORD systemd[1115]: Starting obex.service - Bluetooth OBEX service...
+juni 06 00:35:34 WARLORD org.kde.kded.smart[1668]: Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
+                                                   Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
+                                                   If this causes problems, reconfigure your locale. See the locale(1) manual
+                                                   for more information.
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-powerdevil.service - Powerdevil.
+juni 06 00:35:34 WARLORD systemd[1115]: Reached target plasma-workspace.target - KDE Plasma Workspace.
+juni 06 00:35:34 WARLORD systemd[1115]: Reached target graphical-session.target - Current graphical user session.
+juni 06 00:35:34 WARLORD systemd[1115]: Reached target plasma-workspace-wayland.target.
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.kde.kded.smart'
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-im\x2dlaunch@autostart.service - im-launch...
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-kup\x2ddaemon@autostart.service - Kup...
+juni 06 00:35:34 WARLORD bluetoothd[758]: src/adv_monitor.c:btd_adv_monitor_power_down() Unexpected NULL btd_adv_monitor_manager object upon power down
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-org.kde.discover.notifier@autostart.service - Discover...
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-org.kde.kdeconnect.daemon@autostart.service - KDE Connect...
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-org.kde.plasma\x2dfallback\x2dsession\x2drestore@autostart.service - Plasma Session Restore...
+juni 06 00:35:34 WARLORD org_kde_powerdevil[1536]: org.kde.powerdevil: org.kde.powerdevil.chargethresholdhelper.getthreshold failed "Charge thresholds are not supported by the kernel for this hardware"
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-org.kde.xwaylandvideobridge@autostart.service - Xwayland Video Bridge...
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-xapp\x2dsn\x2dwatcher@autostart.service - xapp-sn-watcher...
+juni 06 00:35:34 WARLORD systemd[1115]: Starting app-xdg\x2duser\x2ddirs\x2dkde@autostart.service - User folders update...
+juni 06 00:35:34 WARLORD systemd[1115]: Starting kunifiedpush-distributor.service - KUnifiedPush Distributor...
+juni 06 00:35:34 WARLORD kded6[1415]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_c4_00.6.analog-stereo.monitor"
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-restoresession.service - KDE Session Restoration...
+juni 06 00:35:34 WARLORD systemd[1115]: spice-vdagent.service - Spice guest session agent skipped, unmet condition check ConditionPathExists=/run/spice-vdagentd/spice-vdagent-sock
+juni 06 00:35:34 WARLORD systemd[1115]: Starting xdg-desktop-portal.service - Portal service...
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-org.kde.kdeconnect.daemon@autostart.service - KDE Connect.
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-im\x2dlaunch@autostart.service - im-launch.
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-org.kde.xwaylandvideobridge@autostart.service - Xwayland Video Bridge.
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-xdg\x2duser\x2ddirs\x2dkde@autostart.service - User folders update.
+juni 06 00:35:34 WARLORD systemd[1115]: Started kunifiedpush-distributor.service - KUnifiedPush Distributor.
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-org.kde.discover.notifier@autostart.service - Discover.
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-org.kde.plasma\x2dfallback\x2dsession\x2drestore@autostart.service - Plasma Session Restore.
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-xapp\x2dsn\x2dwatcher@autostart.service - xapp-sn-watcher.
+juni 06 00:35:34 WARLORD systemd[1115]: Finished plasma-restoresession.service - KDE Session Restoration.
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.38' (uid=1000 pid=1697 comm="/usr/libexec/xdg-desktop-portal")
+juni 06 00:35:34 WARLORD systemd[1115]: Starting xdg-permission-store.service - sandboxed app permission store...
+juni 06 00:35:34 WARLORD systemd[1115]: Started app-kup\x2ddaemon@autostart.service - Kup.
+juni 06 00:35:34 WARLORD systemd[1115]: Reached target xdg-desktop-autostart.target - Startup of XDG autostart applications.
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+juni 06 00:35:34 WARLORD systemd[1115]: Started xdg-permission-store.service - sandboxed app permission store.
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.38' (uid=1000 pid=1697 comm="/usr/libexec/xdg-desktop-portal")
+juni 06 00:35:34 WARLORD systemd[1115]: Starting xdg-document-portal.service - flatpak document portal service...
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.portal.Documents'
+juni 06 00:35:34 WARLORD systemd[1115]: Started xdg-document-portal.service - flatpak document portal service.
+juni 06 00:35:34 WARLORD obexd[1669]: OBEX daemon 5.85
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.bluez.obex'
+juni 06 00:35:34 WARLORD systemd[1115]: Started obex.service - Bluetooth OBEX service.
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.49' (uid=1000 pid=1669 comm="/usr/libexec/bluetooth/obexd")
+juni 06 00:35:34 WARLORD /usr/libexec/xdg-desktop-portal[1697]: Choosing gtk.portal for org.freedesktop.impl.portal.Lockdown as a last-resort fallback
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.gtk' unit='xdg-desktop-portal-gtk.service' requested by ':1.38' (uid=1000 pid=1697 comm="/usr/libexec/xdg-desktop-portal")
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activation via systemd failed for unit 'evolution-source-registry.service': Unit evolution-source-registry.service not found.
+juni 06 00:35:34 WARLORD obexd[1669]: Unable to acquire registry: Error calling StartServiceByName for org.gnome.evolution.dataserver.Sources5: Unit evolution-source-registry.service not found.
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.49' (uid=1000 pid=1669 comm="/usr/libexec/bluetooth/obexd")
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activation via systemd failed for unit 'evolution-source-registry.service': Unit evolution-source-registry.service not found.
+juni 06 00:35:34 WARLORD obexd[1669]: Unable to acquire registry: Error calling StartServiceByName for org.gnome.evolution.dataserver.Sources5: Unit evolution-source-registry.service not found.
+juni 06 00:35:34 WARLORD systemd[1115]: Starting xdg-desktop-portal-gtk.service - Portal service (GTK/GNOME implementation)...
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.desktop.gtk'
+juni 06 00:35:34 WARLORD systemd[1115]: Started xdg-desktop-portal-gtk.service - Portal service (GTK/GNOME implementation).
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.kde' unit='plasma-xdg-desktop-portal-kde.service' requested by ':1.38' (uid=1000 pid=1697 comm="/usr/libexec/xdg-desktop-portal")
+juni 06 00:35:34 WARLORD systemd[1115]: Starting plasma-xdg-desktop-portal-kde.service - Xdg Desktop Portal For KDE...
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.63' (uid=1000 pid=1701 comm="/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier")
+juni 06 00:35:34 WARLORD kup-daemon[1710]: kup.daemon: "Kup is not enabled, enable it from the system settings module. You can do that by running kcmshell5 kup"
+juni 06 00:35:34 WARLORD systemd[1]: Starting packagekit.service - PackageKit Daemon...
+juni 06 00:35:34 WARLORD PackageKit[1828]: daemon start
+juni 06 00:35:34 WARLORD kded6[1415]: Registering ":1.52/StatusNotifierItem" to system tray
+juni 06 00:35:34 WARLORD kwin_wayland_wrapper[1287]: kf.windowsystem: static bool KX11Extras::mapViewport() may only be used on X11
+juni 06 00:35:34 WARLORD dbus-daemon[761]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+juni 06 00:35:34 WARLORD systemd[1]: Started packagekit.service - PackageKit Daemon.
+juni 06 00:35:34 WARLORD kernel: warning: `kdeconnectd' uses wireless extensions which will stop working for Wi-Fi 7 hardware; use nl80211
+juni 06 00:35:34 WARLORD kdeconnectd[1687]: qt.bluetooth.bluez: Bluetooth device is powered off
+juni 06 00:35:34 WARLORD kdeconnectd[1687]: Error sending UDP packet: QAbstractSocket::NetworkError
+juni 06 00:35:34 WARLORD kdeconnectd[1687]: kdeconnect.core: Failed to open any MDNS client sockets
+juni 06 00:35:34 WARLORD kdeconnectd[1687]: kdeconnect.core: Failed to open any MDNS server sockets
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating service name='org.freedesktop.Notifications' requested by ':1.44' (uid=1000 pid=1687 comm="/usr/bin/kdeconnectd")
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.desktop.kde'
+juni 06 00:35:34 WARLORD systemd[1115]: Started plasma-xdg-desktop-portal-kde.service - Xdg Desktop Portal For KDE.
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.portal.Desktop'
+juni 06 00:35:34 WARLORD systemd[1115]: Started xdg-desktop-portal.service - Portal service.
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7070] device (eno1): carrier: link connected
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7071] device (eno1): state change: unavailable -> disconnected (reason 'carrier-changed', managed-type: 'full')
+juni 06 00:35:34 WARLORD kernel: r8169 0000:01:00.0 eno1: Link is Up - 1Gbps/Full - flow control rx/tx
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7076] policy: auto-activating connection 'WARLORD-LAN' (ead179bf-bc6b-4cdc-bcc7-b25d944b3e22)
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7079] device (eno1): Activation: starting connection 'WARLORD-LAN' (ead179bf-bc6b-4cdc-bcc7-b25d944b3e22)
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7079] device (eno1): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7080] manager: NetworkManager state is now CONNECTING
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7082] device (eno1): state change: prepare -> config (reason 'none', managed-type: 'full')
+juni 06 00:35:34 WARLORD kernel: r8169 0000:01:00.0 eno1: Link is Up - 1Gbps/Full - flow control rx/tx
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7086] device (eno1): state change: config -> ip-config (reason 'none', managed-type: 'full')
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.7088] dhcp4 (eno1): activation: beginning transaction (timeout in 45 seconds)
+juni 06 00:35:34 WARLORD avahi-daemon[757]: Joining mDNS multicast group on interface eno1.IPv6 with address fe80::ad79:50a0:b4ce:949d.
+juni 06 00:35:34 WARLORD avahi-daemon[757]: New relevant interface eno1.IPv6 for mDNS.
+juni 06 00:35:34 WARLORD avahi-daemon[757]: Registering new address record for fe80::ad79:50a0:b4ce:949d on eno1.*.
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8171] policy: auto-activating connection 'Altibox_2.4Ghz' (a5851a4e-2a92-41d6-913d-65a099f48171)
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8175] device (wlp2s0): Activation: starting connection 'Altibox_2.4Ghz' (a5851a4e-2a92-41d6-913d-65a099f48171)
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8175] device (wlp2s0): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8177] device (wlp2s0): state change: prepare -> config (reason 'none', managed-type: 'full')
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8178] device (wlp2s0): Activation: (wifi) access point 'Altibox_2.4Ghz' has security, but secrets are required.
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8178] device (wlp2s0): state change: config -> need-auth (reason 'none', managed-type: 'full')
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8179] sup-iface[0f0add4f8be0c934,0,wlp2s0]: wps: type pbc start...
+juni 06 00:35:34 WARLORD wpa_supplicant[922]: wlp2s0: WPS-PBC-ACTIVE
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating service name='org.kde.kwalletd6' requested by ':1.20' (uid=1000 pid=1415 comm="/usr/bin/kded6")
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8238] device (wlp2s0): supplicant interface state: disconnected -> scanning
+juni 06 00:35:34 WARLORD NetworkManager[970]: <info>  [1780698934.8238] device (p2p-dev-wlp2s0): supplicant management interface state: disconnected -> scanning
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating service name='org.kde.secretservicecompat' requested by ':1.59' (uid=1000 pid=1906 comm="/usr/bin/kwalletd6")
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.kde.secretservicecompat'
+juni 06 00:35:34 WARLORD kwalletd6[1906]: g_dbus_proxy_get_object_path: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+juni 06 00:35:34 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.kde.kwalletd6'
+juni 06 00:35:34 WARLORD org.kde.kwalletd6[1906]: qt.dbus.integration: QDBusConnection: name 'org.kde.secretservicecompat' had owner '' but we thought it was ':1.60'
+juni 06 00:35:34 WARLORD org.kde.kwalletd6[1906]: Secret Service availability changed: Available
+juni 06 00:35:34 WARLORD plasmashell[1482]: org.kde.plasma.kicker: Entry is not valid "org.kde.kontact.desktop" 0x5d748806a560
+juni 06 00:35:34 WARLORD plasmashell[1482]: org.kde.plasma.kicker: Entry is not valid "org.kde.kontact.desktop" 0x5d748806a560
+juni 06 00:35:35 WARLORD org.kde.secretservicecompat[1927]: Using kwallet without parent window!
+juni 06 00:35:35 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.Notifications'
+juni 06 00:35:35 WARLORD systemd[1115]: Finished plasma-ksplash.service - Splash screen shown during boot.
+juni 06 00:35:35 WARLORD systemd[1115]: plasma-ksplash.service: Consumed 227ms CPU time over 2.664s wall clock time, 64.4M memory peak.
+juni 06 00:35:35 WARLORD ModemManager[935]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.0': not supported by any plugin
+juni 06 00:35:35 WARLORD ModemManager[935]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:02.2/0000:02:00.0': not supported by any plugin
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.0917] dhcp6 (eno1): activation: beginning transaction (timeout in 45 seconds)
+juni 06 00:35:36 WARLORD avahi-daemon[757]: Leaving mDNS multicast group on interface eno1.IPv6 with address fe80::ad79:50a0:b4ce:949d.
+juni 06 00:35:36 WARLORD avahi-daemon[757]: Joining mDNS multicast group on interface eno1.IPv6 with address 2a01:799:e19:5c00:9673:959d:3eb6:d782.
+juni 06 00:35:36 WARLORD avahi-daemon[757]: Registering new address record for 2a01:799:e19:5c00:9673:959d:3eb6:d782 on eno1.*.
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.0926] policy: set 'WARLORD-LAN' (eno1) as default for IPv6 routing and DNS
+juni 06 00:35:36 WARLORD avahi-daemon[757]: Withdrawing address record for fe80::ad79:50a0:b4ce:949d on eno1.
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.0932] dhcp6 (eno1): state changed new lease
+juni 06 00:35:36 WARLORD systemd-resolved[477]: eno1: Bus client set default route setting: yes
+juni 06 00:35:36 WARLORD systemd-resolved[477]: eno1: Bus client set DNS server list to: fe80::32bd:13ff:fe7c:3746
+juni 06 00:35:36 WARLORD plasmashell[1482]: org.kde.pulseaudio: No object for name "alsa_output.pci-0000_c4_00.6.analog-stereo.monitor"
+juni 06 00:35:36 WARLORD systemd[1]: systemd-rfkill.service: Deactivated successfully.
+juni 06 00:35:36 WARLORD chronyd[882]: Could not connect to [2620:2d:4000:1::2123]:4460 (1.ntp.ubuntu.com) : No route to host
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT before freq=5220 max_tx_power=2000 no_ir=1
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT after freq=5220 max_tx_power=2000
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT before freq=5220 max_tx_power=2000 no_ir=1
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT after freq=5220 max_tx_power=2000
+juni 06 00:35:36 WARLORD chronyd[882]: Could not connect to [2620:2d:4000:1::3123]:4460 (2.ntp.ubuntu.com) : No route to host
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT before freq=5240 max_tx_power=2000 no_ir=1
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT after freq=5240 max_tx_power=2000
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT before freq=5240 max_tx_power=2000 no_ir=1
+juni 06 00:35:36 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-BEACON-HINT after freq=5240 max_tx_power=2000
+juni 06 00:35:36 WARLORD chronyd[882]: Could not connect to [2620:2d:4002:1::2123]:4460 (3.ntp.ubuntu.com) : No route to host
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.7638] dhcp4 (eno1): state changed new lease, address=192.168.10.128, acd pending
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.8986] dhcp4 (eno1): state changed new lease, address=192.168.10.128
+juni 06 00:35:36 WARLORD avahi-daemon[757]: Joining mDNS multicast group on interface eno1.IPv4 with address 192.168.10.128.
+juni 06 00:35:36 WARLORD avahi-daemon[757]: New relevant interface eno1.IPv4 for mDNS.
+juni 06 00:35:36 WARLORD avahi-daemon[757]: Registering new address record for 192.168.10.128 on eno1.IPv4.
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.8997] policy: set 'WARLORD-LAN' (eno1) as default for IPv4 routing and DNS
+juni 06 00:35:36 WARLORD systemd-resolved[477]: eno1: Bus client set search domain list to: home
+juni 06 00:35:36 WARLORD systemd-resolved[477]: eno1: Bus client set DNS server list to: 192.168.10.1, fe80::32bd:13ff:fe7c:3746
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.9090] device (eno1): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.9105] device (eno1): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.9105] device (eno1): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.9108] device (eno1): Activation: successful, device activated.
+juni 06 00:35:36 WARLORD NetworkManager[970]: <info>  [1780698936.9110] manager: NetworkManager state is now CONNECTED_GLOBAL
+juni 06 00:35:36 WARLORD kdeconnectd[1687]: Error sending UDP packet: QAbstractSocket::NetworkError
+juni 06 00:35:36 WARLORD chronyd[882]: Could not connect to [2620:2d:4002:1::3123]:4460 (4.ntp.ubuntu.com) : No route to host
+juni 06 00:35:36 WARLORD chronyd[882]: Could not remove /var/lib/chrony/185.125.190.122.nts : Read-only file system
+juni 06 00:35:36 WARLORD chronyd[882]: Could not remove /var/lib/chrony/185.125.190.123.nts : Read-only file system
+juni 06 00:35:36 WARLORD chronyd[882]: Could not remove /var/lib/chrony/91.189.91.112.nts : Read-only file system
+juni 06 00:35:36 WARLORD chronyd[882]: Could not remove /var/lib/chrony/91.189.91.113.nts : Read-only file system
+juni 06 00:35:37 WARLORD chronyd[882]: Could not connect to [2620:2d:4000:1::1123]:4460 (ntp-bootstrap.ubuntu.com) : No route to host
+juni 06 00:35:37 WARLORD kernel: logitech-hidpp-device 0003:046D:408A.0007: HID++ 4.5 device connected.
+juni 06 00:35:37 WARLORD chronyd[882]: Could not connect to [2620:2d:4002:1::1123]:4460 (ntp-bootstrap.ubuntu.com) : No route to host
+juni 06 00:35:37 WARLORD boltd[936]: probing: started [1000]
+juni 06 00:35:37 WARLORD upowerd[1475]: failed to set data: Klarte ikke å opprette fil «/var/lib/upower/history-rate-generic_id.dat.KSXSQ3»: Filsystem med kun lesetilgang
+juni 06 00:35:37 WARLORD avahi-daemon[757]: Registering new address record for 2a01:799:e19:5c00:f34e:b397:c8d5:588f on eno1.*.
+juni 06 00:35:37 WARLORD DiscoverNotifier[1701]: packagekitqt.offline: Cannot process "org.freedesktop.PackageKit" as "org.freedesktop.PackageKit.Offline"
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4526] device (wlp2s0): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4528] device (wlp2s0): state change: prepare -> config (reason 'none', managed-type: 'full')
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4530] device (wlp2s0): Activation: (wifi) connection 'Altibox_2.4Ghz' has security, and secrets exist.  No new secrets needed.
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: WPS-CANCEL
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4626] Config: added 'ssid' value 'Altibox319793'
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4626] Config: added 'scan_ssid' value '1'
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4626] Config: added 'bgscan' value 'simple:30:-65:300'
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4626] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.4627] Config: added 'psk' value '<hidden>'
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: SME: Trying to authenticate with 30:bd:13:7c:37:47 (SSID='Altibox319793' freq=2412 MHz)
+juni 06 00:35:38 WARLORD kernel: wlp2s0: authenticate with 30:bd:13:7c:37:47 (local address=a4:6b:40:40:1f:63)
+juni 06 00:35:38 WARLORD kernel: wlp2s0: send auth to 30:bd:13:7c:37:47 (try 1/3)
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.6454] device (wlp2s0): supplicant interface state: scanning -> authenticating
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.6455] device (p2p-dev-wlp2s0): supplicant management interface state: scanning -> authenticating
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: Trying to associate with 30:bd:13:7c:37:47 (SSID='Altibox319793' freq=2412 MHz)
+juni 06 00:35:38 WARLORD kernel: wlp2s0: authenticated
+juni 06 00:35:38 WARLORD kernel: wlp2s0: associate with 30:bd:13:7c:37:47 (try 1/3)
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.6558] device (wlp2s0): supplicant interface state: authenticating -> associating
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.6558] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+juni 06 00:35:38 WARLORD kernel: wlp2s0: RX AssocResp from 30:bd:13:7c:37:47 (capab=0x1c11 status=0 aid=17)
+juni 06 00:35:38 WARLORD kernel: wlp2s0: associated
+juni 06 00:35:38 WARLORD kernel: wlp2s0: Limiting TX power to 30 (30 - 0) dBm as advertised by 30:bd:13:7c:37:47
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: Associated with 30:bd:13:7c:37:47
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=NO
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: p2p-dev-wlp2s0: Channel list changed: 6 GHz was enabled
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: Channel list changed: 6 GHz was enabled
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=NO
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.7530] device (wlp2s0): supplicant interface state: associating -> associated
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.7530] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> associated
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: WPA: Key negotiation completed with 30:bd:13:7c:37:47 [PTK=CCMP GTK=CCMP]
+juni 06 00:35:38 WARLORD wpa_supplicant[922]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to 30:bd:13:7c:37:47 completed [id=0 id_str=]
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.8522] device (wlp2s0): supplicant interface state: associated -> completed
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.8522] device (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Altibox319793"
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.8522] device (p2p-dev-wlp2s0): supplicant management interface state: associated -> completed
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.8525] device (wlp2s0): state change: config -> ip-config (reason 'none', managed-type: 'full')
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.8528] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+juni 06 00:35:38 WARLORD avahi-daemon[757]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::8ad9:a573:e1e1:29b6.
+juni 06 00:35:38 WARLORD avahi-daemon[757]: New relevant interface wlp2s0.IPv6 for mDNS.
+juni 06 00:35:38 WARLORD avahi-daemon[757]: Registering new address record for fe80::8ad9:a573:e1e1:29b6 on wlp2s0.*.
+juni 06 00:35:38 WARLORD plasmashell[1482]: kf.i18n: 0 instead of 1 arguments to message "Klarte ikke hente væ..." supplied before conversion
+juni 06 00:35:38 WARLORD NetworkManager[970]: <info>  [1780698938.9089] dhcp4 (wlp2s0): state changed new lease, address=192.168.10.147, acd pending
+juni 06 00:35:39 WARLORD NetworkManager[970]: <info>  [1780698939.0969] dhcp4 (wlp2s0): state changed new lease, address=192.168.10.147
+juni 06 00:35:39 WARLORD avahi-daemon[757]: Joining mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.10.147.
+juni 06 00:35:39 WARLORD avahi-daemon[757]: New relevant interface wlp2s0.IPv4 for mDNS.
+juni 06 00:35:39 WARLORD avahi-daemon[757]: Registering new address record for 192.168.10.147 on wlp2s0.IPv4.
+juni 06 00:35:39 WARLORD systemd-resolved[477]: wlp2s0: Bus client set search domain list to: home
+juni 06 00:35:39 WARLORD systemd-resolved[477]: wlp2s0: Bus client set default route setting: yes
+juni 06 00:35:39 WARLORD systemd-resolved[477]: wlp2s0: Bus client set DNS server list to: 192.168.10.1
+juni 06 00:35:39 WARLORD NetworkManager[970]: <info>  [1780698939.1127] device (wlp2s0): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+juni 06 00:35:39 WARLORD NetworkManager[970]: <info>  [1780698939.1141] device (wlp2s0): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+juni 06 00:35:39 WARLORD NetworkManager[970]: <info>  [1780698939.1142] device (wlp2s0): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+juni 06 00:35:39 WARLORD NetworkManager[970]: <info>  [1780698939.1145] device (wlp2s0): Activation: successful, device activated.
+juni 06 00:35:39 WARLORD NetworkManager[970]: <info>  [1780698939.1147] manager: startup complete
+juni 06 00:35:39 WARLORD boltd[936]: probing: timeout, done: [2001706] (2000000)
+juni 06 00:35:40 WARLORD NetworkManager[970]: <info>  [1780698940.3669] dhcp6 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+juni 06 00:35:40 WARLORD avahi-daemon[757]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::8ad9:a573:e1e1:29b6.
+juni 06 00:35:40 WARLORD avahi-daemon[757]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address 2a01:799:e19:5c00:fa1d:336f:d0cf:e150.
+juni 06 00:35:40 WARLORD avahi-daemon[757]: Registering new address record for 2a01:799:e19:5c00:fa1d:336f:d0cf:e150 on wlp2s0.*.
+juni 06 00:35:40 WARLORD avahi-daemon[757]: Withdrawing address record for fe80::8ad9:a573:e1e1:29b6 on wlp2s0.
+juni 06 00:35:40 WARLORD NetworkManager[970]: <info>  [1780698940.3681] dhcp6 (wlp2s0): state changed new lease
+juni 06 00:35:40 WARLORD systemd-resolved[477]: wlp2s0: Bus client set DNS server list to: 192.168.10.1, fe80::32bd:13ff:fe7c:3746
+juni 06 00:35:42 WARLORD avahi-daemon[757]: Registering new address record for 2a01:799:e19:5c00:ac96:3059:521b:3660 on wlp2s0.*.
+juni 06 00:35:43 WARLORD chronyd[882]: Selected source 185.125.190.123 (2.ntp.ubuntu.com)
+juni 06 00:35:43 WARLORD chronyd[882]: System clock TAI offset set to 37 seconds
+juni 06 00:35:43 WARLORD systemd[1115]: Started app-org.kde.konsole@18c17d9c76c44ff3a2a6ccca4a0926f1.service - Konsole - Terminal.
+juni 06 00:35:44 WARLORD systemd[1115]: Started app-org.kde.konsole-2069.scope.
+juni 06 00:35:50 WARLORD systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+juni 06 00:35:51 WARLORD chronyd[882]: Could not remove /var/lib/chrony/185.125.190.121.nts : Read-only file system
+juni 06 00:35:51 WARLORD chronyd[882]: Source 2620:2d:4000:1::1123 replaced with 185.125.190.121 (ntp-bootstrap.ubuntu.com)
+juni 06 00:35:51 WARLORD systemd[1115]: Started app-google\x2dchrome@dd6162e7c3d34b618a7796d1404fcc03.service - Google Chrome - Nettleser.
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2155:0606/003552.322116:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2192:0606/003552.322135:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2155:0606/003552.322200:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2192:0606/003552.322201:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2155:0606/003552.322213:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2192:0606/003552.322204:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2216:0606/003552.322261:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2125:2216:0606/003552.322270:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2202:2207:0606/003552.404554:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2202:2207:0606/003552.404618:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2202:2207:0606/003552.404625:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 06 00:35:52 WARLORD systemd[1115]: Started app-com.google.Chrome-2125.scope.
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: [2202:2208:0606/003552.406546:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 06 00:35:52 WARLORD google-chrome-stable[2130]: Created TensorFlow Lite XNNPACK delegate for CPU.
+juni 06 00:35:54 WARLORD google-chrome-stable[2130]: [2125:2159:0606/003554.647262:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 06 00:35:55 WARLORD PackageKit[1828]: get-updates transaction /455_bbccdcce from uid 1000 finished with success after 565ms
+juni 06 00:36:01 WARLORD systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+juni 06 00:36:14 WARLORD google-chrome-stable[2130]: [2125:2159:0606/003614.879205:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 06 00:36:22 WARLORD google-chrome-stable[2130]: [2125:2215:0606/003622.299685:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 06 00:36:22 WARLORD google-chrome-stable[2130]: [2125:2214:0606/003622.299684:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 06 00:36:22 WARLORD google-chrome-stable[2130]: [2125:2213:0606/003622.299684:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 06 00:36:22 WARLORD chrome[2125]: [2125:2155:0606/003622.338388:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+juni 06 00:36:25 WARLORD systemd[1]: systemd-localed.service: Deactivated successfully.
+juni 06 00:36:44 WARLORD systemd[1]: Starting motd-news.service - Message of the Day...
+juni 06 00:36:44 WARLORD systemd[1]: motd-news.service: Deactivated successfully.
+juni 06 00:36:44 WARLORD systemd[1]: Finished motd-news.service - Message of the Day.
+juni 06 00:36:45 WARLORD konsole[2069]: kf.config.core: KConfigIni: In file /usr/share/kf6/searchproviders/google_advanced.desktop, line 143: Invalid escape sequence: «\{»
+juni 06 00:37:11 WARLORD google-chrome-stable[2130]: [2125:2159:0606/003711.628177:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 06 00:38:38 WARLORD google-chrome-stable[2130]: [2125:2159:0606/003838.276429:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 06 00:40:01 WARLORD CRON[2686]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 06 00:40:01 WARLORD CRON[2688]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 06 00:40:01 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 06 00:40:01 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 06 00:40:01 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 06 00:40:01 WARLORD kernel: sh (2688): drop_caches: 3
+juni 06 00:40:01 WARLORD CRON[2686]: pam_unix(cron:session): session closed for user root
+juni 06 00:40:20 WARLORD ollama[1002]: time=2026-06-06T00:40:20.334+02:00 level=WARN source=model_recommendations.go:229 msg="failed to persist model recommendations snapshot" error="open /usr/share/ollama/.ollama/cache/.model-recommendations-2506915928.tmp: read-only file system"
+juni 06 00:40:20 WARLORD ollama[1002]: time=2026-06-06T00:40:20.334+02:00 level=INFO source=model_recommendations.go:179 msg="model recommendations cache sleep scheduled" wait=3h35m34.741312886s consecutive_failures=0
+juni 06 00:40:34 WARLORD PackageKit[1828]: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+juni 06 00:40:34 WARLORD PackageKit[1828]: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+juni 06 00:40:35 WARLORD systemd[1]: Starting apt-news.service - Update APT News...
+juni 06 00:40:35 WARLORD systemd[1]: Starting esm-cache.service - Update the local ESM caches...
+juni 06 00:40:35 WARLORD systemd[1]: apt-news.service: Deactivated successfully.
+juni 06 00:40:35 WARLORD systemd[1]: Finished apt-news.service - Update APT News.
+juni 06 00:40:35 WARLORD PackageKit[1828]: refresh-cache transaction /456_ecdccabb from uid 1000 finished with failed after 510ms
+juni 06 00:40:35 WARLORD python3[2710]: ["2026-06-06T00:40:35.780", "WARNING", "ubuntupro.apt", "fail", 970, "Failed to fetch ESM Apt Cache item: https://esm.ubuntu.com/apps/ubuntu/dists/resolute-apps-security/InRelease", {}]
+juni 06 00:40:35 WARLORD python3[2710]: ["2026-06-06T00:40:35.921", "WARNING", "ubuntupro.apt", "fail", 970, "Failed to fetch ESM Apt Cache item: https://esm.ubuntu.com/apps/ubuntu/dists/resolute-apps-updates/InRelease", {}]
+juni 06 00:40:36 WARLORD python3[2710]: ["2026-06-06T00:40:36.064", "WARNING", "ubuntupro.apt", "fail", 970, "Failed to fetch ESM Apt Cache item: https://esm.ubuntu.com/apps/ubuntu/dists/resolute-apps-security/Release", {}]
+juni 06 00:40:36 WARLORD PackageKit[1828]: get-updates transaction /457_bcccaedd from uid 1000 finished with success after 391ms
+juni 06 00:40:36 WARLORD python3[2710]: ["2026-06-06T00:40:36.205", "WARNING", "ubuntupro.apt", "fail", 970, "Failed to fetch ESM Apt Cache item: https://esm.ubuntu.com/apps/ubuntu/dists/resolute-apps-updates/Release", {}]
+juni 06 00:40:36 WARLORD python3[2710]: ["2026-06-06T00:40:36.206", "WARNING", "ubuntupro.apt", "update_esm_caches", 978, "Failed to fetch the ESM Apt Cache: W:chown to _apt:root of directory /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial failed - SetupAPTPartialDirectory (30: Read-only file system), W:chmod 0700 of directory /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial failed - SetupAPTPartialDirectory (30: Read-only file system), W:chown to _apt:root of directory /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/auxfiles failed - SetupAPTPartialDirectory (30: Read-only file system), W:chmod 0755 of directory /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/auxfiles failed - SetupAPTPartialDirectory (30: Read-only file system), W:Not using locking for read only lock file /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/lock, W:Problem unlinking the file /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial/.apt-acquire-privs-test.58fNlk - IsAccessibleBySandboxUser (30: Read-only file system), W:Problem unlinking the file /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial/.apt-acquire-privs-test.a7TXbH - IsAccessibleBySandboxUser (30: Read-only file system), W:Problem unlinking the file /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial/esm.ubuntu.com_apps_ubuntu_dists_resolute-apps-security_InRelease - PrepareFiles (30: Read-only file system), W:Repositories should provide a clear-signed InRelease file, but none found at https://esm.ubuntu.com/apps/ubuntu/dists/resolute-apps-security/InRelease., W:Problem unlinking the file /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial/esm.ubuntu.com_apps_ubuntu_dists_resolute-apps-updates_InRelease - PrepareFiles (30: Read-only file system), W:Repositories should provide a clear-signed InRelease file, but none found at https://esm.ubuntu.com/apps/ubuntu/dists/resolute-apps-updates/InRelease., W:Problem unlinking the file /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial/esm.ubuntu.com_apps_ubuntu_dists_resolute-apps-security_Release - PrepareFiles (30: Read-only file system), E:The repository 'https://esm.ubuntu.com/apps/ubuntu resolute-apps-security Release' no longer has a Release file., W:Updating from such a repository can't be done securely, and is therefore disabled by default., W:See apt-secure(8) manpage for repository creation and user configuration details., W:Problem unlinking the file /var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial/esm.ubuntu.com_apps_ubuntu_dists_resolute-apps-updates_Release - PrepareFiles (30: Read-only file system), E:The repository 'https://esm.ubuntu.com/apps/ubuntu resolute-apps-updates Release' no longer has a Release file.", {}]
+juni 06 00:40:36 WARLORD systemd[1]: esm-cache.service: Deactivated successfully.
+juni 06 00:40:36 WARLORD systemd[1]: Finished esm-cache.service - Update the local ESM caches.
+juni 06 00:40:38 WARLORD PackageKit[1828]: get-updates transaction /458_ecbdeeeb from uid 1000 finished with success after 372ms
+juni 06 00:40:44 WARLORD systemd[1115]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache skipped, unmet condition check ConditionPathExists=/home/wils/.launchpadlib/api.launchpad.net/cache
+juni 06 00:41:51 WARLORD sudo[2781]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 06 00:41:51 WARLORD sudo[2781]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/home/wils/scripts/maale_reboot.sh
+juni 06 00:41:51 WARLORD sudo[2781]: pam_unix(sudo:session): session closed for user root
+juni 06 00:42:00 WARLORD xdg-desktop-portal-kde[2804]: [swscaler @ 0x58154ee48a40] deprecated pixel format used, make sure you did set range correctly
+juni 06 00:42:00 WARLORD xdg-desktop-portal-kde[2804]: [swscaler @ 0x58154f073840] deprecated pixel format used, make sure you did set range correctly
+juni 06 00:42:00 WARLORD xdg-desktop-portal-kde[2804]: [swscaler @ 0x58154fa2b340] deprecated pixel format used, make sure you did set range correctly
+juni 06 00:42:00 WARLORD xdg-desktop-portal-kde[2804]: [swscaler @ 0x58154efa51c0] deprecated pixel format used, make sure you did set range correctly
+juni 06 00:42:10 WARLORD sudo[2857]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 06 00:42:10 WARLORD sudo[2857]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 06 00:42:10 WARLORD sudo[2857]: pam_unix(sudo:session): session closed for user root
+juni 06 00:42:32 WARLORD google-chrome-stable[2130]: [2125:2159:0606/004232.658720:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 06 00:42:36 WARLORD sudo[2861]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 06 00:42:36 WARLORD sudo[2861]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 06 00:42:36 WARLORD sudo[2861]: pam_unix(sudo:session): session closed for user root
+juni 06 00:42:54 WARLORD sudo[2865]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 06 00:42:54 WARLORD sudo[2865]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl
+juni 06 00:42:54 WARLORD sudo[2865]: pam_unix(sudo:session): session closed for user root
+juni 06 00:43:07 WARLORD kactivitymanagerd[1521]: org.kde.kactivities.plugin.recentlyused-eventspy: could not parse "/home/wils/.local/share/recently-used.xbel" error was  "Opening and ending tag mismatch."
+juni 06 00:43:14 WARLORD systemd[1115]: Started app-md.obsidian.Obsidian@5d1b5ba73e114f169226147fb2d76da5.service - Obsidian.
+juni 06 00:43:14 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.freedesktop.Flatpak' unit='flatpak-session-helper.service' requested by ':1.69' (uid=1000 pid=2888 comm="/usr/bin/flatpak run --branch=stable --arch=x86_64")
+juni 06 00:43:14 WARLORD systemd[1115]: Starting flatpak-session-helper.service - flatpak session helper...
+juni 06 00:43:14 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.Flatpak'
+juni 06 00:43:14 WARLORD systemd[1115]: Started flatpak-session-helper.service - flatpak session helper.
+juni 06 00:43:14 WARLORD systemd[1115]: Started app-flatpak-md.obsidian.Obsidian-1552748363.scope.
+juni 06 00:43:14 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Flatpak' unit='flatpak-portal.service' requested by ':1.71' (uid=1000 pid=2902 comm="xdg-dbus-proxy --args=73")
+juni 06 00:43:14 WARLORD systemd[1115]: Starting flatpak-portal.service - flatpak portal...
+juni 06 00:43:14 WARLORD dbus-daemon[1156]: [session uid=1000 pid=1156 pidfd=5] Successfully activated service 'org.freedesktop.portal.Flatpak'
+juni 06 00:43:14 WARLORD systemd[1115]: Started flatpak-portal.service - flatpak portal.
+juni 06 00:43:14 WARLORD systemd[1115]: Started app-flatpak-md.obsidian.Obsidian-629416642.scope.
+juni 06 00:43:14 WARLORD flatpak[2907]: [2:0606/004314.869644:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Ingen slik fil eller filkatalog
+juni 06 00:43:14 WARLORD flatpak[2966]: LaunchProcess: failed to execvp:
+juni 06 00:43:14 WARLORD flatpak[2966]: xdg-settings
+juni 06 00:43:14 WARLORD flatpak[2907]: 2026-06-05 22:43:14 Loaded main app package /app/resources/obsidian.asar
+juni 06 00:43:15 WARLORD flatpak[2907]: 2026-06-05 22:43:15 Checking for update using Github
+juni 06 00:43:15 WARLORD flatpak[2907]: 2026-06-05 22:43:15 Success.
+juni 06 00:43:15 WARLORD flatpak[2907]: 2026-06-05 22:43:15 Latest version is 1.12.7
+juni 06 00:43:15 WARLORD flatpak[2907]: 2026-06-05 22:43:15 App is up to date.
+juni 06 00:43:15 WARLORD kwin_wayland_wrapper[1287]: kf.windowsystem: static bool KX11Extras::mapViewport() may only be used on X11
+juni 06 00:43:52 WARLORD sudo[3151]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 06 00:43:52 WARLORD sudo[3151]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl -xe
