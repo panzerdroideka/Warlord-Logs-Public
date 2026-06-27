@@ -1243,3 +1243,21 @@
 [  114.257318] systemd[1]: Starting systemd-journald.service - Journal Service...
 [  114.277660] systemd-journald[5595]: Collecting audit messages is disabled.
 [  114.278589] systemd[1]: Started systemd-journald.service - Journal Service.
+[  139.711312] usb 5-1: new high-speed USB device number 2 using xhci_hcd
+[  139.840245] usb 5-1: New USB device found, idVendor=18d1, idProduct=4ee1, bcdDevice= 6.08
+[  139.840257] usb 5-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  139.840259] usb 5-1: Product: Pixel 10 Pro XL
+[  139.840261] usb 5-1: Manufacturer: Google
+[  139.840262] usb 5-1: SerialNumber: 57151FDCQ00B54
+[  281.150945] sh (6340): drop_caches: 3
+[  580.310246] sh (7212): drop_caches: 3
+[  880.204070] sh (7512): drop_caches: 3
+[ 1180.434625] sh (8253): drop_caches: 3
+[ 1480.527057] sh (12264): drop_caches: 3
+[ 1780.604348] sh (13303): drop_caches: 3
+[ 2080.670643] sh (13397): drop_caches: 3
+[ 2380.749123] sh (13715): drop_caches: 3
+[ 2680.820113] sh (13941): drop_caches: 3
+[ 2980.907674] sh (14185): drop_caches: 3
+[ 3280.968803] sh (14526): drop_caches: 3
+[ 3581.035382] sh (14657): drop_caches: 3
