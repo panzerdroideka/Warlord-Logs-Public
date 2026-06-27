@@ -1,0 +1,296 @@
+### Chat Log: Combat 06/14 02:07 PM ###
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Sorcerer for 3,106 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Sorcerer for 11,576 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Sorcerer for 3,041 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Barkhûshim Sorcerer for 3,602 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 598 points to Power.
+Sustenance applied a heal to Nlkosi restoring 7,075 points to Morale.
+Your mighty blow defeated the Barkhûshim Sorcerer.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Sorcerer for 8,622 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Barkhûshim High-guard for 7,807 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Barkhûshim High-guard for 12,779 Lightning damage to Morale.
+The Barkhûshim High-guard scored a hit with a moderate melee attack on Nlkosi for 1,831 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim High-guard.
+Nlkosi scored a critical hit with Epic Conclusion on the Barkhûshim High-guard for 102,096 Lightning damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Sorcerer for 7,186 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Priestess for 7,186 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Sorcerer for 2,046 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Priestess for 1,994 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Sorcerer for 7,186 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Sorcerer.
+Nlkosi scored a hit with Essence of Storm on the Barkhûshim Sorcerer for 9,288 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Priestess for 2,044 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Barkhûshim Priestess for 8,728 Lightning damage to Morale.
+You have dispelled Blessing of the All-seeing Eye from Barkhûshim Priestess.
+Nlkosi scored a hit with Improved Final Word on the Barkhûshim Priestess.
+Nlkosi tried to use Induce Stunned on the Barkhûshim Priestess but she was immune to the attempt.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim Priestess.
+Nlkosi scored a critical hit with Shocking Words on the Barkhûshim Priestess for 63,129 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Champion for 2,003 Lightning damage to Morale.
+The Barkhûshim Champion scored a hit with a minor melee attack on Nlkosi for 1,148 Common damage to Morale.
+The Barkhûshim Champion scored a hit with a weak melee attack on Nlkosi for 919 Common damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Barkhûshim Champion for 7,418 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a critical hit with Scribe's Spark on the Barkhûshim Champion for 18,886 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Priestess for 6,496 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Barkhûshim Priestess for 6,384 Lightning damage to Morale.
+Nlkosi scored a critical hit with Sustaining Bolt on the Barkhûshim Priestess for 9,808 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 604 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 10,754 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Barkhûshim Priestess for 1,854 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Priestess.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Priestess for 3,144 Fire damage to Morale.
+The Barkhûshim High-guard scored a hit with a weak melee attack on Nlkosi for 1,332 Common damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Barkhûshim High-guard for 8,513 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim High-guard.
+Nlkosi scored a critical hit with Epic Conclusion on the Barkhûshim High-guard for 78,941 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Sorcerer for 6,174 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Sorcerer for 11,354 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim Sorcerer.
+Nlkosi scored a critical hit with Sustaining Bolt on the Barkhûshim Sorcerer for 8,946 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 563 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,951 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Sorceress for 2,795 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Sorceress for 3,477 Fire damage to Morale.
+The Tormented Horror missed trying to use Shadow Touched on Nlkosi.
+Your mighty blow defeated the Barkhûshim Sorceress.
+Nlkosi scored a critical hit with Essence of Storm on the Barkhûshim Sorceress for 32,396 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Tormented Horror for 7,483 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a critical hit with Essence of Storm on the Barkhûshim Champion for 28,531 Lightning damage to Morale.
+Nlkosi scored a critical hit with Sustaining Bolt on the Barkhûshim Champion for 8,717 Lightning damage to Morale.
+The Barkhûshim Skirmisher scored a hit with a weak ranged attack on Nlkosi for 919 Common damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 534 points to Power.
+Sustenance applied a heal to Nlkosi restoring 7,636 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,175 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Champion for 11,001 Fire damage to Morale.
+The Barkhûshim Skirmisher tried to use a minor ranged attack on Nlkosi but he evaded the attempt.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,467 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Barkhûshim Skirmisher for 8,135 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Skirmisher for 3,818 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Skirmisher for 4,206 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Skirmisher for 3,706 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Skirmisher.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Skirmisher for 9,133 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim High-guard for 6,107 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Nlkosi scored a devastating hit with Sustaining Bolt on the Barkhûshim High-guard for 8,931 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 557 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 10,009 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim High-guard for 6,320 Fire damage to Morale.
+The Barkhûshim High-guard scored a hit with a weak melee attack on Nlkosi for 1,332 Common damage to Morale.
+Nlkosi scored a critical hit with Vivid Imagery on the Barkhûshim High-guard for 18,885 Lightning damage to Morale.
+You have dispelled Blessing of the All-seeing Eye from Barkhûshim High-guard.
+Nlkosi scored a hit with Improved Final Word on the Barkhûshim High-guard.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Barkhûshim High-guard for 2,213 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim High-guard.
+Nlkosi scored a critical hit with Shocking Words on the Barkhûshim High-guard for 54,191 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 2,600 Fire damage to Morale.
+The Barkhûshim Skirmisher scored a hit with a minor ranged attack on Nlkosi for 1,114 Common damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Your mighty blow defeated the Barkhûshim Skirmisher.
+Nlkosi scored a critical hit with Essence of Flame on the Barkhûshim Champion for 23,677 Fire damage to Morale.
+Nlkosi scored a critical hit with Essence of Flame on the Barkhûshim Skirmisher for 23,677 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim Priestess.
+Nlkosi scored a critical hit with Essence of Storm on the Barkhûshim Priestess for 26,146 Lightning damage to Morale.
+The Barkhûshim High-guard tried to use Major Fright on Nlkosi but he resisted the attempt.
+The Barkhûshim High-guard scored a hit with Greater Dread on Nlkosi.
+Nlkosi scored a hit with Ceaseless Argument on the Barkhûshim High-guard for 7,191 Lightning damage to Morale.
+You have dispelled Blessing of the All-seeing Eye from Barkhûshim High-guard.
+Nlkosi scored a hit with Improved Final Word on the Barkhûshim High-guard.
+The Barkhûshim High-guard scored a devastating hit with a weak melee attack on Nlkosi for 2,570 Common damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Barkhûshim High-guard for 25,045 Lightning damage to Morale.
+The Barkhûshim High-guard scored a hit with a minor melee attack on Nlkosi for 1,550 Common damage to Morale.
+Nlkosi scored a critical hit with Distracting Flame on the Barkhûshim High-guard.
+The Barkhûshim High-guard scored a hit with a weak swipe attack on Nlkosi for 1,240 Common damage to Morale.
+Nlkosi scored a critical hit with Chilling Rhetoric on the Barkhûshim High-guard for 8,429 Frost damage to Morale.
+Your mighty blow defeated the Barkhûshim High-guard.
+Nlkosi scored a hit with Head-butt on the Barkhûshim High-guard for 5,497 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 2,720 Fire damage to Morale.
+Nlkosi scored a critical hit with Sustaining Bolt on the Barkhûshim Champion for 7,883 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 566 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,733 points to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Champion for 13,077 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,502 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 2,797 Fire damage to Morale.
+The Barkhûshim Champion scored a partially evaded hit with a weak melee attack on Nlkosi for 831 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Barkhûshim Champion for 8,613 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Barkhûshim Champion for 2,192 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Vivid Imagery on the Barkhûshim Champion for 7,065 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Champion for 8,537 Fire damage to Morale.
+The Barkhûshim Skirmisher scored a hit with a ranged strike attack on Nlkosi for 919 Common damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Champion for 11,583 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,799 Fire damage to Morale.
+The Barkhûshim Skirmisher scored a hit with a weak ranged attack on Nlkosi for 919 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Nlkosi scored a critical hit with Writ of Lightning on the Barkhûshim Skirmisher for 17,644 Lightning damage to Morale.
+Your mighty blow defeated the Barkhûshim Skirmisher.
+Nlkosi scored a critical hit with Sustaining Bolt on the Barkhûshim Skirmisher for 14,232 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 756 points to Power.
+Sustenance applied a heal to Nlkosi restoring 8,368 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Skirmisher for 3,149 Fire damage to Morale.
+The Barkhûshim Skirmisher scored a hit with a minor ranged attack on Nlkosi for 1,148 Common damage to Morale.
+Nlkosi tried to use Fiery Ridicule on the Barkhûshim Skirmisher but she resisted the attempt.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on the Barkhûshim Skirmisher for 19,301 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Barkhûshim Skirmisher for 4,858 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Skirmisher.
+Nlkosi scored a hit with Essence of Storm on the Barkhûshim Skirmisher for 8,828 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Sorceress for 7,391 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Sorcerer for 7,391 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Sorceress for 1,985 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Sorcerer for 1,961 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Barkhûshim Sorcerer scored a hit with a weak melee attack on the Volcanic Rune-stone for 237 Common damage to Morale.
+The Barkhûshim Sorceress scored a hit with Shadow's Touch on the Volcanic Rune-stone.
+Your mighty blow defeated the Barkhûshim Sorcerer.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Sorceress for 7,391 Fire damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Barkhûshim Sorcerer for 33,861 Lightning damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Sorceress for 7,391 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Barkhûshim Sorceress.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 2,402 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Champion for 10,291 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Barkhûshim Champion for 2,921 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 699 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 11,311 points to Morale.
+You have lost 1,148 points of temporary Morale!
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,257 Fire damage to Morale.
+You have lost 13,614 points of temporary Morale!
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,336 Fire damage to Morale.
+The Barkhûshim Priest scored a hit with a weak melee attack on Nlkosi for 1,010 Common damage to Morale.
+The Barkhûshim Champion scored a critical hit with a weak swipe attack on Nlkosi for 1,313 Common damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,590 Fire damage to Morale.
+The Barkhûshim Priest scored a hit with The Glutton's Gift on Nlkosi.
+Nlkosi scored a hit with Essence of Storm on the Barkhûshim Priest for 6,648 Lightning damage to Morale.
+The Barkhûshim Priest scored a hit with a weak melee attack on Nlkosi for 1,010 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Barkhûshim Priest for 5,181 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim Priest.
+Nlkosi scored a critical hit with Shocking Words on the Barkhûshim Priest for 56,025 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 2,667 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a critical hit with Essence of Flame on the Barkhûshim Champion for 22,705 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,368 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Barkhûshim Champion for 2,445 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 575 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 9,170 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,152 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Priestess for 8,007 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Champion for 8,007 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Barkhûshim Champion scored a hit with a minor melee attack on Nlkosi for 1,148 Common damage to Morale.
+The Barkhûshim Priestess scored a hit with a weak melee attack on the Volcanic Rune-stone for 237 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Priestess for 2,028 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Champion for 2,104 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Barkhûshim Champion for 2,710 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Priestess for 8,007 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Barkhûshim Champion for 8,007 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Shocking Words on the Barkhûshim Champion for 20,383 Lightning damage to Morale.
+Your mighty blow defeated the Barkhûshim Priestess.
+Nlkosi scored a hit with Vivid Imagery on the Barkhûshim Priestess for 6,932 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Barkhûshim Champion for 9,518 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 4,166 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Champion for 15,243 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Priest for 3,166 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Priest for 8,376 Fire damage to Morale.
+The Barkhûshim Priest scored a hit with Shadow's Touch on Nlkosi.
+Nlkosi scored a hit with Sustaining Bolt on the Barkhûshim Priest for 4,040 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 797 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 12,317 points to Morale.
+The Barkhûshim Priest scored a hit with Mortal Terror on Nlkosi for 3,832 Shadow damage to Morale.
+The Barkhûshim Priest scored a hit with Shadow's Chill on Nlkosi.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Priest for 3,774 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Priest.
+Nlkosi scored a hit with Essence of Storm on the Barkhûshim Priest for 9,602 Lightning damage to Morale.
+The Barkhûshim Priest tried to use Mortal Terror on Nlkosi but he resisted the attempt.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Champion for 16,472 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Chilling Rhetoric on the Barkhûshim Champion for 6,924 Frost damage to Morale.
+The Barkhûshim Skirmisher scored a hit with a weak ranged attack on Nlkosi for 919 Common damage to Morale.
+The Barkhûshim Priest tried to use Mortal Terror on Nlkosi but he resisted the attempt.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Priest for 4,335 Fire damage to Morale.
+The Barkhûshim Skirmisher scored a hit with a ranged strike attack on Nlkosi for 919 Common damage to Morale.
+The Barkhûshim Priest scored a hit with Dread on Nlkosi.
+The Barkhûshim Priest scored a hit with Mortal Terror on Nlkosi for 3,832 Shadow damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Barkhûshim Priest for 2,157 Fire damage to Morale.
+The Barkhûshim Priestess tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+The Barkhûshim Skirmisher scored a hit with a moderate ranged attack on Nlkosi for 1,279 Common damage to Morale.
+The Barkhûshim Priest tried to use Shadow's Touch on Nlkosi but he resisted the attempt.
+The Barkhûshim Priest scored a hit with Shadow's Touch on Nlkosi.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Priest for 9,714 Fire damage to Morale.
+The Barkhûshim Skirmisher scored a devastating hit with a minor ranged attack on Nlkosi for 2,243 Common damage to Morale.
+The Barkhûshim Priest scored a hit with a minor melee attack on Nlkosi for 1,279 Common damage to Morale.
+The Barkhûshim Priestess scored a hit with Shadow's Touch on Nlkosi.
+Nlkosi scored a hit with Sustaining Bolt on the Barkhûshim Priest for 4,604 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 760 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 10,510 points to Morale.
+The Barkhûshim Priest tried to use Mortal Terror on Nlkosi but he resisted the attempt.
+Your mighty blow defeated the Barkhûshim Priest.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Priest for 4,453 Fire damage to Morale.
+The Barkhûshim Priestess scored a hit with The Glutton's Gift on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Barkhûshim Priestess for 2,035 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Master of Tragedy applied a heal to Nlkosi restoring 87 points to Power.
+Your mighty blow defeated the Barkhûshim Priestess.
+Nlkosi scored a critical hit with Static Surge on the Barkhûshim Priestess for 33,898 Lightning damage to Morale.
+The Barkhûshim Priest tried to use Mortal Terror on Nlkosi but he resisted the attempt.
+The Barkhûshim Skirmisher scored a hit with a ranged double attack on Nlkosi for 1,395 Common damage to Morale.
+The Barkhûshim Skirmisher tried to use a ranged double attack on Nlkosi but he evaded the attempt.
+The Barkhûshim Skirmisher scored a hit with a weak ranged attack on Nlkosi for 930 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Skirmisher for 9,714 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Skirmisher.
+Nlkosi scored a critical hit with Essence of Flame on the Barkhûshim Skirmisher for 30,772 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Barkhûshim Sorceress for 10,624 Fire damage to Morale.
+Nlkosi scored a critical hit with Essence of Flame on the Barkhûshim Champion for 21,855 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Barkhûshim Sorceress for 8,556 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 527 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 8,450 points to Morale.
+Your mighty blow defeated the Barkhûshim Sorceress.
+Nlkosi scored a critical hit with Fiery Ridicule on the Barkhûshim Sorceress for 6,709 Fire damage to Morale.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,594 Fire damage to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Barkhûshim Champion for 7,818 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Barkhûshim Champion for 2,684 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 570 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,859 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Barkhûshim Champion for 3,302 Fire damage to Morale.
+The Barkhûshim Champion scored a hit with a weak melee attack on Nlkosi for 919 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 113 points to Power.
+Your mighty blow defeated the Barkhûshim Champion.
+Nlkosi scored a critical hit with Shocking Words on the Barkhûshim Champion for 48,007 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Katrakhi Mâta for 7,186 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on Katrakhi Mâta for 2,114 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on Katrakhi Mâta for 7,186 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Words on Katrakhi Mâta for 19,591 Lightning damage to Morale.
+The Tormented Horror scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 42 Shadow damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Tormented Horror for 7,982 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on Katrakhi Mâta for 7,186 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Tormented Horror for 2,338 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone defeated the Tormented Horror.
+Nlkosi scored a hit with Fulgurite Strike on Katrakhi Mâta for 1,973 Lightning damage to Morale.
+Your mighty blow defeated Katrakhi Mâta.
+Nlkosi scored a hit with Vivid Imagery on Katrakhi Mâta for 7,227 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Tormented Horror for 6,248 Lightning damage to Morale.

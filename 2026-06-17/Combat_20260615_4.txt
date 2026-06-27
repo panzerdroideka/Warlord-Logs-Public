@@ -1,0 +1,125 @@
+### Chat Log: Combat 06/15 00:51 AM ###
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 2,886 Fire damage to Morale.
+Your mighty blow defeated the Urâshi Ravager.
+Nlkosi scored a critical hit with Essence of Flame on the Urâshi Ravager for 24,500 Fire damage to Morale.
+Nlkosi tried to use Fiery Ridicule on the Urâshi Heaver but he resisted the attempt.
+Nlkosi scored a hit with Sustaining Bolt on the Urâshi Heaver for 3,352 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 583 points to Power.
+Sustenance applied a heal to Nlkosi restoring 7,367 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 3,630 Fire damage to Morale.
+The Urâshi Heaver scored a hit with a weak thrown attack on Nlkosi for 987 Common damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Urâshi Heaver for 6,383 Lightning damage to Morale.
+The Urâshi Heaver scored a hit with a moderate thrown attack on Nlkosi for 1,357 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Heaver for 8,350 Fire damage to Morale.
+Your mighty blow defeated the Urâshi Heaver.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 4,544 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 2,610 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Urâshi Ravager for 12,442 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Urâshi Ravager for 2,573 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 601 points to Power.
+Sustenance applied a heal to Nlkosi restoring 6,779 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 117 points to Power.
+Your mighty blow defeated the Urâshi Ravager.
+Nlkosi scored a critical hit with Essence of Storm on the Urâshi Ravager for 26,293 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 7,901 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Urâshi Brute scored a hit with a mighty melee attack on the Volcanic Rune-stone for 943 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Urâshi Ravager for 2,073 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Crypt Digger for 2,384 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 2,203 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 8,433 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 7,901 Fire damage to Morale.
+The Urâshi Brute tried to use a weak melee attack on the Volcanic Rune-stone but it parried the attempt.
+Nlkosi scored a hit with Epic Conclusion on the Urâshi Brute for 36,391 Lightning damage to Morale.
+The Urâshi Ravager scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 238 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 8,433 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Crypt Digger.
+Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 7,901 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Urâshi Brute.
+Nlkosi scored a hit with Fulgurite Strike on the Urâshi Ravager for 2,135 Lightning damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Urâshi Brute for 6,721 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Urâshi Ravager for 5,926 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Urâshi Ravager for 2,024 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Urâshi Ravager.
+The Urâshi Ravager tried to use a minor melee attack on the Charged Fulgurite Rune-stone but it blocked the attempt.
+The Urâshi Ravager scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 238 Common damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Urâshi Ravager but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Urâshi Ravager for 2,114 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Urâshi Ravager for 3,152 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 676 points to Power.
+Sustenance applied a heal to Nlkosi restoring 8,212 points to Morale.
+Nlkosi tried to use Induce Stunned on the Urâshi Ravager but he was immune to the attempt.
+Your mighty blow defeated the Urâshi Ravager.
+Nlkosi scored a hit with Shocking Words on the Urâshi Ravager for 20,805 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Urâshi Ravager for 9,256 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Urâshi Ravager for 6,634 Lightning damage to Morale.
+Your mighty blow defeated the Urâshi Ravager.
+Nlkosi scored a critical hit with Essence of Flame on the Urâshi Ravager for 28,528 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 3,780 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 3,618 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Urâshi Heaver for 7,752 Lightning damage to Morale.
+The Urâshi Heaver scored a partially evaded hit with a weak thrown attack on Nlkosi for 898 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Urâshi Heaver for 3,436 Fire damage to Morale.
+The Urâshi Heaver scored a partially evaded hit with a moderate thrown attack on Nlkosi for 1,235 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 117 points to Power.
+Your mighty blow defeated the Urâshi Heaver.
+Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Heaver for 22,897 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 2,511 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Urâshi Heaver for 3,779 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 579 points to Power.
+Sustenance applied a heal to Nlkosi restoring 6,886 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 3,253 Fire damage to Morale.
+The Urâshi Heaver scored a hit with a weak thrown attack on Nlkosi for 987 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Heaver for 7,304 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 3,140 Fire damage to Morale.
+Your mighty blow defeated the Urâshi Heaver.
+Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Heaver for 8,116 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 3,241 Fire damage to Morale.
+Your mighty blow defeated the Urâshi Ravager.
+Nlkosi scored a critical hit with Essence of Flame on the Urâshi Ravager for 23,333 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 7,901 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 8,433 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Urâshi Brute scored a hit with a mighty melee attack on the Volcanic Rune-stone for 943 Common damage to Morale.
+The Crypt Digger scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 98 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 2,074 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Crypt Digger for 2,356 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 7,901 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 8,433 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Crypt Digger.
+Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 7,901 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 2,182 Lightning damage to Morale.
+The Urâshi Brute tried to use a moderate melee attack on the Volcanic Rune-stone but it parried the attempt.
+Nlkosi scored a hit with Essence of Storm on the Urâshi Brute for 6,612 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 7,901 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 117 points to Power.
+Your mighty blow defeated the Urâshi Brute.
+Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Brute for 87,883 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Heaver for 3,297 Fire damage to Morale.
+Your mighty blow defeated the Urâshi Heaver.
+Nlkosi scored a devastating hit with Essence of Flame on the Urâshi Heaver for 30,327 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 3,405 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 3,355 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Urâshi Ravager for 3,114 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 581 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 9,590 points to Morale.
+The Urâshi Ravager scored a hit with a melee double attack on Nlkosi for 1,036 Common damage to Morale.
+The Urâshi Ravager scored a hit with a melee double attack on Nlkosi for 1,036 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Urâshi Ravager for 4,900 Fire damage to Morale.
+The Urâshi Ravager scored a hit with a weak melee attack on Nlkosi for 1,036 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Urâshi Ravager for 6,876 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 117 points to Power.
+Your mighty blow defeated the Urâshi Ravager.
+Nlkosi scored a critical hit with Vivid Imagery on the Urâshi Ravager for 16,106 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 2,631 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Urâshi Ravager for 2,940 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 536 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,630 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 2,677 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Urâshi Ravager for 11,654 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 3,512 Fire damage to Morale.
+Your mighty blow defeated the Urâshi Ravager.
+Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 4,521 Fire damage to Morale.
