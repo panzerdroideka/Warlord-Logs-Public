@@ -3,8 +3,8 @@
 DATE=$(date +%Y-%m-%d)
 
 # Definer absolutte stier (Ingen relativ "cd" nødvendig)
-TARGET_REPO="/home/wils/GitHub/Warlord-Logs-Public"
-ARCHIVE_DIR="$TARGET_REPO/$DATE"
+TARGET_REPO="/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public"
+ARCHIVE_DIR="$TARGET_REPO/$DATE"'
 SOURCE_LOGS="/home/wils/Games/gaminglogger"
 
 # 1. Opprett dagens mappe
