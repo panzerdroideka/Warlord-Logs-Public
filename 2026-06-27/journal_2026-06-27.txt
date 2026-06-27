@@ -5455,3 +5455,119 @@ juni 27 14:52:20 WARLORD sudo[14695]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/scr
 juni 27 14:52:20 WARLORD sudo[14695]: pam_unix(sudo:session): session closed for user root
 juni 27 14:52:20 WARLORD sudo[14699]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 27 14:52:20 WARLORD sudo[14699]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/scripts ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 27 14:52:20 WARLORD sudo[14699]: pam_unix(sudo:session): session closed for user root
+juni 27 14:54:34 WARLORD spectacle[10959]: QQmlComponent: Cannot create a component in an invalid context
+juni 27 14:54:34 WARLORD spectacle[10959]: QQmlComponent: Cannot create a component in an invalid context
+juni 27 14:54:44 WARLORD spectacle[10959]: "There are still \"1\" items in the process of being created at engine destruction."
+juni 27 14:54:44 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 27.292s CPU time over 41min 13.969s wall clock time, 266.8M memory peak.
+juni 27 14:55:01 WARLORD CRON[15135]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 14:55:01 WARLORD CRON[15139]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 14:55:01 WARLORD kernel: sh (15139): drop_caches: 3
+juni 27 14:55:01 WARLORD CRON[15135]: pam_unix(cron:session): session closed for user root
+juni 27 14:55:36 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 14:55:36 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 14:55:36 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 14:55:36 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 14:55:36 WARLORD spectacle[15142]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 14:55:36 WARLORD spectacle[15142]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 14:55:36 WARLORD spectacle[15142]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 14:55:38 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 1.548s CPU time over 2.233s wall clock time, 333.6M memory peak.
+juni 27 14:55:51 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 14:55:51 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 14:55:52 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 14:55:52 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 14:55:52 WARLORD spectacle[15248]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 14:55:52 WARLORD spectacle[15248]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 14:55:52 WARLORD spectacle[15248]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 14:55:59 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 1.948s CPU time over 7.126s wall clock time, 163.1M memory peak.
+juni 27 14:56:25 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 14:56:25 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 14:56:25 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 14:56:25 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 14:56:25 WARLORD spectacle[15332]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 14:56:25 WARLORD spectacle[15332]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 14:56:25 WARLORD spectacle[15332]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 14:56:41 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 1.975s CPU time over 15.482s wall clock time, 152.7M memory peak.
+juni 27 14:57:07 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 14:57:07 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 14:57:07 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 14:57:07 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 14:57:07 WARLORD spectacle[15442]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 14:57:07 WARLORD spectacle[15442]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 14:57:07 WARLORD spectacle[15442]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 14:57:16 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 1.940s CPU time over 9.106s wall clock time, 153.4M memory peak.
+juni 27 14:57:32 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 14:57:32 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 14:57:33 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 14:57:33 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 14:57:33 WARLORD spectacle[15535]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 14:57:33 WARLORD spectacle[15535]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 14:57:33 WARLORD spectacle[15535]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 14:57:41 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 1.906s CPU time over 8.431s wall clock time, 153.1M memory peak.
+juni 27 14:57:54 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 14:57:54 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 14:57:54 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 14:57:54 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 14:57:54 WARLORD spectacle[15609]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 14:57:54 WARLORD spectacle[15609]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 14:57:54 WARLORD spectacle[15609]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 14:58:03 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 1.924s CPU time over 9.222s wall clock time, 152.2M memory peak.
+juni 27 14:58:11 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 14:58:11 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 14:58:11 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 14:58:11 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 14:58:11 WARLORD spectacle[15692]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 14:58:11 WARLORD spectacle[15692]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 14:58:11 WARLORD spectacle[15692]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 14:58:19 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 1.973s CPU time over 8.094s wall clock time, 153M memory peak.
+juni 27 14:58:58 WARLORD systemd[1078]: Started app-org.kde.gwenview@c239da7586ab465d8cbce810859641d8.service - Gwenview - Image Viewer.
+juni 27 14:59:21 WARLORD systemd[1078]: app-org.kde.gwenview@c239da7586ab465d8cbce810859641d8.service: Consumed 2.673s CPU time over 23.182s wall clock time, 222.4M memory peak.
+juni 27 14:59:27 WARLORD systemd[1078]: Started app-org.kde.gwenview@b8ce8437a16042fea3edfc561b6102fa.service - Gwenview - Image Viewer.
+juni 27 14:59:31 WARLORD systemd[1078]: app-org.kde.gwenview@b8ce8437a16042fea3edfc561b6102fa.service: Consumed 675ms CPU time over 3.761s wall clock time, 143.1M memory peak.
+juni 27 14:59:42 WARLORD systemd[1078]: Started app-org.kde.gwenview@8e231369568c4a7395669b96ced083e7.service - Gwenview - Image Viewer.
+juni 27 14:59:46 WARLORD systemd[1078]: app-org.kde.gwenview@8e231369568c4a7395669b96ced083e7.service: Consumed 738ms CPU time over 3.328s wall clock time, 159.4M memory peak.
+juni 27 14:59:50 WARLORD systemd[1078]: Started app-org.kde.gwenview@02598ef863fd4a76859edf449de347a6.service - Gwenview - Image Viewer.
+juni 27 14:59:54 WARLORD systemd[1078]: app-org.kde.gwenview@02598ef863fd4a76859edf449de347a6.service: Consumed 795ms CPU time over 3.762s wall clock time, 185.4M memory peak.
+juni 27 15:00:01 WARLORD CRON[16117]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 15:00:01 WARLORD CRON[16116]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 15:00:01 WARLORD CRON[16121]: (root) CMD (timeshift --check --scripted)
+juni 27 15:00:01 WARLORD CRON[16120]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 15:00:02 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 27 15:00:02 WARLORD CRON[16117]: pam_unix(cron:session): session closed for user root
+juni 27 15:00:02 WARLORD kernel: sh (16120): drop_caches: 3
+juni 27 15:00:02 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 27 15:00:02 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 27 15:00:02 WARLORD crontab[16152]: (root) LIST (root)
+juni 27 15:00:02 WARLORD crontab[16153]: (root) LIST (root)
+juni 27 15:00:02 WARLORD systemd[1]: run-timeshift-16121-backup.mount: Deactivated successfully.
+juni 27 15:00:02 WARLORD CRON[16116]: pam_unix(cron:session): session closed for user root
+juni 27 15:05:01 WARLORD CRON[16217]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 15:05:01 WARLORD CRON[16219]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 15:05:01 WARLORD kernel: sh (16219): drop_caches: 3
+juni 27 15:05:01 WARLORD CRON[16217]: pam_unix(cron:session): session closed for user root
+juni 27 15:10:01 WARLORD CRON[16383]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 15:10:01 WARLORD CRON[16385]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 15:10:01 WARLORD CRON[16383]: pam_unix(cron:session): session closed for user root
+juni 27 15:10:01 WARLORD kernel: sh (16385): drop_caches: 3
+juni 27 15:10:10 WARLORD systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+juni 27 15:10:11 WARLORD systemd[1]: sysstat-collect.service: Deactivated successfully.
+juni 27 15:10:11 WARLORD systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+juni 27 15:14:19 WARLORD systemd[1078]: Started app-org.kde.kate@486e94a659d84cc18b60bb016ded30fd.service - Kate - Avansert skriveprogram.
+juni 27 15:14:38 WARLORD systemd[1078]: app-org.kde.kate@c2a71ef1c0c8407282e31e9b742dd5f8.service: Consumed 13.485s CPU time over 1h 20min 49.581s wall clock time, 490.6M memory peak.
+juni 27 15:14:41 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1222 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 27 15:14:41 WARLORD systemd[1078]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 27 15:14:41 WARLORD dbus-daemon[1100]: [session uid=1000 pid=1100 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 27 15:14:41 WARLORD systemd[1078]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 27 15:14:41 WARLORD spectacle[16921]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 27 15:14:41 WARLORD spectacle[16921]: spectacle: Detected Tesseract version "5.5.0"
+juni 27 15:14:41 WARLORD spectacle[16921]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 27 15:14:47 WARLORD systemd[1078]: app-org.kde.spectacle.service: Consumed 2.033s CPU time over 6.819s wall clock time, 305.8M memory peak.
+juni 27 15:15:01 WARLORD CRON[17009]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 15:15:01 WARLORD CRON[17013]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 15:15:01 WARLORD kernel: sh (17013): drop_caches: 3
+juni 27 15:15:01 WARLORD CRON[17009]: pam_unix(cron:session): session closed for user root
+juni 27 15:16:39 WARLORD sudo[17066]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 27 15:16:39 WARLORD sudo[17066]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 27 15:16:39 WARLORD sudo[17066]: pam_unix(sudo:session): session closed for user root
+juni 27 15:16:39 WARLORD sudo[17070]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 27 15:16:39 WARLORD sudo[17070]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
