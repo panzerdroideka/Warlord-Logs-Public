@@ -1266,3 +1266,57 @@
 [ 4480.952146] sh (16219): drop_caches: 3
 [ 4781.028856] sh (16385): drop_caches: 3
 [ 5081.115113] sh (17013): drop_caches: 3
+[ 5381.215289] sh (17989): drop_caches: 3
+[ 5464.127771] systemd-journald[5595]: Received SIGTERM from PID 1 (systemd).
+[ 5464.127837] systemd[1]: Stopping systemd-journald.service - Journal Service...
+[ 5464.143170] systemd[1]: systemd-journald.service: Deactivated successfully.
+[ 5464.143286] systemd[1]: Stopped systemd-journald.service - Journal Service.
+[ 5464.145314] systemd[1]: Starting systemd-journald.service - Journal Service...
+[ 5464.155746] systemd-journald[21030]: Collecting audit messages is disabled.
+[ 5464.156714] systemd[1]: Started systemd-journald.service - Journal Service.
+[ 5478.109921] systemd-journald[21030]: Received SIGTERM from PID 1 (systemd).
+[ 5478.110005] systemd[1]: Stopping systemd-journald.service - Journal Service...
+[ 5478.127898] systemd[1]: systemd-journald.service: Deactivated successfully.
+[ 5478.128012] systemd[1]: Stopped systemd-journald.service - Journal Service.
+[ 5478.130087] systemd[1]: Starting systemd-journald.service - Journal Service...
+[ 5478.139798] systemd-journald[22670]: Collecting audit messages is disabled.
+[ 5478.140771] systemd[1]: Started systemd-journald.service - Journal Service.
+[ 5495.599200] clocksource: Long readout interval, skipping watchdog check: cs_nsec: 1837523912 wd_nsec: 1837541782
+[ 5548.985541] systemd-journald[22670]: Received SIGTERM from PID 1 (systemd).
+[ 5548.985610] systemd[1]: Stopping systemd-journald.service - Journal Service...
+[ 5548.997865] systemd[1]: systemd-journald.service: Deactivated successfully.
+[ 5548.997971] systemd[1]: Stopped systemd-journald.service - Journal Service.
+[ 5549.000327] systemd[1]: Starting systemd-journald.service - Journal Service...
+[ 5549.009839] systemd-journald[24661]: Collecting audit messages is disabled.
+[ 5549.010810] systemd[1]: Started systemd-journald.service - Journal Service.
+[ 5680.473243] sh (25033): drop_caches: 3
+[ 5980.534868] sh (25072): drop_caches: 3
+[ 5990.164673] usb 5-1: USB disconnect, device number 2
+[ 6280.649877] sh (25183): drop_caches: 3
+[ 6580.745751] sh (25704): drop_caches: 3
+[ 6880.841195] sh (27570): drop_caches: 3
+[ 7180.944518] sh (34076): drop_caches: 3
+[ 7481.034049] sh (34342): drop_caches: 3
+[ 7781.134189] sh (34948): drop_caches: 3
+[ 8080.893023] sh (35224): drop_caches: 3
+[ 8380.960638] sh (35431): drop_caches: 3
+[ 8681.042951] sh (35622): drop_caches: 3
+[ 8981.123819] sh (35974): drop_caches: 3
+[ 9281.290936] sh (36283): drop_caches: 3
+[ 9581.479118] sh (37046): drop_caches: 3
+[ 9716.845884] pcieport 0000:00:08.1: PME: Spurious native interrupt!
+[ 9882.334998] sh (41216): drop_caches: 3
+[10182.307887] sh (70523): drop_caches: 3
+[10481.538388] sh (101414): drop_caches: 3
+[10780.799892] sh (101957): drop_caches: 3
+[11081.059091] sh (102739): drop_caches: 3
+[11381.417763] sh (103274): drop_caches: 3
+[11681.474749] sh (103538): drop_caches: 3
+[11980.849626] sh (103731): drop_caches: 3
+[12281.055275] sh (103933): drop_caches: 3
+[12581.164224] sh (104167): drop_caches: 3
+[12881.311243] sh (105174): drop_caches: 3
+[13181.870318] sh (105529): drop_caches: 3
+[13480.963242] sh (105663): drop_caches: 3
+[13781.055683] sh (106279): drop_caches: 3
+[14081.134855] sh (106583): drop_caches: 3
