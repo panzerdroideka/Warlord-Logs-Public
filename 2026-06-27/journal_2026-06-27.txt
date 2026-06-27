@@ -27281,3 +27281,71 @@ juni 27 17:49:27 WARLORD sudo[106964]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; 
 juni 27 17:49:27 WARLORD sudo[106964]: pam_unix(sudo:session): session closed for user root
 juni 27 17:49:27 WARLORD sudo[106968]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 27 17:49:27 WARLORD sudo[106968]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 27 17:49:27 WARLORD sudo[106968]: pam_unix(sudo:session): session closed for user root
+juni 27 17:49:40 WARLORD systemd[1078]: app-flatpak-no.mifi.losslesscut-2329345200.scope: Consumed 55.151s CPU time over 1h 20min 14.095s wall clock time, 2.1G memory peak.
+juni 27 17:49:46 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:49:46 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:49:48 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:49:48 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:49:51 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:49:51 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:50:01 WARLORD CRON[107201]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 17:50:01 WARLORD CRON[107205]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 17:50:01 WARLORD kernel: sh (107205): drop_caches: 3
+juni 27 17:50:01 WARLORD CRON[107201]: pam_unix(cron:session): session closed for user root
+juni 27 17:50:05 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:50:05 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:50:05 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:50:05 WARLORD dolphin[37447]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 17:50:07 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:07 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:08 WARLORD plasmashell[1388]: qrc:/qt/qml/plasma/applet/org/kde/plasma/notifications/global/Globals.qml:519:13: Unable to assign [undefined] to bool
+juni 27 17:50:11 WARLORD dolphin[37447]: kf.kio.workers.file: Couldn't overwrite in mkdir. Error: 21
+juni 27 17:50:11 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:11 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:13 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:13 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:16 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:16 WARLORD dolphin[37447]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+juni 27 17:50:49 WARLORD sudo[107293]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 27 17:50:49 WARLORD sudo[107293]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub ; USER=root ; COMMAND=/usr/bin/rm -r Warlord-Logs-Public
+juni 27 17:50:49 WARLORD sudo[107293]: pam_unix(sudo:session): session closed for user root
+juni 27 17:52:07 WARLORD systemd[1078]: app-dolphin@db789479814f493da3d8906b222ac6cb.service: Consumed 10.802s CPU time over 1h 18min 4.316s wall clock time, 233.1M memory peak.
+juni 27 17:53:03 WARLORD sudo[107357]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 27 17:53:03 WARLORD sudo[107357]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy ; USER=root ; COMMAND=/usr/bin/find /home/wils -type l -name Warlord-Logs-Public
+juni 27 17:53:03 WARLORD sudo[107357]: pam_unix(sudo:session): session closed for user root
+juni 27 17:53:13 WARLORD systemd[1078]: Started app-org.kde.dolphin@d829e6451a32459d86e5384bee935b4a.service - Dolphin - Filbehandler.
+juni 27 17:53:19 WARLORD systemd[1078]: app-org.kde.dolphin@d829e6451a32459d86e5384bee935b4a.service: Consumed 1.184s CPU time over 5.597s wall clock time, 287.7M memory peak.
+juni 27 17:55:01 WARLORD CRON[107552]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 17:55:01 WARLORD CRON[107554]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 17:55:01 WARLORD kernel: sh (107554): drop_caches: 3
+juni 27 17:55:01 WARLORD CRON[107552]: pam_unix(cron:session): session closed for user root
+juni 27 17:59:41 WARLORD systemd[1078]: flatpak-portal.service: Consumed 108ms CPU time over 1h 30min 14.384s wall clock time, 314.5M memory peak.
+juni 27 18:00:01 WARLORD CRON[107699]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 18:00:01 WARLORD CRON[107698]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 27 18:00:01 WARLORD CRON[107704]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 27 18:00:01 WARLORD CRON[107705]: (root) CMD (timeshift --check --scripted)
+juni 27 18:00:01 WARLORD CRON[107699]: pam_unix(cron:session): session closed for user root
+juni 27 18:00:01 WARLORD kernel: sh (107704): drop_caches: 3
+juni 27 18:00:02 WARLORD crontab[107731]: (root) LIST (root)
+juni 27 18:00:02 WARLORD crontab[107732]: (root) LIST (root)
+juni 27 18:00:02 WARLORD systemd[1]: run-timeshift-107705-backup.mount: Deactivated successfully.
+juni 27 18:00:02 WARLORD CRON[107698]: pam_unix(cron:session): session closed for user root
+juni 27 18:02:47 WARLORD plasmashell[1388]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+juni 27 18:02:47 WARLORD systemd[1078]: Started app-org.kde.dolphin@0f37dec88996404082d6ea5974ab8870.service - Dolphin - Filbehandler.
+juni 27 18:02:51 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:02:51 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:02:57 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:02:57 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:02:57 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:02:57 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:03:08 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:03:08 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:03:08 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:03:08 WARLORD dolphin[107772]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 27 18:03:25 WARLORD systemd[1078]: app-org.kde.dolphin@0f37dec88996404082d6ea5974ab8870.service: Consumed 3.339s CPU time over 38.384s wall clock time, 377.5M memory peak.
+juni 27 18:03:39 WARLORD sudo[107998]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 27 18:03:39 WARLORD sudo[107998]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 27 18:03:39 WARLORD sudo[107998]: pam_unix(sudo:session): session closed for user root
+juni 27 18:03:39 WARLORD sudo[108002]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 27 18:03:39 WARLORD sudo[108002]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
