@@ -3707,3 +3707,288 @@ juni 30 08:43:57 WARLORD sudo[3305]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; US
 juni 30 08:43:57 WARLORD sudo[3305]: pam_unix(sudo:session): session closed for user root
 juni 30 08:43:57 WARLORD sudo[3310]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 30 08:43:57 WARLORD sudo[3310]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 30 08:43:57 WARLORD sudo[3310]: pam_unix(sudo:session): session closed for user root
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 08:43:57 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 30 08:44:08 WARLORD plasmashell[1302]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+juni 30 08:44:08 WARLORD systemd[995]: Started app-org.kde.dolphin@cf7123c90324491b82a6bb561cb85624.service - Dolphin - Filbehandler.
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.68' (uid=1000 pid=3387 comm="/usr/bin/dolphin")
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:44:08 WARLORD dolphin[3387]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.68' (uid=1000 pid=3387 comm="/usr/bin/dolphin")
+juni 30 08:44:08 WARLORD dolphin[3387]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:44:08 WARLORD dolphin[3387]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.68' (uid=1000 pid=3387 comm="/usr/bin/dolphin")
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.68' (uid=1000 pid=3387 comm="/usr/bin/dolphin")
+juni 30 08:44:08 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:44:08 WARLORD dolphin[3387]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:44:37 WARLORD dolphin[3387]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 08:44:37 WARLORD dolphin[3387]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 08:45:01 WARLORD CRON[3570]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 08:45:01 WARLORD CRON[3572]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 08:45:02 WARLORD CRON[3570]: pam_unix(cron:session): session closed for user root
+juni 30 08:45:02 WARLORD kernel: sh (3572): drop_caches: 3
+juni 30 08:45:03 WARLORD dolphin[3387]: kf.kio.workers.file: copy() QUrl("file:///home/wils/.bash_history.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Warlord-F1-Bunker/.bash_history.txt") mode= 436
+juni 30 08:45:03 WARLORD dolphin[3387]: kf.kio.workers.file: copy() QUrl("file:///home/wils/.bash_aliases.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Warlord-F1-Bunker/.bash_aliases.txt") mode= 436
+juni 30 08:46:05 WARLORD google-chrome-stable[1958]: [1953:1953:0630/084605.348208:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (548.084s) location=Button@ui/views/controls/button/button.cc:669
+juni 30 08:46:29 WARLORD google-chrome-stable[1958]: [1953:1953:0630/084629.441969:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:748] Message 1 rejected by interface blink.mojom.WidgetHost
+juni 30 08:48:55 WARLORD google-chrome-stable[1958]: [1953:1953:0630/084855.314693:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:748] Message 5 rejected by interface blink.mojom.WidgetHost
+juni 30 08:50:01 WARLORD CRON[3969]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 08:50:01 WARLORD CRON[3971]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 08:50:01 WARLORD kernel: sh (3971): drop_caches: 3
+juni 30 08:50:01 WARLORD CRON[3969]: pam_unix(cron:session): session closed for user root
+juni 30 08:51:19 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1139 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 30 08:51:19 WARLORD systemd[995]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 30 08:51:19 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 30 08:51:19 WARLORD systemd[995]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 30 08:51:19 WARLORD spectacle[4007]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 30 08:51:19 WARLORD spectacle[4007]: spectacle: Detected Tesseract version "5.5.0"
+juni 30 08:51:19 WARLORD spectacle[4007]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 30 08:51:31 WARLORD systemd[995]: app-org.kde.spectacle.service: Consumed 1.453s CPU time over 11.687s wall clock time, 379.1M memory peak.
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:51:45 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 08:51:45 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:51:45 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 08:51:45 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 08:51:45 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 08:55:01 WARLORD CRON[4255]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 08:55:01 WARLORD CRON[4257]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 08:55:01 WARLORD kernel: sh (4257): drop_caches: 3
+juni 30 08:55:01 WARLORD CRON[4255]: pam_unix(cron:session): session closed for user root
+juni 30 09:00:01 WARLORD CRON[4447]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:00:01 WARLORD CRON[4446]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:00:01 WARLORD CRON[4450]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 09:00:01 WARLORD CRON[4451]: (root) CMD (timeshift --check --scripted)
+juni 30 09:00:01 WARLORD kernel: sh (4450): drop_caches: 3
+juni 30 09:00:01 WARLORD CRON[4447]: pam_unix(cron:session): session closed for user root
+juni 30 09:00:02 WARLORD crontab[4477]: (root) LIST (root)
+juni 30 09:00:02 WARLORD crontab[4478]: (root) LIST (root)
+juni 30 09:00:02 WARLORD systemd[1]: run-timeshift-4451-backup.mount: Deactivated successfully.
+juni 30 09:00:02 WARLORD CRON[4446]: pam_unix(cron:session): session closed for user root
+juni 30 09:00:14 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.69' (uid=989 pid=4495 comm="/usr/bin/fwupdmgr refresh")
+juni 30 09:00:14 WARLORD systemd[1]: Starting modprobe@sd_mod.service - Load Kernel Module sd_mod...
+juni 30 09:00:14 WARLORD systemd[1]: modprobe@sd_mod.service: Deactivated successfully.
+juni 30 09:00:14 WARLORD systemd[1]: Finished modprobe@sd_mod.service - Load Kernel Module sd_mod.
+juni 30 09:00:14 WARLORD systemd[1]: Starting fwupd.service - Firmware update daemon...
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.70' (uid=0 pid=4504 comm="/usr/libexec/fwupd/fwupd")
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.71' (uid=0 pid=4504 comm="/usr/libexec/fwupd/fwupd")
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.71' (uid=0 pid=4504 comm="/usr/libexec/fwupd/fwupd")
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.71' (uid=0 pid=4504 comm="/usr/libexec/fwupd/fwupd")
+juni 30 09:00:14 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:00:15 WARLORD fwupd[4504]: 07:00:15.398 FuMain               fwupd 2.1.1 ready for requests (locale nb_NO.UTF-8)
+juni 30 09:00:15 WARLORD dbus-daemon[697]: [system] Successfully activated service 'org.freedesktop.fwupd'
+juni 30 09:00:15 WARLORD systemd[1]: Started fwupd.service - Firmware update daemon.
+juni 30 09:00:15 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.71' (uid=0 pid=4504 comm="/usr/libexec/fwupd/fwupd")
+juni 30 09:00:15 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:00:15 WARLORD fwupd[4504]: 07:00:15.402 FuPluginLinuxSwap    could not parse /proc/swaps: failed to find org.freedesktop.UDisks2: Error calling StartServiceByName for org.freedesktop.UDisks2: Unit udisks2.service is masked.
+juni 30 09:00:15 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+juni 30 09:00:15 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+juni 30 09:01:20 WARLORD plasmashell[1302]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+juni 30 09:01:20 WARLORD systemd[995]: Started app-org.kde.kate@e374ea6101f949d4b9885624bb174b34.service - Kate - Avansert skriveprogram.
+juni 30 09:01:23 WARLORD kwin_wayland_wrapper[1139]: kf.config.core: Watching absolute paths is not supported "/usr/share/color-schemes/Oxygen.colors"
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:28 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:28 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:28 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:28 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:28 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:28 WARLORD kate[4548]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:01:28 WARLORD kate[4548]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:39 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:39 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:39 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:01:39 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:01:39 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:01:39 WARLORD kate[4548]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:01:39 WARLORD kate[4548]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:33 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:02:33 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:33 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.72' (uid=1000 pid=4548 comm="/usr/bin/kate -b")
+juni 30 09:02:33 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:33 WARLORD kate[4548]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:33 WARLORD kate[4548]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:02:33 WARLORD kate[4548]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:02:39 WARLORD systemd[995]: app-org.kde.kate@e374ea6101f949d4b9885624bb174b34.service: Consumed 2.925s CPU time over 1min 18.918s wall clock time, 320.9M memory peak.
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:42 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:02:42 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:42 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:02:42 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:02:42 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:02:45 WARLORD xdg-desktop-portal-kde[1681]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:02:45 WARLORD xdg-desktop-portal-kde[1681]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:04:24 WARLORD plasmashell[1302]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+juni 30 09:04:24 WARLORD systemd[995]: Started app-org.kde.kate@4674d131041b4b298f6fc1453accfbe7.service - Kate - Avansert skriveprogram.
+juni 30 09:04:24 WARLORD wireplumber[1032]: wp-event-dispatcher: <WpAsyncEventHook:0x60a904eeb720> failed: <WpSiStandardLink:0x60a904e8cb30> link failed: 1 of 1 PipeWire links failed to activate
+juni 30 09:04:26 WARLORD kwin_wayland_wrapper[1139]: kf.config.core: Watching absolute paths is not supported "/usr/share/color-schemes/Oxygen.colors"
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:30 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:30 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:30 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:30 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:30 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:30 WARLORD kate[4810]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:04:30 WARLORD kate[4810]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:50 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:50 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:50 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.73' (uid=1000 pid=4810 comm="/usr/bin/kate -b")
+juni 30 09:04:50 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:04:50 WARLORD kate[4810]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:04:50 WARLORD kate[4810]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:04:50 WARLORD kate[4810]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:05:01 WARLORD CRON[5033]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:05:01 WARLORD CRON[5035]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 09:05:01 WARLORD kernel: sh (5035): drop_caches: 3
+juni 30 09:05:01 WARLORD CRON[5033]: pam_unix(cron:session): session closed for user root
+juni 30 09:05:09 WARLORD kate[4810]: QTimeLine::setPaused: Not running
+juni 30 09:05:16 WARLORD kate[4810]: QTimeLine::setPaused: Not running
+juni 30 09:10:01 WARLORD CRON[5303]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:10:01 WARLORD CRON[5305]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 09:10:01 WARLORD kernel: sh (5305): drop_caches: 3
+juni 30 09:10:01 WARLORD CRON[5303]: pam_unix(cron:session): session closed for user root
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: \"sshid.txt\" (empty for no passphrase), folder: ksshaskpass"
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: '\"sshid.txt\" (empty for no passphrase)', folder: ksshaskpass"
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: \"sshid.txt\" (empty for no passphrase) , folder: ksshaskpass"
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:13:11 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: '\"sshid.txt\" (empty for no passphrase)' , folder: ksshaskpass"
+juni 30 09:14:02 WARLORD wpa_supplicant[859]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+juni 30 09:15:01 WARLORD CRON[5715]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:15:01 WARLORD CRON[5717]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 09:15:01 WARLORD kernel: sh (5717): drop_caches: 3
+juni 30 09:15:01 WARLORD CRON[5715]: pam_unix(cron:session): session closed for user root
+juni 30 09:16:59 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1139 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 30 09:16:59 WARLORD systemd[995]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 30 09:17:00 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 30 09:17:00 WARLORD systemd[995]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 30 09:17:00 WARLORD spectacle[5737]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 30 09:17:00 WARLORD spectacle[5737]: spectacle: Detected Tesseract version "5.5.0"
+juni 30 09:17:00 WARLORD spectacle[5737]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 30 09:17:01 WARLORD CRON[5787]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:17:01 WARLORD CRON[5789]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+juni 30 09:17:01 WARLORD CRON[5787]: pam_unix(cron:session): session closed for user root
+juni 30 09:17:07 WARLORD systemd[995]: app-org.kde.spectacle.service: Consumed 1.381s CPU time over 8.304s wall clock time, 358.2M memory peak.
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:17:18 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:17:18 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:17:18 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:17:18 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:17:18 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:17:18 WARLORD xdg-desktop-portal-kde[1681]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:17:18 WARLORD xdg-desktop-portal-kde[1681]: kf.kio.gui: PreviewJob subjob had an error: ""
+juni 30 09:17:53 WARLORD google-chrome-stable[1958]: [1953:1953:0630/091753.373302:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:748] Message 5 rejected by interface blink.mojom.WidgetHost
+juni 30 09:20:01 WARLORD CRON[6092]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:20:01 WARLORD CRON[6094]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 09:20:01 WARLORD kernel: sh (6094): drop_caches: 3
+juni 30 09:20:01 WARLORD CRON[6092]: pam_unix(cron:session): session closed for user root
+juni 30 09:20:16 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1139 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juni 30 09:20:16 WARLORD systemd[995]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juni 30 09:20:16 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juni 30 09:20:16 WARLORD systemd[995]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juni 30 09:20:16 WARLORD spectacle[6101]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juni 30 09:20:16 WARLORD spectacle[6101]: spectacle: Detected Tesseract version "5.5.0"
+juni 30 09:20:16 WARLORD spectacle[6101]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juni 30 09:20:29 WARLORD systemd[995]: app-org.kde.spectacle.service: Consumed 1.524s CPU time over 13.496s wall clock time, 377.9M memory peak.
+juni 30 09:20:32 WARLORD google-chrome-stable[1958]: [1953:1953:0630/092032.551864:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:748] Message 1 rejected by interface blink.mojom.WidgetHost
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:20:55 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:20:55 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:20:55 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.67' (uid=1000 pid=1681 comm="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-port")
+juni 30 09:20:55 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:20:55 WARLORD xdg-desktop-portal-kde[1681]: kf.solid.backends.udisks2: Failed to fetch all devices "org.freedesktop.systemd1.UnitMasked" "Unit udisks2.service is masked."
+juni 30 09:21:53 WARLORD systemd[995]: Started app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@b1fb34b5688b4aadbe96c16b7c129aff.service - Start--LotRO Warlord Edition.
+juni 30 09:21:54 WARLORD bash[6412]: Chrome lukket
+juni 30 09:21:54 WARLORD google-chrome-stable[1958]: [1953:1986:0630/092154.014665:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+juni 30 09:21:54 WARLORD systemd[995]: app-google\x2dchrome@118743fce96742a2ba2161524ab96f41.service: Consumed 9min 51.806s CPU time over 1h 9min 41.008s wall clock time, 1.7G memory peak.
+juni 30 09:21:54 WARLORD systemd[995]: app-com.google.Chrome-1953.scope: Consumed 37.510s CPU time over 1h 9min 40.476s wall clock time, 304.3M memory peak.
+juni 30 09:21:54 WARLORD sudo[6431]: pam_unix(sudo:auth): conversation failed
+juni 30 09:21:54 WARLORD sudo[6431]: pam_unix(sudo:auth): auth could not identify password for [wils]
+juni 30 09:21:54 WARLORD bash[6431]: sudo: A terminal is required to authenticate
+juni 30 09:21:54 WARLORD bash[6412]: CPU-Governor: PERFORMANCE aktivert
+juni 30 09:21:54 WARLORD sudo[6432]: pam_unix(sudo:auth): conversation failed
+juni 30 09:21:54 WARLORD sudo[6432]: pam_unix(sudo:auth): auth could not identify password for [wils]
+juni 30 09:21:54 WARLORD bash[6432]: sudo: A terminal is required to authenticate
+juni 30 09:21:54 WARLORD bash[6435]: RAM ledig for kamp: 28Gi
+juni 30 09:21:54 WARLORD bash[6412]: Starter LotRO (MangoHud & FSR aktivert)...
+juni 30 09:21:54 WARLORD bash[6412]: =========================================
+juni 30 09:21:54 WARLORD bash[6412]: ✓ WARLORD er klar for Umbar.
+juni 30 09:21:54 WARLORD bash[6412]: =========================================
+juni 30 09:21:54 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service' requested by ':1.76' (uid=1000 pid=6447 comm="C:\windows\system32\winedevice.exe               ")
+juni 30 09:21:54 WARLORD dbus-daemon[697]: [system] Activation via systemd failed for unit 'udisks2.service': Unit udisks2.service is masked.
+juni 30 09:21:54 WARLORD bash[6458]: [2026-06-30 09:21:54.628] [MANGOHUD] [error] [overlay_params.cpp:151] Unrecognized key: 'Shift'
+juni 30 09:22:14 WARLORD sudo[6626]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:22:14 WARLORD sudo[6626]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 30 09:22:14 WARLORD sudo[6626]: pam_unix(sudo:session): session closed for user root
+juni 30 09:22:14 WARLORD sudo[6630]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:22:14 WARLORD sudo[6630]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
