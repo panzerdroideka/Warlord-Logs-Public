@@ -4532,3 +4532,44 @@ juni 30 09:24:16 WARLORD sudo[6843]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; US
 juni 30 09:24:16 WARLORD sudo[6843]: pam_unix(sudo:session): session closed for user root
 juni 30 09:24:16 WARLORD sudo[6847]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 30 09:24:16 WARLORD sudo[6847]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 30 09:24:16 WARLORD sudo[6847]: pam_unix(sudo:session): session closed for user root
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:24:16 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 30 09:24:38 WARLORD systemd[995]: Started app-google\x2dchrome@75a493ebc598484ab0e7167abdcbd010.service - Google Chrome - Nettleser.
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6935:0630/092438.713002:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6970:0630/092438.713032:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6970:0630/092438.713092:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6970:0630/092438.713096:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6935:0630/092438.713116:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6935:0630/092438.713125:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6997:0630/092438.713262:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6903:6997:0630/092438.713310:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6980:6987:0630/092438.816665:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6980:6987:0630/092438.816753:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6980:6987:0630/092438.816766:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juni 30 09:24:38 WARLORD systemd[995]: Started app-com.google.Chrome-6903.scope.
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: [6980:6986:0630/092438.824195:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juni 30 09:24:38 WARLORD google-chrome-stable[6908]: Created TensorFlow Lite XNNPACK delegate for CPU.
+juni 30 09:24:39 WARLORD google-chrome-stable[6908]: [6903:6903:0630/092439.075481:ERROR:ui/ozone/platform/wayland/host/wayland_wp_color_manager.cc:277] Unable to set image transfer function.
+juni 30 09:24:39 WARLORD google-chrome-stable[6908]: [6903:6903:0630/092439.075506:ERROR:ui/ozone/platform/wayland/host/wayland_wp_color_manager.cc:195] Failed to populate image description for color space {primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}
+juni 30 09:24:41 WARLORD google-chrome-stable[6908]: [6903:6936:0630/092441.280353:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 30 09:25:01 WARLORD CRON[7288]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juni 30 09:25:01 WARLORD CRON[7292]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juni 30 09:25:02 WARLORD kernel: sh (7292): drop_caches: 3
+juni 30 09:25:02 WARLORD CRON[7288]: pam_unix(cron:session): session closed for user root
+juni 30 09:25:08 WARLORD google-chrome-stable[6908]: [6903:6991:0630/092508.692416:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 30 09:25:08 WARLORD google-chrome-stable[6908]: [6903:6992:0630/092508.692420:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 30 09:25:08 WARLORD google-chrome-stable[6908]: [6903:6993:0630/092508.692472:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juni 30 09:25:08 WARLORD chrome[6903]: [6903:6933:0630/092508.726544:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+juni 30 09:25:08 WARLORD google-chrome-stable[6908]: [6903:6936:0630/092508.972321:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 30 09:25:38 WARLORD sudo[7317]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:25:38 WARLORD sudo[7317]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 30 09:25:38 WARLORD sudo[7317]: pam_unix(sudo:session): session closed for user root
+juni 30 09:25:38 WARLORD sudo[7321]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:25:38 WARLORD sudo[7321]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
