@@ -3992,3 +3992,543 @@ juni 30 09:22:14 WARLORD sudo[6626]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; US
 juni 30 09:22:14 WARLORD sudo[6626]: pam_unix(sudo:session): session closed for user root
 juni 30 09:22:14 WARLORD sudo[6630]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 30 09:22:14 WARLORD sudo[6630]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 30 09:22:14 WARLORD sudo[6630]: pam_unix(sudo:session): session closed for user root
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com, folder: ksshaskpass"
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com', folder: ksshaskpass"
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: https://2025thC3ntury%21@github.com , folder: ksshaskpass"
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Item not found"
+juni 30 09:22:15 WARLORD org.kde.kwalletd6[1584]: kf.wallet.kwalletd: "Entry not found, key: 'https://2025thC3ntury%21@github.com' , folder: ksshaskpass"
+juni 30 09:22:58 WARLORD bash[6688]: info:  Game: lotroclient64.exe
+juni 30 09:22:58 WARLORD bash[6688]: info:  DXVK: v2.7.1
+juni 30 09:22:58 WARLORD bash[6688]: info:  Build: x86_64 gcc 15.1.0
+juni 30 09:22:58 WARLORD bash[6688]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffec324560
+juni 30 09:22:58 WARLORD bash[6688]: info:  Extension providers:
+juni 30 09:22:58 WARLORD bash[6688]: info:    Platform WSI
+juni 30 09:22:58 WARLORD bash[6688]: info:    OpenVR
+juni 30 09:22:58 WARLORD bash[6688]: info:  OpenVR: could not open registry key, status 2
+juni 30 09:22:58 WARLORD bash[6688]: info:  OpenVR: Failed to locate module
+juni 30 09:22:58 WARLORD bash[6688]: info:    OpenXR
+juni 30 09:22:58 WARLORD bash[6688]: info:  Enabled instance extensions:
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_surface_maintenance1
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_get_surface_capabilities2
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_surface
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_win32_surface
+juni 30 09:22:58 WARLORD bash[6688]: [2026-06-30 09:22:58.869] [MANGOHUD] [error] [overlay_params.cpp:151] Unrecognized key: 'Shift'
+juni 30 09:22:58 WARLORD bash[6688]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+juni 30 09:22:58 WARLORD bash[6688]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+juni 30 09:22:58 WARLORD bash[6688]: info:    Skipping: Software driver
+juni 30 09:22:58 WARLORD bash[6688]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+juni 30 09:22:58 WARLORD bash[6688]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+juni 30 09:22:58 WARLORD bash[6688]: warn:  D3D11DeviceFeatures: External memory features not supported
+juni 30 09:22:58 WARLORD bash[6688]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+juni 30 09:22:58 WARLORD bash[6688]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_10_0
+juni 30 09:22:58 WARLORD bash[6688]: info:  Creating device:
+juni 30 09:22:58 WARLORD bash[6688]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+juni 30 09:22:58 WARLORD bash[6688]: info:    Driver   : radv 26.0.3
+juni 30 09:22:58 WARLORD bash[6688]: info:  Queues:
+juni 30 09:22:58 WARLORD bash[6688]: info:    Graphics : (0, 0)
+juni 30 09:22:58 WARLORD bash[6688]: info:    Transfer : (1, 0)
+juni 30 09:22:58 WARLORD bash[6688]: info:    Sparse   : (0, 0)
+juni 30 09:22:58 WARLORD bash[6688]: info:  Memory:
+juni 30 09:22:58 WARLORD bash[6688]: info:    Heap 0: 5.50 GiB
+juni 30 09:22:58 WARLORD bash[6688]: info:    Budget: 5.26 GiB
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:58 WARLORD bash[6688]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+juni 30 09:22:58 WARLORD bash[6688]: info:    Budget: 10.52 GiB
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  0: DEVICE_LOCAL
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  1: DEVICE_LOCAL
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:58 WARLORD bash[6688]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:58 WARLORD bash[6688]: info:  Enabled extensions:
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_attachment_feedback_loop_layout
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_conservative_rasterization
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_custom_border_color
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_depth_clip_enable
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_depth_bias_control
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_descriptor_buffer
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_extended_dynamic_state3
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_fragment_shader_interlock
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_graphics_pipeline_library
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_hdr_metadata
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_line_rasterization
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_memory_priority
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_multi_draw
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_non_seamless_cube_map
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_robustness2
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_shader_module_identifier
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_shader_stencil_export
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_swapchain_maintenance1
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_transform_feedback
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_EXT_vertex_attribute_divisor
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_load_store_op_none
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_maintenance5
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_maintenance6
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_pipeline_library
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_present_id
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_present_wait
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_swapchain
+juni 30 09:22:58 WARLORD bash[6688]: info:    VK_KHR_swapchain_mutable_format
+juni 30 09:22:58 WARLORD bash[6688]: info:  Enabled features:
+juni 30 09:22:58 WARLORD bash[6688]: info:    depthBiasClamp                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    depthBounds                    : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    depthClamp                     : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    drawIndirectFirstInstance      : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    dualSrcBlend                   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    fillModeNonSolid               : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    fragmentStoresAndAtomics       : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    fullDrawIndexUint32            : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    geometryShader                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    imageCubeArray                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    independentBlend               : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    logicOp                        : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    multiDrawIndirect              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    multiViewport                  : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    occlusionQueryPrecise          : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    pipelineStatisticsQuery        : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    robustBufferAccess             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    sampleRateShading              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    samplerAnisotropy              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderClipDistance             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderCullDistance             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderFloat64                  : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderImageGatherExtended      : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderInt16                    : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderInt64                    : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderSampledImageArrayDynamicIndexing : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseBinding                  : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidencyBuffer          : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidencyImage2D         : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidencyImage3D         : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidency2Samples        : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidency4Samples        : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidency8Samples        : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidency16Samples       : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:    sparseResidencyAliased         : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderResourceResidency        : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderResourceMinLod           : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    tessellationShader             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    textureCompressionBC           : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    variableMultisampleRate        : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    vertexPipelineStoresAndAtomics : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    wideLines                      : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderDrawParameters           : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    storagePushConstant16          : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    bufferDeviceAddress            : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    descriptorIndexing             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    descriptorBindingPartiallyBound : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    drawIndirectCount              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    hostQueryReset                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    runtimeDescriptorArray         : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    samplerFilterMinmax            : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    samplerMirrorClampToEdge       : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderInt8                     : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderOutputViewportIndex      : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderOutputLayer              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    timelineSemaphore              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    uniformBufferStandardLayout    : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    vulkanMemoryModel              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    dynamicRendering               : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    maintenance4                   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    robustImageAccess              : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:    pipelineCreationCacheControl   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderDemoteToHelperInvocation : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderZeroInitializeWorkgroupMemory : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    synchronization2               : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_attachment_feedback_loop_layout:
+juni 30 09:22:58 WARLORD bash[6688]: info:    attachmentFeedbackLoopLayout   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_conservative_rasterization:
+juni 30 09:22:58 WARLORD bash[6688]: info:    extConservativeRasterization   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_custom_border_color:
+juni 30 09:22:58 WARLORD bash[6688]: info:    customBorderColors             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    customBorderColorWithoutFormat : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_depth_clip_enable:
+juni 30 09:22:58 WARLORD bash[6688]: info:    depthClipEnable                : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_depth_bias_control:
+juni 30 09:22:58 WARLORD bash[6688]: info:    depthBiasControl               : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    leastRepresentableValueForceUnormRepresentation : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    floatRepresentation            : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    depthBiasExact                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_descriptor_buffer:
+juni 30 09:22:58 WARLORD bash[6688]: info:    descriptorBuffer               : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_extended_dynamic_state3:
+juni 30 09:22:58 WARLORD bash[6688]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    extendedDynamicState3DepthClipEnable : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    extendedDynamicState3RasterizationSamples : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    extendedDynamicState3SampleMask : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    extendedDynamicState3LineRasterizationMode : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_fragment_shader_interlock:
+juni 30 09:22:58 WARLORD bash[6688]: info:    fragmentShaderSampleInterlock  : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    fragmentShaderPixelInterlock   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_full_screen_exclusive:
+juni 30 09:22:58 WARLORD bash[6688]: info:    extFullScreenExclusive         : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_graphics_pipeline_library:
+juni 30 09:22:58 WARLORD bash[6688]: info:    graphicsPipelineLibrary        : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_hdr_metadata:
+juni 30 09:22:58 WARLORD bash[6688]: info:    extHdrMetadata                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_line_rasterization:
+juni 30 09:22:58 WARLORD bash[6688]: info:    rectangularLines               : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    smoothLines                    : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_memory_budget:
+juni 30 09:22:58 WARLORD bash[6688]: info:    extMemoryBudget                : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_memory_priority:
+juni 30 09:22:58 WARLORD bash[6688]: info:    memoryPriority                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_multi_draw:
+juni 30 09:22:58 WARLORD bash[6688]: info:    multiDraw                      : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_non_seamless_cube_map:
+juni 30 09:22:58 WARLORD bash[6688]: info:    nonSeamlessCubeMap             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_pageable_device_local_memory:
+juni 30 09:22:58 WARLORD bash[6688]: info:    pageableDeviceLocalMemory      : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_robustness2:
+juni 30 09:22:58 WARLORD bash[6688]: info:    robustBufferAccess2            : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    robustImageAccess2             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    nullDescriptor                 : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_shader_module_identifier:
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderModuleIdentifier         : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_shader_stencil_export:
+juni 30 09:22:58 WARLORD bash[6688]: info:    extShaderStencilExport         : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_swapchain_colorspace:
+juni 30 09:22:58 WARLORD bash[6688]: info:    extSwapchainColorSpace         : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_swapchain_maintenance1:
+juni 30 09:22:58 WARLORD bash[6688]: info:    swapchainMaintenance1          : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_transform_feedback:
+juni 30 09:22:58 WARLORD bash[6688]: info:    transformFeedback              : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    geometryStreams                : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_EXT_vertex_attribute_divisor:
+juni 30 09:22:58 WARLORD bash[6688]: info:    vertexAttributeInstanceRateDivisor : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_external_memory_win32:
+juni 30 09:22:58 WARLORD bash[6688]: info:    khrExternalMemoryWin32         : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_external_semaphore_win32:
+juni 30 09:22:58 WARLORD bash[6688]: info:    khrExternalSemaphoreWin32      : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_load_store_op_none:
+juni 30 09:22:58 WARLORD bash[6688]: info:    khrLoadStoreOpNone             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_maintenance5:
+juni 30 09:22:58 WARLORD bash[6688]: info:    maintenance5                   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_maintenance6:
+juni 30 09:22:58 WARLORD bash[6688]: info:    maintenance6                   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_maintenance7:
+juni 30 09:22:58 WARLORD bash[6688]: info:    maintenance7                   : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_pipeline_library:
+juni 30 09:22:58 WARLORD bash[6688]: info:    khrPipelineLibrary             : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_present_id:
+juni 30 09:22:58 WARLORD bash[6688]: info:    presentId                      : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_present_wait:
+juni 30 09:22:58 WARLORD bash[6688]: info:    presentWait                    : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_swapchain:
+juni 30 09:22:58 WARLORD bash[6688]: info:    khrSwapchain                   : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_swapchain_mutable_format:
+juni 30 09:22:58 WARLORD bash[6688]: info:    khrSwapchainMutableFormat      : 1
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_KHR_win32_keyed_mutex:
+juni 30 09:22:58 WARLORD bash[6688]: info:    khrWin32KeyedMutex             : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_NV_descriptor_pool_overallocation:
+juni 30 09:22:58 WARLORD bash[6688]: info:    descriptorPoolOverallocation   : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_NV_low_latency2:
+juni 30 09:22:58 WARLORD bash[6688]: info:    nvLowLatency2                  : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_NV_raw_access_chains:
+juni 30 09:22:58 WARLORD bash[6688]: info:    shaderRawAccessChains          : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_NVX_binary_import:
+juni 30 09:22:58 WARLORD bash[6688]: info:    nvxBinaryImport                : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  VK_NVX_image_view_handle:
+juni 30 09:22:58 WARLORD bash[6688]: info:    nvxImageViewHandle             : 0
+juni 30 09:22:58 WARLORD bash[6688]: info:  Descriptor sizes (set alignment: 64)
+juni 30 09:22:58 WARLORD bash[6688]: info:    Sampler              : 16
+juni 30 09:22:58 WARLORD bash[6688]: info:    Uniform buffer       : 16
+juni 30 09:22:58 WARLORD bash[6688]: info:    Storage buffer       : 16
+juni 30 09:22:58 WARLORD bash[6688]: info:    Uniform texel buffer : 16
+juni 30 09:22:58 WARLORD bash[6688]: info:    Storage texel buffer : 16
+juni 30 09:22:58 WARLORD bash[6688]: info:    Sampled image        : 32
+juni 30 09:22:58 WARLORD bash[6688]: info:    Storage image        : 32
+juni 30 09:22:58 WARLORD bash[6688]: info:  Memory type mask for sparse resources: 0x7ad
+juni 30 09:22:58 WARLORD bash[6688]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+juni 30 09:22:58 WARLORD bash[6688]: info:  Creating sampler descriptor heap (32 kB)
+juni 30 09:22:58 WARLORD bash[6688]: info:  DXVK: Graphics pipeline libraries supported
+juni 30 09:22:58 WARLORD bash[6688]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+juni 30 09:22:58 WARLORD bash[6688]: info:  Creating resource descriptor heap (8192 kB)
+juni 30 09:22:59 WARLORD bash[6688]: info:  Game: lotroclient64.exe
+juni 30 09:22:59 WARLORD bash[6688]: info:  DXVK: v2.7.1
+juni 30 09:22:59 WARLORD bash[6688]: info:  Build: x86_64 gcc 15.1.0
+juni 30 09:22:59 WARLORD bash[6688]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffee0d4560
+juni 30 09:22:59 WARLORD bash[6688]: info:  Extension providers:
+juni 30 09:22:59 WARLORD bash[6688]: info:    Platform WSI
+juni 30 09:22:59 WARLORD bash[6688]: info:    OpenVR
+juni 30 09:22:59 WARLORD bash[6688]: info:  OpenVR: could not open registry key, status 2
+juni 30 09:22:59 WARLORD bash[6688]: info:  OpenVR: Failed to locate module
+juni 30 09:22:59 WARLORD bash[6688]: info:    OpenXR
+juni 30 09:22:59 WARLORD bash[6688]: info:  Enabled instance extensions:
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_surface_maintenance1
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_get_surface_capabilities2
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_surface
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_win32_surface
+juni 30 09:22:59 WARLORD bash[6688]: [2026-06-30 09:22:59.403] [MANGOHUD] [error] [overlay_params.cpp:151] Unrecognized key: 'Shift'
+juni 30 09:22:59 WARLORD bash[6688]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+juni 30 09:22:59 WARLORD bash[6688]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+juni 30 09:22:59 WARLORD bash[6688]: info:    Skipping: Software driver
+juni 30 09:22:59 WARLORD bash[6688]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+juni 30 09:22:59 WARLORD bash[6688]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+juni 30 09:22:59 WARLORD bash[6688]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+juni 30 09:22:59 WARLORD bash[6688]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+juni 30 09:22:59 WARLORD bash[6688]: info:  Creating device:
+juni 30 09:22:59 WARLORD bash[6688]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+juni 30 09:22:59 WARLORD bash[6688]: info:    Driver   : radv 26.0.3
+juni 30 09:22:59 WARLORD bash[6688]: info:  Queues:
+juni 30 09:22:59 WARLORD bash[6688]: info:    Graphics : (0, 0)
+juni 30 09:22:59 WARLORD bash[6688]: info:    Transfer : (1, 0)
+juni 30 09:22:59 WARLORD bash[6688]: info:    Sparse   : (0, 0)
+juni 30 09:22:59 WARLORD bash[6688]: info:  Memory:
+juni 30 09:22:59 WARLORD bash[6688]: info:    Heap 0: 5.50 GiB
+juni 30 09:22:59 WARLORD bash[6688]: info:    Budget: 5.26 GiB
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:59 WARLORD bash[6688]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+juni 30 09:22:59 WARLORD bash[6688]: info:    Budget: 10.52 GiB
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  0: DEVICE_LOCAL
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  1: DEVICE_LOCAL
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:59 WARLORD bash[6688]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juni 30 09:22:59 WARLORD bash[6688]: info:  Enabled extensions:
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_attachment_feedback_loop_layout
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_conservative_rasterization
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_custom_border_color
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_depth_clip_enable
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_depth_bias_control
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_descriptor_buffer
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_extended_dynamic_state3
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_fragment_shader_interlock
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_graphics_pipeline_library
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_hdr_metadata
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_line_rasterization
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_memory_priority
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_multi_draw
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_non_seamless_cube_map
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_robustness2
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_shader_module_identifier
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_shader_stencil_export
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_swapchain_maintenance1
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_transform_feedback
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_EXT_vertex_attribute_divisor
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_load_store_op_none
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_maintenance5
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_maintenance6
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_pipeline_library
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_present_id
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_present_wait
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_swapchain
+juni 30 09:22:59 WARLORD bash[6688]: info:    VK_KHR_swapchain_mutable_format
+juni 30 09:22:59 WARLORD bash[6688]: info:  Enabled features:
+juni 30 09:22:59 WARLORD bash[6688]: info:    depthBiasClamp                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    depthBounds                    : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    depthClamp                     : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    drawIndirectFirstInstance      : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    dualSrcBlend                   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    fillModeNonSolid               : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    fragmentStoresAndAtomics       : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    fullDrawIndexUint32            : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    geometryShader                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    imageCubeArray                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    independentBlend               : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    logicOp                        : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    multiDrawIndirect              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    multiViewport                  : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    occlusionQueryPrecise          : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    pipelineStatisticsQuery        : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    robustBufferAccess             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    sampleRateShading              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    samplerAnisotropy              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderClipDistance             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderCullDistance             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderFloat64                  : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderImageGatherExtended      : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderInt16                    : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderInt64                    : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderSampledImageArrayDynamicIndexing : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseBinding                  : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidencyBuffer          : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidencyImage2D         : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidencyImage3D         : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidency2Samples        : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidency4Samples        : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidency8Samples        : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidency16Samples       : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:    sparseResidencyAliased         : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderResourceResidency        : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderResourceMinLod           : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    tessellationShader             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    textureCompressionBC           : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    variableMultisampleRate        : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    vertexPipelineStoresAndAtomics : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    wideLines                      : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderDrawParameters           : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    storagePushConstant16          : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    bufferDeviceAddress            : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    descriptorIndexing             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    descriptorBindingPartiallyBound : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    drawIndirectCount              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    hostQueryReset                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    runtimeDescriptorArray         : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    samplerFilterMinmax            : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    samplerMirrorClampToEdge       : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderInt8                     : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderOutputViewportIndex      : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderOutputLayer              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    timelineSemaphore              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    uniformBufferStandardLayout    : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    vulkanMemoryModel              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    dynamicRendering               : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    maintenance4                   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    robustImageAccess              : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:    pipelineCreationCacheControl   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderDemoteToHelperInvocation : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderZeroInitializeWorkgroupMemory : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    synchronization2               : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_attachment_feedback_loop_layout:
+juni 30 09:22:59 WARLORD bash[6688]: info:    attachmentFeedbackLoopLayout   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_conservative_rasterization:
+juni 30 09:22:59 WARLORD bash[6688]: info:    extConservativeRasterization   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_custom_border_color:
+juni 30 09:22:59 WARLORD bash[6688]: info:    customBorderColors             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    customBorderColorWithoutFormat : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_depth_clip_enable:
+juni 30 09:22:59 WARLORD bash[6688]: info:    depthClipEnable                : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_depth_bias_control:
+juni 30 09:22:59 WARLORD bash[6688]: info:    depthBiasControl               : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    leastRepresentableValueForceUnormRepresentation : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    floatRepresentation            : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    depthBiasExact                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_descriptor_buffer:
+juni 30 09:22:59 WARLORD bash[6688]: info:    descriptorBuffer               : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_extended_dynamic_state3:
+juni 30 09:22:59 WARLORD bash[6688]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    extendedDynamicState3DepthClipEnable : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    extendedDynamicState3RasterizationSamples : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    extendedDynamicState3SampleMask : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    extendedDynamicState3LineRasterizationMode : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_fragment_shader_interlock:
+juni 30 09:22:59 WARLORD bash[6688]: info:    fragmentShaderSampleInterlock  : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    fragmentShaderPixelInterlock   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_full_screen_exclusive:
+juni 30 09:22:59 WARLORD bash[6688]: info:    extFullScreenExclusive         : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_graphics_pipeline_library:
+juni 30 09:22:59 WARLORD bash[6688]: info:    graphicsPipelineLibrary        : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_hdr_metadata:
+juni 30 09:22:59 WARLORD bash[6688]: info:    extHdrMetadata                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_line_rasterization:
+juni 30 09:22:59 WARLORD bash[6688]: info:    rectangularLines               : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    smoothLines                    : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_memory_budget:
+juni 30 09:22:59 WARLORD bash[6688]: info:    extMemoryBudget                : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_memory_priority:
+juni 30 09:22:59 WARLORD bash[6688]: info:    memoryPriority                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_multi_draw:
+juni 30 09:22:59 WARLORD bash[6688]: info:    multiDraw                      : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_non_seamless_cube_map:
+juni 30 09:22:59 WARLORD bash[6688]: info:    nonSeamlessCubeMap             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_pageable_device_local_memory:
+juni 30 09:22:59 WARLORD bash[6688]: info:    pageableDeviceLocalMemory      : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_robustness2:
+juni 30 09:22:59 WARLORD bash[6688]: info:    robustBufferAccess2            : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    robustImageAccess2             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    nullDescriptor                 : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_shader_module_identifier:
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderModuleIdentifier         : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_shader_stencil_export:
+juni 30 09:22:59 WARLORD bash[6688]: info:    extShaderStencilExport         : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_swapchain_colorspace:
+juni 30 09:22:59 WARLORD bash[6688]: info:    extSwapchainColorSpace         : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_swapchain_maintenance1:
+juni 30 09:22:59 WARLORD bash[6688]: info:    swapchainMaintenance1          : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_transform_feedback:
+juni 30 09:22:59 WARLORD bash[6688]: info:    transformFeedback              : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    geometryStreams                : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_EXT_vertex_attribute_divisor:
+juni 30 09:22:59 WARLORD bash[6688]: info:    vertexAttributeInstanceRateDivisor : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_external_memory_win32:
+juni 30 09:22:59 WARLORD bash[6688]: info:    khrExternalMemoryWin32         : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_external_semaphore_win32:
+juni 30 09:22:59 WARLORD bash[6688]: info:    khrExternalSemaphoreWin32      : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_load_store_op_none:
+juni 30 09:22:59 WARLORD bash[6688]: info:    khrLoadStoreOpNone             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_maintenance5:
+juni 30 09:22:59 WARLORD bash[6688]: info:    maintenance5                   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_maintenance6:
+juni 30 09:22:59 WARLORD bash[6688]: info:    maintenance6                   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_maintenance7:
+juni 30 09:22:59 WARLORD bash[6688]: info:    maintenance7                   : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_pipeline_library:
+juni 30 09:22:59 WARLORD bash[6688]: info:    khrPipelineLibrary             : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_present_id:
+juni 30 09:22:59 WARLORD bash[6688]: info:    presentId                      : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_present_wait:
+juni 30 09:22:59 WARLORD bash[6688]: info:    presentWait                    : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_swapchain:
+juni 30 09:22:59 WARLORD bash[6688]: info:    khrSwapchain                   : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_swapchain_mutable_format:
+juni 30 09:22:59 WARLORD bash[6688]: info:    khrSwapchainMutableFormat      : 1
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_KHR_win32_keyed_mutex:
+juni 30 09:22:59 WARLORD bash[6688]: info:    khrWin32KeyedMutex             : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_NV_descriptor_pool_overallocation:
+juni 30 09:22:59 WARLORD bash[6688]: info:    descriptorPoolOverallocation   : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_NV_low_latency2:
+juni 30 09:22:59 WARLORD bash[6688]: info:    nvLowLatency2                  : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_NV_raw_access_chains:
+juni 30 09:22:59 WARLORD bash[6688]: info:    shaderRawAccessChains          : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_NVX_binary_import:
+juni 30 09:22:59 WARLORD bash[6688]: info:    nvxBinaryImport                : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  VK_NVX_image_view_handle:
+juni 30 09:22:59 WARLORD bash[6688]: info:    nvxImageViewHandle             : 0
+juni 30 09:22:59 WARLORD bash[6688]: info:  Descriptor sizes (set alignment: 64)
+juni 30 09:22:59 WARLORD bash[6688]: info:    Sampler              : 16
+juni 30 09:22:59 WARLORD bash[6688]: info:    Uniform buffer       : 16
+juni 30 09:22:59 WARLORD bash[6688]: info:    Storage buffer       : 16
+juni 30 09:22:59 WARLORD bash[6688]: info:    Uniform texel buffer : 16
+juni 30 09:22:59 WARLORD bash[6688]: info:    Storage texel buffer : 16
+juni 30 09:22:59 WARLORD bash[6688]: info:    Sampled image        : 32
+juni 30 09:22:59 WARLORD bash[6688]: info:    Storage image        : 32
+juni 30 09:22:59 WARLORD bash[6688]: info:  Memory type mask for sparse resources: 0x7ad
+juni 30 09:22:59 WARLORD bash[6688]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+juni 30 09:22:59 WARLORD bash[6688]: info:  Creating sampler descriptor heap (32 kB)
+juni 30 09:22:59 WARLORD bash[6688]: info:  DXVK: Graphics pipeline libraries supported
+juni 30 09:22:59 WARLORD bash[6688]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+juni 30 09:22:59 WARLORD bash[6688]: info:  Creating resource descriptor heap (8192 kB)
+juni 30 09:22:59 WARLORD bash[6688]: warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+juni 30 09:22:59 WARLORD bash[6688]: warn:  0ec870a6-5d7e-4c22-8cfc-5baae07616ed
+juni 30 09:22:59 WARLORD bash[6688]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juni 30 09:22:59 WARLORD bash[6688]: info:  DXVK: Using 8 compiler threads
+juni 30 09:22:59 WARLORD bash[6688]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juni 30 09:22:59 WARLORD bash[6688]: info:  Presenter: Actual swapchain properties:
+juni 30 09:22:59 WARLORD bash[6688]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+juni 30 09:22:59 WARLORD bash[6688]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+juni 30 09:22:59 WARLORD bash[6688]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+juni 30 09:22:59 WARLORD bash[6688]: info:    Buffer size:  3200x1800
+juni 30 09:22:59 WARLORD bash[6688]: info:    Image count:  4
+juni 30 09:22:59 WARLORD bash[6688]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juni 30 09:22:59 WARLORD bash[6688]: info:  Presenter: Actual swapchain properties:
+juni 30 09:22:59 WARLORD bash[6688]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+juni 30 09:22:59 WARLORD bash[6688]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+juni 30 09:22:59 WARLORD bash[6688]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+juni 30 09:22:59 WARLORD bash[6688]: info:    Buffer size:  3200x1800
+juni 30 09:22:59 WARLORD bash[6688]: info:    Image count:  4
+juni 30 09:23:33 WARLORD kwin_wayland_wrapper[1139]: qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Unable to open /proc/1139/root")
+juni 30 09:24:16 WARLORD sudo[6843]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:24:16 WARLORD sudo[6843]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 30 09:24:16 WARLORD sudo[6843]: pam_unix(sudo:session): session closed for user root
+juni 30 09:24:16 WARLORD sudo[6847]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:24:16 WARLORD sudo[6847]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
