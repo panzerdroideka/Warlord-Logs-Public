@@ -1252,3 +1252,42 @@
 [ 3841.654701] sh (5717): drop_caches: 3
 [ 4141.806251] sh (6094): drop_caches: 3
 [ 4442.381490] sh (7292): drop_caches: 3
+[ 4741.587283] sh (7675): drop_caches: 3
+[ 5042.038452] sh (7886): drop_caches: 3
+[ 5342.337459] sh (8227): drop_caches: 3
+[ 5642.571195] sh (8504): drop_caches: 3
+[ 5941.799620] sh (24173): drop_caches: 3
+[ 6241.916792] sh (24665): drop_caches: 3
+[ 6542.025623] sh (24714): drop_caches: 3
+[ 6842.051902] sh (24910): drop_caches: 3
+[ 7142.346224] sh (25011): drop_caches: 3
+[ 7442.642519] sh (25893): drop_caches: 3
+[ 7741.962212] sh (26698): drop_caches: 3
+[ 8042.219939] sh (27332): drop_caches: 3
+[ 8342.477455] sh (27899): drop_caches: 3
+[ 8641.767134] sh (28454): drop_caches: 3
+[ 8941.894163] sh (28703): drop_caches: 3
+[ 9242.009168] sh (28916): drop_caches: 3
+[ 9542.244358] sh (29396): drop_caches: 3
+[ 9842.617798] sh (29848): drop_caches: 3
+[ 9942.236045] usb 5-1: new full-speed USB device number 2 using xhci_hcd
+[ 9942.385815] usb 5-1: New USB device found, idVendor=21b4, idProduct=0085, bcdDevice= 1.10
+[ 9942.385818] usb 5-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[ 9942.385820] usb 5-1: Product: AudioQuest DragonFly Cobalt v1.0
+[ 9942.385822] usb 5-1: Manufacturer: AudioQuest
+[ 9942.385824] usb 5-1: SerialNumber: AQDFCB0100126375
+[ 9947.479586] hid-generic 0003:21B4:0085.000A: hiddev98,hidraw7: USB HID v1.11 Device [AudioQuest AudioQuest DragonFly Cobalt v1.0] on usb-0000:c6:00.3-1/input2
+[ 9947.509311] mc: Linux media interface: v0.10
+[ 9947.633870] usbcore: registered new interface driver snd-usb-audio
+[10141.926455] sh (45041): drop_caches: 3
+[10441.866021] sh (56596): drop_caches: 3
+[10742.124843] sh (86641): drop_caches: 3
+[11042.344608] sh (118061): drop_caches: 3
+[11342.627722] sh (156397): drop_caches: 3
+[11641.994542] sh (210529): drop_caches: 3
+[11942.144568] sh (234618): drop_caches: 3
+[12242.372414] sh (236399): drop_caches: 3
+[12542.648377] sh (238244): drop_caches: 3
+[12841.828063] sh (239853): drop_caches: 3
+[13142.021187] sh (240995): drop_caches: 3
+[13159.147105] usb 5-1: USB disconnect, device number 2
