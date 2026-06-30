@@ -4573,3 +4573,10 @@ juni 30 09:25:38 WARLORD sudo[7317]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitH
 juni 30 09:25:38 WARLORD sudo[7317]: pam_unix(sudo:session): session closed for user root
 juni 30 09:25:38 WARLORD sudo[7321]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juni 30 09:25:38 WARLORD sudo[7321]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juni 30 09:25:38 WARLORD sudo[7321]: pam_unix(sudo:session): session closed for user root
+juni 30 09:26:02 WARLORD google-chrome-stable[6908]: [6903:6936:0630/092602.675690:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juni 30 09:26:37 WARLORD sudo[7369]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:26:37 WARLORD sudo[7369]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka ; USER=root ; COMMAND=/usr/bin/dmesg
+juni 30 09:26:37 WARLORD sudo[7369]: pam_unix(sudo:session): session closed for user root
+juni 30 09:26:37 WARLORD sudo[7373]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juni 30 09:26:37 WARLORD sudo[7373]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/GitHub/panzerdroideka ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
