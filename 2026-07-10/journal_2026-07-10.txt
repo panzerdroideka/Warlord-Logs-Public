@@ -1,0 +1,108 @@
+juli 10 00:00:01 WARLORD CRON[7618]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 10 00:00:01 WARLORD CRON[7619]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 10 00:00:01 WARLORD CRON[7622]: (root) CMD (timeshift --check --scripted)
+juli 10 00:00:01 WARLORD CRON[7623]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 10 00:00:01 WARLORD systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+juli 10 00:00:01 WARLORD systemd[1]: Starting sysstat-rotate.service - system activity accounting tool...
+juli 10 00:00:01 WARLORD kernel: sh (7623): drop_caches: 3
+juli 10 00:00:01 WARLORD CRON[7619]: pam_unix(cron:session): session closed for user root
+juli 10 00:00:01 WARLORD systemd[1]: sysstat-rotate.service: Deactivated successfully.
+juli 10 00:00:01 WARLORD systemd[1]: Finished sysstat-rotate.service - system activity accounting tool.
+juli 10 00:00:01 WARLORD systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+juli 10 00:00:01 WARLORD systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+juli 10 00:00:02 WARLORD crontab[7754]: (root) LIST (root)
+juli 10 00:00:02 WARLORD crontab[7755]: (root) LIST (root)
+juli 10 00:00:02 WARLORD systemd[1]: run-timeshift-7622-backup.mount: Deactivated successfully.
+juli 10 00:00:02 WARLORD CRON[7618]: pam_unix(cron:session): session closed for user root
+juli 10 00:05:01 WARLORD CRON[7992]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 10 00:05:01 WARLORD CRON[7995]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 10 00:05:01 WARLORD kernel: sh (7995): drop_caches: 3
+juli 10 00:05:01 WARLORD CRON[7992]: pam_unix(cron:session): session closed for user root
+juli 10 00:06:01 WARLORD google-chrome-stable[4704]: [4699:4748:0710/000601.652538:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:06:01 WARLORD google-chrome-stable[4704]: QThreadStorage: entry 2 destroyed before end of thread 0x3d34029195e0
+juli 10 00:06:01 WARLORD google-chrome-stable[4704]: QThreadStorage: entry 1 destroyed before end of thread 0x3d34029195e0
+juli 10 00:06:01 WARLORD systemd[1012]: app-com.google.Chrome-4699.scope: Consumed 56.109s CPU time over 46min 33.965s wall clock time, 532.8M memory peak.
+juli 10 00:06:01 WARLORD systemd[1012]: app-google\x2dchrome@a70ca2eb2adb4536b3c102e1f3625c8f.service: Consumed 7min 23.584s CPU time over 46min 34.519s wall clock time, 1.8G memory peak.
+juli 10 00:06:02 WARLORD spectacle[7254]: "There are still \"1\" items in the process of being created at engine destruction."
+juli 10 00:06:03 WARLORD systemd[1012]: app-org.kde.spectacle.service: Consumed 4.888s CPU time over 9min 15.699s wall clock time, 305M memory peak.
+juli 10 00:06:08 WARLORD systemd[1012]: Started app-google\x2dchrome@85e51966b7cc4b86a6fdd42cb824d651.service - Google Chrome - Nettleser.
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8119:0710/000609.181491:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8139:0710/000609.181528:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8139:0710/000609.181604:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8139:0710/000609.181614:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8140:0710/000609.181704:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8119:0710/000609.182124:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8119:0710/000609.182133:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8051:8140:0710/000609.182239:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 10 00:06:09 WARLORD systemd[1012]: Started app-com.google.Chrome-8051.scope.
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8127:8134:0710/000609.286787:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8127:8134:0710/000609.286922:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8127:8134:0710/000609.286928:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: [8127:8133:0710/000609.298388:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 10 00:06:09 WARLORD google-chrome-stable[8056]: Created TensorFlow Lite XNNPACK delegate for CPU.
+juli 10 00:06:15 WARLORD google-chrome-stable[8056]: [8051:8084:0710/000615.742924:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 10 00:06:38 WARLORD google-chrome-stable[8056]: [8051:8084:0710/000638.064271:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 10 00:06:39 WARLORD chrome[8051]: [8051:8081:0710/000639.191402:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+juli 10 00:06:39 WARLORD google-chrome-stable[8056]: [8051:8156:0710/000639.204324:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:06:39 WARLORD google-chrome-stable[8056]: [8051:8157:0710/000639.204322:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:06:39 WARLORD google-chrome-stable[8056]: [8051:8155:0710/000639.204322:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:07:14 WARLORD systemd[1]: Starting sysstat-summary.service - Generate a daily summary of process accounting...
+juli 10 00:07:14 WARLORD systemd[1]: sysstat-summary.service: Deactivated successfully.
+juli 10 00:07:14 WARLORD systemd[1]: Finished sysstat-summary.service - Generate a daily summary of process accounting.
+juli 10 00:07:29 WARLORD google-chrome-stable[8056]: [8051:8084:0710/000729.402984:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 10 00:09:05 WARLORD google-chrome-stable[8056]: [8051:8084:0710/000905.477893:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 10 00:09:46 WARLORD dbus-daemon[1034]: [session uid=1000 pid=1034 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1153 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juli 10 00:09:46 WARLORD systemd[1012]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juli 10 00:09:47 WARLORD dbus-daemon[1034]: [session uid=1000 pid=1034 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juli 10 00:09:47 WARLORD systemd[1012]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juli 10 00:09:47 WARLORD spectacle[8681]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juli 10 00:09:47 WARLORD spectacle[8681]: spectacle: Detected Tesseract version "5.5.0"
+juli 10 00:09:47 WARLORD spectacle[8681]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juli 10 00:09:53 WARLORD systemd[1012]: app-org.kde.spectacle.service: Consumed 1.487s CPU time over 6.542s wall clock time, 244.7M memory peak.
+juli 10 00:10:01 WARLORD CRON[8754]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 10 00:10:01 WARLORD CRON[8758]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 10 00:10:01 WARLORD kernel: sh (8758): drop_caches: 3
+juli 10 00:10:01 WARLORD CRON[8754]: pam_unix(cron:session): session closed for user root
+juli 10 00:10:06 WARLORD google-chrome-stable[8056]: [8051:8100:0710/001006.918061:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:10:06 WARLORD google-chrome-stable[8056]: QThreadStorage: entry 2 destroyed before end of thread 0x372c0291a960
+juli 10 00:10:06 WARLORD google-chrome-stable[8056]: QThreadStorage: entry 1 destroyed before end of thread 0x372c0291a960
+juli 10 00:10:06 WARLORD systemd[1012]: app-google\x2dchrome@85e51966b7cc4b86a6fdd42cb824d651.service: Consumed 35.137s CPU time over 3min 58.218s wall clock time, 1.2G memory peak.
+juli 10 00:10:06 WARLORD systemd[1012]: app-com.google.Chrome-8051.scope: Consumed 8.301s CPU time over 3min 57.675s wall clock time, 413.2M memory peak.
+juli 10 00:10:11 WARLORD plasmashell[1317]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+juli 10 00:10:11 WARLORD systemd[1012]: Started app-google\x2dchrome@0850c083fe4c450db0123e17503ab339.service - Google Chrome - Nettleser.
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8881:0710/001011.817258:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8879:0710/001011.817308:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8879:0710/001011.817371:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8881:0710/001011.817384:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8879:0710/001011.817380:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8881:0710/001011.817395:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8880:0710/001011.817476:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8791:8880:0710/001011.817482:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8867:8872:0710/001011.932871:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8867:8872:0710/001011.932958:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8867:8872:0710/001011.932966:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 10 00:10:11 WARLORD systemd[1012]: Started app-com.google.Chrome-8791.scope.
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: [8867:8873:0710/001011.939133:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 10 00:10:11 WARLORD google-chrome-stable[8796]: Created TensorFlow Lite XNNPACK delegate for CPU.
+juli 10 00:10:17 WARLORD google-chrome-stable[8796]: [8791:8824:0710/001017.517212:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 10 00:10:41 WARLORD google-chrome-stable[8796]: [8791:8824:0710/001041.106849:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 10 00:10:41 WARLORD chrome[8791]: [8791:8821:0710/001041.832700:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+juli 10 00:10:41 WARLORD google-chrome-stable[8796]: [8791:8897:0710/001041.846728:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:10:41 WARLORD google-chrome-stable[8796]: [8791:8896:0710/001041.846732:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:10:41 WARLORD google-chrome-stable[8796]: [8791:8895:0710/001041.846728:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:11:10 WARLORD systemd[1012]: Started app-org.kde.dolphin@fc7fcc129ef44309817731f613a8f419.service - Dolphin - Filbehandler.
+juli 10 00:11:19 WARLORD systemd[1012]: Started app-org.kde.okular@d710492e5f364299a8ba71a36617d2e5.service - Okular - Dokumentviser.
+juli 10 00:11:35 WARLORD google-chrome-stable[8796]: [8791:8824:0710/001135.554058:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 10 00:11:56 WARLORD systemd[1012]: app-org.kde.dolphin@fc7fcc129ef44309817731f613a8f419.service: Consumed 2.477s CPU time over 46.476s wall clock time, 453.9M memory peak.
+juli 10 00:12:00 WARLORD systemd[1012]: app-org.kde.okular@d710492e5f364299a8ba71a36617d2e5.service: Consumed 599ms CPU time over 41.190s wall clock time, 108.4M memory peak.
+juli 10 00:12:21 WARLORD systemd[1012]: app-flatpak-md.obsidian.Obsidian-1061207002.scope: Consumed 13.686s CPU time over 52min 51.597s wall clock time, 671.7M memory peak.
+juli 10 00:12:22 WARLORD google-chrome-stable[8796]: [8791:8840:0710/001222.304209:ERROR:content/browser/browser_main_loop.cc:274] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 10 00:12:22 WARLORD google-chrome-stable[8796]: QThreadStorage: entry 2 destroyed before end of thread 0x1744007195e0
+juli 10 00:12:22 WARLORD google-chrome-stable[8796]: QThreadStorage: entry 1 destroyed before end of thread 0x1744007195e0
+juli 10 00:12:22 WARLORD systemd[1012]: app-com.google.Chrome-8791.scope: Consumed 5.782s CPU time over 2min 10.387s wall clock time, 251.5M memory peak.
+juli 10 00:12:22 WARLORD systemd[1012]: app-google\x2dchrome@0850c083fe4c450db0123e17503ab339.service: Consumed 23.938s CPU time over 2min 10.955s wall clock time, 1.1G memory peak.
+juli 10 00:12:37 WARLORD sudo[9488]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juli 10 00:12:37 WARLORD sudo[9488]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juli 10 00:12:37 WARLORD sudo[9488]: pam_unix(sudo:session): session closed for user root
+juli 10 00:12:37 WARLORD sudo[9492]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juli 10 00:12:37 WARLORD sudo[9492]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
