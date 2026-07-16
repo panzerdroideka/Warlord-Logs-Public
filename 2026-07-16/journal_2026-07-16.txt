@@ -3838,3 +3838,1659 @@ juli 16 18:59:45 WARLORD sudo[5447]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; US
 juli 16 18:59:45 WARLORD sudo[5447]: pam_unix(sudo:session): session closed for user root
 juli 16 18:59:45 WARLORD sudo[5451]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juli 16 18:59:45 WARLORD sudo[5451]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juli 16 18:59:45 WARLORD sudo[5451]: pam_unix(sudo:session): session closed for user root
+juli 16 18:59:51 WARLORD systemd[994]: Started app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@d79dc9b429b8493da26370fb9da650e4.service - Start--LotRO Warlord Edition.
+juli 16 18:59:51 WARLORD bash[5485]: Chrome kjørte ikke
+juli 16 18:59:51 WARLORD sudo[5493]: pam_unix(sudo:auth): conversation failed
+juli 16 18:59:51 WARLORD sudo[5493]: pam_unix(sudo:auth): auth could not identify password for [wils]
+juli 16 18:59:51 WARLORD bash[5493]: sudo: A terminal is required to authenticate
+juli 16 18:59:51 WARLORD bash[5485]: CPU-Governor: PERFORMANCE aktivert
+juli 16 18:59:51 WARLORD sudo[5494]: pam_unix(sudo:auth): conversation failed
+juli 16 18:59:51 WARLORD sudo[5494]: pam_unix(sudo:auth): auth could not identify password for [wils]
+juli 16 18:59:51 WARLORD bash[5494]: sudo: A terminal is required to authenticate
+juli 16 18:59:51 WARLORD bash[5497]: RAM ledig for kamp: 28Gi
+juli 16 18:59:51 WARLORD bash[5485]: Starter LotRO (MangoHud & FSR aktivert)...
+juli 16 18:59:51 WARLORD bash[5485]: =========================================
+juli 16 18:59:51 WARLORD bash[5485]: ✓ WARLORD er klar for Umbar.
+juli 16 18:59:51 WARLORD bash[5485]: =========================================
+juli 16 18:59:51 WARLORD bash[5526]: [2026-07-16 18:59:51.922] [MANGOHUD] [error] [overlay_params.cpp:151] Unrecognized key: 'Shift'
+juli 16 19:00:01 WARLORD CRON[5601]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:00:01 WARLORD CRON[5602]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:00:01 WARLORD CRON[5605]: (root) CMD (timeshift --check --scripted)
+juli 16 19:00:01 WARLORD CRON[5606]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:00:01 WARLORD kernel: sh (5606): drop_caches: 3
+juli 16 19:00:01 WARLORD CRON[5602]: pam_unix(cron:session): session closed for user root
+juli 16 19:00:02 WARLORD crontab[5641]: (root) LIST (root)
+juli 16 19:00:02 WARLORD crontab[5642]: (root) LIST (root)
+juli 16 19:00:02 WARLORD systemd[1]: run-timeshift-5605-backup.mount: Deactivated successfully.
+juli 16 19:00:02 WARLORD CRON[5601]: pam_unix(cron:session): session closed for user root
+juli 16 19:00:28 WARLORD bash[5655]: info:  Game: lotroclient64.exe
+juli 16 19:00:28 WARLORD bash[5655]: info:  DXVK: v2.7.1
+juli 16 19:00:28 WARLORD bash[5655]: info:  Build: x86_64 gcc 15.1.0
+juli 16 19:00:28 WARLORD bash[5655]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffec354560
+juli 16 19:00:28 WARLORD bash[5655]: info:  Extension providers:
+juli 16 19:00:28 WARLORD bash[5655]: info:    Platform WSI
+juli 16 19:00:28 WARLORD bash[5655]: info:    OpenVR
+juli 16 19:00:28 WARLORD bash[5655]: info:  OpenVR: could not open registry key, status 2
+juli 16 19:00:28 WARLORD bash[5655]: info:  OpenVR: Failed to locate module
+juli 16 19:00:28 WARLORD bash[5655]: info:    OpenXR
+juli 16 19:00:28 WARLORD bash[5655]: info:  Enabled instance extensions:
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_surface_maintenance1
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_get_surface_capabilities2
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_surface
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_win32_surface
+juli 16 19:00:28 WARLORD bash[5655]: [2026-07-16 19:00:28.837] [MANGOHUD] [error] [overlay_params.cpp:151] Unrecognized key: 'Shift'
+juli 16 19:00:28 WARLORD bash[5655]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+juli 16 19:00:28 WARLORD bash[5655]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+juli 16 19:00:28 WARLORD bash[5655]: info:    Skipping: Software driver
+juli 16 19:00:28 WARLORD bash[5655]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+juli 16 19:00:28 WARLORD bash[5655]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+juli 16 19:00:28 WARLORD bash[5655]: warn:  D3D11DeviceFeatures: External memory features not supported
+juli 16 19:00:28 WARLORD bash[5655]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+juli 16 19:00:28 WARLORD bash[5655]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_10_0
+juli 16 19:00:28 WARLORD bash[5655]: info:  Creating device:
+juli 16 19:00:28 WARLORD bash[5655]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+juli 16 19:00:28 WARLORD bash[5655]: info:    Driver   : radv 26.0.3
+juli 16 19:00:28 WARLORD bash[5655]: info:  Queues:
+juli 16 19:00:28 WARLORD bash[5655]: info:    Graphics : (0, 0)
+juli 16 19:00:28 WARLORD bash[5655]: info:    Transfer : (1, 0)
+juli 16 19:00:28 WARLORD bash[5655]: info:    Sparse   : (0, 0)
+juli 16 19:00:28 WARLORD bash[5655]: info:  Memory:
+juli 16 19:00:28 WARLORD bash[5655]: info:    Heap 0: 5.50 GiB
+juli 16 19:00:28 WARLORD bash[5655]: info:    Budget: 5.27 GiB
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:28 WARLORD bash[5655]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+juli 16 19:00:28 WARLORD bash[5655]: info:    Budget: 10.54 GiB
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  0: DEVICE_LOCAL
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  1: DEVICE_LOCAL
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:28 WARLORD bash[5655]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:28 WARLORD bash[5655]: info:  Enabled extensions:
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_attachment_feedback_loop_layout
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_conservative_rasterization
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_custom_border_color
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_depth_clip_enable
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_depth_bias_control
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_descriptor_buffer
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_extended_dynamic_state3
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_fragment_shader_interlock
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_graphics_pipeline_library
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_hdr_metadata
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_line_rasterization
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_memory_priority
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_multi_draw
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_non_seamless_cube_map
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_robustness2
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_shader_module_identifier
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_shader_stencil_export
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_swapchain_maintenance1
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_transform_feedback
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_EXT_vertex_attribute_divisor
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_load_store_op_none
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_maintenance5
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_maintenance6
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_pipeline_library
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_present_id
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_present_wait
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_swapchain
+juli 16 19:00:28 WARLORD bash[5655]: info:    VK_KHR_swapchain_mutable_format
+juli 16 19:00:28 WARLORD bash[5655]: info:  Enabled features:
+juli 16 19:00:28 WARLORD bash[5655]: info:    depthBiasClamp                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    depthBounds                    : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    depthClamp                     : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    drawIndirectFirstInstance      : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    dualSrcBlend                   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    fillModeNonSolid               : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    fragmentStoresAndAtomics       : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    fullDrawIndexUint32            : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    geometryShader                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    imageCubeArray                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    independentBlend               : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    logicOp                        : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    multiDrawIndirect              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    multiViewport                  : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    occlusionQueryPrecise          : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    pipelineStatisticsQuery        : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    robustBufferAccess             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    sampleRateShading              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    samplerAnisotropy              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderClipDistance             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderCullDistance             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderFloat64                  : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderImageGatherExtended      : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderInt16                    : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderInt64                    : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderSampledImageArrayDynamicIndexing : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseBinding                  : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidencyBuffer          : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidencyImage2D         : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidencyImage3D         : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidency2Samples        : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidency4Samples        : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidency8Samples        : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidency16Samples       : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:    sparseResidencyAliased         : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderResourceResidency        : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderResourceMinLod           : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    tessellationShader             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    textureCompressionBC           : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    variableMultisampleRate        : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    vertexPipelineStoresAndAtomics : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    wideLines                      : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderDrawParameters           : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    storagePushConstant16          : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    bufferDeviceAddress            : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    descriptorIndexing             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    descriptorBindingPartiallyBound : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    drawIndirectCount              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    hostQueryReset                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    runtimeDescriptorArray         : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    samplerFilterMinmax            : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    samplerMirrorClampToEdge       : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderInt8                     : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderOutputViewportIndex      : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderOutputLayer              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    timelineSemaphore              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    uniformBufferStandardLayout    : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    vulkanMemoryModel              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    dynamicRendering               : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    maintenance4                   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    robustImageAccess              : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:    pipelineCreationCacheControl   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderDemoteToHelperInvocation : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderZeroInitializeWorkgroupMemory : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    synchronization2               : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_attachment_feedback_loop_layout:
+juli 16 19:00:28 WARLORD bash[5655]: info:    attachmentFeedbackLoopLayout   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_conservative_rasterization:
+juli 16 19:00:28 WARLORD bash[5655]: info:    extConservativeRasterization   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_custom_border_color:
+juli 16 19:00:28 WARLORD bash[5655]: info:    customBorderColors             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    customBorderColorWithoutFormat : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_depth_clip_enable:
+juli 16 19:00:28 WARLORD bash[5655]: info:    depthClipEnable                : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_depth_bias_control:
+juli 16 19:00:28 WARLORD bash[5655]: info:    depthBiasControl               : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    leastRepresentableValueForceUnormRepresentation : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    floatRepresentation            : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    depthBiasExact                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_descriptor_buffer:
+juli 16 19:00:28 WARLORD bash[5655]: info:    descriptorBuffer               : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_extended_dynamic_state3:
+juli 16 19:00:28 WARLORD bash[5655]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    extendedDynamicState3DepthClipEnable : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    extendedDynamicState3RasterizationSamples : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    extendedDynamicState3SampleMask : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    extendedDynamicState3LineRasterizationMode : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_fragment_shader_interlock:
+juli 16 19:00:28 WARLORD bash[5655]: info:    fragmentShaderSampleInterlock  : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    fragmentShaderPixelInterlock   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_full_screen_exclusive:
+juli 16 19:00:28 WARLORD bash[5655]: info:    extFullScreenExclusive         : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_graphics_pipeline_library:
+juli 16 19:00:28 WARLORD bash[5655]: info:    graphicsPipelineLibrary        : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_hdr_metadata:
+juli 16 19:00:28 WARLORD bash[5655]: info:    extHdrMetadata                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_line_rasterization:
+juli 16 19:00:28 WARLORD bash[5655]: info:    rectangularLines               : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    smoothLines                    : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_memory_budget:
+juli 16 19:00:28 WARLORD bash[5655]: info:    extMemoryBudget                : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_memory_priority:
+juli 16 19:00:28 WARLORD bash[5655]: info:    memoryPriority                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_multi_draw:
+juli 16 19:00:28 WARLORD bash[5655]: info:    multiDraw                      : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_non_seamless_cube_map:
+juli 16 19:00:28 WARLORD bash[5655]: info:    nonSeamlessCubeMap             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_pageable_device_local_memory:
+juli 16 19:00:28 WARLORD bash[5655]: info:    pageableDeviceLocalMemory      : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_robustness2:
+juli 16 19:00:28 WARLORD bash[5655]: info:    robustBufferAccess2            : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    robustImageAccess2             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    nullDescriptor                 : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_shader_module_identifier:
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderModuleIdentifier         : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_shader_stencil_export:
+juli 16 19:00:28 WARLORD bash[5655]: info:    extShaderStencilExport         : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_swapchain_colorspace:
+juli 16 19:00:28 WARLORD bash[5655]: info:    extSwapchainColorSpace         : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_swapchain_maintenance1:
+juli 16 19:00:28 WARLORD bash[5655]: info:    swapchainMaintenance1          : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_transform_feedback:
+juli 16 19:00:28 WARLORD bash[5655]: info:    transformFeedback              : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    geometryStreams                : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_EXT_vertex_attribute_divisor:
+juli 16 19:00:28 WARLORD bash[5655]: info:    vertexAttributeInstanceRateDivisor : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_external_memory_win32:
+juli 16 19:00:28 WARLORD bash[5655]: info:    khrExternalMemoryWin32         : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_external_semaphore_win32:
+juli 16 19:00:28 WARLORD bash[5655]: info:    khrExternalSemaphoreWin32      : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_load_store_op_none:
+juli 16 19:00:28 WARLORD bash[5655]: info:    khrLoadStoreOpNone             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_maintenance5:
+juli 16 19:00:28 WARLORD bash[5655]: info:    maintenance5                   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_maintenance6:
+juli 16 19:00:28 WARLORD bash[5655]: info:    maintenance6                   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_maintenance7:
+juli 16 19:00:28 WARLORD bash[5655]: info:    maintenance7                   : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_pipeline_library:
+juli 16 19:00:28 WARLORD bash[5655]: info:    khrPipelineLibrary             : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_present_id:
+juli 16 19:00:28 WARLORD bash[5655]: info:    presentId                      : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_present_wait:
+juli 16 19:00:28 WARLORD bash[5655]: info:    presentWait                    : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_swapchain:
+juli 16 19:00:28 WARLORD bash[5655]: info:    khrSwapchain                   : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_swapchain_mutable_format:
+juli 16 19:00:28 WARLORD bash[5655]: info:    khrSwapchainMutableFormat      : 1
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_KHR_win32_keyed_mutex:
+juli 16 19:00:28 WARLORD bash[5655]: info:    khrWin32KeyedMutex             : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_NV_descriptor_pool_overallocation:
+juli 16 19:00:28 WARLORD bash[5655]: info:    descriptorPoolOverallocation   : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_NV_low_latency2:
+juli 16 19:00:28 WARLORD bash[5655]: info:    nvLowLatency2                  : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_NV_raw_access_chains:
+juli 16 19:00:28 WARLORD bash[5655]: info:    shaderRawAccessChains          : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_NVX_binary_import:
+juli 16 19:00:28 WARLORD bash[5655]: info:    nvxBinaryImport                : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  VK_NVX_image_view_handle:
+juli 16 19:00:28 WARLORD bash[5655]: info:    nvxImageViewHandle             : 0
+juli 16 19:00:28 WARLORD bash[5655]: info:  Descriptor sizes (set alignment: 64)
+juli 16 19:00:28 WARLORD bash[5655]: info:    Sampler              : 16
+juli 16 19:00:28 WARLORD bash[5655]: info:    Uniform buffer       : 16
+juli 16 19:00:28 WARLORD bash[5655]: info:    Storage buffer       : 16
+juli 16 19:00:28 WARLORD bash[5655]: info:    Uniform texel buffer : 16
+juli 16 19:00:28 WARLORD bash[5655]: info:    Storage texel buffer : 16
+juli 16 19:00:28 WARLORD bash[5655]: info:    Sampled image        : 32
+juli 16 19:00:28 WARLORD bash[5655]: info:    Storage image        : 32
+juli 16 19:00:28 WARLORD bash[5655]: info:  Memory type mask for sparse resources: 0x7ad
+juli 16 19:00:28 WARLORD bash[5655]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+juli 16 19:00:28 WARLORD bash[5655]: info:  Creating sampler descriptor heap (32 kB)
+juli 16 19:00:28 WARLORD bash[5655]: info:  DXVK: Graphics pipeline libraries supported
+juli 16 19:00:28 WARLORD bash[5655]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+juli 16 19:00:28 WARLORD bash[5655]: info:  Creating resource descriptor heap (8192 kB)
+juli 16 19:00:29 WARLORD bash[5655]: info:  Game: lotroclient64.exe
+juli 16 19:00:29 WARLORD bash[5655]: info:  DXVK: v2.7.1
+juli 16 19:00:29 WARLORD bash[5655]: info:  Build: x86_64 gcc 15.1.0
+juli 16 19:00:29 WARLORD bash[5655]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffee104560
+juli 16 19:00:29 WARLORD bash[5655]: info:  Extension providers:
+juli 16 19:00:29 WARLORD bash[5655]: info:    Platform WSI
+juli 16 19:00:29 WARLORD bash[5655]: info:    OpenVR
+juli 16 19:00:29 WARLORD bash[5655]: info:  OpenVR: could not open registry key, status 2
+juli 16 19:00:29 WARLORD bash[5655]: info:  OpenVR: Failed to locate module
+juli 16 19:00:29 WARLORD bash[5655]: info:    OpenXR
+juli 16 19:00:29 WARLORD bash[5655]: info:  Enabled instance extensions:
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_surface_maintenance1
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_get_surface_capabilities2
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_surface
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_win32_surface
+juli 16 19:00:29 WARLORD bash[5655]: [2026-07-16 19:00:29.369] [MANGOHUD] [error] [overlay_params.cpp:151] Unrecognized key: 'Shift'
+juli 16 19:00:29 WARLORD bash[5655]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+juli 16 19:00:29 WARLORD bash[5655]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+juli 16 19:00:29 WARLORD bash[5655]: info:    Skipping: Software driver
+juli 16 19:00:29 WARLORD bash[5655]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+juli 16 19:00:29 WARLORD bash[5655]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+juli 16 19:00:29 WARLORD bash[5655]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+juli 16 19:00:29 WARLORD bash[5655]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+juli 16 19:00:29 WARLORD bash[5655]: info:  Creating device:
+juli 16 19:00:29 WARLORD bash[5655]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+juli 16 19:00:29 WARLORD bash[5655]: info:    Driver   : radv 26.0.3
+juli 16 19:00:29 WARLORD bash[5655]: info:  Queues:
+juli 16 19:00:29 WARLORD bash[5655]: info:    Graphics : (0, 0)
+juli 16 19:00:29 WARLORD bash[5655]: info:    Transfer : (1, 0)
+juli 16 19:00:29 WARLORD bash[5655]: info:    Sparse   : (0, 0)
+juli 16 19:00:29 WARLORD bash[5655]: info:  Memory:
+juli 16 19:00:29 WARLORD bash[5655]: info:    Heap 0: 5.50 GiB
+juli 16 19:00:29 WARLORD bash[5655]: info:    Budget: 5.27 GiB
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:29 WARLORD bash[5655]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+juli 16 19:00:29 WARLORD bash[5655]: info:    Budget: 10.54 GiB
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  0: DEVICE_LOCAL
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  1: DEVICE_LOCAL
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:29 WARLORD bash[5655]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+juli 16 19:00:29 WARLORD bash[5655]: info:  Enabled extensions:
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_attachment_feedback_loop_layout
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_conservative_rasterization
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_custom_border_color
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_depth_clip_enable
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_depth_bias_control
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_descriptor_buffer
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_extended_dynamic_state3
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_fragment_shader_interlock
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_graphics_pipeline_library
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_hdr_metadata
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_line_rasterization
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_memory_priority
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_multi_draw
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_non_seamless_cube_map
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_robustness2
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_shader_module_identifier
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_shader_stencil_export
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_swapchain_maintenance1
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_transform_feedback
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_EXT_vertex_attribute_divisor
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_load_store_op_none
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_maintenance5
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_maintenance6
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_pipeline_library
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_present_id
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_present_wait
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_swapchain
+juli 16 19:00:29 WARLORD bash[5655]: info:    VK_KHR_swapchain_mutable_format
+juli 16 19:00:29 WARLORD bash[5655]: info:  Enabled features:
+juli 16 19:00:29 WARLORD bash[5655]: info:    depthBiasClamp                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    depthBounds                    : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    depthClamp                     : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    drawIndirectFirstInstance      : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    dualSrcBlend                   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    fillModeNonSolid               : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    fragmentStoresAndAtomics       : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    fullDrawIndexUint32            : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    geometryShader                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    imageCubeArray                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    independentBlend               : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    logicOp                        : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    multiDrawIndirect              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    multiViewport                  : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    occlusionQueryPrecise          : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    pipelineStatisticsQuery        : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    robustBufferAccess             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    sampleRateShading              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    samplerAnisotropy              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderClipDistance             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderCullDistance             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderFloat64                  : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderImageGatherExtended      : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderInt16                    : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderInt64                    : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderSampledImageArrayDynamicIndexing : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseBinding                  : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidencyBuffer          : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidencyImage2D         : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidencyImage3D         : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidency2Samples        : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidency4Samples        : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidency8Samples        : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidency16Samples       : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:    sparseResidencyAliased         : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderResourceResidency        : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderResourceMinLod           : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    tessellationShader             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    textureCompressionBC           : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    variableMultisampleRate        : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    vertexPipelineStoresAndAtomics : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    wideLines                      : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderDrawParameters           : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    storagePushConstant16          : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    bufferDeviceAddress            : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    descriptorIndexing             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    descriptorBindingPartiallyBound : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    drawIndirectCount              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    hostQueryReset                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    runtimeDescriptorArray         : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    samplerFilterMinmax            : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    samplerMirrorClampToEdge       : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderInt8                     : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderOutputViewportIndex      : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderOutputLayer              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    timelineSemaphore              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    uniformBufferStandardLayout    : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    vulkanMemoryModel              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    dynamicRendering               : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    maintenance4                   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    robustImageAccess              : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:    pipelineCreationCacheControl   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderDemoteToHelperInvocation : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderZeroInitializeWorkgroupMemory : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    synchronization2               : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_attachment_feedback_loop_layout:
+juli 16 19:00:29 WARLORD bash[5655]: info:    attachmentFeedbackLoopLayout   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_conservative_rasterization:
+juli 16 19:00:29 WARLORD bash[5655]: info:    extConservativeRasterization   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_custom_border_color:
+juli 16 19:00:29 WARLORD bash[5655]: info:    customBorderColors             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    customBorderColorWithoutFormat : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_depth_clip_enable:
+juli 16 19:00:29 WARLORD bash[5655]: info:    depthClipEnable                : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_depth_bias_control:
+juli 16 19:00:29 WARLORD bash[5655]: info:    depthBiasControl               : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    leastRepresentableValueForceUnormRepresentation : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    floatRepresentation            : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    depthBiasExact                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_descriptor_buffer:
+juli 16 19:00:29 WARLORD bash[5655]: info:    descriptorBuffer               : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_extended_dynamic_state3:
+juli 16 19:00:29 WARLORD bash[5655]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    extendedDynamicState3DepthClipEnable : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    extendedDynamicState3RasterizationSamples : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    extendedDynamicState3SampleMask : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    extendedDynamicState3LineRasterizationMode : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_fragment_shader_interlock:
+juli 16 19:00:29 WARLORD bash[5655]: info:    fragmentShaderSampleInterlock  : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    fragmentShaderPixelInterlock   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_full_screen_exclusive:
+juli 16 19:00:29 WARLORD bash[5655]: info:    extFullScreenExclusive         : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_graphics_pipeline_library:
+juli 16 19:00:29 WARLORD bash[5655]: info:    graphicsPipelineLibrary        : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_hdr_metadata:
+juli 16 19:00:29 WARLORD bash[5655]: info:    extHdrMetadata                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_line_rasterization:
+juli 16 19:00:29 WARLORD bash[5655]: info:    rectangularLines               : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    smoothLines                    : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_memory_budget:
+juli 16 19:00:29 WARLORD bash[5655]: info:    extMemoryBudget                : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_memory_priority:
+juli 16 19:00:29 WARLORD bash[5655]: info:    memoryPriority                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_multi_draw:
+juli 16 19:00:29 WARLORD bash[5655]: info:    multiDraw                      : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_non_seamless_cube_map:
+juli 16 19:00:29 WARLORD bash[5655]: info:    nonSeamlessCubeMap             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_pageable_device_local_memory:
+juli 16 19:00:29 WARLORD bash[5655]: info:    pageableDeviceLocalMemory      : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_robustness2:
+juli 16 19:00:29 WARLORD bash[5655]: info:    robustBufferAccess2            : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    robustImageAccess2             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    nullDescriptor                 : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_shader_module_identifier:
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderModuleIdentifier         : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_shader_stencil_export:
+juli 16 19:00:29 WARLORD bash[5655]: info:    extShaderStencilExport         : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_swapchain_colorspace:
+juli 16 19:00:29 WARLORD bash[5655]: info:    extSwapchainColorSpace         : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_swapchain_maintenance1:
+juli 16 19:00:29 WARLORD bash[5655]: info:    swapchainMaintenance1          : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_transform_feedback:
+juli 16 19:00:29 WARLORD bash[5655]: info:    transformFeedback              : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    geometryStreams                : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_EXT_vertex_attribute_divisor:
+juli 16 19:00:29 WARLORD bash[5655]: info:    vertexAttributeInstanceRateDivisor : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_external_memory_win32:
+juli 16 19:00:29 WARLORD bash[5655]: info:    khrExternalMemoryWin32         : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_external_semaphore_win32:
+juli 16 19:00:29 WARLORD bash[5655]: info:    khrExternalSemaphoreWin32      : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_load_store_op_none:
+juli 16 19:00:29 WARLORD bash[5655]: info:    khrLoadStoreOpNone             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_maintenance5:
+juli 16 19:00:29 WARLORD bash[5655]: info:    maintenance5                   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_maintenance6:
+juli 16 19:00:29 WARLORD bash[5655]: info:    maintenance6                   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_maintenance7:
+juli 16 19:00:29 WARLORD bash[5655]: info:    maintenance7                   : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_pipeline_library:
+juli 16 19:00:29 WARLORD bash[5655]: info:    khrPipelineLibrary             : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_present_id:
+juli 16 19:00:29 WARLORD bash[5655]: info:    presentId                      : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_present_wait:
+juli 16 19:00:29 WARLORD bash[5655]: info:    presentWait                    : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_swapchain:
+juli 16 19:00:29 WARLORD bash[5655]: info:    khrSwapchain                   : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_swapchain_mutable_format:
+juli 16 19:00:29 WARLORD bash[5655]: info:    khrSwapchainMutableFormat      : 1
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_KHR_win32_keyed_mutex:
+juli 16 19:00:29 WARLORD bash[5655]: info:    khrWin32KeyedMutex             : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_NV_descriptor_pool_overallocation:
+juli 16 19:00:29 WARLORD bash[5655]: info:    descriptorPoolOverallocation   : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_NV_low_latency2:
+juli 16 19:00:29 WARLORD bash[5655]: info:    nvLowLatency2                  : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_NV_raw_access_chains:
+juli 16 19:00:29 WARLORD bash[5655]: info:    shaderRawAccessChains          : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_NVX_binary_import:
+juli 16 19:00:29 WARLORD bash[5655]: info:    nvxBinaryImport                : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  VK_NVX_image_view_handle:
+juli 16 19:00:29 WARLORD bash[5655]: info:    nvxImageViewHandle             : 0
+juli 16 19:00:29 WARLORD bash[5655]: info:  Descriptor sizes (set alignment: 64)
+juli 16 19:00:29 WARLORD bash[5655]: info:    Sampler              : 16
+juli 16 19:00:29 WARLORD bash[5655]: info:    Uniform buffer       : 16
+juli 16 19:00:29 WARLORD bash[5655]: info:    Storage buffer       : 16
+juli 16 19:00:29 WARLORD bash[5655]: info:    Uniform texel buffer : 16
+juli 16 19:00:29 WARLORD bash[5655]: info:    Storage texel buffer : 16
+juli 16 19:00:29 WARLORD bash[5655]: info:    Sampled image        : 32
+juli 16 19:00:29 WARLORD bash[5655]: info:    Storage image        : 32
+juli 16 19:00:29 WARLORD bash[5655]: info:  Memory type mask for sparse resources: 0x7ad
+juli 16 19:00:29 WARLORD bash[5655]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+juli 16 19:00:29 WARLORD bash[5655]: info:  Creating sampler descriptor heap (32 kB)
+juli 16 19:00:29 WARLORD bash[5655]: info:  DXVK: Graphics pipeline libraries supported
+juli 16 19:00:29 WARLORD bash[5655]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+juli 16 19:00:29 WARLORD bash[5655]: info:  Creating resource descriptor heap (8192 kB)
+juli 16 19:00:29 WARLORD bash[5655]: warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+juli 16 19:00:29 WARLORD bash[5655]: warn:  0ec870a6-5d7e-4c22-8cfc-5baae07616ed
+juli 16 19:00:29 WARLORD bash[5655]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juli 16 19:00:29 WARLORD bash[5655]: info:  DXVK: Using 8 compiler threads
+juli 16 19:00:29 WARLORD bash[5655]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juli 16 19:00:29 WARLORD kded6[1263]: Registering ":1.64/StatusNotifierItem" to system tray
+juli 16 19:00:29 WARLORD kded6[1263]: Service  ":1.64" unregistered
+juli 16 19:00:29 WARLORD kded6[1263]: Registering ":1.65/StatusNotifierItem" to system tray
+juli 16 19:00:29 WARLORD kded6[1263]: Service  ":1.65" unregistered
+juli 16 19:00:29 WARLORD kded6[1263]: Registering ":1.66/StatusNotifierItem" to system tray
+juli 16 19:00:29 WARLORD kded6[1263]: Service  ":1.66" unregistered
+juli 16 19:00:29 WARLORD kded6[1263]: Registering ":1.67/StatusNotifierItem" to system tray
+juli 16 19:00:29 WARLORD bash[5655]: info:  Presenter: Actual swapchain properties:
+juli 16 19:00:29 WARLORD bash[5655]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+juli 16 19:00:29 WARLORD bash[5655]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+juli 16 19:00:29 WARLORD bash[5655]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+juli 16 19:00:29 WARLORD bash[5655]: info:    Buffer size:  3200x1800
+juli 16 19:00:29 WARLORD bash[5655]: info:    Image count:  4
+juli 16 19:00:30 WARLORD bash[5655]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+juli 16 19:00:30 WARLORD bash[5655]: info:  Presenter: Actual swapchain properties:
+juli 16 19:00:30 WARLORD bash[5655]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+juli 16 19:00:30 WARLORD bash[5655]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+juli 16 19:00:30 WARLORD bash[5655]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+juli 16 19:00:30 WARLORD bash[5655]: info:    Buffer size:  3200x1800
+juli 16 19:00:30 WARLORD bash[5655]: info:    Image count:  4
+juli 16 19:00:45 WARLORD kded6[1263]: ApportEvent :: hidden= false apport-kde= true apport-gtk= false
+juli 16 19:00:45 WARLORD kded6[1263]: Using ApportEvent
+juli 16 19:00:45 WARLORD kded6[1263]: ""
+juli 16 19:00:45 WARLORD kded6[1263]: foundCrashFile false foundAutoUpload false
+juli 16 19:00:45 WARLORD kded6[1263]: QDBusArgument& operator<<(QDBusArgument&, const DeviceList&) is noop
+juli 16 19:00:45 WARLORD kded6[1263]: KDE Languages: QList()
+juli 16 19:00:45 WARLORD dbus-daemon[693]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.30' (uid=1000 pid=1263 comm="/usr/bin/kded6")
+juli 16 19:00:45 WARLORD kded6[1263]: got dbus error; abort
+juli 16 19:00:45 WARLORD dbus-daemon[693]: [system] Activation via systemd failed for unit 'packagekit.service': Unit packagekit.service is masked.
+juli 16 19:00:45 WARLORD kded6[1263]: QList("nb_NO.UTF-8", "nb", "_NO", "NO", ".UTF-8", "UTF-8")
+juli 16 19:00:45 WARLORD kded6[1263]: System Language Matchables: QList("nb_NO", "nb")
+juli 16 19:00:56 WARLORD wpa_supplicant[853]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+juli 16 19:00:56 WARLORD wpa_supplicant[853]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+juli 16 19:00:56 WARLORD wpa_supplicant[853]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+juli 16 19:01:01 WARLORD systemd[994]: Started app-org.kde.falkon@a80e2f1f8fda4704993f4bce2af96d4f.service - Falkon - Web Browser.
+juli 16 19:01:02 WARLORD falkon[5780]: Library plugin "KDEFrameworksIntegration.so" not found
+juli 16 19:01:02 WARLORD falkon[5780]: Falkon: 1 extensions loaded
+juli 16 19:01:02 WARLORD falkon[5780]: [5780:5817:0716/190102.379029:ERROR:simple_backend_impl.cc(79)] Failed to create directory: /home/wils/.cache/falkon/default/Cache/Cache_Data
+juli 16 19:01:02 WARLORD falkon[5780]: [5780:5817:0716/190102.379083:ERROR:simple_backend_impl.cc(79)] Failed to create directory: /home/wils/.cache/falkon/default/Cache/Cache_Data
+juli 16 19:01:02 WARLORD falkon[5780]: [5780:5817:0716/190102.379091:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/falkon/default/Cache/Cache_Data
+juli 16 19:01:02 WARLORD falkon[5780]: [5780:5865:0716/190102.379161:ERROR:disk_cache.cc(216)] Unable to create cache
+juli 16 19:01:10 WARLORD bluetoothd[681]: Player registered: sender=:1.19 path=/_1_69
+juli 16 19:02:46 WARLORD dbus-daemon[693]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.58' (uid=1000 pid=1572 comm="/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier")
+juli 16 19:02:46 WARLORD dbus-daemon[693]: [system] Activation via systemd failed for unit 'packagekit.service': Unit packagekit.service is masked.
+juli 16 19:03:07 WARLORD systemd[994]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache skipped, unmet condition check ConditionPathExists=/home/wils/.launchpadlib/api.launchpad.net/cache
+juli 16 19:05:01 WARLORD CRON[6042]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:05:01 WARLORD CRON[6044]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:05:01 WARLORD kernel: sh (6044): drop_caches: 3
+juli 16 19:05:01 WARLORD CRON[6042]: pam_unix(cron:session): session closed for user root
+juli 16 19:10:01 WARLORD CRON[6111]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:10:01 WARLORD CRON[6113]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:10:01 WARLORD kernel: sh (6113): drop_caches: 3
+juli 16 19:10:01 WARLORD CRON[6111]: pam_unix(cron:session): session closed for user root
+juli 16 19:12:43 WARLORD systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+juli 16 19:12:43 WARLORD systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+juli 16 19:12:43 WARLORD systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+juli 16 19:15:02 WARLORD CRON[6163]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:15:02 WARLORD CRON[6166]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:15:02 WARLORD kernel: sh (6166): drop_caches: 3
+juli 16 19:15:02 WARLORD CRON[6163]: pam_unix(cron:session): session closed for user root
+juli 16 19:17:01 WARLORD CRON[6179]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:17:01 WARLORD CRON[6181]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+juli 16 19:17:01 WARLORD CRON[6179]: pam_unix(cron:session): session closed for user root
+juli 16 19:18:03 WARLORD systemd[994]: Started app-google\x2dchrome@cc3c4d1b64f6498eb6287e52816fd756.service - Google Chrome - Nettleser.
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6279:0716/191803.622592:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6280:0716/191803.622568:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6279:0716/191803.622646:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6280:0716/191803.622659:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6280:0716/191803.622664:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6300:0716/191803.622793:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6279:0716/191803.622658:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6210:6300:0716/191803.622944:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [2026-07-16 19:18:03.678] [MANGOHUD] [error] [overlay_params.cpp:151] Unrecognized key: 'Shift'
+juli 16 19:18:03 WARLORD systemd[994]: Started app-com.google.Chrome-6210.scope.
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6287:6292:0716/191803.783682:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6287:6292:0716/191803.783919:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6287:6292:0716/191803.783992:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: [6287:6293:0716/191803.789533:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 16 19:18:03 WARLORD google-chrome-stable[6216]: Created TensorFlow Lite XNNPACK delegate for CPU.
+juli 16 19:18:18 WARLORD google-chrome-stable[6216]: [6210:6260:0716/191818.983871:ERROR:content/browser/browser_main_loop.cc:276] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 16 19:18:18 WARLORD google-chrome-stable[6216]: QThreadStorage: entry 2 destroyed before end of thread 0x3a24007195e0
+juli 16 19:18:18 WARLORD google-chrome-stable[6216]: QThreadStorage: entry 1 destroyed before end of thread 0x3a24007195e0
+juli 16 19:18:19 WARLORD systemd[994]: app-com.google.Chrome-6210.scope: Consumed 2.079s CPU time over 15.236s wall clock time, 138.6M memory peak.
+juli 16 19:18:19 WARLORD systemd[994]: app-google\x2dchrome@cc3c4d1b64f6498eb6287e52816fd756.service: Consumed 11.098s CPU time over 15.942s wall clock time, 911M memory peak.
+juli 16 19:20:01 WARLORD CRON[6554]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:20:01 WARLORD CRON[6556]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:20:01 WARLORD kernel: sh (6556): drop_caches: 3
+juli 16 19:20:01 WARLORD CRON[6554]: pam_unix(cron:session): session closed for user root
+juli 16 19:25:01 WARLORD CRON[6594]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:25:01 WARLORD CRON[6596]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:25:01 WARLORD kernel: sh (6596): drop_caches: 3
+juli 16 19:25:01 WARLORD CRON[6594]: pam_unix(cron:session): session closed for user root
+juli 16 19:27:46 WARLORD systemd[994]: drkonqi-coredump-pickup.service: Service reached runtime time limit. Stopping.
+juli 16 19:27:46 WARLORD systemd[994]: drkonqi-coredump-pickup.service: Failed with result 'timeout'.
+juli 16 19:30:01 WARLORD CRON[6625]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:30:01 WARLORD CRON[6626]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:30:01 WARLORD CRON[6632]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:30:01 WARLORD CRON[6631]: (root) CMD (if [ -x /etc/init.d/anacron ] && ! [ -d /run/systemd/system ]; then exec /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+juli 16 19:30:01 WARLORD CRON[6625]: pam_unix(cron:session): session closed for user root
+juli 16 19:30:01 WARLORD kernel: sh (6632): drop_caches: 3
+juli 16 19:30:01 WARLORD CRON[6626]: pam_unix(cron:session): session closed for user root
+juli 16 19:32:07 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+juli 16 19:32:07 WARLORD dbus-daemon[693]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.84' (uid=989 pid=6643 comm="/usr/bin/fwupdmgr refresh")
+juli 16 19:32:07 WARLORD systemd[1]: Starting modprobe@sd_mod.service - Load Kernel Module sd_mod...
+juli 16 19:32:07 WARLORD systemd[1]: modprobe@sd_mod.service: Deactivated successfully.
+juli 16 19:32:07 WARLORD systemd[1]: Finished modprobe@sd_mod.service - Load Kernel Module sd_mod.
+juli 16 19:32:07 WARLORD systemd[1]: Starting fwupd.service - Firmware update daemon...
+juli 16 19:32:08 WARLORD fwupd[6652]: 17:32:08.208 FuMain               fwupd 2.1.1 ready for requests (locale nb_NO.UTF-8)
+juli 16 19:32:08 WARLORD dbus-daemon[693]: [system] Successfully activated service 'org.freedesktop.fwupd'
+juli 16 19:32:08 WARLORD systemd[1]: Started fwupd.service - Firmware update daemon.
+juli 16 19:32:08 WARLORD fwupdmgr[6643]: Updating lvfs
+juli 16 19:32:09 WARLORD fwupdmgr[6643]: Successfully downloaded new metadata:
+juli 16 19:32:09 WARLORD fwupdmgr[6643]:  • 6 devices are updatable
+juli 16 19:32:09 WARLORD fwupdmgr[6643]:  • 3 devices are supported in the enabled remotes (an update has been published)
+juli 16 19:32:09 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+juli 16 19:32:09 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+juli 16 19:32:52 WARLORD systemd[1]: Started anacron.service - Run anacron jobs.
+juli 16 19:32:52 WARLORD anacron[6679]: Anacron 2.3 started on 2026-07-16
+juli 16 19:32:52 WARLORD anacron[6679]: Normal exit (0 jobs run)
+juli 16 19:32:52 WARLORD systemd[1]: anacron.service: Deactivated successfully.
+juli 16 19:33:29 WARLORD chronyd[825]: Selected source 185.125.190.122 (1.ntp.ubuntu.com)
+juli 16 19:35:01 WARLORD CRON[6700]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:35:01 WARLORD CRON[6703]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:35:01 WARLORD kernel: sh (6703): drop_caches: 3
+juli 16 19:35:01 WARLORD CRON[6700]: pam_unix(cron:session): session closed for user root
+juli 16 19:35:36 WARLORD kwin_wayland_wrapper[1135]: qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Unable to open /proc/1135/root")
+juli 16 19:40:01 WARLORD CRON[6826]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:40:01 WARLORD CRON[6828]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:40:01 WARLORD kernel: sh (6828): drop_caches: 3
+juli 16 19:40:01 WARLORD CRON[6826]: pam_unix(cron:session): session closed for user root
+juli 16 19:45:01 WARLORD CRON[6830]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:45:01 WARLORD CRON[6833]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:45:01 WARLORD kernel: sh (6833): drop_caches: 3
+juli 16 19:45:01 WARLORD CRON[6830]: pam_unix(cron:session): session closed for user root
+juli 16 19:50:01 WARLORD CRON[6919]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:50:01 WARLORD CRON[6922]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:50:01 WARLORD kernel: sh (6922): drop_caches: 3
+juli 16 19:50:01 WARLORD CRON[6919]: pam_unix(cron:session): session closed for user root
+juli 16 19:55:01 WARLORD CRON[6956]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 19:55:01 WARLORD CRON[6958]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 19:55:01 WARLORD kernel: sh (6958): drop_caches: 3
+juli 16 19:55:01 WARLORD CRON[6956]: pam_unix(cron:session): session closed for user root
+juli 16 20:00:01 WARLORD CRON[6990]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:00:01 WARLORD CRON[6991]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:00:01 WARLORD CRON[6995]: (root) CMD (timeshift --check --scripted)
+juli 16 20:00:01 WARLORD CRON[6996]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:00:01 WARLORD kernel: sh (6996): drop_caches: 3
+juli 16 20:00:01 WARLORD CRON[6991]: pam_unix(cron:session): session closed for user root
+juli 16 20:00:02 WARLORD crontab[7022]: (root) LIST (root)
+juli 16 20:00:02 WARLORD crontab[7023]: (root) LIST (root)
+juli 16 20:00:02 WARLORD systemd[1]: run-timeshift-6995-backup.mount: Deactivated successfully.
+juli 16 20:00:02 WARLORD CRON[6990]: pam_unix(cron:session): session closed for user root
+juli 16 20:02:26 WARLORD wpa_supplicant[853]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+juli 16 20:05:01 WARLORD CRON[7080]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:05:01 WARLORD CRON[7082]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:05:01 WARLORD kernel: sh (7082): drop_caches: 3
+juli 16 20:05:01 WARLORD CRON[7080]: pam_unix(cron:session): session closed for user root
+juli 16 20:10:01 WARLORD CRON[7126]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:10:01 WARLORD CRON[7128]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:10:01 WARLORD kernel: sh (7128): drop_caches: 3
+juli 16 20:10:01 WARLORD CRON[7126]: pam_unix(cron:session): session closed for user root
+juli 16 20:15:01 WARLORD CRON[7219]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:15:01 WARLORD CRON[7222]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:15:02 WARLORD kernel: sh (7222): drop_caches: 3
+juli 16 20:15:02 WARLORD CRON[7219]: pam_unix(cron:session): session closed for user root
+juli 16 20:17:01 WARLORD CRON[7254]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:17:01 WARLORD CRON[7256]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+juli 16 20:17:01 WARLORD CRON[7254]: pam_unix(cron:session): session closed for user root
+juli 16 20:19:30 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+juli 16 20:19:30 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+juli 16 20:19:30 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+juli 16 20:20:01 WARLORD CRON[7328]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:20:01 WARLORD CRON[7330]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:20:01 WARLORD kernel: sh (7330): drop_caches: 3
+juli 16 20:20:01 WARLORD CRON[7328]: pam_unix(cron:session): session closed for user root
+juli 16 20:25:01 WARLORD CRON[7612]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:25:01 WARLORD CRON[7614]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:25:01 WARLORD kernel: sh (7614): drop_caches: 3
+juli 16 20:25:01 WARLORD CRON[7612]: pam_unix(cron:session): session closed for user root
+juli 16 20:30:01 WARLORD CRON[7794]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:30:01 WARLORD CRON[7795]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:30:01 WARLORD CRON[7800]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:30:01 WARLORD CRON[7799]: (root) CMD (if [ -x /etc/init.d/anacron ] && ! [ -d /run/systemd/system ]; then exec /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+juli 16 20:30:01 WARLORD CRON[7794]: pam_unix(cron:session): session closed for user root
+juli 16 20:30:01 WARLORD kernel: sh (7800): drop_caches: 3
+juli 16 20:30:01 WARLORD CRON[7795]: pam_unix(cron:session): session closed for user root
+juli 16 20:33:30 WARLORD systemd[1]: Started anacron.service - Run anacron jobs.
+juli 16 20:33:30 WARLORD anacron[7910]: Anacron 2.3 started on 2026-07-16
+juli 16 20:33:30 WARLORD anacron[7910]: Normal exit (0 jobs run)
+juli 16 20:33:30 WARLORD systemd[1]: anacron.service: Deactivated successfully.
+juli 16 20:35:01 WARLORD CRON[7975]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:35:01 WARLORD CRON[7977]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:35:01 WARLORD kernel: sh (7977): drop_caches: 3
+juli 16 20:35:01 WARLORD CRON[7975]: pam_unix(cron:session): session closed for user root
+juli 16 20:35:08 WARLORD bash[5655]: [2026-07-16 20:35:08.768] [MANGOHUD] [info] [logging.cpp:79] /tmp/wine_2026-07-16_19-05-23_summary.csv
+juli 16 20:35:13 WARLORD plasmashell[1301]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+juli 16 20:35:13 WARLORD systemd[994]: Started app-com.dec05eba.gpu_screen_recorder@a74d6776146240bfb8a7011472e99d71.service - GPU Screen Recorder - Screen recorder.
+juli 16 20:35:13 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Activating via systemd: service name='org.freedesktop.Flatpak' unit='flatpak-session-helper.service' requested by ':1.77' (uid=1000 pid=7998 comm="/usr/bin/flatpak run --branch=stable --arch=x86_64")
+juli 16 20:35:13 WARLORD systemd[994]: Starting flatpak-session-helper.service - flatpak session helper...
+juli 16 20:35:13 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Successfully activated service 'org.freedesktop.Flatpak'
+juli 16 20:35:13 WARLORD systemd[994]: Started flatpak-session-helper.service - flatpak session helper.
+juli 16 20:35:13 WARLORD systemd[994]: Started app-flatpak-com.dec05eba.gpu_screen_recorder-2465873612.scope.
+juli 16 20:35:14 WARLORD kded6[1263]: Registering ":1.81/StatusNotifierItem" to system tray
+juli 16 20:35:14 WARLORD kded6[1263]: Service  ":1.81" unregistered
+juli 16 20:35:14 WARLORD gpu-screen-reco[8017]: libayatana-appindicator is deprecated. Please use libayatana-appindicator-glib in newly written code.
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts: CreateSession called with parameters:
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts:     handle:  "/org/freedesktop/portal/desktop/request/1_82/gpu_screen_recorder_gtk_handle_88oxa1USukkydcEB_0"
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts:     session_handle:  "/org/freedesktop/portal/desktop/session/1_82/gpu_screen_recorder_gtk"
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts:     app_id:  "com.dec05eba.gpu_screen_recorder"
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts:     options:  QMap(("handle_token", QVariant(QString, "gpu_screen_recorder_gtk_handle_88oxa1USukkydcEB_0"))("session_handle_token", QVariant(QString, "gpu_screen_recorder_gtk")))
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts: ListShortcuts called with parameters:
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts:     handle:  "/org/freedesktop/portal/desktop/request/1_82/gpu_screen_recorder_gtk_handle_88oxa1USukkydcEB_1"
+juli 16 20:35:14 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-GlobalShortcuts:     session_handle:  "/org/freedesktop/portal/desktop/session/1_82/gpu_screen_recorder_gtk"
+juli 16 20:35:14 WARLORD kded6[1263]: Registering ":1.82/org/ayatana/NotificationItem/com_dec05eba_gpu_screen_recorder" to system tray
+juli 16 20:35:33 WARLORD flatpak[8079]: pkexec version 127
+juli 16 20:35:33 WARLORD systemd[994]: Started app-flatpak-com.dec05eba.gpu_screen_recorder-2635488350.scope.
+juli 16 20:35:33 WARLORD flatpak[8096]: /home/wils
+juli 16 20:35:35 WARLORD flatpak[8017]: info: running command: gpu-screen-recorder -w DP-1 -c mp4 -k av1_10bit -ac aac -f 60 -cursor yes -restore-portal-session yes -cr full -encoder gpu -o /home/wils/Videoklipp/Video_2026-07-16_20-35-35.mp4 -q very_high -fm cfr -a device:default_output
+juli 16 20:35:35 WARLORD flatpak[8017]: Notification: title: GPU Screen Recorder, body: Started recording
+juli 16 20:35:35 WARLORD flatpak[8097]: gsr info: gsr_kms_client_init: setting up connection to /app/bin/gsr-kms-server
+juli 16 20:35:35 WARLORD flatpak[8097]: gsr info: gsr_kms_client_init: waiting for server to connect
+juli 16 20:35:35 WARLORD flatpak[8132]: kms server info: connecting to the client
+juli 16 20:35:35 WARLORD flatpak[8097]: gsr info: gsr_kms_client_init: server connected
+juli 16 20:35:35 WARLORD flatpak[8097]: gsr info: replacing file-backed unix domain socket with socketpair
+juli 16 20:35:35 WARLORD flatpak[8132]: kms server info: connected to the client
+juli 16 20:35:35 WARLORD flatpak[8097]: gsr info: using socketpair
+juli 16 20:35:35 WARLORD flatpak[8097]: gsr warning: gsr_video_encoder_vaapi_start: black bars have been added to the video because of a bug in AMD drivers/hardware. Record with h264/hevc codec instead (-k h264) to get around this issue
+juli 16 20:35:35 WARLORD flatpak[8097]: [av1_vaapi @ 0x640b69974d80] ignoring invalid SAR: 0/0
+juli 16 20:35:36 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:37 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:38 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:40 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:41 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:42 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:43 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:44 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:45 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:46 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:47 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:48 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:49 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:50 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:52 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:53 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:55 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:57 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:35:58 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:35:59 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:00 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:01 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:04 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:05 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:06 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:07 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:08 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:09 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:10 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:11 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:12 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:13 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:14 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:16 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:17 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:19 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:20 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:21 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:22 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:23 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:24 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:25 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:26 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:27 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:28 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:29 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:30 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:32 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:34 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:35 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:36 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:37 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:40 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:41 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:42 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:44 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:45 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:46 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:47 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:48 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:49 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:50 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:51 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:52 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:53 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:54 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:55 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:57 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:36:58 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:36:59 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:00 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:01 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:03 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:04 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:05 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:06 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:07 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:08 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:11 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:12 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:13 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:14 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:16 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:18 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:21 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:22 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:23 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:24 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:26 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:27 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:28 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:29 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:30 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:32 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:34 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:35 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:36 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:37 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:39 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:40 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:41 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:42 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:44 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:45 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:46 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:47 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:48 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:49 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:50 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:52 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:53 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:55 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:37:57 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:58 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:37:59 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:00 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:01 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:02 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:04 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:05 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:06 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:07 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:08 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:09 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1135 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+juli 16 20:38:09 WARLORD systemd[994]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+juli 16 20:38:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:10 WARLORD dbus-daemon[1017]: [session uid=1000 pid=1017 pidfd=5] Successfully activated service 'org.kde.spectacle'
+juli 16 20:38:10 WARLORD systemd[994]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+juli 16 20:38:10 WARLORD spectacle[8243]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+juli 16 20:38:10 WARLORD spectacle[8243]: spectacle: Detected Tesseract version "5.5.0"
+juli 16 20:38:10 WARLORD spectacle[8243]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+juli 16 20:38:11 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:12 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:13 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:14 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:16 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:21 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:22 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:23 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:24 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:25 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:26 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:27 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:28 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:29 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:30 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:32 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:33 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:34 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:35 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:36 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:37 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:40 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:41 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:42 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:43 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:44 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:45 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:46 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:47 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:48 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:49 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:50 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:52 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:53 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:55 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:38:57 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:58 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:38:59 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:00 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:01 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:02 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:03 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:04 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:05 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:06 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:07 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:11 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:12 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:13 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:14 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:16 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:21 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:23 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:24 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:25 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:26 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:27 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:28 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:29 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:30 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:32 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:34 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:35 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:36 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:37 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:38 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:40 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:41 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:42 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:44 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:45 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:46 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:47 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:48 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:49 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:50 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:52 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:53 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:53 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:39:53 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:39:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:55 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:57 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:39:58 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:39:59 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:00 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:01 WARLORD CRON[8402]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:40:01 WARLORD CRON[8406]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:40:01 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:01 WARLORD kernel: sh (8406): drop_caches: 3
+juli 16 20:40:01 WARLORD CRON[8402]: pam_unix(cron:session): session closed for user root
+juli 16 20:40:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:04 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:05 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:06 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:07 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:11 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:12 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:13 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:14 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:15 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:16 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:21 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:22 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:23 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:24 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:25 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:26 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:27 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:28 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:29 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:30 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:32 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:34 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:40:34 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:40:34 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:35 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:36 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:37 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:40 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:41 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:42 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:44 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:45 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:46 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:47 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:48 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:49 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:50 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:51 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:52 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:53 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:55 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:56 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:57 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:40:58 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:40:59 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:00 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:01 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:04 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:06 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:07 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:09 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:11 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:12 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:13 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:14 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:16 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:17 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:20 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:21 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:22 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:23 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:24 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:25 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:26 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:27 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:28 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:29 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:30 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:31 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:32 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:33 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:34 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:35 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:36 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:37 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:39 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:40 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:41 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:42 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:43 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:44 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:45 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:46 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:47 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:48 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:49 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:50 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:52 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:53 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:55 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:41:57 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:58 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:41:59 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:00 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:01 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:04 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:05 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:06 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:07 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:11 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:12 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:13 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:14 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:16 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:21 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:22 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:23 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:24 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:25 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:26 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:27 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:28 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:29 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:30 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:31 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:32 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:34 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:35 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:36 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:37 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:40 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:41 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:42 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:44 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:45 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:46 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:47 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:48 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:49 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:50 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:51 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:52 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:53 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:55 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:56 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:57 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:42:58 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:42:59 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:00 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:01 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:03 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:04 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:06 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:07 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:10 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:11 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:12 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:13 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:14 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:15 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:16 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:20 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:21 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:22 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:23 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:24 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:25 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:26 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:27 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:28 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:29 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:30 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:31 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:32 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:34 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:35 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:36 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:37 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:40 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:41 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:42 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:43 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:44 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:45 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:46 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:47 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:48 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:49 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:50 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:52 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:53 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:54 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:55 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:56 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:43:57 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:58 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:43:59 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:00 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:01 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:03 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:44:03 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:44:04 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:05 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:06 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:07 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:11 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:12 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:13 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:14 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:15 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:16 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:17 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:21 WARLORD flatpak[8097]: update fps: 59, damage fps: 59
+juli 16 20:44:22 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:23 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:24 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:25 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:26 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:27 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:28 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:29 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:30 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:32 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:34 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:35 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:36 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:37 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:39 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:40 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:41 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:42 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:44 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:45 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:44:45 WARLORD spectacle[8243]: QQmlComponent: Cannot create a component in an invalid context
+juli 16 20:44:45 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:46 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:47 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:48 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:50 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:52 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:53 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:54 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:55 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:56 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:44:57 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:58 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:44:59 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:00 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:01 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:01 WARLORD CRON[8663]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:45:01 WARLORD CRON[8665]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:45:02 WARLORD kernel: sh (8665): drop_caches: 3
+juli 16 20:45:02 WARLORD CRON[8663]: pam_unix(cron:session): session closed for user root
+juli 16 20:45:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:04 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:05 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:06 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:07 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:11 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:12 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:13 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:14 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:16 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:18 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:19 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:21 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:22 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:23 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:24 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:25 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:26 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:27 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:28 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:29 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:30 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:32 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:34 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:35 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:36 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:37 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:38 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:39 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:40 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:41 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:42 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:44 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:45 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:46 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:47 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:48 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:49 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:50 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:51 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:52 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:53 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:54 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:55 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:45:57 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:58 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:45:59 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:00 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:01 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:04 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:05 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:06 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:07 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:09 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:10 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:11 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:12 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:13 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:14 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:16 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:17 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:18 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:19 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:20 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:21 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:22 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:23 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:24 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:25 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:26 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:27 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:28 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:29 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:30 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:31 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:32 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:33 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:34 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:35 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:36 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:37 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:38 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:39 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:40 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:41 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:42 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:43 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:44 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:45 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:47 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:48 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:49 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:50 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:51 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:52 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:53 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:54 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:46:55 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:56 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:57 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:58 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:46:59 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:00 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:01 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:02 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:03 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:04 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:05 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:06 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:07 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:08 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:09 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:10 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:11 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:12 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:13 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:14 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:15 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:16 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:17 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:18 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:19 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:20 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:21 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:22 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:23 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:24 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:25 WARLORD flatpak[8097]: update fps: 61, damage fps: 61
+juli 16 20:47:26 WARLORD flatpak[8097]: update fps: 60, damage fps: 60
+juli 16 20:47:26 WARLORD flatpak[8097]: Paused
+juli 16 20:47:27 WARLORD flatpak[8097]: update fps: 52, damage fps: 52
+juli 16 20:47:28 WARLORD flatpak[8132]: kms server info: kms client shutdown, shutting down the server
+juli 16 20:47:28 WARLORD flatpak[8017]: Notification: title: GPU Screen Recorder, body: The recording was saved to /home/wils/Videoklipp/Video_2026-07-16_20-35-35.mp4
+juli 16 20:47:32 WARLORD kded6[1263]: Service  ":1.82" unregistered
+juli 16 20:47:32 WARLORD systemd[994]: app-flatpak-com.dec05eba.gpu_screen_recorder-2465873612.scope: Consumed 1min 296ms CPU time over 12min 18.418s wall clock time, 2G memory peak.
+juli 16 20:50:01 WARLORD CRON[8789]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:50:01 WARLORD CRON[8791]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:50:01 WARLORD kernel: sh (8791): drop_caches: 3
+juli 16 20:50:01 WARLORD CRON[8789]: pam_unix(cron:session): session closed for user root
+juli 16 20:51:01 WARLORD systemd[994]: Started app-org.kde.dolphin@cdb0bdbaa1074408a72343a540cfacd2.service - Dolphin - Filbehandler.
+juli 16 20:52:14 WARLORD systemd[994]: Started app-google\x2dchrome@7e2d81eb86a8486aad333e00b1e68173.service - Google Chrome - Nettleser.
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9044:0716/205214.846575:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9044:0716/205214.846675:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9044:0716/205214.846704:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9044:0716/205214.846731:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9044:0716/205214.846763:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9044:0716/205214.846766:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9069:0716/205214.847341:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [8977:9069:0716/205214.847422:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [9053:9058:0716/205214.992913:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [9053:9058:0716/205214.992992:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 16 20:52:14 WARLORD systemd[994]: Started app-com.google.Chrome-8977.scope.
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [9053:9058:0716/205214.993265:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+juli 16 20:52:14 WARLORD google-chrome-stable[8982]: [9053:9059:0716/205214.996069:ERROR:net/disk_cache/disk_cache.cc:284] Unable to create cache
+juli 16 20:52:15 WARLORD google-chrome-stable[8982]: Created TensorFlow Lite XNNPACK delegate for CPU.
+juli 16 20:52:22 WARLORD google-chrome-stable[8982]: [8977:9011:0716/205222.432921:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 16 20:52:44 WARLORD chrome[8977]: [8977:9007:0716/205244.862272:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+juli 16 20:52:44 WARLORD google-chrome-stable[8982]: [8977:9083:0716/205244.882607:ERROR:content/browser/browser_main_loop.cc:276] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 16 20:52:44 WARLORD google-chrome-stable[8982]: [8977:9082:0716/205244.882611:ERROR:content/browser/browser_main_loop.cc:276] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 16 20:52:44 WARLORD google-chrome-stable[8982]: [8977:9084:0716/205244.882606:ERROR:content/browser/browser_main_loop.cc:276] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 16 20:52:45 WARLORD google-chrome-stable[8982]: [8977:9011:0716/205245.606533:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 16 20:53:39 WARLORD systemd[994]: Started app-org.kde.kate@5dc215beb2694d22979bc15aacce6508.service - Kate - Avansert skriveprogram.
+juli 16 20:53:40 WARLORD google-chrome-stable[8982]: [8977:9011:0716/205340.119431:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 16 20:53:41 WARLORD kwin_wayland_wrapper[1135]: kf.config.core: Watching absolute paths is not supported "/usr/share/color-schemes/Oxygen.colors"
+juli 16 20:53:53 WARLORD xdg-desktop-portal-kde[1696]: xdp-kde-settings: Namespace  "org.gnome.desktop.interface"  is not supported
+juli 16 20:53:53 WARLORD dbus-daemon[693]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.95' (uid=1000 pid=9688 comm="zenity --file-selection --filename=/home/wils/Game")
+juli 16 20:53:53 WARLORD systemd[1]: Starting systemd-hostnamed.service - Hostname Service...
+juli 16 20:53:54 WARLORD systemd[1]: Started systemd-hostnamed.service - Hostname Service.
+juli 16 20:53:54 WARLORD dbus-daemon[693]: [system] Successfully activated service 'org.freedesktop.hostname1'
+juli 16 20:53:54 WARLORD xdg-desktop-portal-kde[1696]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 20:54:12 WARLORD konsole[1867]: kf.config.core: KConfigIni: In file /usr/share/kf6/searchproviders/google_advanced.desktop, line 146: Invalid escape sequence: «\{»
+juli 16 20:54:22 WARLORD xdg-desktop-portal-kde[1696]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Danheim driven Rune-Keeper lvl148 Reforge the Future in Gundabad.mp4")
+juli 16 20:54:22 WARLORD xdg-desktop-portal-kde[1696]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Iron Maiden driven Rune-Keeper lvl149 - Gundabad - Gloomingtarn - The Amazzingly Wonderful - Den of Pughlak.mp4")
+juli 16 20:54:22 WARLORD xdg-desktop-portal-kde[1696]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Savatage-Heidenvolk driven Rune-Keeper lvl148 Breeder of Beasts in Gundabad.mp4")
+juli 16 20:54:22 WARLORD xdg-desktop-portal-kde[1696]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Turisas driven Rune-Keeper lvl148 - Cave in in Gundabad.mp4")
+juli 16 20:54:24 WARLORD systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+juli 16 20:55:01 WARLORD CRON[10009]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 20:55:01 WARLORD CRON[10011]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 20:55:02 WARLORD kernel: sh (10011): drop_caches: 3
+juli 16 20:55:02 WARLORD CRON[10009]: pam_unix(cron:session): session closed for user root
+juli 16 20:55:22 WARLORD google-chrome-stable[8982]: [8977:9011:0716/205522.392321:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 16 20:57:51 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 20:57:51 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 20:57:52 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 20:57:52 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 20:57:56 WARLORD systemd[994]: Started app-org.kde.okular@caa3ec3bacb140f789af91c8ddbfdbc2.service - Okular - Dokumentviser.
+juli 16 20:58:50 WARLORD google-chrome-stable[8982]: [8977:9011:0716/205850.372375:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 16 20:59:04 WARLORD systemd[994]: app-org.kde.okular@caa3ec3bacb140f789af91c8ddbfdbc2.service: Consumed 2.273s CPU time over 1min 8.707s wall clock time, 283.1M memory peak.
+juli 16 20:59:11 WARLORD systemd[994]: Started app-org.kde.okular@a05a6a5973de461fa4a726b62a6c8efa.service - Okular - Dokumentviser.
+juli 16 20:59:40 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 20:59:40 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 20:59:45 WARLORD okular[10550]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:01 WARLORD CRON[10637]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 21:00:01 WARLORD CRON[10636]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 21:00:01 WARLORD CRON[10640]: (root) CMD (timeshift --check --scripted)
+juli 16 21:00:01 WARLORD CRON[10641]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 21:00:01 WARLORD kernel: sh (10641): drop_caches: 3
+juli 16 21:00:01 WARLORD CRON[10637]: pam_unix(cron:session): session closed for user root
+juli 16 21:00:02 WARLORD crontab[10667]: (root) LIST (root)
+juli 16 21:00:02 WARLORD crontab[10668]: (root) LIST (root)
+juli 16 21:00:02 WARLORD systemd[1]: run-timeshift-10640-backup.mount: Deactivated successfully.
+juli 16 21:00:02 WARLORD CRON[10636]: pam_unix(cron:session): session closed for user root
+juli 16 21:00:07 WARLORD systemd[994]: app-org.kde.okular@a05a6a5973de461fa4a726b62a6c8efa.service: Consumed 2.031s CPU time over 55.262s wall clock time, 181.7M memory peak.
+juli 16 21:00:08 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:08 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:08 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:08 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:08 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:14 WARLORD dolphin[8818]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Dokumenter/Wils-Vault/Wils Fiske og lokasjonsguide for Innlandet Fylke i Norge.txt") to QUrl("file:///home/wils/Dokumenter/Wils Fiske og lokasjonsguide for Innlandet Fylke i Norge.txt") mode= 436
+juli 16 21:00:15 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:15 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:16 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:20 WARLORD systemd[994]: Started app-org.kde.kate@47a286dba08142049ca3a717c4d8d661.service - Kate - Avansert skriveprogram.
+juli 16 21:00:30 WARLORD systemd[994]: app-org.kde.kate@5dc215beb2694d22979bc15aacce6508.service: Consumed 1.052s CPU time over 6min 50.645s wall clock time, 59.3M memory peak.
+juli 16 21:00:30 WARLORD systemd[994]: app-org.kde.kate@47a286dba08142049ca3a717c4d8d661.service: Consumed 167ms CPU time over 9.994s wall clock time, 68.4M memory peak.
+juli 16 21:00:33 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:33 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:33 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:33 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:33 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:33 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:34 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:34 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:34 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:34 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:34 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:00:36 WARLORD systemd[994]: Started app-org.kde.kate@a754864467f94f7282fc09f6596ddf3a.service - Kate - Avansert skriveprogram.
+juli 16 21:00:38 WARLORD kwin_wayland_wrapper[1135]: kf.config.core: Watching absolute paths is not supported "/usr/share/color-schemes/Oxygen.colors"
+juli 16 21:00:46 WARLORD systemd[994]: Started app-org.kde.okular@9a43d0964b2849858f55488dbc04e70d.service - Okular - Dokumentviser.
+juli 16 21:00:54 WARLORD okular[10849]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.pdf") label: "PDF-dokument")
+juli 16 21:01:32 WARLORD okular[10849]: kf.kio.workers.file: copy() QUrl("file:///tmp/okular.pQPNrA") to QUrl("file:///home/wils/Dokumenter/Wils Fiske- og lokasjonsguide Innlandet Norge.txt.pdf") mode= -1
+juli 16 21:01:35 WARLORD systemd[994]: app-org.kde.okular@9a43d0964b2849858f55488dbc04e70d.service: Consumed 1.558s CPU time over 48.742s wall clock time, 171.1M memory peak.
+juli 16 21:01:38 WARLORD systemd[994]: Started app-org.kde.okular@8f6ca0f034794939955f5977a76f64e8.service - Okular - Dokumentviser.
+juli 16 21:01:41 WARLORD okular[10923]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.pdf") label: "PDF-dokument")
+juli 16 21:01:49 WARLORD okular[10923]: kf.kio.workers.file: copy() QUrl("file:///tmp/okular.lNqeUr") to QUrl("file:///home/wils/Dokumenter/Wils medisinske rehydreringsdrikk for tungt arbeide.txt.pdf") mode= -1
+juli 16 21:01:52 WARLORD systemd[994]: app-org.kde.okular@8f6ca0f034794939955f5977a76f64e8.service: Consumed 1.148s CPU time over 14.134s wall clock time, 125.7M memory peak.
+juli 16 21:01:56 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:56 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:57 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:57 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:57 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:57 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:58 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:58 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:58 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:58 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:01:58 WARLORD dolphin[8818]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:03:58 WARLORD wpa_supplicant[853]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+juli 16 21:04:15 WARLORD google-chrome-stable[8982]: [8977:9011:0716/210415.692807:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+juli 16 21:04:49 WARLORD google-chrome-stable[8982]: Fontconfig error: Cannot load default config file: File not found
+juli 16 21:05:01 WARLORD CRON[11160]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 21:05:01 WARLORD CRON[11162]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 21:05:01 WARLORD kernel: sh (11162): drop_caches: 3
+juli 16 21:05:01 WARLORD CRON[11160]: pam_unix(cron:session): session closed for user root
+juli 16 21:06:08 WARLORD systemd[994]: Started app-dolphin@885c662a7aee44f18ccc25f794e13d5b.service - Dolphin.
+juli 16 21:06:12 WARLORD systemd[994]: Started app-org.kde.kate@a703bad6f7344494942f4a53d5190888.service - Kate - Avansert skriveprogram.
+juli 16 21:08:15 WARLORD kate[10739]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:08:15 WARLORD kate[10739]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:08:32 WARLORD kate[10739]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:08:32 WARLORD kate[10739]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 16 21:10:01 WARLORD CRON[11617]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+juli 16 21:10:01 WARLORD CRON[11619]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+juli 16 21:10:01 WARLORD kernel: sh (11619): drop_caches: 3
+juli 16 21:10:01 WARLORD CRON[11617]: pam_unix(cron:session): session closed for user root
+juli 16 21:10:43 WARLORD google-chrome-stable[8982]: [8977:9026:0716/211043.093708:ERROR:content/browser/browser_main_loop.cc:276] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+juli 16 21:10:43 WARLORD google-chrome-stable[8982]: QThreadStorage: entry 2 destroyed before end of thread 0x123402934a20
+juli 16 21:10:43 WARLORD google-chrome-stable[8982]: QThreadStorage: entry 1 destroyed before end of thread 0x123402934a20
+juli 16 21:10:43 WARLORD systemd[994]: app-com.google.Chrome-8977.scope: Consumed 42.256s CPU time over 18min 28.124s wall clock time, 8.2G memory peak.
+juli 16 21:10:43 WARLORD systemd[994]: app-google\x2dchrome@7e2d81eb86a8486aad333e00b1e68173.service: Consumed 3min 27.218s CPU time over 18min 28.781s wall clock time, 1.8G memory peak.
+juli 16 21:12:14 WARLORD kded6[1263]: Service  ":1.67" unregistered
+juli 16 21:12:16 WARLORD systemd[994]: app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@d79dc9b429b8493da26370fb9da650e4.service: Consumed 1h 20min 41.209s CPU time over 2h 12min 25.071s wall clock time, 5.6G memory peak.
+juli 16 21:12:16 WARLORD systemd[994]: app-org.kde.dolphin@cdb0bdbaa1074408a72343a540cfacd2.service: Consumed 12.151s CPU time over 21min 15.361s wall clock time, 645M memory peak.
+juli 16 21:12:18 WARLORD systemd[994]: app-dolphin@885c662a7aee44f18ccc25f794e13d5b.service: Consumed 1.618s CPU time over 6min 9.709s wall clock time, 268.9M memory peak.
+juli 16 21:12:20 WARLORD spectacle[8243]: "There are still \"1\" items in the process of being created at engine destruction."
+juli 16 21:12:20 WARLORD systemd[994]: app-org.kde.spectacle.service: Consumed 7.033s CPU time over 34min 10.558s wall clock time, 451.5M memory peak.
+juli 16 21:12:22 WARLORD bluetoothd[681]: Player unregistered: sender=:1.19 path=/_1_69
+juli 16 21:12:22 WARLORD systemd[994]: app-org.kde.falkon@a80e2f1f8fda4704993f4bce2af96d4f.service: Consumed 33min 48.656s CPU time over 2h 11min 20.408s wall clock time, 3.2G memory peak.
+juli 16 21:12:26 WARLORD sudo[11765]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juli 16 21:12:26 WARLORD sudo[11765]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juli 16 21:12:26 WARLORD sudo[11765]: pam_unix(sudo:session): session closed for user root
+juli 16 21:12:26 WARLORD sudo[11769]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juli 16 21:12:26 WARLORD sudo[11769]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00

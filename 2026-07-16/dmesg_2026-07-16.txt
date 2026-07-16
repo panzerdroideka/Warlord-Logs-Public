@@ -1252,3 +1252,30 @@
 [   88.099477] systemd[1]: Starting systemd-journald.service - Journal Service...
 [   88.122157] systemd-journald[5237]: Collecting audit messages is disabled.
 [   88.124190] systemd[1]: Started systemd-journald.service - Journal Service.
+[  145.005042] sh (5606): drop_caches: 3
+[  445.310871] sh (6044): drop_caches: 3
+[  745.420710] sh (6113): drop_caches: 3
+[ 1045.509147] sh (6166): drop_caches: 3
+[ 1344.749306] sh (6556): drop_caches: 3
+[ 1644.865233] sh (6596): drop_caches: 3
+[ 1944.966668] sh (6632): drop_caches: 3
+[ 2245.060644] sh (6703): drop_caches: 3
+[ 2545.154230] sh (6828): drop_caches: 3
+[ 2845.234016] sh (6833): drop_caches: 3
+[ 3145.339681] sh (6922): drop_caches: 3
+[ 3445.432612] sh (6958): drop_caches: 3
+[ 3745.527258] sh (6996): drop_caches: 3
+[ 4045.421230] sh (7082): drop_caches: 3
+[ 4345.545849] sh (7128): drop_caches: 3
+[ 4645.645039] sh (7222): drop_caches: 3
+[ 4944.751318] sh (7330): drop_caches: 3
+[ 5244.849734] sh (7614): drop_caches: 3
+[ 5544.948103] sh (7800): drop_caches: 3
+[ 5845.060816] sh (7977): drop_caches: 3
+[ 6145.439247] sh (8406): drop_caches: 3
+[ 6445.815921] sh (8665): drop_caches: 3
+[ 6745.066055] sh (8791): drop_caches: 3
+[ 7046.300524] sh (10011): drop_caches: 3
+[ 7345.495502] sh (10641): drop_caches: 3
+[ 7645.375744] sh (11162): drop_caches: 3
+[ 7945.531961] sh (11619): drop_caches: 3
