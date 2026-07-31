@@ -6616,3 +6616,30 @@ juli 31 20:52:40 WARLORD sudo[11401]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; U
 juli 31 20:52:40 WARLORD sudo[11401]: pam_unix(sudo:session): session closed for user root
 juli 31 20:52:40 WARLORD sudo[11405]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 juli 31 20:52:40 WARLORD sudo[11405]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+juli 31 20:52:40 WARLORD sudo[11405]: pam_unix(sudo:session): session closed for user root
+juli 31 20:52:52 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:52:52 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:01 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:01 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:01 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:01 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:01 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:01 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:01 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:12 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:12 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:17 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:17 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:17 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:17 WARLORD dolphin[2366]: kf.kio.gui: PreviewJob subjob had an error: ""
+juli 31 20:53:18 WARLORD plasmashell[1311]: kf.kio.gui: PreviewJob subjob had an error: "Fila eller mappa /home/wils/Games/WARLORDLOTRO/Spillfiler/Combat_20260731_1.txt finnes ikke."
+juli 31 20:53:18 WARLORD plasmashell[1311]: kf.kio.gui: PreviewJob subjob had an error: "Fila eller mappa /home/wils/Games/WARLORDLOTRO/Spillfiler/Combat_20260731_2.txt finnes ikke."
+juli 31 20:53:18 WARLORD plasmashell[1311]: kf.kio.gui: PreviewJob subjob had an error: "Fila eller mappa /home/wils/Games/WARLORDLOTRO/Spillfiler/Combat_20260731_3.txt finnes ikke."
+juli 31 20:53:18 WARLORD plasmashell[1311]: kf.kio.gui: PreviewJob subjob had an error: "Fila eller mappa /home/wils/Games/WARLORDLOTRO/Spillfiler/Combat_20260731_4.txt finnes ikke."
+juli 31 20:53:18 WARLORD plasmashell[1311]: kf.kio.gui: PreviewJob subjob had an error: "Fila eller mappa /home/wils/Games/WARLORDLOTRO/Spillfiler/Combat_20260731_5.txt finnes ikke."
+juli 31 20:53:28 WARLORD systemd[1008]: app-org.kde.dolphin@15c30665bfb74112ae2f18370602a2c2.service: Consumed 16.555s CPU time over 1h 24min 2.010s wall clock time, 524.2M memory peak.
+juli 31 20:53:38 WARLORD sudo[11757]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juli 31 20:53:38 WARLORD sudo[11757]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+juli 31 20:53:38 WARLORD sudo[11757]: pam_unix(sudo:session): session closed for user root
+juli 31 20:53:38 WARLORD sudo[11761]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+juli 31 20:53:38 WARLORD sudo[11761]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
