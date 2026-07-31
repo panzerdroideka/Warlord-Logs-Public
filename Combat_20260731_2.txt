@@ -1,0 +1,155 @@
+### Chat Log: Combat 07/31 07:52 PM ###
+[07/31 07:52:59 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 3,454 Fire damage to Morale.
+[07/31 07:53:00 PM] Nlkosi scored a critical hit with Essence of Flame on the Urâshi Hunter for 19,942 Fire damage to Morale.
+[07/31 07:53:01 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 5,041 Fire damage to Morale.
+[07/31 07:53:01 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter for 4,730 Lightning damage to Morale.
+[07/31 07:53:02 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,226 points to Power.
+[07/31 07:53:02 PM] Sustenance applied a heal to Nlkosi restoring 14,330 points to Morale.
+[07/31 07:53:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 4,565 Fire damage to Morale.
+[07/31 07:53:03 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Hunter for 4,376 Frost damage to Morale.
+[07/31 07:53:05 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter for 7,539 Lightning damage to Morale.
+[07/31 07:53:05 PM] The Urâshi Hunter scored a hit with a weak melee attack on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:53:05 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Urâshi Hunter for 6,120 Fire damage to Morale.
+[07/31 07:53:05 PM] Your mighty blow defeated the Urâshi Hunter.
+[07/31 07:53:06 PM] Nlkosi scored a hit with Vivid Imagery on the Urâshi Hunter for 10,032 Lightning damage to Morale.
+[07/31 07:53:18 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/31 07:53:20 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Hunter for 2,967 Lightning damage to Morale.
+[07/31 07:53:20 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/31 07:53:21 PM] Nothing to dispel.
+[07/31 07:53:22 PM] Nlkosi scored a hit with Improved Final Word on the Urâshi Hunter.
+[07/31 07:53:23 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Hunter for 3,247 Lightning damage to Morale.
+[07/31 07:53:23 PM] Nlkosi scored a hit with Distracting Flame on the Urâshi Hunter.
+[07/31 07:53:24 PM] The Urâshi Hunter scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,008 Common damage to Morale.
+[07/31 07:53:24 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Hunter for 7,069 Frost damage to Morale.
+[07/31 07:53:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 5,793 Fire damage to Morale.
+[07/31 07:53:25 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter for 14,582 Fire damage to Morale.
+[07/31 07:53:26 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Hunter for 3,522 Lightning damage to Morale.
+[07/31 07:53:26 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter for 5,060 Lightning damage to Morale.
+[07/31 07:53:26 PM] Nlkosi scored a critical hit with Distracting Flame on the Urâshi Hunter for 4,140 Fire damage to Morale.
+[07/31 07:53:27 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,372 points to Power.
+[07/31 07:53:27 PM] Sustenance applied a heal to Nlkosi restoring 16,818 points to Morale.
+[07/31 07:53:27 PM] Your mighty blow defeated the Urâshi Hunter.
+[07/31 07:53:27 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter for 9,838 Fire damage to Morale.
+[07/31 07:53:29 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Spitter for 9,409 Fire damage to Morale.
+[07/31 07:53:30 PM] The Urâshi Spitter scored a hit with a weak ranged attack on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:53:30 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Spitter for 4,494 Fire damage to Morale.
+[07/31 07:53:32 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Spitter for 5,079 Fire damage to Morale.
+[07/31 07:53:32 PM] The Urâshi Spitter scored a hit with Snaring Web on Nlkosi.
+[07/31 07:53:33 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:53:33 PM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Spitter for 20,374 Lightning damage to Morale.
+[07/31 07:53:34 PM] The Urâshi Spitter scored a hit with a moderate ranged attack on Nlkosi for 6,425 Common damage to Morale.
+[07/31 07:53:34 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Spitter for 4,576 Fire damage to Morale.
+[07/31 07:53:36 PM] Your mighty blow defeated the Urâshi Spitter.
+[07/31 07:53:36 PM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Spitter for 47,846 Lightning damage to Morale.
+[07/31 07:53:39 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 5,011 Fire damage to Morale.
+[07/31 07:53:40 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter for 15,380 Fire damage to Morale.
+[07/31 07:53:41 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter for 10,497 Lightning damage to Morale.
+[07/31 07:53:42 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Hunter for 18,180 Frost damage to Morale.
+[07/31 07:53:42 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter for 5,871 Lightning damage to Morale.
+[07/31 07:53:43 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Urâshi Hunter for 4,697 Fire damage to Morale.
+[07/31 07:53:43 PM] Your mighty blow defeated the Urâshi Hunter.
+[07/31 07:53:43 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,305 points to Power.
+[07/31 07:53:43 PM] Sustenance applied a heal to Nlkosi restoring 12,965 points to Morale.
+[07/31 07:53:47 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:53:47 PM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Spitter for 35,482 Lightning damage to Morale.
+[07/31 07:53:48 PM] The Urâshi Spitter scored a hit with a moderate ranged attack on Nlkosi for 6,232 Common damage to Morale.
+[07/31 07:53:49 PM] Your mighty blow defeated the Urâshi Spitter.
+[07/31 07:53:49 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Spitter for 29,284 Lightning damage to Morale.
+[07/31 07:54:00 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Hunter for 7,437 Lightning damage to Morale.
+[07/31 07:54:02 PM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Hunter for 24,832 Lightning damage to Morale.
+[07/31 07:54:04 PM] Nlkosi scored a hit with Shocking Touch on the Urâshi Hunter for 3,534 Lightning damage to Morale.
+[07/31 07:54:05 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 3,788 Fire damage to Morale.
+[07/31 07:54:05 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter for 3,579 Lightning damage to Morale.
+[07/31 07:54:06 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,085 points to Power.
+[07/31 07:54:06 PM] Sustenance applied a heal to Nlkosi restoring 15,140 points to Morale.
+[07/31 07:54:06 PM] The Urâshi Hunter scored a hit with a moderate melee attack on Nlkosi for 6,232 Common damage to Morale.
+[07/31 07:54:07 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Urâshi Hunter for 10,039 Fire damage to Morale.
+[07/31 07:54:08 PM] Your mighty blow defeated the Urâshi Hunter.
+[07/31 07:54:08 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Urâshi Hunter for 10,629 Fire damage to Morale.
+[07/31 07:54:15 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 3,532 Fire damage to Morale.
+[07/31 07:54:16 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter for 14,551 Fire damage to Morale.
+[07/31 07:54:16 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter for 9,499 Fire damage to Morale.
+[07/31 07:54:18 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter for 9,693 Fire damage to Morale.
+[07/31 07:54:18 PM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Hunter for 7,886 Lightning damage to Morale.
+[07/31 07:54:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:54:19 PM] Your mighty blow defeated the Urâshi Hunter.
+[07/31 07:54:19 PM] Nlkosi scored a devastating hit with Shocking Words on the Urâshi Hunter for 84,688 Lightning damage to Morale.
+[07/31 07:54:21 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 5,802 Fire damage to Morale.
+[07/31 07:54:22 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Hunter for 12,709 Lightning damage to Morale.
+[07/31 07:54:23 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,362 points to Power.
+[07/31 07:54:23 PM] Sustenance applied a heal to Nlkosi restoring 12,392 points to Morale.
+[07/31 07:54:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter for 5,243 Fire damage to Morale.
+[07/31 07:54:25 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Hunter for 14,340 Lightning damage to Morale.
+[07/31 07:54:26 PM] The Urâshi Hunter scored a hit with a weak melee attack on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:54:26 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Urâshi Hunter for 3,293 Fire damage to Morale.
+[07/31 07:54:26 PM] Nlkosi scored a hit with Shocking Touch on the Urâshi Hunter for 4,340 Lightning damage to Morale.
+[07/31 07:54:28 PM] Nlkosi scored a hit with Head-butt on the Urâshi Hunter for 9,054 Common damage to Morale.
+[07/31 07:54:29 PM] The Urâshi Hunter scored a hit with a minor melee attack on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:54:29 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Urâshi Hunter for 3,229 Fire damage to Morale.
+[07/31 07:54:29 PM] Your mighty blow defeated the Urâshi Hunter.
+[07/31 07:54:34 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Spitter for 3,872 Fire damage to Morale.
+[07/31 07:54:35 PM] The Urâshi Spitter scored a hit with a weak ranged attack on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:54:35 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Spitter for 15,570 Fire damage to Morale.
+[07/31 07:54:36 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Spitter for 5,401 Fire damage to Morale.
+[07/31 07:54:36 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Spitter for 9,462 Lightning damage to Morale.
+[07/31 07:54:37 PM] The Urâshi Spitter scored a hit with a moderate ranged attack on Nlkosi for 6,425 Common damage to Morale.
+[07/31 07:54:38 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Spitter for 9,165 Frost damage to Morale.
+[07/31 07:54:38 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Urâshi Spitter for 2,923 Fire damage to Morale.
+[07/31 07:54:39 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:54:39 PM] Your mighty blow defeated the Urâshi Spitter.
+[07/31 07:54:39 PM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Spitter for 145,613 Lightning damage to Morale.
+[07/31 07:54:46 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Spitter for 8,189 Lightning damage to Morale.
+[07/31 07:54:47 PM] The Urâshi Spitter scored a hit with a minor ranged attack on Nlkosi for 5,666 Common damage to Morale.
+[07/31 07:54:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Spitter for 6,920 Lightning damage to Morale.
+[07/31 07:54:48 PM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Spitter for 9,661 Lightning damage to Morale.
+[07/31 07:54:50 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Spitter for 8,404 Lightning damage to Morale.
+[07/31 07:54:50 PM] The Urâshi Spitter scored a hit with a weak ranged attack on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:54:52 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Spitter for 6,223 Fire damage to Morale.
+[07/31 07:54:52 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Spitter for 6,474 Lightning damage to Morale.
+[07/31 07:54:52 PM] The Urâshi Spitter scored a hit with Snaring Web on Nlkosi.
+[07/31 07:54:53 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,322 points to Power.
+[07/31 07:54:53 PM] Sustenance applied a heal to Nlkosi restoring 14,986 points to Morale.
+[07/31 07:54:54 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Spitter for 4,903 Fire damage to Morale.
+[07/31 07:54:55 PM] Your mighty blow defeated the Urâshi Spitter.
+[07/31 07:54:55 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Spitter for 18,320 Fire damage to Morale.
+[07/31 07:54:58 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:54:59 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Trapper for 25,558 Lightning damage to Morale.
+[07/31 07:55:00 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Trapper for 14,929 Lightning damage to Morale.
+[07/31 07:55:01 PM] Your mighty blow defeated the Urâshi Trapper.
+[07/31 07:55:01 PM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Trapper for 75,687 Lightning damage to Morale.
+[07/31 07:55:07 PM] Nlkosi applied a benefit with Track Mines on Nlkosi.
+[07/31 07:55:14 PM] The Urâshi Trapper scored a hit with Susceptibility to poison on Nlkosi.
+[07/31 07:55:14 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Trapper for 8,138 Lightning damage to Morale.
+[07/31 07:55:15 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Trapper for 5,165 Frost damage to Morale.
+[07/31 07:55:16 PM] The Urâshi Trapper scored a critical hit with a weak melee attack on Nlkosi for 6,682 Common damage to Morale.
+[07/31 07:55:16 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Trapper for 7,115 Lightning damage to Morale.
+[07/31 07:55:17 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Trapper for 4,823 Lightning damage to Morale.
+[07/31 07:55:18 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,118 points to Power.
+[07/31 07:55:18 PM] Sustenance applied a heal to Nlkosi restoring 14,270 points to Morale.
+[07/31 07:55:18 PM] The Urâshi Trapper scored a hit with a minor melee attack on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:55:19 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Trapper for 3,621 Fire damage to Morale.
+[07/31 07:55:20 PM] Nlkosi scored a hit with Shocking Touch on the Urâshi Trapper for 3,818 Lightning damage to Morale.
+[07/31 07:55:21 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Trapper for 4,717 Fire damage to Morale.
+[07/31 07:55:22 PM] The Urâshi Trapper scored a hit with a weak melee attack on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:55:23 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Trapper for 7,616 Lightning damage to Morale.
+[07/31 07:55:24 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Urâshi Trapper for 3,214 Fire damage to Morale.
+[07/31 07:55:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Trapper for 5,890 Fire damage to Morale.
+[07/31 07:55:25 PM] The Urâshi Trapper scored a hit with a minor melee attack on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:55:25 PM] Your mighty blow defeated the Urâshi Trapper.
+[07/31 07:55:26 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Trapper for 5,060 Fire damage to Morale.
+[07/31 07:55:51 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Matron of the Fang for 11,284 Fire damage to Morale.
+[07/31 07:55:52 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/31 07:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Matron of the Fang for 3,159 Lightning damage to Morale.
+[07/31 07:55:53 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/31 07:55:53 PM] The Matron of the Fang scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,375 Common damage to Morale.
+[07/31 07:55:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Matron of the Fang for 11,284 Fire damage to Morale.
+[07/31 07:55:54 PM] Nlkosi scored a hit with Essence of Storm on the Matron of the Fang for 10,628 Lightning damage to Morale.
+[07/31 07:55:55 PM] The Matron of the Fang scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 709 Common damage to Morale.
+[07/31 07:55:55 PM] Nlkosi scored a hit with Epic Conclusion on the Matron of the Fang for 35,979 Lightning damage to Morale.
+[07/31 07:55:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Matron of the Fang for 11,284 Fire damage to Morale.
+[07/31 07:55:55 PM] Nlkosi scored a hit with Fulgurite Strike on the Matron of the Fang for 3,045 Lightning damage to Morale.
+[07/31 07:55:57 PM] The Matron of the Fang tried to use Induce Rooted on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+[07/31 07:55:57 PM] The Matron of the Fang scored a hit with Snaring Web on the Charged Fulgurite Rune-stone.
+[07/31 07:55:57 PM] Nlkosi scored a hit with Static Surge on the Matron of the Fang for 15,821 Lightning damage to Morale.
+[07/31 07:55:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Matron of the Fang for 11,284 Fire damage to Morale.
+[07/31 07:55:57 PM] The Volcanic Rune-stone defeated the Matron of the Fang.

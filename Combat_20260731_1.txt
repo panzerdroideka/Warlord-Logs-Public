@@ -1,0 +1,196 @@
+### Chat Log: Combat 07/31 07:42 PM ###
+[07/31 07:43:06 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:43:06 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 4,164 Fire damage to Morale.
+[07/31 07:43:06 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Hunter Wasp for 9,334 Lightning damage to Morale.
+[07/31 07:43:07 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,122 points to Power.
+[07/31 07:43:07 PM] Sustenance applied a heal to Nlkosi restoring 11,071 points to Morale.
+[07/31 07:43:08 PM] The Urâshi Hunter Wasp scored a hit with a minor melee attack on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:43:08 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter Wasp for 12,334 Fire damage to Morale.
+[07/31 07:43:09 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Urâshi Hunter Wasp for 13,632 Frost damage to Morale.
+[07/31 07:43:10 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Hunter Wasp for 10,569 Lightning damage to Morale.
+[07/31 07:43:10 PM] The Urâshi Hunter Wasp tried to use Melee Min Bleed on Nlkosi but he evaded the attempt.
+[07/31 07:43:11 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:43:11 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Hunter Wasp for 9,558 Lightning damage to Morale.
+[07/31 07:43:13 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,626 Fire damage to Morale.
+[07/31 07:43:14 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,915 Fire damage to Morale.
+[07/31 07:43:16 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Urâshi Hunter Wasp for 15,789 Fire damage to Morale.
+[07/31 07:43:16 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:16 PM] The Urâshi Hunter Wasp scored a hit with Melee Med Bleed on Nlkosi.
+[07/31 07:43:17 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:43:17 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Hunter Wasp for 29,894 Lightning damage to Morale.
+[07/31 07:43:19 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:21 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter Wasp for 9,804 Fire damage to Morale.
+[07/31 07:43:22 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter Wasp for 14,077 Fire damage to Morale.
+[07/31 07:43:22 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:43:22 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 4,774 Fire damage to Morale.
+[07/31 07:43:22 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter Wasp for 4,661 Lightning damage to Morale.
+[07/31 07:43:23 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,232 points to Power.
+[07/31 07:43:23 PM] Sustenance applied a heal to Nlkosi restoring 13,163 points to Morale.
+[07/31 07:43:23 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,505 Common damage to Morale.
+[07/31 07:43:24 PM] The Urâshi Hunter Wasp scored a hit with Melee Min Bleed on Nlkosi.
+[07/31 07:43:24 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:43:24 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:43:24 PM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Hunter Wasp for 87,229 Lightning damage to Morale.
+[07/31 07:43:25 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:26 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,263 Fire damage to Morale.
+[07/31 07:43:26 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,399 Common damage to Morale.
+[07/31 07:43:27 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Hunter Wasp for 5,341 Frost damage to Morale.
+[07/31 07:43:28 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,399 Common damage to Morale.
+[07/31 07:43:28 PM] The Urâshi Hunter Wasp scored a hit with Melee Min Bleed on Nlkosi.
+[07/31 07:43:28 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:28 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter Wasp for 10,454 Lightning damage to Morale.
+[07/31 07:43:29 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Urâshi Hunter Wasp for 2,495 Fire damage to Morale.
+[07/31 07:43:29 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:43:29 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,399 Common damage to Morale.
+[07/31 07:43:29 PM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Hunter Wasp for 42,261 Lightning damage to Morale.
+[07/31 07:43:31 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,399 Common damage to Morale.
+[07/31 07:43:31 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:33 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,399 Common damage to Morale.
+[07/31 07:43:34 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,505 Common damage to Morale.
+[07/31 07:43:36 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,505 Common damage to Morale.
+[07/31 07:43:37 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,505 Common damage to Morale.
+[07/31 07:43:37 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter Wasp for 10,931 Fire damage to Morale.
+[07/31 07:43:38 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,075 Fire damage to Morale.
+[07/31 07:43:39 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,505 Common damage to Morale.
+[07/31 07:43:39 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter Wasp for 4,013 Lightning damage to Morale.
+[07/31 07:43:40 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,181 points to Power.
+[07/31 07:43:40 PM] Sustenance applied a heal to Nlkosi restoring 15,636 points to Morale.
+[07/31 07:43:40 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,505 Common damage to Morale.
+[07/31 07:43:41 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Urâshi Hunter Wasp for 2,770 Fire damage to Morale.
+[07/31 07:43:41 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter Wasp for 7,139 Lightning damage to Morale.
+[07/31 07:43:41 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:43:41 PM] The Urâshi Hunter Wasp scored a hit with Melee Med Bleed on Nlkosi.
+[07/31 07:43:41 PM] Nothing to dispel.
+[07/31 07:43:41 PM] Nlkosi scored a hit with Improved Final Word on the Urâshi Hunter Wasp.
+[07/31 07:43:43 PM] Nlkosi scored a hit with Shocking Touch on the Urâshi Hunter Wasp for 4,638 Lightning damage to Morale.
+[07/31 07:43:43 PM] The Urâshi Hunter Wasp scored a hit with Light Wound on Nlkosi for 3,505 Common damage to Morale.
+[07/31 07:43:44 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Urâshi Hunter Wasp for 4,692 Fire damage to Morale.
+[07/31 07:43:44 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:43:45 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Hunter Wasp for 10,863 Lightning damage to Morale.
+[07/31 07:43:45 PM] The Urâshi Hunter Wasp scored a critical hit with a minor melee attack on Nlkosi for 8,352 Common damage to Morale.
+[07/31 07:43:46 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:43:46 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Hunter Wasp for 5,784 Frost damage to Morale.
+[07/31 07:43:47 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:48 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter Wasp for 9,223 Fire damage to Morale.
+[07/31 07:43:50 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:50 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,950 Fire damage to Morale.
+[07/31 07:43:51 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter Wasp for 16,809 Fire damage to Morale.
+[07/31 07:43:52 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter Wasp for 10,271 Lightning damage to Morale.
+[07/31 07:43:52 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 7,035 Fire damage to Morale.
+[07/31 07:43:53 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,533 Common damage to Morale.
+[07/31 07:43:53 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:43:53 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Hunter Wasp for 31,755 Lightning damage to Morale.
+[07/31 07:43:56 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:43:57 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter Wasp for 9,513 Fire damage to Morale.
+[07/31 07:43:57 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:43:57 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Hunter Wasp for 10,223 Lightning damage to Morale.
+[07/31 07:43:58 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,112 points to Power.
+[07/31 07:43:58 PM] Sustenance applied a critical heal to Nlkosi restoring 19,417 points to Morale.
+[07/31 07:43:59 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,415 Fire damage to Morale.
+[07/31 07:44:00 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter Wasp for 8,300 Lightning damage to Morale.
+[07/31 07:44:00 PM] The Urâshi Hunter Wasp scored a hit with a moderate melee attack on Nlkosi for 6,425 Common damage to Morale.
+[07/31 07:44:01 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Hunter Wasp for 10,953 Lightning damage to Morale.
+[07/31 07:44:01 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Urâshi Hunter Wasp for 6,645 Fire damage to Morale.
+[07/31 07:44:02 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:44:02 PM] Nlkosi scored a hit with Vivid Imagery on the Urâshi Hunter Wasp for 11,517 Lightning damage to Morale.
+[07/31 07:44:07 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 4,897 Fire damage to Morale.
+[07/31 07:44:08 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter Wasp for 18,678 Fire damage to Morale.
+[07/31 07:44:09 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Hunter Wasp for 12,212 Frost damage to Morale.
+[07/31 07:44:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:44:09 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:44:10 PM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Hunter Wasp for 131,623 Lightning damage to Morale.
+[07/31 07:44:15 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter Wasp for 8,039 Lightning damage to Morale.
+[07/31 07:44:16 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter Wasp for 4,607 Lightning damage to Morale.
+[07/31 07:44:16 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,187 points to Power.
+[07/31 07:44:16 PM] Sustenance applied a heal to Nlkosi restoring 14,385 points to Morale.
+[07/31 07:44:17 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter Wasp for 9,956 Fire damage to Morale.
+[07/31 07:44:19 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,972 Fire damage to Morale.
+[07/31 07:44:20 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Hunter Wasp for 22,969 Lightning damage to Morale.
+[07/31 07:44:21 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:44:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Hunter Wasp for 7,329 Lightning damage to Morale.
+[07/31 07:44:27 PM] Nothing to dispel.
+[07/31 07:44:27 PM] Nlkosi scored a hit with Improved Final Word on the Urâshi Hunter Wasp.
+[07/31 07:44:29 PM] Nlkosi scored a hit with Distracting Flame on the Urâshi Hunter Wasp.
+[07/31 07:44:29 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:29 PM] The Urâshi Hunter Wasp scored a hit with Melee Max Bleed on Nlkosi.
+[07/31 07:44:30 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 4,225 Fire damage to Morale.
+[07/31 07:44:31 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:31 PM] The Urâshi Hunter Wasp scored a hit with a weak melee attack on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:44:31 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter Wasp for 10,032 Fire damage to Morale.
+[07/31 07:44:32 PM] Nlkosi scored a critical hit with Distracting Flame on the Urâshi Hunter Wasp for 5,482 Fire damage to Morale.
+[07/31 07:44:32 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Hunter Wasp for 5,751 Lightning damage to Morale.
+[07/31 07:44:33 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,224 points to Power.
+[07/31 07:44:33 PM] Sustenance applied a heal to Nlkosi restoring 12,384 points to Morale.
+[07/31 07:44:33 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:33 PM] The Urâshi Hunter Wasp scored a hit with Melee Min Bleed on Nlkosi.
+[07/31 07:44:34 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Hunter Wasp for 9,445 Lightning damage to Morale.
+[07/31 07:44:34 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Urâshi Hunter Wasp for 3,549 Fire damage to Morale.
+[07/31 07:44:35 PM] Nlkosi scored a hit with Distracting Flame on the Urâshi Hunter Wasp for 3,223 Fire damage to Morale.
+[07/31 07:44:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 4,932 Fire damage to Morale.
+[07/31 07:44:35 PM] The Urâshi Hunter Wasp scored a hit with a moderate melee attack on Nlkosi for 6,425 Common damage to Morale.
+[07/31 07:44:35 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:37 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:44:37 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter Wasp for 10,263 Fire damage to Morale.
+[07/31 07:44:37 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:40 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:40 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Hunter Wasp for 9,472 Fire damage to Morale.
+[07/31 07:44:42 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:42 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Hunter Wasp for 14,550 Fire damage to Morale.
+[07/31 07:44:42 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:44:43 PM] The Urâshi Hunter Wasp scored a hit with Melee Med Bleed on Nlkosi.
+[07/31 07:44:43 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Hunter Wasp for 27,583 Lightning damage to Morale.
+[07/31 07:44:44 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:44 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:44:44 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 5,190 Fire damage to Morale.
+[07/31 07:44:45 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:44:46 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:48 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:48 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 3,886 Fire damage to Morale.
+[07/31 07:44:48 PM] Master of Tragedy applied a heal to Nlkosi restoring 202 points to Power.
+[07/31 07:44:48 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:44:48 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Hunter Wasp for 9,334 Lightning damage to Morale.
+[07/31 07:44:49 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,182 points to Power.
+[07/31 07:44:49 PM] Sustenance applied a heal to Nlkosi restoring 15,453 points to Morale.
+[07/31 07:44:50 PM] The Urâshi Hunter Wasp scored a hit with Deep Wound on Nlkosi for 5,841 Common damage to Morale.
+[07/31 07:44:50 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Hunter Wasp for 4,194 Fire damage to Morale.
+[07/31 07:44:51 PM] The Urâshi Hunter Wasp scored a partially evaded hit with a minor melee attack on Nlkosi for 5,479 Common damage to Morale.
+[07/31 07:44:51 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Hunter Wasp for 12,809 Lightning damage to Morale.
+[07/31 07:44:51 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:44:52 PM] Your mighty blow defeated the Urâshi Hunter Wasp.
+[07/31 07:44:52 PM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Hunter Wasp for 86,071 Lightning damage to Morale.
+[07/31 07:44:54 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:44:58 PM] The Urâshi Hunter Wasp scored a hit with Serious Wound on Nlkosi for 4,673 Common damage to Morale.
+[07/31 07:45:08 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/31 07:45:09 PM] Nlkosi scored a hit with Fulgurite Strike on the Hive-matron for 3,144 Lightning damage to Morale.
+[07/31 07:45:09 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/31 07:45:09 PM] The Hive-matron tried to use Melee Min Bleed on the Volcanic Rune-stone but it evaded the attempt.
+[07/31 07:45:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Hive-matron for 11,284 Fire damage to Morale.
+[07/31 07:45:10 PM] Nothing to dispel.
+[07/31 07:45:11 PM] Nlkosi scored a hit with Improved Final Word on the Hive-matron.
+[07/31 07:45:11 PM] The Hive-matron tried to use a weak melee attack on the Volcanic Rune-stone but it parried the attempt.
+[07/31 07:45:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Hive-matron for 11,284 Fire damage to Morale.
+[07/31 07:45:12 PM] Nlkosi scored a hit with Fulgurite Strike on the Hive-matron for 3,118 Lightning damage to Morale.
+[07/31 07:45:12 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[07/31 07:45:13 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[07/31 07:45:13 PM] The Hive-matron scored a critical hit with a mighty melee attack on the Volcanic Rune-stone for 3,893 Common damage to Morale.
+[07/31 07:45:13 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 3,371 points to Morale.
+[07/31 07:45:13 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Hive-matron for 11,284 Fire damage to Morale.
+[07/31 07:45:14 PM] Nlkosi applied a benefit with Prelude to Hope on the Volcanic Rune-stone.
+[07/31 07:45:14 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,076 points to Morale.
+[07/31 07:45:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Hive-matron for 3,058 Lightning damage to Morale.
+[07/31 07:45:15 PM] The Hive-matron scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,827 Common damage to Morale.
+[07/31 07:45:15 PM] Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,395 points to Morale.
+[07/31 07:45:15 PM] Nlkosi scored a critical hit with Distracting Flame on the Hive-matron.
+[07/31 07:45:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Hive-matron for 11,547 Fire damage to Morale.
+[07/31 07:45:16 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Hive-matron for 31,778 Lightning damage to Morale.
+[07/31 07:45:16 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,101 points to Morale.
+[07/31 07:45:17 PM] Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,712 points to Morale.
+[07/31 07:45:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Hive-matron for 11,547 Fire damage to Morale.
+[07/31 07:45:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Hive-matron for 3,033 Lightning damage to Morale.
+[07/31 07:45:18 PM] Nlkosi scored a hit with Distracting Flame on the Hive-matron for 2,172 Fire damage to Morale.
+[07/31 07:45:18 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,126 points to Morale.
+[07/31 07:45:19 PM] Nlkosi scored a hit with Ceaseless Argument on the Hive-matron for 6,356 Lightning damage to Morale.
+[07/31 07:45:19 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 957 points to Morale.
+[07/31 07:45:20 PM] Your mighty blow defeated the Hive-matron.
+[07/31 07:45:20 PM] Nlkosi scored a hit with Essence of Storm on the Hive-matron for 7,612 Lightning damage to Morale.
+[07/31 07:45:31 PM] You have lost 32,170 points of temporary Morale!
