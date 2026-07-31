@@ -1246,3 +1246,19 @@
 [   73.496945] systemd-journald[3859]: Collecting audit messages is disabled.
 [   73.499007] systemd[1]: Started systemd-journald.service - Journal Service.
 [   90.921959] sh (4011): drop_caches: 3
+[  390.446454] sh (5038): drop_caches: 3
+[  689.650125] sh (5183): drop_caches: 3
+[  990.052030] sh (5456): drop_caches: 3
+[ 1290.775769] sh (6727): drop_caches: 3
+[ 1590.197107] sh (7158): drop_caches: 3
+[ 1890.682275] sh (7916): drop_caches: 3
+[ 2190.567026] sh (8156): drop_caches: 3
+[ 2489.812299] sh (8417): drop_caches: 3
+[ 2790.182409] sh (9084): drop_caches: 3
+[ 3090.479289] sh (9260): drop_caches: 3
+[ 3389.804883] sh (9742): drop_caches: 3
+[ 3690.613620] sh (10350): drop_caches: 3
+[ 3990.335081] sh (11124): drop_caches: 3
+[ 4290.465413] sh (11206): drop_caches: 3
+[ 4589.594213] sh (11273): drop_caches: 3
+[ 4889.725056] sh (11339): drop_caches: 3
