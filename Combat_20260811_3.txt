@@ -1,0 +1,486 @@
+### Chat Log: Combat 08/11 09:19 AM ###
+[08/11 09:20:33 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:20:33 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sapper for 13,471 Fire damage to Morale.
+[08/11 09:20:33 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 09:20:33 AM] The Goblin Watch-keep scored a hit with a moderate melee attack on the Volcanic Rune-stone for 2,022 Common damage to Morale.
+[08/11 09:20:34 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,817 Lightning damage to Morale.
+[08/11 09:20:34 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,756 Lightning damage to Morale.
+[08/11 09:20:34 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 09:20:35 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:20:35 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sapper for 13,471 Fire damage to Morale.
+[08/11 09:20:35 AM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Sapper for 5,556 Fire damage to Morale.
+[08/11 09:20:35 AM] The Goblin Sapper scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,103 Common damage to Morale.
+[08/11 09:20:36 AM] Nlkosi scored a hit with Essence of Flame on the Goblin Sapper for 16,377 Fire damage to Morale.
+[08/11 09:20:36 AM] Nlkosi scored a hit with Essence of Flame on the Goblin Watch-keep for 18,334 Fire damage to Morale.
+[08/11 09:20:37 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,936 Lightning damage to Morale.
+[08/11 09:20:37 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,730 Lightning damage to Morale.
+[08/11 09:20:37 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,785 Fire damage to Morale.
+[08/11 09:20:37 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sapper for 13,785 Fire damage to Morale.
+[08/11 09:20:37 AM] The Volcanic Rune-stone defeated the Goblin Sapper.
+[08/11 09:20:37 AM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Sapper for 12,075 Frost damage to Morale.
+[08/11 09:20:39 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,785 Fire damage to Morale.
+[08/11 09:20:39 AM] The Volcanic Rune-stone defeated the Goblin Watch-keep.
+[08/11 09:20:39 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Goblin Watch-keep for 12,934 Fire damage to Morale.
+[08/11 09:20:44 AM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Watch-keep for 5,232 Fire damage to Morale.
+[08/11 09:20:44 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:20:45 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Goblin Watch-keep for 16,755 Lightning damage to Morale.
+[08/11 09:20:46 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,779 points to Power.
+[08/11 09:20:46 AM] Sustenance applied a heal to Nlkosi restoring 19,875 points to Morale.
+[08/11 09:20:47 AM] Nlkosi scored a hit with Epic Conclusion on the Goblin Watch-keep for 45,489 Lightning damage to Morale.
+[08/11 09:20:47 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Goblin Watch-keep for 3,794 Fire damage to Morale.
+[08/11 09:20:48 AM] The Goblin Raider scored a critical hit with a mighty thrown attack on Nlkosi for 21,087 Common damage to Morale.
+[08/11 09:20:50 AM] The Goblin Raider scored a hit with a moderate thrown attack on Nlkosi for 9,012 Common damage to Morale.
+[08/11 09:20:50 AM] Your mighty blow defeated the Goblin Watch-keep.
+[08/11 09:20:50 AM] Nlkosi scored a critical hit with Shocking Words on the Goblin Watch-keep for 94,385 Lightning damage to Morale.
+[08/11 09:20:52 AM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Raider for 14,855 Lightning damage to Morale.
+[08/11 09:20:53 AM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Raider for 6,633 Fire damage to Morale.
+[08/11 09:20:53 AM] The Goblin Raider scored a hit with a weak melee attack on Nlkosi for 4,642 Common damage to Morale.
+[08/11 09:20:53 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Raider for 15,721 Lightning damage to Morale.
+[08/11 09:20:55 AM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Raider for 7,425 Fire damage to Morale.
+[08/11 09:20:55 AM] The Goblin Raider scored a partially evaded hit with a moderate melee attack on Nlkosi for 5,836 Common damage to Morale.
+[08/11 09:20:57 AM] The Goblin Raider scored a critical hit with a weak melee attack on Nlkosi for 6,639 Common damage to Morale.
+[08/11 09:20:57 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Goblin Raider for 4,660 Fire damage to Morale.
+[08/11 09:20:58 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:20:58 AM] Your mighty blow defeated the Goblin Raider.
+[08/11 09:20:58 AM] Nlkosi scored a critical hit with Static Surge on the Goblin Raider for 63,345 Lightning damage to Morale.
+[08/11 09:21:24 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Goblin Watch-keep for 9,691 Fire damage to Morale.
+[08/11 09:21:25 AM] Nlkosi scored a hit with Essence of Flame on the Goblin Watch-keep for 13,676 Fire damage to Morale.
+[08/11 09:21:25 AM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Watch-keep for 5,612 Lightning damage to Morale.
+[08/11 09:21:26 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,608 points to Power.
+[08/11 09:21:26 AM] Sustenance applied a critical heal to Nlkosi restoring 24,997 points to Morale.
+[08/11 09:21:28 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Goblin Watch-keep for 3,546 Fire damage to Morale.
+[08/11 09:21:28 AM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 6,554 Common damage to Morale.
+[08/11 09:21:29 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:21:29 AM] Your mighty blow defeated the Goblin Watch-keep.
+[08/11 09:21:29 AM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Watch-keep for 50,284 Lightning damage to Morale.
+[08/11 09:21:56 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:21:56 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:21:56 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 09:21:56 AM] The Goblin Raider tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/11 09:21:56 AM] The Goblin Raider scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,041 Common damage to Morale.
+[08/11 09:21:57 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,770 Lightning damage to Morale.
+[08/11 09:21:57 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,678 Lightning damage to Morale.
+[08/11 09:21:57 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 09:21:58 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:21:58 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:21:58 AM] Your mighty blow defeated the Goblin Raider.
+[08/11 09:21:58 AM] Nlkosi scored a hit with Epic Conclusion on the Goblin Raider for 46,941 Lightning damage to Morale.
+[08/11 09:22:00 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:22:00 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,906 Lightning damage to Morale.
+[08/11 09:22:00 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,853 Lightning damage to Morale.
+[08/11 09:22:01 AM] The Goblin Raider scored a partially parried hit with a weak melee attack on the Volcanic Rune-stone for 672 Common damage to Morale.
+[08/11 09:22:01 AM] Nothing to dispel.
+[08/11 09:22:02 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:22:02 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:22:02 AM] The Goblin Watch-keep scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,470 Common damage to Morale.
+[08/11 09:22:02 AM] Nlkosi scored a critical hit with Improved Final Word on the Goblin Raider.
+[08/11 09:22:03 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,663 Lightning damage to Morale.
+[08/11 09:22:03 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Raider but he was immune to the attempt.
+[08/11 09:22:03 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,880 Lightning damage to Morale.
+[08/11 09:22:04 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Raider.
+[08/11 09:22:04 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:22:04 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,785 Fire damage to Morale.
+[08/11 09:22:04 AM] The Volcanic Rune-stone defeated the Goblin Raider.
+[08/11 09:22:04 AM] The Goblin Watch-keep scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 1,304 Common damage to Morale.
+[08/11 09:22:04 AM] Nlkosi scored a hit with Shocking Words on the Goblin Raider for 25,415 Lightning damage to Morale.
+[08/11 09:22:05 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:22:06 AM] Nlkosi scored a critical hit with Writ of Lightning on the Goblin Watch-keep for 24,987 Lightning damage to Morale.
+[08/11 09:22:06 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,680 Fire damage to Morale.
+[08/11 09:22:06 AM] The Goblin Watch-keep scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,838 Common damage to Morale.
+[08/11 09:22:06 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,735 Lightning damage to Morale.
+[08/11 09:22:06 AM] The Charged Fulgurite Rune-stone defeated the Goblin Watch-keep.
+[08/11 09:22:06 AM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Watch-keep for 5,975 Lightning damage to Morale.
+[08/11 09:22:07 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,599 points to Power.
+[08/11 09:22:07 AM] Sustenance applied a heal to Nlkosi restoring 21,497 points to Morale.
+[08/11 09:22:14 AM] Nlkosi scored a critical hit with Essence of Flame on the Goblin Watch-keep for 24,780 Fire damage to Morale.
+[08/11 09:22:15 AM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Watch-keep for 6,341 Frost damage to Morale.
+[08/11 09:22:16 AM] Nlkosi scored a hit with Writ of Lightning on the Goblin Watch-keep for 10,773 Lightning damage to Morale.
+[08/11 09:22:17 AM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Watch-keep for 13,413 Lightning damage to Morale.
+[08/11 09:22:18 AM] The Goblin Watch-keep scored a critical hit with a weak melee attack on Nlkosi for 9,372 Common damage to Morale.
+[08/11 09:22:18 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Watch-keep for 17,952 Lightning damage to Morale.
+[08/11 09:22:20 AM] Your mighty blow defeated the Goblin Watch-keep.
+[08/11 09:22:20 AM] Nlkosi scored a hit with Scribe's Spark on the Goblin Watch-keep for 13,395 Lightning damage to Morale.
+[08/11 09:22:22 AM] The Goblin Prowler scored a hit with a weak melee attack on Nlkosi for 5,298 Common damage to Morale.
+[08/11 09:22:22 AM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Prowler for 11,234 Lightning damage to Morale.
+[08/11 09:22:24 AM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 14,304 Common damage to Morale.
+[08/11 09:22:24 AM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Prowler for 14,913 Lightning damage to Morale.
+[08/11 09:22:24 AM] Nothing to dispel.
+[08/11 09:22:24 AM] Nlkosi scored a hit with Improved Final Word on the Goblin Prowler.
+[08/11 09:22:25 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:22:25 AM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 5,134 Common damage to Morale.
+[08/11 09:22:25 AM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Prowler for 41,279 Lightning damage to Morale.
+[08/11 09:22:26 AM] The Goblin Prowler scored a hit with Melee Med Bleed on Nlkosi.
+[08/11 09:22:26 AM] Your mighty blow defeated the Goblin Prowler.
+[08/11 09:22:27 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Goblin Prowler for 40,326 Lightning damage to Morale.
+[08/11 09:22:27 AM] The Goblin Raider scored a hit with a moderate melee attack on Nlkosi for 6,000 Common damage to Morale.
+[08/11 09:22:28 AM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 5,134 Common damage to Morale.
+[08/11 09:22:29 AM] The Goblin Raider scored a hit with a weak melee attack on Nlkosi for 4,364 Common damage to Morale.
+[08/11 09:22:29 AM] Nlkosi scored a hit with Static Surge on the Goblin Raider for 27,118 Lightning damage to Morale.
+[08/11 09:22:31 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Raider for 16,578 Lightning damage to Morale.
+[08/11 09:22:31 AM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 4,970 Common damage to Morale.
+[08/11 09:22:32 AM] Your mighty blow defeated the Goblin Raider.
+[08/11 09:22:32 AM] Nlkosi scored a hit with Shocking Words on the Goblin Raider for 42,158 Lightning damage to Morale.
+[08/11 09:22:34 AM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 4,970 Common damage to Morale.
+[08/11 09:22:37 AM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 4,970 Common damage to Morale.
+[08/11 09:22:40 AM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 5,462 Common damage to Morale.
+[08/11 09:22:41 AM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/11 09:22:44 AM] Self-motivation applied a heal to Nlkosi restoring 2,678 points to Power.
+[08/11 09:22:45 AM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/11 09:22:51 AM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 7,373 Common damage to Morale.
+[08/11 09:22:53 AM] The Goblin Raider scored a hit with a minor melee attack on Nlkosi for 5,803 Common damage to Morale.
+[08/11 09:22:53 AM] Nlkosi scored a hit with Shocking Touch on the Goblin Raider for 4,220 Lightning damage to Morale.
+[08/11 09:22:54 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:22:54 AM] Nothing to dispel.
+[08/11 09:22:55 AM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Raider for 52,496 Lightning damage to Morale.
+[08/11 09:22:55 AM] Nlkosi scored a hit with Improved Final Word on the Goblin Raider.
+[08/11 09:22:55 AM] Your mighty blow defeated the Goblin Raider.
+[08/11 09:22:55 AM] Nlkosi scored a hit with Static Surge on the Goblin Raider for 31,980 Lightning damage to Morale.
+[08/11 09:23:19 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 13,471 Fire damage to Morale.
+[08/11 09:23:19 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:19 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 09:23:20 AM] The Goblin Berserk scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,838 Common damage to Morale.
+[08/11 09:23:21 AM] The Goblin Sticker scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,302 Common damage to Morale.
+[08/11 09:23:21 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,897 Lightning damage to Morale.
+[08/11 09:23:21 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 3,562 Lightning damage to Morale.
+[08/11 09:23:21 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,671 Lightning damage to Morale.
+[08/11 09:23:21 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 09:23:21 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:21 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 13,471 Fire damage to Morale.
+[08/11 09:23:21 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:23 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Berserk for 14,847 Lightning damage to Morale.
+[08/11 09:23:23 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:23 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 13,471 Fire damage to Morale.
+[08/11 09:23:23 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:24 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,649 Lightning damage to Morale.
+[08/11 09:23:24 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 3,816 Lightning damage to Morale.
+[08/11 09:23:24 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,652 Lightning damage to Morale.
+[08/11 09:23:24 AM] Nlkosi scored a hit with Shocking Words on the Goblin Berserk for 28,890 Lightning damage to Morale.
+[08/11 09:23:25 AM] The Goblin Berserk tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/11 09:23:25 AM] The Goblin Berserk scored a hit with a mighty melee attack on the Volcanic Rune-stone for 4,135 Common damage to Morale.
+[08/11 09:23:25 AM] The Goblin Sticker scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,432 Common damage to Morale.
+[08/11 09:23:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 13,471 Fire damage to Morale.
+[08/11 09:23:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:26 AM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Berserk for 8,842 Lightning damage to Morale.
+[08/11 09:23:26 AM] Nothing to dispel.
+[08/11 09:23:26 AM] Nlkosi scored a hit with Epic Conclusion on the Goblin Berserk for 31,128 Lightning damage to Morale.
+[08/11 09:23:26 AM] Nlkosi scored a critical hit with Improved Final Word on the Goblin Berserk.
+[08/11 09:23:27 AM] The Goblin Berserk tried to use a mighty melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/11 09:23:27 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,677 Lightning damage to Morale.
+[08/11 09:23:27 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Sticker but he was immune to the attempt.
+[08/11 09:23:27 AM] The Goblin Berserk scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,838 Common damage to Morale.
+[08/11 09:23:27 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 3,888 Lightning damage to Morale.
+[08/11 09:23:27 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,892 Lightning damage to Morale.
+[08/11 09:23:27 AM] The Goblin Sticker scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,302 Common damage to Morale.
+[08/11 09:23:27 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:27 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 13,471 Fire damage to Morale.
+[08/11 09:23:27 AM] The Volcanic Rune-stone defeated the Goblin Sticker.
+[08/11 09:23:27 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:28 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk.
+[08/11 09:23:29 AM] The Goblin Berserk scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,527 Common damage to Morale.
+[08/11 09:23:29 AM] The Goblin Berserk scored a hit with a minor melee attack on Nlkosi for 9,933 Common damage to Morale.
+[08/11 09:23:29 AM] Nlkosi scored a hit with Vivid Imagery on the Goblin Berserk for 10,456 Lightning damage to Morale.
+[08/11 09:23:29 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:23:29 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 14,474 Fire damage to Morale.
+[08/11 09:23:30 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,793 Lightning damage to Morale.
+[08/11 09:23:30 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,957 Lightning damage to Morale.
+[08/11 09:23:31 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 3,098 Fire damage to Morale.
+[08/11 09:23:31 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Goblin Berserk for 16,058 Frost damage to Morale.
+[08/11 09:23:33 AM] The Goblin Berserk scored a hit with a mighty melee attack on Nlkosi for 17,880 Common damage to Morale.
+[08/11 09:23:33 AM] Nlkosi scored a hit with Essence of Flame on the Goblin Berserk for 18,880 Fire damage to Morale.
+[08/11 09:23:34 AM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Berserk for 11,767 Lightning damage to Morale.
+[08/11 09:23:34 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 3,407 Fire damage to Morale.
+[08/11 09:23:35 AM] Nlkosi scored a hit with Scribe's Spark on the Goblin Berserk for 17,814 Lightning damage to Morale.
+[08/11 09:23:35 AM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 7,455 Common damage to Morale.
+[08/11 09:23:36 AM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Berserk for 15,423 Lightning damage to Morale.
+[08/11 09:23:37 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Berserk for 14,176 Lightning damage to Morale.
+[08/11 09:23:37 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 2,944 Fire damage to Morale.
+[08/11 09:23:37 AM] The Goblin Berserk scored a hit with a minor melee attack on Nlkosi for 9,319 Common damage to Morale.
+[08/11 09:23:37 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:23:38 AM] Nlkosi scored a devastating hit with Static Surge on the Goblin Berserk for 84,383 Lightning damage to Morale.
+[08/11 09:23:39 AM] Your mighty blow defeated the Goblin Berserk.
+[08/11 09:23:40 AM] Nlkosi scored a hit with Scribe's Spark on the Goblin Berserk for 14,769 Lightning damage to Morale.
+[08/11 09:23:41 AM] The Goblin Berserk scored a hit with a moderate melee attack on Nlkosi for 10,251 Common damage to Morale.
+[08/11 09:23:44 AM] The Goblin Berserk scored a hit with a mighty melee attack on Nlkosi for 16,774 Common damage to Morale.
+[08/11 09:23:45 AM] Nlkosi scored a hit with Scribe's Spark on the Goblin Berserk for 15,806 Lightning damage to Morale.
+[08/11 09:23:46 AM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 8,192 Common damage to Morale.
+[08/11 09:23:46 AM] Nlkosi scored a hit with Shocking Words on the Goblin Berserk for 39,126 Lightning damage to Morale.
+[08/11 09:23:47 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/11 09:23:48 AM] Nlkosi scored a hit with Head-butt on the Goblin Berserk for 9,838 Common damage to Morale.
+[08/11 09:23:48 AM] Prelude to Hope applied a heal to Nlkosi restoring 4,172 points to Morale.
+[08/11 09:23:49 AM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/11 09:23:49 AM] You have lost 50,239 points of temporary Morale!
+[08/11 09:23:49 AM] Prelude to Hope applied a heal to Nlkosi restoring 2,055 points to Morale.
+[08/11 09:23:50 AM] Nlkosi applied a critical benefit with Word of Exaltation on Nlkosi.
+[08/11 09:23:50 AM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Berserk for 4,865 Lightning damage to Morale.
+[08/11 09:23:50 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,170 points to Morale.
+[08/11 09:23:51 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,605 points to Power.
+[08/11 09:23:51 AM] Sustenance applied a heal to Nlkosi restoring 18,853 points to Morale.
+[08/11 09:23:52 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,750 points to Morale.
+[08/11 09:23:53 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,999 points to Morale.
+[08/11 09:23:53 AM] Nlkosi scored a hit with Essence of Flame on the Goblin Berserk for 16,940 Fire damage to Morale.
+[08/11 09:23:53 AM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 7,947 Common damage to Morale.
+[08/11 09:23:53 AM] You have lost 7,947 points of temporary Morale!
+[08/11 09:23:53 AM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Berserk for 7,453 Frost damage to Morale.
+[08/11 09:23:54 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,942 points to Morale.
+[08/11 09:23:55 AM] The Goblin Berserk scored a hit with a minor melee attack on Nlkosi for 9,933 Common damage to Morale.
+[08/11 09:23:55 AM] You have lost 9,933 points of temporary Morale!
+[08/11 09:23:55 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,742 points to Morale.
+[08/11 09:23:55 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Berserk for 16,637 Lightning damage to Morale.
+[08/11 09:23:56 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,976 points to Morale.
+[08/11 09:23:57 AM] The Goblin Berserk scored a critical hit with a moderate melee attack on Nlkosi for 15,625 Common damage to Morale.
+[08/11 09:23:57 AM] You have lost 15,625 points of temporary Morale!
+[08/11 09:23:57 AM] Your mighty blow defeated the Goblin Berserk.
+[08/11 09:23:57 AM] Prelude to Hope applied a heal to Nlkosi restoring 2,015 points to Morale.
+[08/11 09:23:57 AM] Nlkosi scored a hit with Epic Conclusion on the Goblin Berserk for 56,874 Lightning damage to Morale.
+[08/11 09:23:58 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,822 points to Morale.
+[08/11 09:23:59 AM] Prelude to Hope applied a heal to Nlkosi restoring 2,041 points to Morale.
+[08/11 09:24:00 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,776 points to Morale.
+[08/11 09:24:01 AM] You have lost 2,506 points of temporary Morale!
+[08/11 09:24:01 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,693 points to Morale.
+[08/11 09:24:24 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:24:24 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 09:24:25 AM] The Goblin Watch-keep scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,470 Common damage to Morale.
+[08/11 09:24:25 AM] The Goblin Sapper scored a critical hit with Burning Oil on the Volcanic Rune-stone for 952 Fire damage to Morale.
+[08/11 09:24:25 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,930 Lightning damage to Morale.
+[08/11 09:24:25 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,924 Lightning damage to Morale.
+[08/11 09:24:25 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,864 Lightning damage to Morale.
+[08/11 09:24:25 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 09:24:26 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sapper for 13,471 Fire damage to Morale.
+[08/11 09:24:26 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:24:27 AM] The Goblin Watch-keep scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,838 Common damage to Morale.
+[08/11 09:24:27 AM] Nlkosi scored a hit with Shocking Words on the Goblin Watch-keep for 26,013 Lightning damage to Morale.
+[08/11 09:24:28 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sapper for 13,471 Fire damage to Morale.
+[08/11 09:24:28 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:24:28 AM] Nothing to dispel.
+[08/11 09:24:28 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Raider but he was immune to the attempt.
+[08/11 09:24:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,773 Lightning damage to Morale.
+[08/11 09:24:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,858 Lightning damage to Morale.
+[08/11 09:24:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,864 Lightning damage to Morale.
+[08/11 09:24:29 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Watch-keep.
+[08/11 09:24:29 AM] Nlkosi scored a hit with Improved Final Word on the Goblin Watch-keep.
+[08/11 09:24:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:24:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sapper for 13,471 Fire damage to Morale.
+[08/11 09:24:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,785 Fire damage to Morale.
+[08/11 09:24:30 AM] The Volcanic Rune-stone defeated the Goblin Watch-keep.
+[08/11 09:24:30 AM] The Goblin Sapper scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,103 Common damage to Morale.
+[08/11 09:24:30 AM] The Goblin Raider scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,041 Common damage to Morale.
+[08/11 09:24:31 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Raider but he was immune to the attempt.
+[08/11 09:24:31 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,622 Lightning damage to Morale.
+[08/11 09:24:31 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Sapper but he was immune to the attempt.
+[08/11 09:24:31 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,784 Lightning damage to Morale.
+[08/11 09:24:32 AM] The Goblin Sapper tried to use a moderate melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/11 09:24:32 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:24:32 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sapper for 13,471 Fire damage to Morale.
+[08/11 09:24:32 AM] The Volcanic Rune-stone defeated the Goblin Sapper.
+[08/11 09:24:33 AM] The Goblin Raider scored a hit with a melee double attack on the Charged Fulgurite Rune-stone for 1,041 Common damage to Morale.
+[08/11 09:24:33 AM] The Goblin Raider tried to use a melee double attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+[08/11 09:24:34 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 13,471 Fire damage to Morale.
+[08/11 09:24:34 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Raider for 11,788 Lightning damage to Morale.
+[08/11 09:24:34 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Raider but he was immune to the attempt.
+[08/11 09:24:34 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 3,845 Lightning damage to Morale.
+[08/11 09:24:34 AM] The Charged Fulgurite Rune-stone defeated the Goblin Raider.
+[08/11 09:24:44 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:24:44 AM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Sticker for 44,955 Lightning damage to Morale.
+[08/11 09:24:46 AM] Your mighty blow defeated the Goblin Sticker.
+[08/11 09:24:46 AM] Nlkosi scored a hit with Epic Conclusion on the Goblin Sticker for 49,599 Lightning damage to Morale.
+[08/11 09:24:46 AM] The Goblin Sticker scored a hit with a mighty thrown attack on Nlkosi for 14,304 Common damage to Morale.
+[08/11 09:24:47 AM] The Goblin Watch-keep scored a hit with a moderate swipe attack on Nlkosi for 8,741 Common damage to Morale.
+[08/11 09:24:49 AM] Nothing to dispel.
+[08/11 09:24:49 AM] The Goblin Watch-keep scored a hit with a minor melee attack on Nlkosi for 7,947 Common damage to Morale.
+[08/11 09:24:50 AM] Nlkosi scored a hit with Improved Final Word on the Goblin Watch-keep.
+[08/11 09:24:50 AM] The Goblin Sticker scored a partially evaded hit with a minor melee attack on Nlkosi for 5,146 Common damage to Morale.
+[08/11 09:24:51 AM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 6,357 Common damage to Morale.
+[08/11 09:24:52 AM] The Goblin Sticker scored a hit with a weak melee attack on Nlkosi for 4,503 Common damage to Morale.
+[08/11 09:24:53 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Goblin Watch-keep for 27,269 Lightning damage to Morale.
+[08/11 09:24:53 AM] The Goblin Watch-keep scored a hit with a minor melee attack on Nlkosi for 7,947 Common damage to Morale.
+[08/11 09:24:54 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Goblin Watch-keep for 14,900 Lightning damage to Morale.
+[08/11 09:24:55 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,639 points to Power.
+[08/11 09:24:55 AM] Sustenance applied a heal to Nlkosi restoring 21,578 points to Morale.
+[08/11 09:24:56 AM] Nlkosi scored a hit with Shocking Touch on the Goblin Watch-keep for 5,912 Lightning damage to Morale.
+[08/11 09:24:57 AM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Watch-keep for 6,751 Frost damage to Morale.
+[08/11 09:24:57 AM] The Goblin Sticker scored a hit with a weak melee attack on Nlkosi for 4,642 Common damage to Morale.
+[08/11 09:24:58 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:24:58 AM] Your mighty blow defeated the Goblin Watch-keep.
+[08/11 09:24:58 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Goblin Watch-keep for 31,359 Lightning damage to Morale.
+[08/11 09:25:00 AM] The Goblin Sticker scored a hit with a moderate melee attack on Nlkosi for 6,383 Common damage to Morale.
+[08/11 09:25:00 AM] Nlkosi scored a hit with Essence of Storm on the Goblin Sticker for 15,296 Lightning damage to Morale.
+[08/11 09:25:01 AM] Your mighty blow defeated the Goblin Sticker.
+[08/11 09:25:01 AM] Nlkosi scored a critical hit with Shocking Words on the Goblin Sticker for 91,064 Lightning damage to Morale.
+[08/11 09:25:27 AM] Prelude to Hope applied a heal to Nlkosi restoring 4,332 points to Morale.
+[08/11 09:25:27 AM] Nothing to dispel.
+[08/11 09:25:27 AM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/11 09:25:27 AM] Nlkosi scored a critical hit with Improved Final Word on the Goblin Sapper.
+[08/11 09:25:28 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,623 points to Morale.
+[08/11 09:25:28 AM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 16,706 Fire damage to Morale.
+[08/11 09:25:29 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,750 points to Morale.
+[08/11 09:25:29 AM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 20,047 Fire damage to Morale.
+[08/11 09:25:29 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Sapper.
+[08/11 09:25:30 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,682 points to Morale.
+[08/11 09:25:30 AM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Sapper for 7,024 Frost damage to Morale.
+[08/11 09:25:30 AM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 66,825 Fire damage to Morale.
+[08/11 09:25:31 AM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 9,489 Fire damage to Morale.
+[08/11 09:25:31 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,839 points to Morale.
+[08/11 09:25:31 AM] Nlkosi scored a hit with Epic Conclusion on the Goblin Sapper for 45,088 Lightning damage to Morale.
+[08/11 09:25:32 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,901 points to Morale.
+[08/11 09:25:32 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Sapper for 2,656 Fire damage to Morale.
+[08/11 09:25:32 AM] Your mighty blow defeated the Goblin Sapper.
+[08/11 09:25:33 AM] Nlkosi scored a hit with Vivid Imagery on the Goblin Sapper for 13,389 Lightning damage to Morale.
+[08/11 09:25:33 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,088 points to Morale.
+[08/11 09:25:34 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,492 points to Morale.
+[08/11 09:25:35 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,580 points to Morale.
+[08/11 09:25:36 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,403 points to Morale.
+[08/11 09:25:37 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,522 points to Morale.
+[08/11 09:25:38 AM] Prelude to Hope applied a heal to Nlkosi restoring 2,038 points to Morale.
+[08/11 09:25:39 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,804 points to Morale.
+[08/11 09:25:40 AM] Self-motivation applied a heal to Nlkosi restoring 2,678 points to Power.
+[08/11 09:25:40 AM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/11 09:26:06 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:06 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:07 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 09:26:07 AM] The Goblin Watch-keep scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,022 Common damage to Morale.
+[08/11 09:26:08 AM] The Goblin Watch-keep scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,470 Common damage to Morale.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,616 Lightning damage to Morale.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 3,698 Lightning damage to Morale.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,851 Lightning damage to Morale.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,772 Lightning damage to Morale.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,584 Lightning damage to Morale.
+[08/11 09:26:08 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:08 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:09 AM] The Goblin Sticker scored a partially blocked hit with a mighty thrown attack on the Volcanic Rune-stone for 2,133 Common damage to Morale.
+[08/11 09:26:10 AM] The Goblin Sticker scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,041 Common damage to Morale.
+[08/11 09:26:10 AM] The Goblin Watch-keep scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 1,304 Common damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,822 Lightning damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,690 Lightning damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 3,596 Lightning damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,704 Lightning damage to Morale.
+[08/11 09:26:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,896 Lightning damage to Morale.
+[08/11 09:26:12 AM] The Goblin Watch-keep scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,022 Common damage to Morale.
+[08/11 09:26:12 AM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Watch-keep for 6,149 Lightning damage to Morale.
+[08/11 09:26:12 AM] The Goblin Watch-keep scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,470 Common damage to Morale.
+[08/11 09:26:12 AM] The Goblin Berserk scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,838 Common damage to Morale.
+[08/11 09:26:12 AM] The Goblin Sapper scored a hit with Burning Oil on the Charged Fulgurite Rune-stone for 731 Fire damage to Morale.
+[08/11 09:26:13 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:26:13 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:13 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:13 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,914 points to Power.
+[08/11 09:26:13 AM] Sustenance applied a heal to Nlkosi restoring 19,340 points to Morale.
+[08/11 09:26:14 AM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Watch-keep for 7,419 Frost damage to Morale.
+[08/11 09:26:14 AM] The Goblin Berserk tried to use a moderate melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/11 09:26:14 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Sapper but he was immune to the attempt.
+[08/11 09:26:14 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,712 Lightning damage to Morale.
+[08/11 09:26:14 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,790 Lightning damage to Morale.
+[08/11 09:26:14 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Sticker but he was immune to the attempt.
+[08/11 09:26:14 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 3,835 Lightning damage to Morale.
+[08/11 09:26:14 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,820 Lightning damage to Morale.
+[08/11 09:26:14 AM] The Charged Fulgurite Rune-stone defeated the Goblin Watch-keep.
+[08/11 09:26:14 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 3,557 Lightning damage to Morale.
+[08/11 09:26:14 AM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Watch-keep for 4,882 Fire damage to Morale.
+[08/11 09:26:15 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,471 Fire damage to Morale.
+[08/11 09:26:15 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 13,471 Fire damage to Morale.
+[08/11 09:26:15 AM] The Volcanic Rune-stone defeated the Goblin Watch-keep.
+[08/11 09:26:15 AM] The Goblin Sticker tried to use Induce Rooted on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+[08/11 09:26:16 AM] The Goblin Sapper scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,103 Common damage to Morale.
+[08/11 09:26:16 AM] The Goblin Berserk scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,527 Common damage to Morale.
+[08/11 09:26:17 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 13,785 Fire damage to Morale.
+[08/11 09:26:17 AM] The Goblin Sticker scored a hit with Thrown Root on the Charged Fulgurite Rune-stone.
+[08/11 09:26:17 AM] Nlkosi scored a hit with Essence of Flame on the Goblin Berserk for 19,245 Fire damage to Morale.
+[08/11 09:26:17 AM] The Goblin Sticker tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it blocked the attempt.
+[08/11 09:26:17 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Sapper but he was immune to the attempt.
+[08/11 09:26:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sapper for 3,813 Lightning damage to Morale.
+[08/11 09:26:17 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Berserk but he was immune to the attempt.
+[08/11 09:26:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 3,639 Lightning damage to Morale.
+[08/11 09:26:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 3,990 Lightning damage to Morale.
+[08/11 09:26:17 AM] The Goblin Sapper tried to use a moderate melee attack on the Charged Fulgurite Rune-stone but it blocked the attempt.
+[08/11 09:26:18 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk.
+[08/11 09:26:18 AM] Nlkosi tried to use Induce Stunned on the Goblin Berserk but he was immune to the attempt.
+[08/11 09:26:19 AM] Nlkosi scored a hit with Shocking Words on the Goblin Berserk for 43,067 Lightning damage to Morale.
+[08/11 09:26:19 AM] Prelude to Hope applied a heal to Nlkosi restoring 5,028 points to Morale.
+[08/11 09:26:20 AM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/11 09:26:21 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,703 points to Morale.
+[08/11 09:26:21 AM] Nlkosi scored a critical hit with Distracting Flame on the Goblin Berserk for 6,482 Fire damage to Morale.
+[08/11 09:26:21 AM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 7,701 Common damage to Morale.
+[08/11 09:26:21 AM] You have lost 7,701 points of temporary Morale!
+[08/11 09:26:22 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,482 points to Morale.
+[08/11 09:26:22 AM] You have lost 8,471 points of temporary Morale!
+[08/11 09:26:23 AM] The Goblin Sticker scored a hit with a moderate thrown attack on Nlkosi for 8,471 Common damage to Morale.
+[08/11 09:26:23 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,777 points to Morale.
+[08/11 09:26:23 AM] The Goblin Berserk scored a partially evaded hit with a minor melee attack on Nlkosi for 8,773 Common damage to Morale.
+[08/11 09:26:23 AM] You have lost 8,773 points of temporary Morale!
+[08/11 09:26:23 AM] The Goblin Sapper scored a hit with a minor melee attack on Nlkosi for 5,776 Common damage to Morale.
+[08/11 09:26:23 AM] You have lost 5,198 points of temporary Morale!
+[08/11 09:26:24 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,985 points to Morale.
+[08/11 09:26:24 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 4,165 Fire damage to Morale.
+[08/11 09:26:25 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,464 points to Morale.
+[08/11 09:26:25 AM] The Goblin Berserk scored a hit with a mighty melee attack on Nlkosi for 17,327 Common damage to Morale.
+[08/11 09:26:25 AM] The Goblin Sticker tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/11 09:26:25 AM] The Goblin Sapper scored a partially evaded hit with a weak melee attack on Nlkosi for 4,211 Common damage to Morale.
+[08/11 09:26:26 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,204 points to Morale.
+[08/11 09:26:27 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 3,688 Fire damage to Morale.
+[08/11 09:26:27 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,805 points to Morale.
+[08/11 09:26:27 AM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 7,701 Common damage to Morale.
+[08/11 09:26:27 AM] The Goblin Sapper scored a hit with a moderate melee attack on Nlkosi for 6,353 Common damage to Morale.
+[08/11 09:26:28 AM] The Goblin Sticker scored a hit with a moderate melee attack on Nlkosi for 6,000 Common damage to Morale.
+[08/11 09:26:28 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,884 points to Morale.
+[08/11 09:26:28 AM] Nlkosi scored a hit with Writ of Lightning on the Goblin Berserk for 9,552 Lightning damage to Morale.
+[08/11 09:26:29 AM] The Goblin Berserk scored a hit with a moderate melee attack on Nlkosi for 10,589 Common damage to Morale.
+[08/11 09:26:29 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,850 points to Morale.
+[08/11 09:26:29 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:26:29 AM] The Goblin Sapper scored a hit with a weak melee attack on Nlkosi for 4,620 Common damage to Morale.
+[08/11 09:26:29 AM] Nlkosi scored a critical hit with Epic Conclusion on the Goblin Berserk for 125,658 Lightning damage to Morale.
+[08/11 09:26:30 AM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 3,079 Fire damage to Morale.
+[08/11 09:26:30 AM] The Goblin Sticker scored a hit with a minor melee attack on Nlkosi for 5,803 Common damage to Morale.
+[08/11 09:26:30 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,614 points to Morale.
+[08/11 09:26:31 AM] The Goblin Sapper scored a hit with a minor melee attack on Nlkosi for 6,144 Common damage to Morale.
+[08/11 09:26:31 AM] Prelude to Hope applied a heal to Nlkosi restoring 2,063 points to Morale.
+[08/11 09:26:32 AM] Your mighty blow defeated the Goblin Berserk.
+[08/11 09:26:32 AM] The Goblin Sticker scored a hit with a weak melee attack on Nlkosi for 4,642 Common damage to Morale.
+[08/11 09:26:32 AM] Nlkosi scored a devastating hit with Shocking Touch on the Goblin Berserk for 16,451 Lightning damage to Morale.
+[08/11 09:26:32 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,560 points to Morale.
+[08/11 09:26:32 AM] Your mighty blow defeated the Goblin Sapper.
+[08/11 09:26:33 AM] Nlkosi scored a critical hit with Static Surge on the Goblin Sapper for 63,905 Lightning damage to Morale.
+[08/11 09:26:33 AM] Nlkosi scored a hit with Static Surge on the Goblin Sticker for 31,638 Lightning damage to Morale.
+[08/11 09:26:34 AM] The Goblin Sticker scored a hit with a minor melee attack on Nlkosi for 5,629 Common damage to Morale.
+[08/11 09:26:36 AM] The Goblin Sticker scored a hit with a weak melee attack on Nlkosi for 4,503 Common damage to Morale.
+[08/11 09:26:38 AM] Your mighty blow defeated the Goblin Sticker.
+[08/11 09:26:39 AM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Sticker for 63,008 Lightning damage to Morale.
+[08/11 09:26:42 AM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 16,706 Fire damage to Morale.
+[08/11 09:26:42 AM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 6,282 Fire damage to Morale.
+[08/11 09:26:49 AM] Self-motivation applied a heal to Nlkosi restoring 2,678 points to Power.
+[08/11 09:26:49 AM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/11 09:27:20 AM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 13,471 Fire damage to Morale.
+[08/11 09:27:20 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 09:27:21 AM] Korutásh scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,838 Common damage to Morale.
+[08/11 09:27:22 AM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 3,722 Lightning damage to Morale.
+[08/11 09:27:22 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 09:27:22 AM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 13,471 Fire damage to Morale.
+[08/11 09:27:23 AM] Korutásh scored a hit with a moderate melee attack on the Volcanic Rune-stone for 2,527 Common damage to Morale.
+[08/11 09:27:23 AM] Master of Tragedy applied a heal to Nlkosi restoring 220 points to Power.
+[08/11 09:27:24 AM] Nlkosi scored a critical hit with Vivid Imagery on Korutásh for 28,420 Lightning damage to Morale.
+[08/11 09:27:24 AM] Nothing to dispel.
+[08/11 09:27:24 AM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 13,471 Fire damage to Morale.
+[08/11 09:27:24 AM] Nlkosi scored a hit with Improved Final Word on Korutásh.
+[08/11 09:27:25 AM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 3,927 Lightning damage to Morale.
+[08/11 09:27:25 AM] Korutásh tried to use Serious Wound on the Volcanic Rune-stone but it resisted the attempt.
+[08/11 09:27:26 AM] Korutásh scored a hit with Melee Med Bleed on the Volcanic Rune-stone.
+[08/11 09:27:26 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/11 09:27:26 AM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 13,471 Fire damage to Morale.
+[08/11 09:27:26 AM] Nlkosi scored a hit with Head-butt on Korutásh for 9,838 Common damage to Morale.
+[08/11 09:27:28 AM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 3,782 Lightning damage to Morale.
+[08/11 09:27:28 AM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 13,471 Fire damage to Morale.
+[08/11 09:27:29 AM] Nlkosi scored a hit with Distracting Flame on Korutásh.
+[08/11 09:27:29 AM] Nlkosi scored a critical hit with Shocking Words on Korutásh for 108,516 Lightning damage to Morale.
+[08/11 09:27:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 14,474 Fire damage to Morale.
+[08/11 09:27:31 AM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 4,170 Lightning damage to Morale.
+[08/11 09:27:31 AM] Nlkosi scored a critical hit with Static Surge on Korutásh for 58,046 Lightning damage to Morale.
+[08/11 09:27:31 AM] Nlkosi scored a hit with Distracting Flame on Korutásh for 3,394 Fire damage to Morale.
+[08/11 09:27:31 AM] Korutásh scored a hit with a weak melee attack on Nlkosi for 7,947 Common damage to Morale.
+[08/11 09:27:31 AM] You have lost 7,947 points of temporary Morale!
+[08/11 09:27:33 AM] Your mighty blow defeated Korutásh.
+[08/11 09:27:33 AM] Nlkosi scored a hit with Epic Conclusion on Korutásh for 42,464 Lightning damage to Morale.
+[08/11 09:27:45 AM] You have lost 42,292 points of temporary Morale!
