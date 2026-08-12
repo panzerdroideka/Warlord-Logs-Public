@@ -1,0 +1,161 @@
+PROSJEKTPLAN: Wils
+PowerDelivery
+48V Zero Export Hybridanlegg – The Edison Way
+
+Lokasjon: Jordbærvegen, Elverum, Innlandet Systemarkitekt /
+Ansvarlig: Willy Olsen Dato: 9. juli 2026 Regulatorisk Status:
+Fritatt for byggetillatelse (Elverum kommune). Zero Export (krever
+ikke plusskunde-avtale).
+
+
+
+1. Systembeskrivelse og
+Arkitektur
+Wils PowerDelivery er et desentralisert, hybrid 48V
+likestrømsanlegg bygget for å ta over grunnlast og effekttopper for
+Warlord-riggen og husstandens primære forbruk. Anlegget
+opererer under streng "Zero Export"-logikk styrt av Venus OS
+(Linux), hvor overskuddsenergi rutes hierarkisk til kjemisk lagring
+(LiFePO4) og deretter termisk lagring (varmtvannsberedere og
+romoppvarming) fremfor å eksporteres til strømnettet.
+
+Hjernen i anlegget er fullstendig åpen (Modbus/MQTT), og all
+kraftelektronikk er dimensjonert for industriell levetid og full
+reparerbarhet.2. Fysisk Installasjon og
+Geometri
+2.1 Solceller (PV-Anlegg) - Kapasitet:
+~8 kWp
+Anlegget utnytter eksisterende bygningsmasse strategisk for å
+maksimere flat produksjonskurve fra morgen til sen kveld, med
+minimal snøakkumulering.
+
+   Øst- og Sør-Fasade (Rekkverk i 2. etg):
+      Areal: Ca. 16 m².
+      Metode: Bifacial (tosidige) paneler integrert som nytt
+      rekkverk (høyde: 1 meter). Fanger direkte lav morgensol i
+      øst og kveldssol i vest/nordvest frem til kl. 22:00.
+      Skyggehåndtering: Utstyres med optimizere
+      (Tigo/Enphase) på grunn av lokal skygge fra
+      bygningskroppen.
+   Sørvegg (Under takutstikk):
+      Metode: Vertikal montering av paneler.
+      Topologi: Avstand fra takrenne og ned til maksimale
+      skyggelinje ved sommersolverv eliminerer behov for
+      optimizere på den nedre halvdelen. Panelene kobles i en
+      ren, seriekoblet DC-streng (daisy-chain) for maksimal
+      effektivitet og lav TCOO.2.2 Helisk Vindturbin - Kapasitet: 1
+kWp
+Turbinen tar over produksjonen på natten og i vinterhalvåret for å
+dekke base-load på ~500W.   Plassering: Frittstående, vippbar mast forankret i et støpt
+   betongfundament i plenen ved siden av sør/vest-verandaen.
+   Fundamentet isolerer alle mekaniske vibrasjoner fra selve
+   trehuset.
+   Geometri og Manuell Failsafe ("Hyttemodus"): Grunnmuren
+   løfter verandagulvet 1,5 meter over plenenivå. Turbinens mast
+   senkes/tilpasses slik at rotorens nedre del flukter i perfekt
+   arbeidshøyde (ca. 2-3 meter over plenen) sett fra verandaen.
+   Dette tillater operatøren å stå trygt på verandagulvet, lene seg
+   over rekkverket, og fysisk sette inn en manuell låsebolt i
+   turbinens aksling før avreise fra eiendommen.
+
+
+
+2.3 Termisk Dump-Load (Failsafe)
+Når vindturbinen produserer, batteriet (SOC > 95%) er fullt, og
+vannet holder 85°C, aktiveres nøddumpen:
+
+   Plassering: Et dedikert 40x40x40 cm plenumskammer bygget
+   i tre/MDF, innkledd med brannmursplate, plassert ved
+   friskluftinntaket til det eksisterende Gould Aircoil Klimanette-
+   systemet (10kW).
+   Komponent: 48V DC PTC-varmeelement (selvregulerende)
+   fritthengende i kammeret.
+   Logikk: Venus OS trigger Klimanettens 6A styrestrøm til viften
+   (laveste trinn), som suger luft over PTC-elementet og
+   distribuerer overskuddsvind som lydløs varme i huset.
+
+
+
+
+3. Komponentliste og
+Maskinvare-BudsjettPriser er nøkterne estimater inkludert mva, ekskludert eget arbeid
+(DIY).
+
+
+ Kategori              Komponentbeskrivelse            Est.
+                       (Antall / Type)                 Kostnad
+                                                       (NOK)
+
+ Kraftelektronikk      1 stk. Victron MultiPlus-II     16 500,-
+                       48/5000/70-50
+
+ Sol-Lader             1 stk. Victron SmartSolar       7 000,-
+                       MPPT 250/85
+
+ Batteribank           16 stk. EVE LF280K              21 800,-
+ (DIY)                 (280Ah/14.3kWh) + JK BMS
+
+ Vindturbin            1 stk. 1kW Helical              15 000,-
+                       Savonius + Kontroller
+
+ DC Infrastruktur      Victron Lynx Distributor,       4 200,-
+                       70mm² kabling, Mega-
+                       sikringer, 250A Hovedbryter
+
+ AC Infrastruktur      IP65 Wils PD Skap, Carlo        5 500,-
+                       Gavazzi ET112 (HAN-
+                       data), 1-0-2 Bypass Bryter,
+                       3G6mm² AC-kabel
+
+ Logikk &              Maskinvare for Venus OS         1 600,-
+ Styring               (Pi/Linux), Crydom SSR for
+                       dump, DS18B20 Temp.
+                       sensorer
+
+ Termisk Lagring       1 stk. Ny 300L                  12 200,-
+                       Varmtvannsbereder (Cold
+                       Storage) + PEX VVS
+                       (Under 5m) + Blandeventil
+
+ Solcellepaneler       Ca. 20 stk                      28 000,-
+                       (Bifacial/Standard 400W- Kategori               Komponentbeskrivelse              Est.
+                        (Antall / Type)                   Kostnad
+                                                          (NOK)
+                        430W) inkl. Tigo optimizere
+                        for skyggeutsatte rekkverk
+
+ Failsafe (Vind)        48V PTC Element,                  1 500,-
+                        Låsebolt, Materiell for
+                        40x40x40 plenumskammer
+
+ Fundamentering         Betong, støperør og               1 000,-
+                        armering for frittstående
+                        turbinmast
+
+ TOTALT                 Komplett Hardware &               ~ 114
+ (Estimat)              Installasjonsmateriell            300,-
+
+
+
+
+4. Driftslogikk &
+Prioriteringskaskade (Zero
+Export)
+Nettmåleren (Carlo Gavazzi) sikrer et Grid Setpoint på ca. 20W
+inn-trekk for å forhindre tilbakelevering. Tilgjengelig DC-kraft rutes
+nådeløst etter følgende hardkodede prioritering i Venus OS:
+
+ 1. Husets Primærlast (AC): Dekke umiddelbart forbruk på
+    kursene (Warlord, Kjøleskap).
+ 2. Kjemisk Lagring (DC): Lade EVE 280Ah-cellene med opptil
+    0.5C inntil 95% SOC.
+ 3. Termisk Lagring 1 (AC PWM): Pulse overskudd (SSR) inn i
+    300L bereder inntil 85°C.4. Termisk Lagring 2 (AC PWM): Pulse gjenværende overskudd
+   (SSR) inn i eksisterende 200L bereder inntil 85°C.
+5. Struping av Sol (DC): MPPT-kontrolleren øker motstanden og
+   kutter solproduksjonen.
+6. Vind Failsafe (DC/Termisk): Turbinens kontroller ruter kraft i
+   PTC-elementet i plenumskammeret. Klimanette-viften
+  distribuerer varmen.
+7. Manuell Override: Den fysiske "parking lock"-bolten settes i
+  turbinen ved fravær.
