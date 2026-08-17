@@ -1284,3 +1284,71 @@
 [10557.384747] sh (18727): drop_caches: 3
 [10857.605712] sh (18988): drop_caches: 3
 [11156.723837] sh (19095): drop_caches: 3
+[11456.861878] sh (19375): drop_caches: 3
+[11756.976936] sh (19502): drop_caches: 3
+[12057.083709] sh (19610): drop_caches: 3
+[12357.194851] sh (19729): drop_caches: 3
+[12657.065572] sh (19873): drop_caches: 3
+[12957.277549] sh (20077): drop_caches: 3
+[13257.462194] sh (20226): drop_caches: 3
+[13557.734712] sh (20315): drop_caches: 3
+[13856.918916] sh (20329): drop_caches: 3
+[14157.242645] sh (20897): drop_caches: 3
+[14457.463955] sh (21213): drop_caches: 3
+[14757.686239] sh (21355): drop_caches: 3
+[15056.842589] sh (21692): drop_caches: 3
+[15357.070039] sh (21772): drop_caches: 3
+[15657.300077] sh (21895): drop_caches: 3
+[15957.487597] sh (22031): drop_caches: 3
+[16257.444296] sh (22161): drop_caches: 3
+[16557.661390] sh (22372): drop_caches: 3
+[16857.874085] sh (23149): drop_caches: 3
+[17157.004888] sh (23307): drop_caches: 3
+[17457.129514] sh (23448): drop_caches: 3
+[17757.277787] sh (23581): drop_caches: 3
+[18057.491727] sh (23991): drop_caches: 3
+[18357.724011] sh (24354): drop_caches: 3
+[18657.994624] sh (25608): drop_caches: 3
+[18957.269948] sh (26094): drop_caches: 3
+[19257.471263] sh (27074): drop_caches: 3
+[19557.793519] sh (27649): drop_caches: 3
+[19857.754775] sh (28200): drop_caches: 3
+[20158.001289] sh (29877): drop_caches: 3
+[20457.162834] sh (30031): drop_caches: 3
+[20757.331025] sh (30119): drop_caches: 3
+[21057.473337] sh (30205): drop_caches: 3
+[21357.683607] sh (31296): drop_caches: 3
+[21658.130854] sh (33769): drop_caches: 3
+[21957.409215] sh (34785): drop_caches: 3
+[22257.773022] sh (35813): drop_caches: 3
+[22558.782645] sh (43413): drop_caches: 3
+[22568.695465] usb 5-1: new full-speed USB device number 2 using xhci_hcd
+[22568.845357] usb 5-1: New USB device found, idVendor=21b4, idProduct=0085, bcdDevice= 1.10
+[22568.845361] usb 5-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[22568.845363] usb 5-1: Product: AudioQuest DragonFly Cobalt v1.0
+[22568.845364] usb 5-1: Manufacturer: AudioQuest
+[22568.845366] usb 5-1: SerialNumber: AQDFCB0100126375
+[22574.324695] hid-generic 0003:21B4:0085.000A: hiddev98,hidraw7: USB HID v1.11 Device [AudioQuest AudioQuest DragonFly Cobalt v1.0] on usb-0000:c6:00.3-1/input2
+[22574.356487] mc: Linux media interface: v0.10
+[22574.478521] usbcore: registered new interface driver snd-usb-audio
+[22858.101858] sh (47194): drop_caches: 3
+[23157.335767] sh (52006): drop_caches: 3
+[23457.186388] sh (73317): drop_caches: 3
+[23757.349063] sh (104185): drop_caches: 3
+[24057.708691] sh (137126): drop_caches: 3
+[24357.893833] sh (137779): drop_caches: 3
+[24658.038966] sh (138222): drop_caches: 3
+[24957.272884] sh (154388): drop_caches: 3
+[25257.460504] sh (173801): drop_caches: 3
+[25557.861804] sh (187865): drop_caches: 3
+[25858.000024] sh (190426): drop_caches: 3
+[26158.283442] sh (221072): drop_caches: 3
+[26457.403515] sh (221363): drop_caches: 3
+[26585.443472] usb 5-1: USB disconnect, device number 2
+[26608.017827] systemd-journald[3793]: Received SIGTERM from PID 1 (systemd).
+[26608.017895] systemd[1]: Stopping systemd-journald.service - Journal Service...
+[26608.028153] systemd[1]: systemd-journald.service: Deactivated successfully.
+[26608.028319] systemd[1]: Stopped systemd-journald.service - Journal Service.
+[26608.031747] systemd[1]: Starting systemd-journald.service - Journal Service...
+[26608.054457] systemd-journald[223352]: Collecting audit messages is disabled.
+[26608.056668] systemd[1]: Started systemd-journald.service - Journal Service.
