@@ -1,0 +1,888 @@
+aug. 20 00:00:01 WARLORD CRON[24988]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:00:01 WARLORD CRON[24987]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:00:01 WARLORD CRON[24992]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:00:01 WARLORD CRON[24993]: (root) CMD (timeshift --check --scripted)
+aug. 20 00:00:01 WARLORD kernel: sh (24992): drop_caches: 3
+aug. 20 00:00:01 WARLORD CRON[24988]: pam_unix(cron:session): session closed for user root
+aug. 20 00:00:01 WARLORD systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+aug. 20 00:00:01 WARLORD systemd[1]: Starting sysstat-rotate.service - system activity accounting tool...
+aug. 20 00:00:01 WARLORD systemd[1]: sysstat-rotate.service: Deactivated successfully.
+aug. 20 00:00:01 WARLORD systemd[1]: Finished sysstat-rotate.service - system activity accounting tool.
+aug. 20 00:00:02 WARLORD systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+aug. 20 00:00:02 WARLORD systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+aug. 20 00:00:02 WARLORD crontab[25125]: (root) LIST (root)
+aug. 20 00:00:02 WARLORD crontab[25126]: (root) LIST (root)
+aug. 20 00:00:02 WARLORD systemd[1]: run-timeshift-24993-backup.mount: Deactivated successfully.
+aug. 20 00:00:02 WARLORD CRON[24987]: pam_unix(cron:session): session closed for user root
+aug. 20 00:01:30 WARLORD systemd[1004]: app-org.kde.konsole@398d5a87e2ac41dd947e54bd4f9071bc.service: Consumed 645ms CPU time over 43min 28.650s wall clock time, 87.2M memory peak.
+aug. 20 00:01:30 WARLORD systemd[1004]: app-org.kde.konsole-10915.scope: Consumed 2.124s CPU time over 43min 27.482s wall clock time, 71.1M memory peak.
+aug. 20 00:01:43 WARLORD konsole[9993]: kf.windowsystem: static int KX11Extras::currentDesktop() may only be used on X11
+aug. 20 00:01:43 WARLORD konsole[9993]: kf.windowsystem: static void KX11Extras::setOnDesktop(WId, int) may only be used on X11
+aug. 20 00:01:43 WARLORD systemd[1004]: app-org.kde.konsole@4b827149ac2f4f7ea839f1c9a5227143.service: Consumed 347ms CPU time over 46min 43.250s wall clock time, 132.6M memory peak.
+aug. 20 00:01:43 WARLORD systemd[1004]: app-org.kde.konsole-9993.scope: Consumed 24.123s CPU time over 46min 42.192s wall clock time, 121.5M memory peak.
+aug. 20 00:02:11 WARLORD systemd[1004]: app-org.kde.kate@52b62be8ae0f411eb878e2730101bf76.service: Consumed 7.161s CPU time over 56min 22.844s wall clock time, 402.4M memory peak.
+aug. 20 00:02:14 WARLORD systemd[1004]: app-org.kde.dolphin@aa98294072e042d6bfe9ac5c51508eab.service: Consumed 5.944s CPU time over 1h 14min 36.609s wall clock time, 227.1M memory peak.
+aug. 20 00:02:17 WARLORD systemd[1004]: Started app-org.kde.dolphin@22919d8955bc46fd89d28f713a340d2e.service - Dolphin - Filbehandler.
+aug. 20 00:02:29 WARLORD systemd[1004]: app-org.kde.dolphin@22919d8955bc46fd89d28f713a340d2e.service: Consumed 1.878s CPU time over 11.898s wall clock time, 262M memory peak.
+aug. 20 00:02:32 WARLORD google-chrome-stable[12214]: [12209:12209:0820/000232.142133:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (68.3754s) location=Button@ui/views/controls/button/button.cc:669
+aug. 20 00:02:36 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:02:36 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:02:46 WARLORD kactivitymanagerd[1306]: org.kde.kactivities.plugin.recentlyused-eventspy: could not parse "/home/wils/.local/share/recently-used.xbel" error was  "Expected '=', but got ':'."
+aug. 20 00:02:56 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:02:56 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:03:05 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:03:05 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:03:05 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:03:05 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:03:05 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:03:05 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:03:05 WARLORD xdg-desktop-portal-kde[1722]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 20 00:05:01 WARLORD CRON[25873]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:05:01 WARLORD CRON[25875]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:05:01 WARLORD kernel: sh (25875): drop_caches: 3
+aug. 20 00:05:01 WARLORD CRON[25873]: pam_unix(cron:session): session closed for user root
+aug. 20 00:06:44 WARLORD systemd[1]: sshd-keygen.service - Generate sshd host keys on first boot skipped, unmet condition check ConditionFirstBoot=yes
+aug. 20 00:06:44 WARLORD systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+aug. 20 00:06:44 WARLORD sshd[25887]: Server listening on 0.0.0.0 port 22.
+aug. 20 00:06:44 WARLORD sshd[25887]: Server listening on :: port 22.
+aug. 20 00:06:44 WARLORD systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+aug. 20 00:06:44 WARLORD sshd-session[25889]: Accepted password for wils from 192.168.10.174 port 55454 ssh2
+aug. 20 00:06:44 WARLORD sshd-session[25889]: pam_unix(sshd:session): session opened for user wils(uid=1000) by wils(uid=0)
+aug. 20 00:06:44 WARLORD systemd-logind[725]: New session '23' of user 'wils' with class 'user' and type 'tty'.
+aug. 20 00:06:44 WARLORD systemd[1]: Started session-23.scope - Session 23 of User wils.
+aug. 20 00:06:44 WARLORD sshd-session[25889]: lastlog_openseek: Couldn't stat /var/log/lastlog: No such file or directory
+aug. 20 00:06:44 WARLORD sshd-session[25889]: lastlog_openseek: Couldn't stat /var/log/lastlog: No such file or directory
+aug. 20 00:06:45 WARLORD im-config[25988]: @ IM_CONFIG_ENTRY='profile' XDG_SESSION_TYPE ='tty' UID=1000 PID=25921 PPID=25920
+aug. 20 00:06:45 WARLORD im-config[25989]:   GTK_IM_MODULE='' QT_IM_MODULE='' CLUTTER_IM_MODULE='' SDL_IM_MODULE='' XMODIFIERS=''
+aug. 20 00:06:45 WARLORD im-config[25992]:   Set IM_CONFIG_CURRENT_DESKTOP <- 'UNDEFINED'
+aug. 20 00:07:07 WARLORD systemd[1]: Starting sysstat-summary.service - Generate a daily summary of process accounting...
+aug. 20 00:07:07 WARLORD systemd[1]: sysstat-summary.service: Deactivated successfully.
+aug. 20 00:07:07 WARLORD systemd[1]: Finished sysstat-summary.service - Generate a daily summary of process accounting.
+aug. 20 00:10:01 WARLORD CRON[26968]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:10:01 WARLORD CRON[26970]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:10:01 WARLORD CRON[26968]: pam_unix(cron:session): session closed for user root
+aug. 20 00:10:01 WARLORD kernel: sh (26970): drop_caches: 3
+aug. 20 00:11:03 WARLORD google-chrome-stable[12214]: [12209:12258:0820/001103.384246:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 20 00:11:03 WARLORD google-chrome-stable[12214]: QThreadStorage: entry 2 destroyed before end of thread 0xddc00719140
+aug. 20 00:11:03 WARLORD google-chrome-stable[12214]: QThreadStorage: entry 1 destroyed before end of thread 0xddc00719140
+aug. 20 00:11:03 WARLORD systemd[1004]: app-com.google.Chrome-12209.scope: Consumed 33.282s CPU time over 48min 35.715s wall clock time, 425.2M memory peak.
+aug. 20 00:11:03 WARLORD systemd[1004]: app-google\x2dchrome@1adbdee6e5c940e78a0c7fa62069e9ae.service: Consumed 7min 50.742s CPU time over 48min 36.401s wall clock time, 2.3G memory peak.
+aug. 20 00:11:05 WARLORD systemd[1004]: Started app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@6ab2c3dc4c1c4702941c0fa80d38940d.service - Start--LotRO Warlord Edition.
+aug. 20 00:11:05 WARLORD bash[27320]: Chrome kjørte ikke
+aug. 20 00:11:06 WARLORD sudo[27327]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 20 00:11:06 WARLORD sudo[27327]: wils :  PWD=/home/wils ; USER=root ; COMMAND=/home/wils/scripts/f1-boost.sh
+aug. 20 00:11:06 WARLORD kernel: tee (27334): drop_caches: 3
+aug. 20 00:11:06 WARLORD sudo[27327]: pam_unix(sudo:session): session closed for user root
+aug. 20 00:11:06 WARLORD bash[27320]: CPU-Governor: PERFORMANCE aktivert og RAM renset
+aug. 20 00:11:06 WARLORD bash[27337]: RAM ledig for kamp: 28Gi
+aug. 20 00:11:06 WARLORD bash[27320]: Starter LotRO (MangoHud & FSR aktivert)...
+aug. 20 00:11:24 WARLORD bash[27320]: =========================================
+aug. 20 00:11:24 WARLORD bash[27320]: ✓ WARLORD er klar for Middle Earth.
+aug. 20 00:11:24 WARLORD bash[27320]: =========================================
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Game: lotroclient64.exe
+aug. 20 00:11:24 WARLORD bash[27525]: info:  DXVK: v2.7.1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Build: x86_64 gcc 15.1.0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffec354560
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Extension providers:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Platform WSI
+aug. 20 00:11:24 WARLORD bash[27525]: info:    OpenVR
+aug. 20 00:11:24 WARLORD bash[27525]: info:  OpenVR: could not open registry key, status 2
+aug. 20 00:11:24 WARLORD bash[27525]: info:  OpenVR: Failed to locate module
+aug. 20 00:11:24 WARLORD bash[27525]: info:    OpenXR
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Enabled instance extensions:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_surface_maintenance1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_get_surface_capabilities2
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_surface
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_win32_surface
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Skipping: Software driver
+aug. 20 00:11:24 WARLORD bash[27525]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+aug. 20 00:11:24 WARLORD bash[27525]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+aug. 20 00:11:24 WARLORD bash[27525]: warn:  D3D11DeviceFeatures: External memory features not supported
+aug. 20 00:11:24 WARLORD bash[27525]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_10_0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Creating device:
+aug. 20 00:11:24 WARLORD bash[27525]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Driver   : radv 26.0.3
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Queues:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Graphics : (0, 0)
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Transfer : (1, 0)
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Sparse   : (0, 0)
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Memory:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Heap 0: 5.50 GiB
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Budget: 5.27 GiB
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Budget: 10.55 GiB
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  0: DEVICE_LOCAL
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  1: DEVICE_LOCAL
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:24 WARLORD bash[27525]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Enabled extensions:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_attachment_feedback_loop_layout
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_conservative_rasterization
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_custom_border_color
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_depth_clip_enable
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_depth_bias_control
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_descriptor_buffer
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_extended_dynamic_state3
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_fragment_shader_interlock
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_graphics_pipeline_library
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_hdr_metadata
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_line_rasterization
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_memory_priority
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_multi_draw
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_non_seamless_cube_map
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_robustness2
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_shader_module_identifier
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_shader_stencil_export
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_swapchain_maintenance1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_transform_feedback
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_vertex_attribute_divisor
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_load_store_op_none
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_maintenance5
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_maintenance6
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_pipeline_library
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_present_id
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_present_wait
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_swapchain
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_swapchain_mutable_format
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Enabled features:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    depthBiasClamp                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    depthBounds                    : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    depthClamp                     : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    drawIndirectFirstInstance      : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    dualSrcBlend                   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    fillModeNonSolid               : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    fragmentStoresAndAtomics       : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    fullDrawIndexUint32            : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    geometryShader                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    imageCubeArray                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    independentBlend               : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    logicOp                        : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    multiDrawIndirect              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    multiViewport                  : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    occlusionQueryPrecise          : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    pipelineStatisticsQuery        : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    robustBufferAccess             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sampleRateShading              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    samplerAnisotropy              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderClipDistance             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderCullDistance             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderFloat64                  : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderImageGatherExtended      : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderInt16                    : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderInt64                    : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderSampledImageArrayDynamicIndexing : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseBinding                  : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidencyBuffer          : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidencyImage2D         : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidencyImage3D         : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidency2Samples        : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidency4Samples        : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidency8Samples        : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidency16Samples       : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:    sparseResidencyAliased         : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderResourceResidency        : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderResourceMinLod           : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    tessellationShader             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    textureCompressionBC           : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    variableMultisampleRate        : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    vertexPipelineStoresAndAtomics : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    wideLines                      : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderDrawParameters           : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    storagePushConstant16          : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    bufferDeviceAddress            : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    descriptorIndexing             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    descriptorBindingPartiallyBound : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    drawIndirectCount              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    hostQueryReset                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    runtimeDescriptorArray         : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    samplerFilterMinmax            : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    samplerMirrorClampToEdge       : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderInt8                     : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderOutputViewportIndex      : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderOutputLayer              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    timelineSemaphore              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    uniformBufferStandardLayout    : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    vulkanMemoryModel              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    dynamicRendering               : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    maintenance4                   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    robustImageAccess              : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:    pipelineCreationCacheControl   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderDemoteToHelperInvocation : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderZeroInitializeWorkgroupMemory : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    synchronization2               : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_attachment_feedback_loop_layout:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    attachmentFeedbackLoopLayout   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_conservative_rasterization:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extConservativeRasterization   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_custom_border_color:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    customBorderColors             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    customBorderColorWithoutFormat : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_depth_clip_enable:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    depthClipEnable                : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_depth_bias_control:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    depthBiasControl               : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    leastRepresentableValueForceUnormRepresentation : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    floatRepresentation            : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    depthBiasExact                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_descriptor_buffer:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    descriptorBuffer               : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_extended_dynamic_state3:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extendedDynamicState3DepthClipEnable : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extendedDynamicState3RasterizationSamples : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extendedDynamicState3SampleMask : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extendedDynamicState3LineRasterizationMode : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_fragment_shader_interlock:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    fragmentShaderSampleInterlock  : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    fragmentShaderPixelInterlock   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_full_screen_exclusive:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extFullScreenExclusive         : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_graphics_pipeline_library:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    graphicsPipelineLibrary        : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_hdr_metadata:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extHdrMetadata                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_line_rasterization:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    rectangularLines               : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    smoothLines                    : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_memory_budget:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extMemoryBudget                : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_memory_priority:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    memoryPriority                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_multi_draw:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    multiDraw                      : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_non_seamless_cube_map:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    nonSeamlessCubeMap             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_pageable_device_local_memory:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    pageableDeviceLocalMemory      : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_robustness2:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    robustBufferAccess2            : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    robustImageAccess2             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    nullDescriptor                 : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_shader_module_identifier:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderModuleIdentifier         : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_shader_stencil_export:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extShaderStencilExport         : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_swapchain_colorspace:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    extSwapchainColorSpace         : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_swapchain_maintenance1:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    swapchainMaintenance1          : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_transform_feedback:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    transformFeedback              : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    geometryStreams                : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_EXT_vertex_attribute_divisor:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    vertexAttributeInstanceRateDivisor : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_external_memory_win32:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    khrExternalMemoryWin32         : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_external_semaphore_win32:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    khrExternalSemaphoreWin32      : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_load_store_op_none:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    khrLoadStoreOpNone             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_maintenance5:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    maintenance5                   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_maintenance6:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    maintenance6                   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_maintenance7:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    maintenance7                   : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_pipeline_library:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    khrPipelineLibrary             : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_present_id:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    presentId                      : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_present_wait:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    presentWait                    : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_swapchain:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    khrSwapchain                   : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_swapchain_mutable_format:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    khrSwapchainMutableFormat      : 1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_KHR_win32_keyed_mutex:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    khrWin32KeyedMutex             : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_NV_descriptor_pool_overallocation:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    descriptorPoolOverallocation   : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_NV_low_latency2:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    nvLowLatency2                  : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_NV_raw_access_chains:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    shaderRawAccessChains          : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_NVX_binary_import:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    nvxBinaryImport                : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  VK_NVX_image_view_handle:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    nvxImageViewHandle             : 0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Descriptor sizes (set alignment: 64)
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Sampler              : 16
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Uniform buffer       : 16
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Storage buffer       : 16
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Uniform texel buffer : 16
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Storage texel buffer : 16
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Sampled image        : 32
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Storage image        : 32
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Memory type mask for sparse resources: 0x7ad
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Creating sampler descriptor heap (32 kB)
+aug. 20 00:11:24 WARLORD bash[27525]: info:  DXVK: Graphics pipeline libraries supported
+aug. 20 00:11:24 WARLORD bash[27525]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Creating resource descriptor heap (8192 kB)
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Game: lotroclient64.exe
+aug. 20 00:11:24 WARLORD bash[27525]: info:  DXVK: v2.7.1
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Build: x86_64 gcc 15.1.0
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffee104560
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Extension providers:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    Platform WSI
+aug. 20 00:11:24 WARLORD bash[27525]: info:    OpenVR
+aug. 20 00:11:24 WARLORD bash[27525]: info:  OpenVR: could not open registry key, status 2
+aug. 20 00:11:24 WARLORD bash[27525]: info:  OpenVR: Failed to locate module
+aug. 20 00:11:24 WARLORD bash[27525]: info:    OpenXR
+aug. 20 00:11:24 WARLORD bash[27525]: info:  Enabled instance extensions:
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_EXT_surface_maintenance1
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_get_surface_capabilities2
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_surface
+aug. 20 00:11:24 WARLORD bash[27525]: info:    VK_KHR_win32_surface
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.3)
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.3)
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Skipping: Software driver
+aug. 20 00:11:25 WARLORD bash[27525]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+aug. 20 00:11:25 WARLORD bash[27525]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+aug. 20 00:11:25 WARLORD bash[27525]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Creating device:
+aug. 20 00:11:25 WARLORD bash[27525]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Driver   : radv 26.0.3
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Queues:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Graphics : (0, 0)
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Transfer : (1, 0)
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Sparse   : (0, 0)
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Memory:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Heap 0: 5.50 GiB
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Budget: 5.27 GiB
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Budget: 10.55 GiB
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  0: DEVICE_LOCAL
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  1: DEVICE_LOCAL
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:25 WARLORD bash[27525]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Enabled extensions:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_attachment_feedback_loop_layout
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_conservative_rasterization
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_custom_border_color
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_depth_clip_enable
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_depth_bias_control
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_descriptor_buffer
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_extended_dynamic_state3
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_fragment_shader_interlock
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_graphics_pipeline_library
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_hdr_metadata
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_line_rasterization
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_memory_priority
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_multi_draw
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_non_seamless_cube_map
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_robustness2
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_shader_module_identifier
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_shader_stencil_export
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_swapchain_maintenance1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_transform_feedback
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_EXT_vertex_attribute_divisor
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_load_store_op_none
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_maintenance5
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_maintenance6
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_pipeline_library
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_present_id
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_present_wait
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_swapchain
+aug. 20 00:11:25 WARLORD bash[27525]: info:    VK_KHR_swapchain_mutable_format
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Enabled features:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    depthBiasClamp                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    depthBounds                    : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    depthClamp                     : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    drawIndirectFirstInstance      : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    dualSrcBlend                   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    fillModeNonSolid               : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    fragmentStoresAndAtomics       : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    fullDrawIndexUint32            : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    geometryShader                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    imageCubeArray                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    independentBlend               : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    logicOp                        : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    multiDrawIndirect              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    multiViewport                  : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    occlusionQueryPrecise          : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    pipelineStatisticsQuery        : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    robustBufferAccess             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sampleRateShading              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    samplerAnisotropy              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderClipDistance             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderCullDistance             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderFloat64                  : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderImageGatherExtended      : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderInt16                    : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderInt64                    : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderSampledImageArrayDynamicIndexing : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseBinding                  : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidencyBuffer          : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidencyImage2D         : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidencyImage3D         : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidency2Samples        : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidency4Samples        : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidency8Samples        : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidency16Samples       : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:    sparseResidencyAliased         : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderResourceResidency        : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderResourceMinLod           : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    tessellationShader             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    textureCompressionBC           : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    variableMultisampleRate        : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    vertexPipelineStoresAndAtomics : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    wideLines                      : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderDrawParameters           : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    storagePushConstant16          : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    bufferDeviceAddress            : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    descriptorIndexing             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    descriptorBindingPartiallyBound : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    drawIndirectCount              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    hostQueryReset                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    runtimeDescriptorArray         : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    samplerFilterMinmax            : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    samplerMirrorClampToEdge       : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderInt8                     : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderOutputViewportIndex      : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderOutputLayer              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    timelineSemaphore              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    uniformBufferStandardLayout    : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    vulkanMemoryModel              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    dynamicRendering               : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    maintenance4                   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    robustImageAccess              : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:    pipelineCreationCacheControl   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderDemoteToHelperInvocation : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderZeroInitializeWorkgroupMemory : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    synchronization2               : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_attachment_feedback_loop_layout:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    attachmentFeedbackLoopLayout   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_conservative_rasterization:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extConservativeRasterization   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_custom_border_color:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    customBorderColors             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    customBorderColorWithoutFormat : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_depth_clip_enable:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    depthClipEnable                : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_depth_bias_control:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    depthBiasControl               : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    leastRepresentableValueForceUnormRepresentation : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    floatRepresentation            : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    depthBiasExact                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_descriptor_buffer:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    descriptorBuffer               : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_extended_dynamic_state3:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extendedDynamicState3DepthClipEnable : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extendedDynamicState3RasterizationSamples : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extendedDynamicState3SampleMask : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extendedDynamicState3LineRasterizationMode : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_fragment_shader_interlock:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    fragmentShaderSampleInterlock  : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    fragmentShaderPixelInterlock   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_full_screen_exclusive:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extFullScreenExclusive         : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_graphics_pipeline_library:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    graphicsPipelineLibrary        : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_hdr_metadata:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extHdrMetadata                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_line_rasterization:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    rectangularLines               : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    smoothLines                    : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_memory_budget:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extMemoryBudget                : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_memory_priority:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    memoryPriority                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_multi_draw:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    multiDraw                      : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_non_seamless_cube_map:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    nonSeamlessCubeMap             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_pageable_device_local_memory:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    pageableDeviceLocalMemory      : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_robustness2:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    robustBufferAccess2            : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    robustImageAccess2             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    nullDescriptor                 : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_shader_module_identifier:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderModuleIdentifier         : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_shader_stencil_export:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extShaderStencilExport         : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_swapchain_colorspace:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    extSwapchainColorSpace         : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_swapchain_maintenance1:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    swapchainMaintenance1          : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_transform_feedback:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    transformFeedback              : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    geometryStreams                : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_EXT_vertex_attribute_divisor:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    vertexAttributeInstanceRateDivisor : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_external_memory_win32:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    khrExternalMemoryWin32         : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_external_semaphore_win32:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    khrExternalSemaphoreWin32      : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_load_store_op_none:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    khrLoadStoreOpNone             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_maintenance5:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    maintenance5                   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_maintenance6:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    maintenance6                   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_maintenance7:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    maintenance7                   : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_pipeline_library:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    khrPipelineLibrary             : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_present_id:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    presentId                      : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_present_wait:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    presentWait                    : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_swapchain:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    khrSwapchain                   : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_swapchain_mutable_format:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    khrSwapchainMutableFormat      : 1
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_KHR_win32_keyed_mutex:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    khrWin32KeyedMutex             : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_NV_descriptor_pool_overallocation:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    descriptorPoolOverallocation   : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_NV_low_latency2:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    nvLowLatency2                  : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_NV_raw_access_chains:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    shaderRawAccessChains          : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_NVX_binary_import:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    nvxBinaryImport                : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  VK_NVX_image_view_handle:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    nvxImageViewHandle             : 0
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Descriptor sizes (set alignment: 64)
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Sampler              : 16
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Uniform buffer       : 16
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Storage buffer       : 16
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Uniform texel buffer : 16
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Storage texel buffer : 16
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Sampled image        : 32
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Storage image        : 32
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Memory type mask for sparse resources: 0x7ad
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Creating sampler descriptor heap (32 kB)
+aug. 20 00:11:25 WARLORD bash[27525]: info:  DXVK: Graphics pipeline libraries supported
+aug. 20 00:11:25 WARLORD bash[27525]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Creating resource descriptor heap (8192 kB)
+aug. 20 00:11:25 WARLORD bash[27525]: warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+aug. 20 00:11:25 WARLORD bash[27525]: warn:  0ec870a6-5d7e-4c22-8cfc-5baae07616ed
+aug. 20 00:11:25 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 00:11:25 WARLORD bash[27525]: info:  DXVK: Using 8 compiler threads
+aug. 20 00:11:25 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 00:11:25 WARLORD kded6[1274]: Registering ":1.165/StatusNotifierItem" to system tray
+aug. 20 00:11:25 WARLORD kded6[1274]: Service  ":1.165" unregistered
+aug. 20 00:11:25 WARLORD kded6[1274]: Registering ":1.166/StatusNotifierItem" to system tray
+aug. 20 00:11:25 WARLORD kded6[1274]: Service  ":1.166" unregistered
+aug. 20 00:11:25 WARLORD kded6[1274]: Registering ":1.167/StatusNotifierItem" to system tray
+aug. 20 00:11:25 WARLORD kded6[1274]: Service  ":1.167" unregistered
+aug. 20 00:11:25 WARLORD kded6[1274]: Registering ":1.168/StatusNotifierItem" to system tray
+aug. 20 00:11:25 WARLORD kded6[1274]: Service  ":1.168" unregistered
+aug. 20 00:11:25 WARLORD kded6[1274]: Registering ":1.169/StatusNotifierItem" to system tray
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 00:11:25 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 00:11:25 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 00:11:25 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 00:15:01 WARLORD CRON[28630]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:15:01 WARLORD CRON[28632]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:15:02 WARLORD kernel: sh (28632): drop_caches: 3
+aug. 20 00:15:02 WARLORD CRON[28630]: pam_unix(cron:session): session closed for user root
+aug. 20 00:17:01 WARLORD CRON[29183]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:17:01 WARLORD CRON[29185]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+aug. 20 00:17:01 WARLORD CRON[29183]: pam_unix(cron:session): session closed for user root
+aug. 20 00:20:01 WARLORD CRON[30014]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:20:01 WARLORD CRON[30016]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:20:01 WARLORD kernel: sh (30016): drop_caches: 3
+aug. 20 00:20:01 WARLORD CRON[30014]: pam_unix(cron:session): session closed for user root
+aug. 20 00:24:10 WARLORD wpa_supplicant[874]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 20 00:25:01 WARLORD CRON[31398]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:25:01 WARLORD CRON[31400]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:25:01 WARLORD kernel: sh (31400): drop_caches: 3
+aug. 20 00:25:01 WARLORD CRON[31398]: pam_unix(cron:session): session closed for user root
+aug. 20 00:25:07 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 20 00:25:07 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 20 00:25:07 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 20 00:30:01 WARLORD CRON[32791]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:30:01 WARLORD CRON[32793]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:30:01 WARLORD kernel: sh (32793): drop_caches: 3
+aug. 20 00:30:01 WARLORD CRON[32791]: pam_unix(cron:session): session closed for user root
+aug. 20 00:35:01 WARLORD CRON[34166]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:35:01 WARLORD CRON[34169]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:35:01 WARLORD kernel: sh (34169): drop_caches: 3
+aug. 20 00:35:01 WARLORD CRON[34166]: pam_unix(cron:session): session closed for user root
+aug. 20 00:40:01 WARLORD CRON[35551]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:40:01 WARLORD CRON[35554]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:40:01 WARLORD CRON[35551]: pam_unix(cron:session): session closed for user root
+aug. 20 00:40:01 WARLORD kernel: sh (35554): drop_caches: 3
+aug. 20 00:41:27 WARLORD kwin_wayland_wrapper[1195]: Key repeat discarded, Wayland compositor doesn't seem to be processing events fast enough!
+aug. 20 00:41:37 WARLORD systemd[1]: Starting logrotate.service - Rotate log files...
+aug. 20 00:41:37 WARLORD systemd[1]: rsyslog.service: Sent signal SIGHUP to main process 754 (rsyslogd) on client request.
+aug. 20 00:41:37 WARLORD rsyslogd[754]: [origin software="rsyslogd" swVersion="8.2512.0" x-pid="754" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+aug. 20 00:41:37 WARLORD systemd[1]: logrotate.service: Deactivated successfully.
+aug. 20 00:41:37 WARLORD systemd[1]: Finished logrotate.service - Rotate log files.
+aug. 20 00:42:05 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 00:42:05 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 00:42:05 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 00:42:05 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 00:42:05 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 00:42:05 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 00:42:05 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 00:42:16 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 00:42:17 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 00:42:17 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 00:42:17 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 00:42:17 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 00:42:17 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 00:42:17 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 00:42:35 WARLORD systemd[1]: Starting motd-news.service - Message of the Day...
+aug. 20 00:42:35 WARLORD systemd[1]: motd-news.service: Deactivated successfully.
+aug. 20 00:42:35 WARLORD systemd[1]: Finished motd-news.service - Message of the Day.
+aug. 20 00:45:01 WARLORD CRON[36990]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:45:01 WARLORD CRON[36994]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:45:02 WARLORD kernel: sh (36994): drop_caches: 3
+aug. 20 00:45:02 WARLORD CRON[36990]: pam_unix(cron:session): session closed for user root
+aug. 20 00:50:01 WARLORD CRON[38365]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:50:01 WARLORD CRON[38367]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:50:01 WARLORD kernel: sh (38367): drop_caches: 3
+aug. 20 00:50:01 WARLORD CRON[38365]: pam_unix(cron:session): session closed for user root
+aug. 20 00:55:01 WARLORD CRON[39739]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 00:55:01 WARLORD CRON[39741]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 00:55:01 WARLORD kernel: sh (39741): drop_caches: 3
+aug. 20 00:55:01 WARLORD CRON[39739]: pam_unix(cron:session): session closed for user root
+aug. 20 01:00:01 WARLORD CRON[41114]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:00:01 WARLORD CRON[41115]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:00:01 WARLORD CRON[41119]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:00:01 WARLORD CRON[41120]: (root) CMD (timeshift --check --scripted)
+aug. 20 01:00:01 WARLORD kernel: sh (41119): drop_caches: 3
+aug. 20 01:00:01 WARLORD CRON[41115]: pam_unix(cron:session): session closed for user root
+aug. 20 01:00:02 WARLORD crontab[41146]: (root) LIST (root)
+aug. 20 01:00:02 WARLORD crontab[41147]: (root) LIST (root)
+aug. 20 01:00:02 WARLORD systemd[1]: run-timeshift-41120-backup.mount: Deactivated successfully.
+aug. 20 01:00:02 WARLORD CRON[41114]: pam_unix(cron:session): session closed for user root
+aug. 20 01:05:01 WARLORD CRON[42534]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:05:01 WARLORD CRON[42536]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:05:01 WARLORD kernel: sh (42536): drop_caches: 3
+aug. 20 01:05:01 WARLORD CRON[42534]: pam_unix(cron:session): session closed for user root
+aug. 20 01:10:01 WARLORD CRON[43936]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:10:01 WARLORD CRON[43938]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:10:01 WARLORD kernel: sh (43938): drop_caches: 3
+aug. 20 01:10:01 WARLORD CRON[43936]: pam_unix(cron:session): session closed for user root
+aug. 20 01:13:54 WARLORD sshd-session[25920]: Received disconnect from 192.168.10.174 port 55454:11: Normal Shutdown
+aug. 20 01:13:54 WARLORD sshd-session[25920]: Disconnected from user wils 192.168.10.174 port 55454
+aug. 20 01:13:54 WARLORD sshd-session[25889]: pam_unix(sshd:session): session closed for user wils
+aug. 20 01:13:54 WARLORD sshd-session[25889]: syslogin_perform_logout: logout() returned an error
+aug. 20 01:13:54 WARLORD systemd-logind[725]: Session 23 logged out. Waiting for processes to exit.
+aug. 20 01:13:54 WARLORD systemd[1]: session-23.scope: Deactivated successfully.
+aug. 20 01:13:54 WARLORD systemd[1]: session-23.scope: Consumed 13.506s CPU time over 1h 7min 9.199s wall clock time, 28M memory peak.
+aug. 20 01:13:54 WARLORD systemd-logind[725]: Removed session 23.
+aug. 20 01:14:11 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:14:12 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:14:12 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:14:12 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:14:12 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:14:12 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:14:12 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:15:01 WARLORD CRON[45335]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:15:01 WARLORD CRON[45337]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:15:01 WARLORD kernel: sh (45337): drop_caches: 3
+aug. 20 01:15:01 WARLORD CRON[45335]: pam_unix(cron:session): session closed for user root
+aug. 20 01:17:01 WARLORD CRON[45908]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:17:01 WARLORD CRON[45910]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+aug. 20 01:17:01 WARLORD CRON[45908]: pam_unix(cron:session): session closed for user root
+aug. 20 01:20:01 WARLORD CRON[46736]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:20:01 WARLORD CRON[46739]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:20:01 WARLORD kernel: sh (46739): drop_caches: 3
+aug. 20 01:20:01 WARLORD CRON[46736]: pam_unix(cron:session): session closed for user root
+aug. 20 01:20:15 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:20:15 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:20:15 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:20:15 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:20:15 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:20:15 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:20:15 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:23:28 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:23:28 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:23:28 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:23:28 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:23:28 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:23:28 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:23:28 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:25:01 WARLORD CRON[48259]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:25:01 WARLORD CRON[48261]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:25:01 WARLORD kernel: sh (48261): drop_caches: 3
+aug. 20 01:25:01 WARLORD CRON[48259]: pam_unix(cron:session): session closed for user root
+aug. 20 01:25:43 WARLORD wpa_supplicant[874]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 20 01:27:31 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 20 01:27:31 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 20 01:27:31 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 20 01:30:01 WARLORD CRON[49702]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:30:01 WARLORD CRON[49706]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:30:01 WARLORD kernel: sh (49706): drop_caches: 3
+aug. 20 01:30:01 WARLORD CRON[49702]: pam_unix(cron:session): session closed for user root
+aug. 20 01:33:22 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1145 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 20 01:33:22 WARLORD systemd[1004]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 20 01:33:23 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 20 01:33:23 WARLORD systemd[1004]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 20 01:33:23 WARLORD spectacle[50685]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 20 01:33:23 WARLORD spectacle[50685]: spectacle: Detected Tesseract version "5.5.0"
+aug. 20 01:33:23 WARLORD spectacle[50685]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 20 01:33:29 WARLORD systemd[1004]: app-org.kde.spectacle.service: Consumed 1.883s CPU time over 6.400s wall clock time, 408.9M memory peak.
+aug. 20 01:33:33 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:33:33 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:33:33 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:33:33 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:33:33 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:33:33 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:33:33 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:33:47 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1145 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 20 01:33:47 WARLORD systemd[1004]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 20 01:33:47 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 20 01:33:47 WARLORD systemd[1004]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 20 01:33:47 WARLORD spectacle[50898]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 20 01:33:47 WARLORD spectacle[50898]: spectacle: Detected Tesseract version "5.5.0"
+aug. 20 01:33:47 WARLORD spectacle[50898]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 20 01:33:54 WARLORD systemd[1004]: app-org.kde.spectacle.service: Consumed 1.646s CPU time over 7.703s wall clock time, 167.8M memory peak.
+aug. 20 01:33:57 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:33:57 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:33:57 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:33:57 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:33:57 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:33:57 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:33:57 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:34:38 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1145 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 20 01:34:38 WARLORD systemd[1004]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 20 01:34:38 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 20 01:34:38 WARLORD systemd[1004]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 20 01:34:38 WARLORD spectacle[51210]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 20 01:34:38 WARLORD spectacle[51210]: spectacle: Detected Tesseract version "5.5.0"
+aug. 20 01:34:38 WARLORD spectacle[51210]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 20 01:34:42 WARLORD systemd[1004]: app-org.kde.spectacle.service: Consumed 1.525s CPU time over 3.640s wall clock time, 156.5M memory peak.
+aug. 20 01:34:44 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:34:44 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:34:44 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:34:44 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:34:44 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:34:44 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:34:44 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:35:01 WARLORD CRON[51408]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:35:01 WARLORD CRON[51410]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:35:02 WARLORD kernel: sh (51410): drop_caches: 3
+aug. 20 01:35:02 WARLORD CRON[51408]: pam_unix(cron:session): session closed for user root
+aug. 20 01:35:02 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1145 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 20 01:35:02 WARLORD systemd[1004]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 20 01:35:03 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 20 01:35:03 WARLORD systemd[1004]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 20 01:35:03 WARLORD spectacle[51421]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 20 01:35:03 WARLORD spectacle[51421]: spectacle: Detected Tesseract version "5.5.0"
+aug. 20 01:35:03 WARLORD spectacle[51421]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 20 01:35:06 WARLORD systemd[1004]: app-org.kde.spectacle.service: Consumed 1.689s CPU time over 4.338s wall clock time, 404M memory peak.
+aug. 20 01:35:10 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:35:10 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:35:10 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:35:10 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:35:10 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:35:10 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:35:10 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:40:01 WARLORD CRON[52857]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:40:01 WARLORD CRON[52859]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:40:01 WARLORD kernel: sh (52859): drop_caches: 3
+aug. 20 01:40:01 WARLORD CRON[52857]: pam_unix(cron:session): session closed for user root
+aug. 20 01:45:01 WARLORD CRON[54241]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:45:01 WARLORD CRON[54243]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:45:01 WARLORD kernel: sh (54243): drop_caches: 3
+aug. 20 01:45:01 WARLORD CRON[54241]: pam_unix(cron:session): session closed for user root
+aug. 20 01:46:00 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1145 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 20 01:46:00 WARLORD systemd[1004]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 20 01:46:00 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 20 01:46:00 WARLORD systemd[1004]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 20 01:46:00 WARLORD spectacle[54518]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 20 01:46:00 WARLORD spectacle[54518]: spectacle: Detected Tesseract version "5.5.0"
+aug. 20 01:46:00 WARLORD spectacle[54518]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 20 01:46:04 WARLORD systemd[1004]: app-org.kde.spectacle.service: Consumed 1.653s CPU time over 4.332s wall clock time, 403.2M memory peak.
+aug. 20 01:46:06 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:46:06 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:46:06 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:46:06 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:46:06 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:46:06 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:46:06 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:47:09 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:47:09 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:47:09 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:47:09 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:47:09 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:47:09 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:47:09 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:49:43 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1145 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 20 01:49:43 WARLORD systemd[1004]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 20 01:49:43 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 20 01:49:43 WARLORD systemd[1004]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 20 01:49:43 WARLORD spectacle[55678]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 20 01:49:43 WARLORD spectacle[55678]: spectacle: Detected Tesseract version "5.5.0"
+aug. 20 01:49:43 WARLORD spectacle[55678]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 20 01:49:46 WARLORD systemd[1004]: app-org.kde.spectacle.service: Consumed 1.519s CPU time over 3.352s wall clock time, 162.3M memory peak.
+aug. 20 01:49:48 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:49:48 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:49:48 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:49:48 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:49:48 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:49:48 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:49:48 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:50:01 WARLORD CRON[55853]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:50:01 WARLORD CRON[55855]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:50:01 WARLORD kernel: sh (55855): drop_caches: 3
+aug. 20 01:50:01 WARLORD CRON[55853]: pam_unix(cron:session): session closed for user root
+aug. 20 01:52:01 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1145 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 20 01:52:01 WARLORD systemd[1004]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 20 01:52:02 WARLORD dbus-daemon[1027]: [session uid=1000 pid=1027 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 20 01:52:02 WARLORD systemd[1004]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 20 01:52:02 WARLORD spectacle[56400]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 20 01:52:02 WARLORD spectacle[56400]: spectacle: Detected Tesseract version "5.5.0"
+aug. 20 01:52:02 WARLORD spectacle[56400]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 20 01:52:05 WARLORD systemd[1004]: app-org.kde.spectacle.service: Consumed 1.685s CPU time over 3.818s wall clock time, 409.1M memory peak.
+aug. 20 01:52:08 WARLORD bash[27525]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 20 01:52:08 WARLORD bash[27525]: info:  Presenter: Actual swapchain properties:
+aug. 20 01:52:08 WARLORD bash[27525]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 20 01:52:08 WARLORD bash[27525]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 20 01:52:08 WARLORD bash[27525]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 20 01:52:08 WARLORD bash[27525]: info:    Buffer size:  3200x1800
+aug. 20 01:52:08 WARLORD bash[27525]: info:    Image count:  4
+aug. 20 01:55:01 WARLORD CRON[57316]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 20 01:55:01 WARLORD CRON[57320]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 20 01:55:01 WARLORD kernel: sh (57320): drop_caches: 3
+aug. 20 01:55:01 WARLORD CRON[57316]: pam_unix(cron:session): session closed for user root
+aug. 20 01:55:31 WARLORD kded6[1274]: Service  ":1.169" unregistered
+aug. 20 01:55:32 WARLORD systemd[1004]: app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@6ab2c3dc4c1c4702941c0fa80d38940d.service: Consumed 1h 10min 47.342s CPU time over 1h 44min 26.686s wall clock time, 6.8G memory peak.
+aug. 20 01:55:37 WARLORD sudo[57515]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 20 01:55:37 WARLORD sudo[57515]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+aug. 20 01:55:37 WARLORD sudo[57515]: pam_unix(sudo:session): session closed for user root
+aug. 20 01:55:37 WARLORD sudo[57519]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 20 01:55:37 WARLORD sudo[57519]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
