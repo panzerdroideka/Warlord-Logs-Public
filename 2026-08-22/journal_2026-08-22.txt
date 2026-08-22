@@ -3812,3 +3812,1187 @@ aug. 22 19:40:36 WARLORD sudo[4530]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; US
 aug. 22 19:40:36 WARLORD sudo[4530]: pam_unix(sudo:session): session closed for user root
 aug. 22 19:40:36 WARLORD sudo[4534]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 aug. 22 19:40:36 WARLORD sudo[4534]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+aug. 22 19:40:36 WARLORD sudo[4534]: pam_unix(sudo:session): session closed for user root
+aug. 22 19:40:55 WARLORD plasmashell[1464]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+aug. 22 19:40:55 WARLORD systemd[1084]: Started app-org.kde.dolphin@023fb328383c472ca7babec2ffb2e078.service - Dolphin - Filbehandler.
+aug. 22 19:40:56 WARLORD dolphin[4585]: QProcess: Destroyed while process ("git") is still running.
+aug. 22 19:41:01 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:41:01 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:41:07 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:41:07 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:41:18 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:41:18 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:41:19 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:41:28 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:41:31 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:41:38 WARLORD dolphin[4611]: kf.kio.workers.trash: Creating trash for "/" failed - no permission?
+aug. 22 19:41:46 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/.local/share/Trash/files/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:41:47 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-bcb19fe4-e6d5-43c0-94ae-ab5977d1ed."
+aug. 22 19:41:47 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-bcb19fe4-e6d5-43c0-94ae-ab5977d1ed."
+aug. 22 19:41:47 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-bcb19fe4-e6d5-43c0-94ae-ab5977d1ed."
+aug. 22 19:41:47 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-bcb19fe4-e6d5-43c0-94ae-ab5977d1ed."
+aug. 22 19:41:48 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-bcb19fe4-e6d5-43c0-94ae-ab5977d1ed."
+aug. 22 19:41:48 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-0df6ad05-d62a-48a4-ad8c-50fdedc00b."
+aug. 22 19:41:48 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-0df6ad05-d62a-48a4-ad8c-50fdedc00b."
+aug. 22 19:41:48 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-0df6ad05-d62a-48a4-ad8c-50fdedc00b."
+aug. 22 19:41:48 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-0df6ad05-d62a-48a4-ad8c-50fdedc00b."
+aug. 22 19:41:48 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-0df6ad05-d62a-48a4-ad8c-50fdedc00b."
+aug. 22 19:41:50 WARLORD dolphin[4585]: "Fila eller mappa /home/wils/.local/share/Trash/files/0df6ad05-d62a-48a4-ad8c-50fdedc00b finnes ikke."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Combat_20260711_1.txt."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Combat_20260711_1.txt."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Combat_20260711_1.txt."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Combat_20260711_1.txt."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-f677a9dc-7360-40e6-aa34-7f9c36c0e7."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-f677a9dc-7360-40e6-aa34-7f9c36c0e7."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-f677a9dc-7360-40e6-aa34-7f9c36c0e7."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134554.png."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134554.png."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134554.png."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134554.png."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-f677a9dc-7360-40e6-aa34-7f9c36c0e7."
+aug. 22 19:41:51 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Combat_20260711_1.txt."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134616.png."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134616.png."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134616.png."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134616.png."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-Skjermbilde_20260812_134616.png."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-build."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-build."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-build."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-build."
+aug. 22 19:41:52 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: "Fikk ikke tilgang til trash:/0-build."
+aug. 22 19:41:54 WARLORD dolphin[4771]: kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+aug. 22 19:41:54 WARLORD dolphin[4771]: kf.kio.core: An error occurred during write. The worker terminates now.
+aug. 22 19:42:01 WARLORD dolphin[4585]: "Nektet tilgang til trash:/0-y/apk.static."
+aug. 22 19:42:10 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/.local/share/Trash/files/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:42:14 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/.local/share/Trash/files/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:42:16 WARLORD kded6[1433]: ApportEvent :: hidden= false apport-kde= true apport-gtk= false
+aug. 22 19:42:16 WARLORD kded6[1433]: Using ApportEvent
+aug. 22 19:42:16 WARLORD kded6[1433]: ""
+aug. 22 19:42:16 WARLORD kded6[1433]: foundCrashFile false foundAutoUpload false
+aug. 22 19:42:16 WARLORD kded6[1433]: QDBusArgument& operator<<(QDBusArgument&, const DeviceList&) is noop
+aug. 22 19:42:16 WARLORD kded6[1433]: KDE Languages: QList()
+aug. 22 19:42:16 WARLORD dbus-daemon[723]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.35' (uid=1000 pid=1433 comm="/usr/bin/kded6")
+aug. 22 19:42:16 WARLORD dbus-daemon[723]: [system] Activation via systemd failed for unit 'packagekit.service': Unit packagekit.service is masked.
+aug. 22 19:42:16 WARLORD kded6[1433]: got dbus error; abort
+aug. 22 19:42:16 WARLORD kded6[1433]: QList("nb_NO.UTF-8", "nb", "_NO", "NO", ".UTF-8", "UTF-8")
+aug. 22 19:42:16 WARLORD kded6[1433]: System Language Matchables: QList("nb_NO", "nb")
+aug. 22 19:42:19 WARLORD dolphin[4796]: kf.kio.workers.trash: Creating trash for "/0-y" failed - no permission?
+aug. 22 19:42:31 WARLORD dolphin[4796]: kf.kio.workers.trash: Creating trash for "/0-y" failed - no permission?
+aug. 22 19:42:33 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/.local/share/Trash/files/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:42:35 WARLORD dolphin[4585]: "Klarte ikke slette fila /home/wils/.local/share/Trash/files/y/cache_apk_armv7/APKINDEX.bc99f2f3.tar.gz."
+aug. 22 19:42:38 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:42:38 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:42:45 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:42:45 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:42:53 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:42:53 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:06 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:06 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:13 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:13 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:13 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:13 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:13 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:13 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:13 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:14 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:14 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:25 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:25 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:32 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:32 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:32 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:32 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:43:51 WARLORD dolphin[4585]: This plugin supports grabbing the mouse only for popup windows
+aug. 22 19:43:51 WARLORD dolphin[4585]: This plugin supports grabbing the mouse only for popup windows
+aug. 22 19:44:07 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:44:07 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:44:17 WARLORD dbus-daemon[723]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.69' (uid=1000 pid=1740 comm="/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier")
+aug. 22 19:44:17 WARLORD dbus-daemon[723]: [system] Activation via systemd failed for unit 'packagekit.service': Unit packagekit.service is masked.
+aug. 22 19:44:31 WARLORD systemd[1084]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache skipped, unmet condition check ConditionPathExists=/home/wils/.launchpadlib/api.launchpad.net/cache
+aug. 22 19:44:37 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:44:37 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:44:57 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:44:57 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:45:01 WARLORD CRON[5005]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 19:45:01 WARLORD CRON[5007]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 19:45:01 WARLORD kernel: sh (5007): drop_caches: 3
+aug. 22 19:45:01 WARLORD CRON[5005]: pam_unix(cron:session): session closed for user root
+aug. 22 19:45:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:45:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:45:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:45:11 WARLORD dolphin[4585]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 19:45:20 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/action_finner.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/action_finner.sh") mode= 509
+aug. 22 19:45:20 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/btrfs-info.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/btrfs-info.sh") mode= 436
+aug. 22 19:45:20 WARLORD dolphin[4585]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+aug. 22 19:45:20 WARLORD dolphin[4585]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/clear-cache.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/clear-cache.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/close_vault.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/close_vault.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/etterbrenner.py") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/etterbrenner.py") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/etterbrenner.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/etterbrenner.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/etterbrenner_py.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/etterbrenner_py.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/etterbrenner_sh.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/etterbrenner_sh.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/f1-boost.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/f1-boost.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/fix.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/fix.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/gaming-start.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/gaming-start.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/gaming-stop.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/gaming-stop.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/gitsync.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/gitsync.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/gitsync_sh.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/gitsync_sh.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/grub_edit.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/grub_edit.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/kamp_telemetri.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/kamp_telemetri.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/kamp_telemetri.sh~") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/kamp_telemetri.sh~") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/kamp_telemetri_sh.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/kamp_telemetri_sh.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/kommandosenter.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/kommandosenter.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/lagshort.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/lagshort.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/lagshort_auto.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/lagshort_auto.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/logg_arkiv.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/logg_arkiv.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/lotro-shorts.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/lotro-shorts.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/make_short.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/make_short.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/manuell_battlereport.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/manuell_battlereport.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/manuell_battlereport_sh.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/manuell_battlereport_sh.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/mission_end.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/mission_end.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/maale_reboot.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/maale_reboot.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/obsidian_sync.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/obsidian_sync.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/open_vault.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/open_vault.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/pitch_finder.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/pitch_finder.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/push-status.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/push-status.sh") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/rens.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/rens.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/sjekk_spagetti.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/sjekk_spagetti.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/sjekk_spagetti_sh.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/sjekk_spagetti_sh.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/start_ai.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/start_ai.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/start_ollama.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/start_ollama.sh") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/start_warlord_ai.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/start_warlord_ai.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/sync_all_git.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/sync_all_git.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/sync_kernel_config.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/sync_kernel_config.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/tags.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/tags.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/top_temp.conkyrc") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/top_temp.conkyrc") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/vedlikehold.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/vedlikehold.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/warlord_finale.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/warlord_finale.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/warlord_finale_sh.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/warlord_finale_sh.txt") mode= 436
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/warlord_snapshot.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/warlord_snapshot.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/warlord-telemetri.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/warlord-telemetri.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/wils-immutize-vault.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/wils-immutize-vault.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/wils-prep-upgrade.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/wils-prep-upgrade.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/wils-verify-upgrade.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/wils-verify-upgrade.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/yt_format.py") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/yt_format.py") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/yt-stats.sh") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/yt-stats.sh") mode= 509
+aug. 22 19:45:25 WARLORD dolphin[4585]: kf.kio.workers.file: copy() QUrl("file:///home/wils/scripts/yt-stats_sh.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/scripts/yt-stats_sh.txt") mode= 436
+aug. 22 19:45:38 WARLORD systemd[1084]: app-org.kde.dolphin@023fb328383c472ca7babec2ffb2e078.service: Consumed 17.217s CPU time over 4min 43.069s wall clock time, 473.5M memory peak.
+aug. 22 19:46:03 WARLORD bash[2155]: =========================================
+aug. 22 19:46:03 WARLORD bash[2155]: ✓ WARLORD er klar for Middle Earth.
+aug. 22 19:46:03 WARLORD bash[2155]: =========================================
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Game: lotroclient64.exe
+aug. 22 19:46:04 WARLORD bash[5378]: info:  DXVK: v2.7.1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Build: x86_64 gcc 15.1.0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffec354560
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Extension providers:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Platform WSI
+aug. 22 19:46:04 WARLORD bash[5378]: info:    OpenVR
+aug. 22 19:46:04 WARLORD bash[5378]: info:  OpenVR: could not open registry key, status 2
+aug. 22 19:46:04 WARLORD bash[5378]: info:  OpenVR: Failed to locate module
+aug. 22 19:46:04 WARLORD bash[5378]: info:    OpenXR
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Enabled instance extensions:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_surface_maintenance1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_get_surface_capabilities2
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_surface
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_win32_surface
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.8)
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.8)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Skipping: Software driver
+aug. 22 19:46:04 WARLORD bash[5378]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+aug. 22 19:46:04 WARLORD bash[5378]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+aug. 22 19:46:04 WARLORD bash[5378]: warn:  D3D11DeviceFeatures: External memory features not supported
+aug. 22 19:46:04 WARLORD bash[5378]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_10_0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Creating device:
+aug. 22 19:46:04 WARLORD bash[5378]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Driver   : radv 26.0.8
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Queues:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Graphics : (0, 0)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Transfer : (1, 0)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Sparse   : (0, 0)
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Memory:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Heap 0: 5.50 GiB
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Budget: 5.27 GiB
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Budget: 10.55 GiB
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  0: DEVICE_LOCAL
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  1: DEVICE_LOCAL
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Enabled extensions:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_attachment_feedback_loop_layout
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_conservative_rasterization
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_custom_border_color
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_depth_clip_enable
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_depth_bias_control
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_descriptor_buffer
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_extended_dynamic_state3
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_fragment_shader_interlock
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_graphics_pipeline_library
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_hdr_metadata
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_line_rasterization
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_memory_priority
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_multi_draw
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_non_seamless_cube_map
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_robustness2
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_shader_module_identifier
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_shader_stencil_export
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_swapchain_maintenance1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_transform_feedback
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_vertex_attribute_divisor
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_load_store_op_none
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_maintenance5
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_maintenance6
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_pipeline_library
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_present_id
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_present_wait
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_swapchain
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_swapchain_mutable_format
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Enabled features:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBiasClamp                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBounds                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthClamp                     : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    drawIndirectFirstInstance      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    dualSrcBlend                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fillModeNonSolid               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fragmentStoresAndAtomics       : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fullDrawIndexUint32            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    geometryShader                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    imageCubeArray                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    independentBlend               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    logicOp                        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    multiDrawIndirect              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    multiViewport                  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    occlusionQueryPrecise          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    pipelineStatisticsQuery        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustBufferAccess             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sampleRateShading              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    samplerAnisotropy              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderClipDistance             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderCullDistance             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderFloat64                  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderImageGatherExtended      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderInt16                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderInt64                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderSampledImageArrayDynamicIndexing : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseBinding                  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyBuffer          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyImage2D         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyImage3D         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency2Samples        : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency4Samples        : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency8Samples        : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency16Samples       : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyAliased         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderResourceResidency        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderResourceMinLod           : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    tessellationShader             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    textureCompressionBC           : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    variableMultisampleRate        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vertexPipelineStoresAndAtomics : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    wideLines                      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderDrawParameters           : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    storagePushConstant16          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    bufferDeviceAddress            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorIndexing             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBindingPartiallyBound : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    drawIndirectCount              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    hostQueryReset                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    runtimeDescriptorArray         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    samplerFilterMinmax            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    samplerMirrorClampToEdge       : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderInt8                     : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderOutputViewportIndex      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderOutputLayer              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    timelineSemaphore              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    uniformBufferStandardLayout    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vulkanMemoryModel              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    dynamicRendering               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance4                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustImageAccess              : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    pipelineCreationCacheControl   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderDemoteToHelperInvocation : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderZeroInitializeWorkgroupMemory : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    synchronization2               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_attachment_feedback_loop_layout:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    attachmentFeedbackLoopLayout   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_conservative_rasterization:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extConservativeRasterization   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_custom_border_color:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    customBorderColors             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    customBorderColorWithoutFormat : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_depth_clip_enable:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthClipEnable                : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_depth_bias_control:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBiasControl               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    leastRepresentableValueForceUnormRepresentation : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    floatRepresentation            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBiasExact                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_descriptor_buffer:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBuffer               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_extended_dynamic_state3:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3DepthClipEnable : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3RasterizationSamples : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3SampleMask : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3LineRasterizationMode : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_fragment_shader_interlock:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fragmentShaderSampleInterlock  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fragmentShaderPixelInterlock   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_full_screen_exclusive:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extFullScreenExclusive         : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_graphics_pipeline_library:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    graphicsPipelineLibrary        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_hdr_metadata:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extHdrMetadata                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_line_rasterization:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    rectangularLines               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    smoothLines                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_memory_budget:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extMemoryBudget                : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_memory_priority:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    memoryPriority                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_multi_draw:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    multiDraw                      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_non_seamless_cube_map:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nonSeamlessCubeMap             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_pageable_device_local_memory:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    pageableDeviceLocalMemory      : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_robustness2:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustBufferAccess2            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustImageAccess2             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nullDescriptor                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_shader_module_identifier:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderModuleIdentifier         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_shader_stencil_export:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extShaderStencilExport         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_swapchain_colorspace:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extSwapchainColorSpace         : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_swapchain_maintenance1:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    swapchainMaintenance1          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_transform_feedback:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    transformFeedback              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    geometryStreams                : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_vertex_attribute_divisor:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vertexAttributeInstanceRateDivisor : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_external_memory_win32:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrExternalMemoryWin32         : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_external_semaphore_win32:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrExternalSemaphoreWin32      : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_load_store_op_none:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrLoadStoreOpNone             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_maintenance5:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance5                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_maintenance6:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance6                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_maintenance7:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance7                   : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_pipeline_library:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrPipelineLibrary             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_present_id:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    presentId                      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_present_wait:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    presentWait                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_swapchain:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrSwapchain                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_swapchain_mutable_format:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrSwapchainMutableFormat      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_win32_keyed_mutex:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrWin32KeyedMutex             : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NV_descriptor_pool_overallocation:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorPoolOverallocation   : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NV_low_latency2:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nvLowLatency2                  : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NV_raw_access_chains:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderRawAccessChains          : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NVX_binary_import:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nvxBinaryImport                : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NVX_image_view_handle:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nvxImageViewHandle             : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Descriptor sizes (set alignment: 64)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Sampler              : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Uniform buffer       : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Storage buffer       : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Uniform texel buffer : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Storage texel buffer : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Sampled image        : 32
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Storage image        : 32
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Memory type mask for sparse resources: 0x7ad
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Creating sampler descriptor heap (32 kB)
+aug. 22 19:46:04 WARLORD bash[5378]: info:  DXVK: Graphics pipeline libraries supported
+aug. 22 19:46:04 WARLORD bash[5378]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Creating resource descriptor heap (8192 kB)
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Game: lotroclient64.exe
+aug. 22 19:46:04 WARLORD bash[5378]: info:  DXVK: v2.7.1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Build: x86_64 gcc 15.1.0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fffee104560
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Extension providers:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Platform WSI
+aug. 22 19:46:04 WARLORD bash[5378]: info:    OpenVR
+aug. 22 19:46:04 WARLORD bash[5378]: info:  OpenVR: could not open registry key, status 2
+aug. 22 19:46:04 WARLORD bash[5378]: info:  OpenVR: Failed to locate module
+aug. 22 19:46:04 WARLORD bash[5378]: info:    OpenXR
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Enabled instance extensions:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_surface_maintenance1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_get_surface_capabilities2
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_surface
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_win32_surface
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Found device: AMD Radeon 780M Graphics (RADV PHOENIX) (radv 26.0.8)
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Found device: llvmpipe (LLVM 21.1.8, 256 bits) (llvmpipe 26.0.8)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Skipping: Software driver
+aug. 22 19:46:04 WARLORD bash[5378]: err:   readMonitorEdidFromKey: Failed to get EDID reg key size
+aug. 22 19:46:04 WARLORD bash[5378]: err:   DXGI: Failed to parse display metadata + colorimetry info, using blank.
+aug. 22 19:46:04 WARLORD bash[5378]: info:  D3D11InternalCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  D3D11InternalCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Creating device:
+aug. 22 19:46:04 WARLORD bash[5378]: info:  AMD Radeon 780M Graphics (RADV PHOENIX):
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Driver   : radv 26.0.8
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Queues:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Graphics : (0, 0)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Transfer : (1, 0)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Sparse   : (0, 0)
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Memory:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Heap 0: 5.50 GiB
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Budget: 5.27 GiB
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  2: HOST_VISIBLE | HOST_COHERENT
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  5: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  6: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  8: HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type 10: HOST_VISIBLE | HOST_COHERENT | HOST_CACHED | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Heap 1: 11.0 GiB (DEVICE_LOCAL)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Budget: 10.55 GiB
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  0: DEVICE_LOCAL
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  1: DEVICE_LOCAL
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  3: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  4: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  7: DEVICE_LOCAL | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:      Type  9: DEVICE_LOCAL | HOST_VISIBLE | HOST_COHERENT | DEVICE_COHERENT | DEVICE_UNCACHED
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Enabled extensions:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_attachment_feedback_loop_layout
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_conservative_rasterization
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_custom_border_color
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_depth_clip_enable
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_depth_bias_control
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_descriptor_buffer
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_extended_dynamic_state3
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_fragment_shader_interlock
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_graphics_pipeline_library
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_hdr_metadata
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_line_rasterization
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_memory_priority
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_multi_draw
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_non_seamless_cube_map
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_robustness2
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_shader_module_identifier
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_shader_stencil_export
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_swapchain_maintenance1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_transform_feedback
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_EXT_vertex_attribute_divisor
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_load_store_op_none
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_maintenance5
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_maintenance6
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_pipeline_library
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_present_id
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_present_wait
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_swapchain
+aug. 22 19:46:04 WARLORD bash[5378]: info:    VK_KHR_swapchain_mutable_format
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Enabled features:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBiasClamp                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBounds                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthClamp                     : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    drawIndirectFirstInstance      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    dualSrcBlend                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fillModeNonSolid               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fragmentStoresAndAtomics       : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fullDrawIndexUint32            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    geometryShader                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    imageCubeArray                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    independentBlend               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    logicOp                        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    multiDrawIndirect              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    multiViewport                  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    occlusionQueryPrecise          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    pipelineStatisticsQuery        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustBufferAccess             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sampleRateShading              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    samplerAnisotropy              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderClipDistance             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderCullDistance             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderFloat64                  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderImageGatherExtended      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderInt16                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderInt64                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderSampledImageArrayDynamicIndexing : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseBinding                  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyBuffer          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyImage2D         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyImage3D         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency2Samples        : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency4Samples        : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency8Samples        : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidency16Samples       : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    sparseResidencyAliased         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderResourceResidency        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderResourceMinLod           : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    tessellationShader             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    textureCompressionBC           : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    variableMultisampleRate        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vertexPipelineStoresAndAtomics : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    wideLines                      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderDrawParameters           : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    storagePushConstant16          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    bufferDeviceAddress            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorIndexing             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBindingSampledImageUpdateAfterBind : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBindingUpdateUnusedWhilePending : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBindingPartiallyBound : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    drawIndirectCount              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    hostQueryReset                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    runtimeDescriptorArray         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    samplerFilterMinmax            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    samplerMirrorClampToEdge       : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderInt8                     : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderOutputViewportIndex      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderOutputLayer              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    timelineSemaphore              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    uniformBufferStandardLayout    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vulkanMemoryModel              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    dynamicRendering               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance4                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustImageAccess              : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:    pipelineCreationCacheControl   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderDemoteToHelperInvocation : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderZeroInitializeWorkgroupMemory : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    synchronization2               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_attachment_feedback_loop_layout:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    attachmentFeedbackLoopLayout   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_conservative_rasterization:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extConservativeRasterization   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_custom_border_color:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    customBorderColors             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    customBorderColorWithoutFormat : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_depth_clip_enable:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthClipEnable                : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_depth_bias_control:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBiasControl               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    leastRepresentableValueForceUnormRepresentation : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    floatRepresentation            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    depthBiasExact                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_descriptor_buffer:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorBuffer               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_extended_dynamic_state3:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3AlphaToCoverageEnable : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3DepthClipEnable : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3RasterizationSamples : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3SampleMask : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extendedDynamicState3LineRasterizationMode : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_fragment_shader_interlock:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fragmentShaderSampleInterlock  : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    fragmentShaderPixelInterlock   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_full_screen_exclusive:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extFullScreenExclusive         : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_graphics_pipeline_library:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    graphicsPipelineLibrary        : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_hdr_metadata:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extHdrMetadata                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_line_rasterization:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    rectangularLines               : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    smoothLines                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_memory_budget:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extMemoryBudget                : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_memory_priority:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    memoryPriority                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_multi_draw:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    multiDraw                      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_non_seamless_cube_map:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nonSeamlessCubeMap             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_pageable_device_local_memory:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    pageableDeviceLocalMemory      : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_robustness2:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustBufferAccess2            : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    robustImageAccess2             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nullDescriptor                 : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_shader_module_identifier:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderModuleIdentifier         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_shader_stencil_export:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extShaderStencilExport         : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_swapchain_colorspace:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    extSwapchainColorSpace         : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_swapchain_maintenance1:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    swapchainMaintenance1          : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_transform_feedback:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    transformFeedback              : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    geometryStreams                : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_EXT_vertex_attribute_divisor:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vertexAttributeInstanceRateDivisor : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:    vertexAttributeInstanceRateZeroDivisor : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_external_memory_win32:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrExternalMemoryWin32         : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_external_semaphore_win32:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrExternalSemaphoreWin32      : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_load_store_op_none:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrLoadStoreOpNone             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_maintenance5:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance5                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_maintenance6:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance6                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_maintenance7:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    maintenance7                   : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_pipeline_library:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrPipelineLibrary             : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_present_id:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    presentId                      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_present_wait:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    presentWait                    : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_swapchain:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrSwapchain                   : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_swapchain_mutable_format:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrSwapchainMutableFormat      : 1
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_KHR_win32_keyed_mutex:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    khrWin32KeyedMutex             : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NV_descriptor_pool_overallocation:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    descriptorPoolOverallocation   : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NV_low_latency2:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nvLowLatency2                  : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NV_raw_access_chains:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    shaderRawAccessChains          : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NVX_binary_import:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nvxBinaryImport                : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  VK_NVX_image_view_handle:
+aug. 22 19:46:04 WARLORD bash[5378]: info:    nvxImageViewHandle             : 0
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Descriptor sizes (set alignment: 64)
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Sampler              : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Uniform buffer       : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Storage buffer       : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Uniform texel buffer : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Storage texel buffer : 16
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Sampled image        : 32
+aug. 22 19:46:04 WARLORD bash[5378]: info:    Storage image        : 32
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Memory type mask for sparse resources: 0x7ad
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Memory type mask for buffer resources: 0x7ad, usage: 0x219ff
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Creating sampler descriptor heap (32 kB)
+aug. 22 19:46:04 WARLORD bash[5378]: info:  DXVK: Graphics pipeline libraries supported
+aug. 22 19:46:04 WARLORD bash[5378]: info:  DXGI: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+aug. 22 19:46:04 WARLORD bash[5378]: info:  Creating resource descriptor heap (8192 kB)
+aug. 22 19:46:04 WARLORD bash[5378]: warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+aug. 22 19:46:04 WARLORD bash[5378]: warn:  0ec870a6-5d7e-4c22-8cfc-5baae07616ed
+aug. 22 19:46:04 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 19:46:04 WARLORD bash[5378]: info:  DXVK: Using 8 compiler threads
+aug. 22 19:46:05 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 19:46:05 WARLORD kded6[1433]: Registering ":1.85/StatusNotifierItem" to system tray
+aug. 22 19:46:05 WARLORD kded6[1433]: Service  ":1.85" unregistered
+aug. 22 19:46:05 WARLORD kded6[1433]: Registering ":1.86/StatusNotifierItem" to system tray
+aug. 22 19:46:05 WARLORD kded6[1433]: Service  ":1.86" unregistered
+aug. 22 19:46:05 WARLORD kded6[1433]: Registering ":1.87/StatusNotifierItem" to system tray
+aug. 22 19:46:05 WARLORD kded6[1433]: Service  ":1.87" unregistered
+aug. 22 19:46:05 WARLORD kded6[1433]: Registering ":1.88/StatusNotifierItem" to system tray
+aug. 22 19:46:05 WARLORD kded6[1433]: Service  ":1.88" unregistered
+aug. 22 19:46:05 WARLORD kded6[1433]: Registering ":1.89/StatusNotifierItem" to system tray
+aug. 22 19:46:05 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Buffer size:  1280x720
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 19:46:05 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 19:46:05 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 19:46:05 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 19:50:01 WARLORD CRON[5520]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 19:50:01 WARLORD CRON[5524]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 19:50:02 WARLORD kernel: sh (5524): drop_caches: 3
+aug. 22 19:50:02 WARLORD CRON[5520]: pam_unix(cron:session): session closed for user root
+aug. 22 19:54:14 WARLORD systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+aug. 22 19:54:14 WARLORD systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+aug. 22 19:54:14 WARLORD systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+aug. 22 19:55:01 WARLORD CRON[5550]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 19:55:01 WARLORD CRON[5552]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 19:55:01 WARLORD kernel: sh (5552): drop_caches: 3
+aug. 22 19:55:01 WARLORD CRON[5550]: pam_unix(cron:session): session closed for user root
+aug. 22 20:00:01 WARLORD CRON[5575]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:00:01 WARLORD CRON[5574]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:00:01 WARLORD CRON[5579]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:00:01 WARLORD CRON[5578]: (root) CMD (timeshift --check --scripted)
+aug. 22 20:00:01 WARLORD kernel: sh (5579): drop_caches: 3
+aug. 22 20:00:01 WARLORD CRON[5575]: pam_unix(cron:session): session closed for user root
+aug. 22 20:00:02 WARLORD crontab[5606]: (root) LIST (root)
+aug. 22 20:00:02 WARLORD crontab[5607]: (root) LIST (root)
+aug. 22 20:00:02 WARLORD systemd[1]: run-timeshift-5578-backup.mount: Deactivated successfully.
+aug. 22 20:00:02 WARLORD CRON[5574]: pam_unix(cron:session): session closed for user root
+aug. 22 20:05:01 WARLORD CRON[5653]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:05:01 WARLORD CRON[5655]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:05:01 WARLORD kernel: sh (5655): drop_caches: 3
+aug. 22 20:05:01 WARLORD CRON[5653]: pam_unix(cron:session): session closed for user root
+aug. 22 20:05:16 WARLORD wpa_supplicant[901]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 22 20:07:44 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 22 20:07:44 WARLORD dbus-daemon[723]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.86' (uid=989 pid=5681 comm="/usr/bin/fwupdmgr refresh")
+aug. 22 20:07:44 WARLORD systemd[1]: Starting modprobe@sd_mod.service - Load Kernel Module sd_mod...
+aug. 22 20:07:45 WARLORD systemd[1]: modprobe@sd_mod.service: Deactivated successfully.
+aug. 22 20:07:45 WARLORD systemd[1]: Finished modprobe@sd_mod.service - Load Kernel Module sd_mod.
+aug. 22 20:07:45 WARLORD systemd[1]: Starting fwupd.service - Firmware update daemon...
+aug. 22 20:07:45 WARLORD fwupd[5690]: 18:07:45.789 FuMain               fwupd 2.1.1 ready for requests (locale nb_NO.UTF-8)
+aug. 22 20:07:45 WARLORD dbus-daemon[723]: [system] Successfully activated service 'org.freedesktop.fwupd'
+aug. 22 20:07:45 WARLORD systemd[1]: Started fwupd.service - Firmware update daemon.
+aug. 22 20:07:45 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 22 20:07:45 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 22 20:09:17 WARLORD systemd[1084]: drkonqi-coredump-pickup.service: Service reached runtime time limit. Stopping.
+aug. 22 20:09:17 WARLORD systemd[1084]: drkonqi-coredump-pickup.service: Failed with result 'timeout'.
+aug. 22 20:10:01 WARLORD CRON[5735]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:10:01 WARLORD CRON[5737]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:10:01 WARLORD kernel: sh (5737): drop_caches: 3
+aug. 22 20:10:01 WARLORD CRON[5735]: pam_unix(cron:session): session closed for user root
+aug. 22 20:15:01 WARLORD CRON[5812]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:15:01 WARLORD CRON[5814]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:15:01 WARLORD kernel: sh (5814): drop_caches: 3
+aug. 22 20:15:01 WARLORD CRON[5812]: pam_unix(cron:session): session closed for user root
+aug. 22 20:16:31 WARLORD systemd[1]: Starting motd-news.service - Message of the Day...
+aug. 22 20:16:31 WARLORD systemd[1]: motd-news.service: Deactivated successfully.
+aug. 22 20:16:31 WARLORD systemd[1]: Finished motd-news.service - Message of the Day.
+aug. 22 20:17:01 WARLORD CRON[5859]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:17:01 WARLORD CRON[5861]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+aug. 22 20:17:01 WARLORD CRON[5859]: pam_unix(cron:session): session closed for user root
+aug. 22 20:19:24 WARLORD bash[5378]: info:  Presenter: Got VK_SUBOPTIMAL_KHR, recreating swapchain
+aug. 22 20:19:30 WARLORD kwin_wayland_wrapper[1303]: kwin_libinput: Libinput: event2  - Kensington SlimBlade Pro(2.4GHz Receiver) Kensington SlimBlade Pro Trackball(2.4GHz Receiver): client bug: event processing lagging behind by 23ms, your system is too slow
+aug. 22 20:19:30 WARLORD systemd[1084]: Started app-google\x2dchrome@a9514e6b50894d6eb8068bf4f862d914.service - Google Chrome - Nettleser.
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6020:0822/201934.892769:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6022:0822/201934.892765:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6020:0822/201934.892906:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6020:0822/201934.892914:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6022:0822/201934.892932:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6022:0822/201934.892937:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6046:0822/201934.893173:ERROR:net/disk_cache/disk_cache.cc:285] Unable to create cache
+aug. 22 20:19:34 WARLORD google-chrome-stable[5957]: [5952:6046:0822/201934.893218:ERROR:net/disk_cache/disk_cache.cc:285] Unable to create cache
+aug. 22 20:19:35 WARLORD systemd[1084]: Started app-com.google.Chrome-5952.scope.
+aug. 22 20:19:35 WARLORD google-chrome-stable[5957]: [6028:6035:0822/201935.014124:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 22 20:19:35 WARLORD google-chrome-stable[5957]: [6028:6035:0822/201935.014276:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 22 20:19:35 WARLORD google-chrome-stable[5957]: [6028:6035:0822/201935.014282:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 22 20:19:35 WARLORD google-chrome-stable[5957]: [6028:6034:0822/201935.016435:ERROR:net/disk_cache/disk_cache.cc:285] Unable to create cache
+aug. 22 20:19:35 WARLORD google-chrome-stable[5957]: Created TensorFlow Lite XNNPACK delegate for CPU.
+aug. 22 20:19:37 WARLORD google-chrome-stable[5957]: [5952:5985:0822/201937.396760:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 22 20:19:42 WARLORD kwin_wayland_wrapper[1303]: kwin_wayland_drm: The main thread was hanging temporarily!
+aug. 22 20:19:45 WARLORD kwin_wayland_wrapper[1303]: kwin_wayland_drm: The main thread was hanging temporarily!
+aug. 22 20:19:56 WARLORD kwin_wayland_wrapper[1303]: kwin_wayland_drm: The main thread was hanging temporarily!
+aug. 22 20:19:57 WARLORD google-chrome-stable[5957]: [5952:5985:0822/201957.590497:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 22 20:20:00 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:20:00 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:20:00 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:20:00 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:20:00 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:20:00 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:20:00 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:20:01 WARLORD CRON[6407]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:20:01 WARLORD CRON[6409]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:20:01 WARLORD kernel: sh (6409): drop_caches: 3
+aug. 22 20:20:01 WARLORD CRON[6407]: pam_unix(cron:session): session closed for user root
+aug. 22 20:20:04 WARLORD chrome[5952]: [5952:5982:0822/202004.907914:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+aug. 22 20:20:04 WARLORD google-chrome-stable[5957]: [5952:6056:0822/202004.921560:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 22 20:20:04 WARLORD google-chrome-stable[5957]: [5952:6055:0822/202004.921558:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 22 20:20:04 WARLORD google-chrome-stable[5957]: [5952:6057:0822/202004.921558:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 22 20:20:51 WARLORD google-chrome-stable[5957]: [5952:5985:0822/202051.923365:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 22 20:21:07 WARLORD google-chrome-stable[5957]: [5952:6001:0822/202107.752421:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 22 20:21:07 WARLORD google-chrome-stable[5957]: QThreadStorage: entry 2 destroyed before end of thread 0x120400719120
+aug. 22 20:21:07 WARLORD google-chrome-stable[5957]: QThreadStorage: entry 1 destroyed before end of thread 0x120400719120
+aug. 22 20:21:07 WARLORD systemd[1084]: app-com.google.Chrome-5952.scope: Consumed 6.544s CPU time over 1min 32.785s wall clock time, 477.5M memory peak.
+aug. 22 20:21:07 WARLORD systemd[1084]: app-google\x2dchrome@a9514e6b50894d6eb8068bf4f862d914.service: Consumed 52.868s CPU time over 1min 37.309s wall clock time, 2.4G memory peak.
+aug. 22 20:21:09 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:21:10 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:21:10 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:21:10 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:21:10 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:21:10 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:21:10 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:25:01 WARLORD CRON[7986]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:25:01 WARLORD CRON[7988]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:25:02 WARLORD kernel: sh (7988): drop_caches: 3
+aug. 22 20:25:02 WARLORD CRON[7986]: pam_unix(cron:session): session closed for user root
+aug. 22 20:28:10 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1303 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 22 20:28:10 WARLORD systemd[1084]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 22 20:28:10 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 22 20:28:10 WARLORD systemd[1084]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 22 20:28:10 WARLORD spectacle[8944]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 22 20:28:10 WARLORD spectacle[8944]: spectacle: Detected Tesseract version "5.5.0"
+aug. 22 20:28:10 WARLORD spectacle[8944]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 22 20:28:14 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Activating via systemd: service name='org.freedesktop.FileManager1' unit='plasma-dolphin.service' requested by ':1.94' (uid=1000 pid=8944 comm="/usr/bin/spectacle --dbus")
+aug. 22 20:28:14 WARLORD systemd[1084]: Starting plasma-dolphin.service - Dolphin file manager...
+aug. 22 20:28:14 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Successfully activated service 'org.freedesktop.FileManager1'
+aug. 22 20:28:14 WARLORD systemd[1084]: Started plasma-dolphin.service - Dolphin file manager.
+aug. 22 20:28:14 WARLORD systemd[1084]: Started app-dolphin@042504cf534e42c0b051a06512fc690f.service - Dolphin.
+aug. 22 20:28:58 WARLORD systemd[1084]: app-dolphin@042504cf534e42c0b051a06512fc690f.service: Consumed 10.064s CPU time over 43.435s wall clock time, 761.2M memory peak.
+aug. 22 20:28:59 WARLORD systemd[1084]: app-org.kde.spectacle.service: Consumed 1.990s CPU time over 49.356s wall clock time, 422.1M memory peak.
+aug. 22 20:29:02 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:29:02 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:29:02 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:29:02 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:29:02 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:29:02 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:29:02 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:29:50 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1303 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 22 20:29:50 WARLORD systemd[1084]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 22 20:29:51 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 22 20:29:51 WARLORD systemd[1084]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 22 20:29:51 WARLORD spectacle[9750]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 22 20:29:51 WARLORD spectacle[9750]: spectacle: Detected Tesseract version "5.5.0"
+aug. 22 20:29:51 WARLORD spectacle[9750]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 22 20:29:54 WARLORD systemd[1084]: Started app-dolphin@f15c012eb7564626b03bbd873675c3fa.service - Dolphin.
+aug. 22 20:30:01 WARLORD CRON[9949]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:30:01 WARLORD CRON[9948]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:30:01 WARLORD CRON[9952]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:30:01 WARLORD CRON[9953]: (root) CMD (if [ -x /etc/init.d/anacron ] && ! [ -d /run/systemd/system ]; then exec /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+aug. 22 20:30:01 WARLORD CRON[9948]: pam_unix(cron:session): session closed for user root
+aug. 22 20:30:01 WARLORD kernel: sh (9952): drop_caches: 3
+aug. 22 20:30:01 WARLORD CRON[9949]: pam_unix(cron:session): session closed for user root
+aug. 22 20:30:24 WARLORD systemd[1]: Started anacron.service - Run anacron jobs.
+aug. 22 20:30:24 WARLORD anacron[10066]: Anacron 2.3 started on 2026-08-22
+aug. 22 20:30:24 WARLORD anacron[10066]: Normal exit (0 jobs run)
+aug. 22 20:30:24 WARLORD systemd[1]: anacron.service: Deactivated successfully.
+aug. 22 20:31:16 WARLORD systemd[1084]: Started app-org.kde.gwenview@54d2b8bd52c1483ea334479f677ced1d.service - Gwenview - Image Viewer.
+aug. 22 20:31:36 WARLORD systemd[1084]: app-org.kde.gwenview@54d2b8bd52c1483ea334479f677ced1d.service: Consumed 1.634s CPU time over 20.018s wall clock time, 255.7M memory peak.
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml:18:1: QML ConfigurationContainmentAppearance: Created graphical object was not placed in the graphics scene.
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_FirstStartup
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_FirstStartupDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ItemsGeometries
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ItemsGeometriesDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonState
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonStateDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonX
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonXDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonY
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonYDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_alignment
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_alignmentDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_arrangement
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_arrangementDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterMimeTypes
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterMimeTypesDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterMode
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterModeDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterPattern
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterPatternDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_icon
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_iconDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_iconSize
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_iconSizeDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelMode
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelModeDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelText
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelTextDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelWidth
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelWidthDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_locked
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_lockedDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_popups
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_popupsDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_positions
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_positionsDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previewPlugins
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previewPluginsDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previews
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previewsDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_renameInline
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_renameInlineDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_selectionMarkers
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_selectionMarkersDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_showHiddenFiles
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_showHiddenFilesDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDesc
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDescDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDirsFirst
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDirsFirstDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortMode
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortModeDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textColor
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textColorDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textLines
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textLinesDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_toolTips
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_toolTipsDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_url
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_urlDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_useCustomIcon
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_useCustomIconDefault
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_viewMode
+aug. 22 20:31:47 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_viewModeDefault
+aug. 22 20:31:48 WARLORD plasmashell[10563]: qt.imageformats.tiff: "Unknown field with tag 513 (0x201) encountered"
+aug. 22 20:31:48 WARLORD plasmashell[10563]: qt.imageformats.tiff: "Unknown field with tag 514 (0x202) encountered"
+aug. 22 20:31:48 WARLORD plasmashell[10563]: qt.imageformats.tiff: "TIFF directory is missing required \"ImageLength\" field"
+aug. 22 20:31:51 WARLORD plasmashell[1464]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.jpf", "*.jpg2", "*.kdc", "*.heic", "*.x3f", "*.heif", "*.rgb", "*.mng", "*.dds", "*.pgm", "*.pic", "*.exr", "*.nrw", "*.svgz", "*.dcr", "*.jpeg", "*.jpx", "*.cr2", "*.k25", "*.kra", "*.avifs", "*.qoi", "*.pef", "*.pcx", "*.ora", "*.gif", "*.orf", "*.krz", "*.iff", "*.mrw", "*.raw", "*.wbmp", "*.lbm", "*.icns", "*.tga", "*.pbm", "*.bmp", "*.svg", "*.nef", "*.sr2", "*.epsi", "*.hdr", "*.arw", "*.jpc", "*.sun", "*.ico", "*.crw", "*.raf", "*.j2c", "*.png", "*.psd", "*.vst", "*.tpic", "*.rw2", "*.vda", "*.tif", "*.jxl", "*.dng", "*.j2k", "*.xpm", "*.ani", "*.icb", "*.eps", "*.srf", "*.xcf", "*.ppm", "*.webp", "*.jfif", "*.jpe", "*.tiff", "*.ilbm", "*.xbm", "*.avif", "*.jpg", "*.dib", "*.cr3", "*.jp2", "*.epsf", "*.svg.gz", "*.hif") label: "Mediefiler")
+aug. 22 20:32:02 WARLORD plasmashell[1464]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.jpf", "*.jpg2", "*.kdc", "*.heic", "*.x3f", "*.heif", "*.rgb", "*.mng", "*.dds", "*.pgm", "*.pic", "*.exr", "*.nrw", "*.svgz", "*.dcr", "*.jpeg", "*.jpx", "*.cr2", "*.k25", "*.kra", "*.avifs", "*.qoi", "*.pef", "*.pcx", "*.ora", "*.gif", "*.orf", "*.krz", "*.iff", "*.mrw", "*.raw", "*.wbmp", "*.lbm", "*.icns", "*.tga", "*.pbm", "*.bmp", "*.svg", "*.nef", "*.sr2", "*.epsi", "*.hdr", "*.arw", "*.jpc", "*.sun", "*.ico", "*.crw", "*.raf", "*.j2c", "*.png", "*.psd", "*.vst", "*.tpic", "*.rw2", "*.vda", "*.tif", "*.jxl", "*.dng", "*.j2k", "*.xpm", "*.ani", "*.icb", "*.eps", "*.srf", "*.xcf", "*.ppm", "*.webp", "*.jfif", "*.jpe", "*.tiff", "*.ilbm", "*.xbm", "*.avif", "*.jpg", "*.dib", "*.cr3", "*.jp2", "*.epsf", "*.svg.gz", "*.hif") label: "Mediefiler")
+aug. 22 20:32:30 WARLORD plasmashell[1464]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.jpf", "*.jpg2", "*.kdc", "*.heic", "*.x3f", "*.heif", "*.rgb", "*.mng", "*.dds", "*.pgm", "*.pic", "*.exr", "*.nrw", "*.svgz", "*.dcr", "*.jpeg", "*.jpx", "*.cr2", "*.k25", "*.kra", "*.avifs", "*.qoi", "*.pef", "*.pcx", "*.ora", "*.gif", "*.orf", "*.krz", "*.iff", "*.mrw", "*.raw", "*.wbmp", "*.lbm", "*.icns", "*.tga", "*.pbm", "*.bmp", "*.svg", "*.nef", "*.sr2", "*.epsi", "*.hdr", "*.arw", "*.jpc", "*.sun", "*.ico", "*.crw", "*.raf", "*.j2c", "*.png", "*.psd", "*.vst", "*.tpic", "*.rw2", "*.vda", "*.tif", "*.jxl", "*.dng", "*.j2k", "*.xpm", "*.ani", "*.icb", "*.eps", "*.srf", "*.xcf", "*.ppm", "*.webp", "*.jfif", "*.jpe", "*.tiff", "*.ilbm", "*.xbm", "*.avif", "*.jpg", "*.dib", "*.cr3", "*.jp2", "*.epsf", "*.svg.gz", "*.hif") label: "Mediefiler")
+aug. 22 20:32:43 WARLORD plasmashell[1464]: QDragManager::drag in possibly invalid state
+aug. 22 20:32:49 WARLORD plasmashell[1464]: QDragManager::drag in possibly invalid state
+aug. 22 20:32:50 WARLORD plasmashell[1464]: QDragManager::drag in possibly invalid state
+aug. 22 20:32:53 WARLORD plasmashell[1464]: QDragManager::drag in possibly invalid state
+aug. 22 20:33:00 WARLORD plasmashell[1464]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.jpf", "*.jpg2", "*.kdc", "*.heic", "*.x3f", "*.heif", "*.rgb", "*.mng", "*.dds", "*.pgm", "*.pic", "*.exr", "*.nrw", "*.svgz", "*.dcr", "*.jpeg", "*.jpx", "*.cr2", "*.k25", "*.kra", "*.avifs", "*.qoi", "*.pef", "*.pcx", "*.ora", "*.gif", "*.orf", "*.krz", "*.iff", "*.mrw", "*.raw", "*.wbmp", "*.lbm", "*.icns", "*.tga", "*.pbm", "*.bmp", "*.svg", "*.nef", "*.sr2", "*.epsi", "*.hdr", "*.arw", "*.jpc", "*.sun", "*.ico", "*.crw", "*.raf", "*.j2c", "*.png", "*.psd", "*.vst", "*.tpic", "*.rw2", "*.vda", "*.tif", "*.jxl", "*.dng", "*.j2k", "*.xpm", "*.ani", "*.icb", "*.eps", "*.srf", "*.xcf", "*.ppm", "*.webp", "*.jfif", "*.jpe", "*.tiff", "*.ilbm", "*.xbm", "*.avif", "*.jpg", "*.dib", "*.cr3", "*.jp2", "*.epsf", "*.svg.gz", "*.hif") label: "Mediefiler")
+aug. 22 20:33:20 WARLORD plasmashell[1464]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.jpf", "*.jpg2", "*.kdc", "*.heic", "*.x3f", "*.heif", "*.rgb", "*.mng", "*.dds", "*.pgm", "*.pic", "*.exr", "*.nrw", "*.svgz", "*.dcr", "*.jpeg", "*.jpx", "*.cr2", "*.k25", "*.kra", "*.avifs", "*.qoi", "*.pef", "*.pcx", "*.ora", "*.gif", "*.orf", "*.krz", "*.iff", "*.mrw", "*.raw", "*.wbmp", "*.lbm", "*.icns", "*.tga", "*.pbm", "*.bmp", "*.svg", "*.nef", "*.sr2", "*.epsi", "*.hdr", "*.arw", "*.jpc", "*.sun", "*.ico", "*.crw", "*.raf", "*.j2c", "*.png", "*.psd", "*.vst", "*.tpic", "*.rw2", "*.vda", "*.tif", "*.jxl", "*.dng", "*.j2k", "*.xpm", "*.ani", "*.icb", "*.eps", "*.srf", "*.xcf", "*.ppm", "*.webp", "*.jfif", "*.jpe", "*.tiff", "*.ilbm", "*.xbm", "*.avif", "*.jpg", "*.dib", "*.cr3", "*.jp2", "*.epsf", "*.svg.gz", "*.hif") label: "Mediefiler")
+aug. 22 20:34:22 WARLORD systemd[1084]: app-dolphin@f15c012eb7564626b03bbd873675c3fa.service: Consumed 5.145s CPU time over 4min 27.473s wall clock time, 326.8M memory peak.
+aug. 22 20:34:23 WARLORD spectacle[9750]: "There are still \"1\" items in the process of being created at engine destruction."
+aug. 22 20:34:23 WARLORD systemd[1084]: app-org.kde.spectacle.service: Consumed 1.806s CPU time over 4min 32.839s wall clock time, 160.5M memory peak.
+aug. 22 20:34:32 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:34:33 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:34:33 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:34:33 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:34:33 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:34:33 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:34:33 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:35:01 WARLORD CRON[11719]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:35:01 WARLORD CRON[11721]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:35:01 WARLORD kernel: sh (11721): drop_caches: 3
+aug. 22 20:35:01 WARLORD CRON[11719]: pam_unix(cron:session): session closed for user root
+aug. 22 20:35:50 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1303 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 22 20:35:50 WARLORD systemd[1084]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 22 20:35:50 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 22 20:35:50 WARLORD systemd[1084]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 22 20:35:50 WARLORD spectacle[11950]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 22 20:35:50 WARLORD spectacle[11950]: spectacle: Detected Tesseract version "5.5.0"
+aug. 22 20:35:50 WARLORD spectacle[11950]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 22 20:35:56 WARLORD systemd[1084]: Started app-dolphin@f71a59741efd447db9fc7da4508b47ab.service - Dolphin.
+aug. 22 20:36:35 WARLORD systemd[1084]: app-dolphin@f71a59741efd447db9fc7da4508b47ab.service: Consumed 2.742s CPU time over 39.530s wall clock time, 291M memory peak.
+aug. 22 20:36:36 WARLORD spectacle[11950]: "There are still \"1\" items in the process of being created at engine destruction."
+aug. 22 20:36:36 WARLORD systemd[1084]: app-org.kde.spectacle.service: Consumed 2.720s CPU time over 46.652s wall clock time, 383.5M memory peak.
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml:18:1: QML ConfigurationContainmentAppearance: Created graphical object was not placed in the graphics scene.
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_FirstStartup
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_FirstStartupDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ItemsGeometries
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ItemsGeometriesDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonState
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonStateDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonX
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonXDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonY
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_ToolBoxButtonYDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_alignment
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_alignmentDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_arrangement
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_arrangementDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterMimeTypes
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterMimeTypesDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterMode
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterModeDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterPattern
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_filterPatternDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_icon
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_iconDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_iconSize
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_iconSizeDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelMode
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelModeDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelText
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelTextDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelWidth
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_labelWidthDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_locked
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_lockedDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_popups
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_popupsDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_positions
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_positionsDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previewPlugins
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previewPluginsDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previews
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_previewsDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_renameInline
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_renameInlineDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_selectionMarkers
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_selectionMarkersDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_showHiddenFiles
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_showHiddenFilesDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDesc
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDescDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDirsFirst
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortDirsFirstDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortMode
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_sortModeDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textColor
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textColorDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textLines
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_textLinesDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_toolTips
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_toolTipsDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_url
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_urlDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_useCustomIcon
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_useCustomIconDefault
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_viewMode
+aug. 22 20:36:39 WARLORD plasmashell[1464]: file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/ConfigurationContainmentAppearance.qml: Setting initial properties failed: ConfigurationContainmentAppearance does not have a property called cfg_viewModeDefault
+aug. 22 20:36:39 WARLORD plasmashell[12445]: qt.imageformats.tiff: "Unknown field with tag 513 (0x201) encountered"
+aug. 22 20:36:39 WARLORD plasmashell[12445]: qt.imageformats.tiff: "Unknown field with tag 514 (0x202) encountered"
+aug. 22 20:36:39 WARLORD plasmashell[12445]: qt.imageformats.tiff: "TIFF directory is missing required \"ImageLength\" field"
+aug. 22 20:36:42 WARLORD plasmashell[1464]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.jpf", "*.jpg2", "*.kdc", "*.heic", "*.x3f", "*.heif", "*.rgb", "*.mng", "*.dds", "*.pgm", "*.pic", "*.exr", "*.nrw", "*.svgz", "*.dcr", "*.jpeg", "*.jpx", "*.cr2", "*.k25", "*.kra", "*.avifs", "*.qoi", "*.pef", "*.pcx", "*.ora", "*.gif", "*.orf", "*.krz", "*.iff", "*.mrw", "*.raw", "*.wbmp", "*.lbm", "*.icns", "*.tga", "*.pbm", "*.bmp", "*.svg", "*.nef", "*.sr2", "*.epsi", "*.hdr", "*.arw", "*.jpc", "*.sun", "*.ico", "*.crw", "*.raf", "*.j2c", "*.png", "*.psd", "*.vst", "*.tpic", "*.rw2", "*.vda", "*.tif", "*.jxl", "*.dng", "*.j2k", "*.xpm", "*.ani", "*.icb", "*.eps", "*.srf", "*.xcf", "*.ppm", "*.webp", "*.jfif", "*.jpe", "*.tiff", "*.ilbm", "*.xbm", "*.avif", "*.jpg", "*.dib", "*.cr3", "*.jp2", "*.epsf", "*.svg.gz", "*.hif") label: "Mediefiler")
+aug. 22 20:37:20 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:37:20 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:37:20 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:37:20 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:37:20 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:37:20 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:37:20 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:40:01 WARLORD CRON[13630]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:40:01 WARLORD CRON[13632]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:40:01 WARLORD kernel: sh (13632): drop_caches: 3
+aug. 22 20:40:01 WARLORD CRON[13630]: pam_unix(cron:session): session closed for user root
+aug. 22 20:40:55 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:40:55 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:40:55 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:40:55 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:40:55 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:40:55 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:40:55 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:45:01 WARLORD CRON[15149]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:45:01 WARLORD CRON[15151]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:45:02 WARLORD kernel: sh (15151): drop_caches: 3
+aug. 22 20:45:02 WARLORD CRON[15149]: pam_unix(cron:session): session closed for user root
+aug. 22 20:50:01 WARLORD CRON[16563]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:50:01 WARLORD CRON[16565]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:50:01 WARLORD kernel: sh (16565): drop_caches: 3
+aug. 22 20:50:01 WARLORD CRON[16563]: pam_unix(cron:session): session closed for user root
+aug. 22 20:50:12 WARLORD bash[5378]: info:  Presenter: Got VK_SUBOPTIMAL_KHR, recreating swapchain
+aug. 22 20:50:15 WARLORD kwin_wayland_wrapper[1303]: kwin_wayland_drm: The main thread was hanging temporarily!
+aug. 22 20:50:17 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:50:17 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:50:17 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:50:17 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:50:17 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:50:17 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:50:17 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:54:07 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 20:54:07 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 20:54:07 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 20:54:07 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 20:54:07 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 20:54:07 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 20:54:07 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 20:55:01 WARLORD CRON[18130]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 20:55:01 WARLORD CRON[18132]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 20:55:01 WARLORD kernel: sh (18132): drop_caches: 3
+aug. 22 20:55:01 WARLORD CRON[18130]: pam_unix(cron:session): session closed for user root
+aug. 22 21:00:01 WARLORD CRON[19693]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:00:01 WARLORD CRON[19694]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:00:01 WARLORD CRON[19698]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 21:00:01 WARLORD CRON[19699]: (root) CMD (timeshift --check --scripted)
+aug. 22 21:00:01 WARLORD kernel: sh (19698): drop_caches: 3
+aug. 22 21:00:01 WARLORD CRON[19694]: pam_unix(cron:session): session closed for user root
+aug. 22 21:00:02 WARLORD crontab[19726]: (root) LIST (root)
+aug. 22 21:00:02 WARLORD crontab[19727]: (root) LIST (root)
+aug. 22 21:00:02 WARLORD systemd[1]: run-timeshift-19699-backup.mount: Deactivated successfully.
+aug. 22 21:00:02 WARLORD CRON[19693]: pam_unix(cron:session): session closed for user root
+aug. 22 21:03:46 WARLORD plasmashell[1464]: Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+aug. 22 21:03:46 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.28' (uid=1000 pid=1464 comm="/usr/bin/plasmashell --no-respawn")
+aug. 22 21:03:46 WARLORD systemd[1084]: Starting plasma-baloorunner.service - KRunner provider for baloo file indexer...
+aug. 22 21:03:46 WARLORD plasmashell[1464]: kf.config.core: KConfigIni: In file /usr/share/kf6/searchproviders/google_advanced.desktop, line 146: Invalid escape sequence: «\{»
+aug. 22 21:03:46 WARLORD kwin_wayland_wrapper[1303]: qt.dbus.integration: QDBusConnection: couldn't handle call to Teardown, no slot matched
+aug. 22 21:03:46 WARLORD kwin_wayland_wrapper[1303]: qt.dbus.integration: QDBusConnection: couldn't handle call to Teardown, no slot matched
+aug. 22 21:03:46 WARLORD kwin_wayland_wrapper[1303]: qt.dbus.integration: Could not find slot Krunner1Adaptor::Teardown
+aug. 22 21:03:46 WARLORD bash[5378]: info:  Presenter: Got VK_SUBOPTIMAL_KHR, recreating swapchain
+aug. 22 21:03:48 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Successfully activated service 'org.kde.runners.baloo'
+aug. 22 21:03:48 WARLORD systemd[1084]: Started plasma-baloorunner.service - KRunner provider for baloo file indexer.
+aug. 22 21:03:48 WARLORD plasmashell[1464]: kf.runner: Error requesting matches; calling "org.kde.runners.baloo"  : "org.freedesktop.DBus.Error.NotSupported" ""
+aug. 22 21:03:56 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 21:03:56 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 21:03:56 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 21:03:56 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 21:03:56 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 21:03:56 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 21:03:56 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 21:05:01 WARLORD CRON[21330]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:05:01 WARLORD CRON[21332]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 21:05:01 WARLORD kernel: sh (21332): drop_caches: 3
+aug. 22 21:05:01 WARLORD CRON[21330]: pam_unix(cron:session): session closed for user root
+aug. 22 21:06:50 WARLORD wpa_supplicant[901]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 22 21:06:50 WARLORD wpa_supplicant[901]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 22 21:09:01 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1303 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 22 21:09:01 WARLORD systemd[1084]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 22 21:09:02 WARLORD dbus-daemon[1184]: [session uid=1000 pid=1184 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 22 21:09:02 WARLORD systemd[1084]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 22 21:09:02 WARLORD spectacle[22510]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 22 21:09:02 WARLORD spectacle[22510]: spectacle: Detected Tesseract version "5.5.0"
+aug. 22 21:09:02 WARLORD spectacle[22510]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 22 21:09:07 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 21:09:07 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 21:09:07 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 21:09:07 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 21:09:07 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 21:09:07 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 21:09:07 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 21:09:13 WARLORD kwin_wayland_wrapper[1303]: qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Unable to open /proc/1303/root")
+aug. 22 21:09:16 WARLORD systemd[1084]: Started app-dolphin@fc154d25234a49fcb45e89ca7f22f645.service - Dolphin.
+aug. 22 21:09:39 WARLORD systemd[1084]: app-dolphin@fc154d25234a49fcb45e89ca7f22f645.service: Consumed 1.259s CPU time over 23.498s wall clock time, 160.1M memory peak.
+aug. 22 21:09:41 WARLORD systemd[1084]: app-org.kde.spectacle.service: Consumed 1.681s CPU time over 39.317s wall clock time, 386.3M memory peak.
+aug. 22 21:09:43 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 21:09:43 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 21:09:43 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 21:09:43 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 21:09:43 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 21:09:43 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 21:09:43 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 21:10:01 WARLORD CRON[22978]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:10:01 WARLORD CRON[22980]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 21:10:01 WARLORD kernel: sh (22980): drop_caches: 3
+aug. 22 21:10:01 WARLORD CRON[22978]: pam_unix(cron:session): session closed for user root
+aug. 22 21:12:31 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 22 21:12:31 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 22 21:12:31 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 22 21:15:01 WARLORD CRON[24533]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:15:01 WARLORD CRON[24536]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 21:15:01 WARLORD kernel: sh (24536): drop_caches: 3
+aug. 22 21:15:01 WARLORD CRON[24533]: pam_unix(cron:session): session closed for user root
+aug. 22 21:17:01 WARLORD CRON[25117]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:17:01 WARLORD CRON[25119]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+aug. 22 21:17:01 WARLORD CRON[25117]: pam_unix(cron:session): session closed for user root
+aug. 22 21:18:14 WARLORD kwin_wayland_wrapper[1303]: kwin_wayland_drm: The main thread was hanging temporarily!
+aug. 22 21:18:14 WARLORD bash[5378]: info:  Presenter: Got VK_SUBOPTIMAL_KHR, recreating swapchain
+aug. 22 21:18:19 WARLORD bash[5378]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 21:18:19 WARLORD bash[5378]: info:  Presenter: Actual swapchain properties:
+aug. 22 21:18:19 WARLORD bash[5378]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 21:18:19 WARLORD bash[5378]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 21:18:19 WARLORD bash[5378]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 21:18:19 WARLORD bash[5378]: info:    Buffer size:  3200x1800
+aug. 22 21:18:19 WARLORD bash[5378]: info:    Image count:  4
+aug. 22 21:20:01 WARLORD CRON[26054]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:20:01 WARLORD CRON[26056]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 21:20:01 WARLORD kernel: sh (26056): drop_caches: 3
+aug. 22 21:20:01 WARLORD CRON[26054]: pam_unix(cron:session): session closed for user root
+aug. 22 21:25:01 WARLORD CRON[27535]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:25:01 WARLORD CRON[27538]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 21:25:01 WARLORD kernel: sh (27538): drop_caches: 3
+aug. 22 21:25:01 WARLORD CRON[27535]: pam_unix(cron:session): session closed for user root
+aug. 22 21:30:01 WARLORD CRON[28952]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:30:01 WARLORD CRON[28951]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 21:30:01 WARLORD CRON[28955]: (root) CMD (if [ -x /etc/init.d/anacron ] && ! [ -d /run/systemd/system ]; then exec /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+aug. 22 21:30:01 WARLORD CRON[28956]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 21:30:01 WARLORD CRON[28951]: pam_unix(cron:session): session closed for user root
+aug. 22 21:30:02 WARLORD kernel: sh (28956): drop_caches: 3
+aug. 22 21:30:02 WARLORD CRON[28952]: pam_unix(cron:session): session closed for user root
+aug. 22 21:30:48 WARLORD kded6[1433]: Service  ":1.89" unregistered
+aug. 22 21:30:49 WARLORD systemd[1084]: app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@76e1e5876afa416097557e89e36d7e70.service: Consumed 1h 8min 32.897s CPU time over 1h 51min 20.238s wall clock time, 8.3G memory peak.
+aug. 22 21:30:51 WARLORD konsole[2315]: kf.windowsystem: static int KX11Extras::currentDesktop() may only be used on X11
+aug. 22 21:30:51 WARLORD konsole[2315]: kf.windowsystem: static void KX11Extras::setOnDesktop(WId, int) may only be used on X11
+aug. 22 21:30:51 WARLORD systemd[1084]: app-org.kde.konsole@2e5a62faf79b451a8388037b53159305.service: Consumed 201ms CPU time over 1h 51min 7.665s wall clock time, 75.1M memory peak.
+aug. 22 21:30:54 WARLORD systemd[1084]: Started app-org.kde.konsole@1cdda6fa7e4e4276834253a0607fefc1.service - Konsole - Terminal.
+aug. 22 21:30:55 WARLORD systemd[1084]: Started app-org.kde.konsole-29234.scope.
+aug. 22 21:31:06 WARLORD sudo[29271]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 22 21:31:06 WARLORD sudo[29271]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+aug. 22 21:31:06 WARLORD sudo[29271]: pam_unix(sudo:session): session closed for user root
+aug. 22 21:31:06 WARLORD sudo[29276]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 22 21:31:06 WARLORD sudo[29276]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
