@@ -13467,3 +13467,100 @@ aug. 22 15:47:50 WARLORD sudo[333126]: wils : TTY=/dev/pts/2 ; PWD=/home/wils ; 
 aug. 22 15:47:50 WARLORD sudo[333126]: pam_unix(sudo:session): session closed for user root
 aug. 22 15:47:50 WARLORD sudo[333167]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 aug. 22 15:47:50 WARLORD sudo[333167]: wils : TTY=/dev/pts/2 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+aug. 22 15:47:50 WARLORD sudo[333167]: pam_unix(sudo:session): session closed for user root
+aug. 22 15:48:49 WARLORD dolphin[332383]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 15:48:49 WARLORD dolphin[332383]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 15:49:01 WARLORD dolphin[332383]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Games/WARLORDLOTRO/Spillfiler/Combat_20260822_1.txt") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Combat_20260822_1.txt") mode= 436
+aug. 22 15:49:32 WARLORD dolphin[332383]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 15:49:32 WARLORD dolphin[332383]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 22 15:49:37 WARLORD google-chrome-stable[330694]: [330689:330722:0822/154937.456029:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 22 15:49:42 WARLORD dolphin[332383]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Bilder/Rune-Keeper lvl160 Ub Nishir Missions - A Moment of HOPE_YT_Short_9-16_vertical .png") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Rune-Keeper lvl160 Ub Nishir Missions - A Moment of HOPE_YT_Short_9-16_vertical .png") mode= 436
+aug. 22 15:49:42 WARLORD dolphin[332383]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Bilder/YouTube_willyolsen1017_Geografisk_spredning_av_publilkasjoner.png") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/YouTube_willyolsen1017_Geografisk_spredning_av_publilkasjoner.png") mode= 436
+aug. 22 15:49:42 WARLORD dolphin[332383]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Bilder/GitHub_panzerdroideka-Wils-Linux-Legacy.png") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/GitHub_panzerdroideka-Wils-Linux-Legacy.png") mode= 436
+aug. 22 15:49:42 WARLORD dolphin[332383]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Bilder/Skjermbilde_20260821_121110.png") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Skjermbilde_20260821_121110.png") mode= 436
+aug. 22 15:49:46 WARLORD kactivitymanagerd[1314]: org.kde.kactivities.plugin.recentlyused-eventspy: could not parse "/home/wils/.local/share/recently-used.xbel" error was  "Opening and ending tag mismatch."
+aug. 22 15:49:46 WARLORD systemd[1015]: Started app-org.kde.gwenview@85aaf40ce73f435190dc73e15c8ac377.service - Gwenview - Image Viewer.
+aug. 22 15:49:53 WARLORD kwin_wayland_wrapper[1155]: kf.config.core: Watching absolute paths is not supported "/usr/share/gwenview/color-schemes/fullscreen.colors"
+aug. 22 15:49:53 WARLORD bluetoothd[686]: Player registered: sender=:1.19 path=/_1_231
+aug. 22 15:49:58 WARLORD gwenview[334227]: QTimeLine::setDuration: cannot set duration <= 0
+aug. 22 15:50:00 WARLORD gwenview[334227]: QTimeLine::setDuration: cannot set duration <= 0
+aug. 22 15:50:01 WARLORD CRON[334341]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 15:50:01 WARLORD CRON[334343]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 15:50:01 WARLORD kernel: sh (334343): drop_caches: 3
+aug. 22 15:50:01 WARLORD CRON[334341]: pam_unix(cron:session): session closed for user root
+aug. 22 15:50:03 WARLORD bluetoothd[686]: Player unregistered: sender=:1.19 path=/_1_231
+aug. 22 15:50:07 WARLORD systemd[1015]: app-org.kde.gwenview@85aaf40ce73f435190dc73e15c8ac377.service: Consumed 14.216s CPU time over 20.667s wall clock time, 264.2M memory peak.
+aug. 22 15:50:16 WARLORD wireplumber[1049]: wp-event-dispatcher: <WpAsyncEventHook:0x64b1f1c97e10> failed: <WpSiStandardLink:0x64b1f1ec9020> link failed: 1 of 1 PipeWire links failed to activate
+aug. 22 15:50:54 WARLORD wireplumber[1049]: wp-event-dispatcher: <WpAsyncEventHook:0x64b1f1c97e10> failed: <WpSiStandardLink:0x64b1f1e79440> link failed: 1 of 1 PipeWire links failed to activate
+aug. 22 15:50:56 WARLORD bash[301892]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 15:50:56 WARLORD bash[301892]: info:  Presenter: Actual swapchain properties:
+aug. 22 15:50:56 WARLORD bash[301892]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 15:50:56 WARLORD bash[301892]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 15:50:56 WARLORD bash[301892]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 15:50:56 WARLORD bash[301892]: info:    Buffer size:  3200x1800
+aug. 22 15:50:56 WARLORD bash[301892]: info:    Image count:  4
+aug. 22 15:55:01 WARLORD CRON[335991]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 15:55:01 WARLORD CRON[335993]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 15:55:01 WARLORD kernel: sh (335993): drop_caches: 3
+aug. 22 15:55:01 WARLORD CRON[335991]: pam_unix(cron:session): session closed for user root
+aug. 22 15:56:03 WARLORD google-chrome-stable[330694]: [330689:330722:0822/155603.582904:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 22 15:56:07 WARLORD bash[301892]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 15:56:07 WARLORD bash[301892]: info:  Presenter: Actual swapchain properties:
+aug. 22 15:56:07 WARLORD bash[301892]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 15:56:07 WARLORD bash[301892]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 15:56:07 WARLORD bash[301892]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 15:56:07 WARLORD bash[301892]: info:    Buffer size:  3200x1800
+aug. 22 15:56:07 WARLORD bash[301892]: info:    Image count:  4
+aug. 22 15:59:07 WARLORD wpa_supplicant[865]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 22 16:00:01 WARLORD CRON[337506]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 16:00:01 WARLORD CRON[337507]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 16:00:01 WARLORD CRON[337510]: (root) CMD (timeshift --check --scripted)
+aug. 22 16:00:01 WARLORD CRON[337511]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 16:00:02 WARLORD kernel: sh (337511): drop_caches: 3
+aug. 22 16:00:02 WARLORD CRON[337507]: pam_unix(cron:session): session closed for user root
+aug. 22 16:00:02 WARLORD crontab[337546]: (root) LIST (root)
+aug. 22 16:00:02 WARLORD crontab[337547]: (root) LIST (root)
+aug. 22 16:00:02 WARLORD systemd[1]: run-timeshift-337510-backup.mount: Deactivated successfully.
+aug. 22 16:00:02 WARLORD CRON[337506]: pam_unix(cron:session): session closed for user root
+aug. 22 16:05:01 WARLORD CRON[339000]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 16:05:01 WARLORD CRON[339002]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 16:05:01 WARLORD kernel: sh (339002): drop_caches: 3
+aug. 22 16:05:01 WARLORD CRON[339000]: pam_unix(cron:session): session closed for user root
+aug. 22 16:09:30 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 22 16:09:30 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 22 16:09:30 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 22 16:09:39 WARLORD bash[301892]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+aug. 22 16:09:39 WARLORD bash[301892]: info:  Presenter: Actual swapchain properties:
+aug. 22 16:09:39 WARLORD bash[301892]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+aug. 22 16:09:39 WARLORD bash[301892]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+aug. 22 16:09:39 WARLORD bash[301892]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+aug. 22 16:09:39 WARLORD bash[301892]: info:    Buffer size:  3200x1800
+aug. 22 16:09:39 WARLORD bash[301892]: info:    Image count:  4
+aug. 22 16:10:01 WARLORD CRON[340492]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 22 16:10:01 WARLORD CRON[340496]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 22 16:10:02 WARLORD kernel: sh (340496): drop_caches: 3
+aug. 22 16:10:02 WARLORD CRON[340492]: pam_unix(cron:session): session closed for user root
+aug. 22 16:10:46 WARLORD kded6[1282]: Service  ":1.169" unregistered
+aug. 22 16:10:48 WARLORD systemd[1015]: app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@52e7921ae46d449093ec65d6c9662605.service: Consumed 53min 56.992s CPU time over 1h 47min 3.476s wall clock time, 7.7G memory peak.
+aug. 22 16:10:51 WARLORD systemd[1015]: app-org.kde.kate@44cd4f254f7549d6a9fbd870bfac30a6.service: Consumed 4.562s CPU time over 1h 40min 35.899s wall clock time, 396.2M memory peak.
+aug. 22 16:11:00 WARLORD bluetoothd[686]: Player unregistered: sender=:1.19 path=/_1_171
+aug. 22 16:11:00 WARLORD systemd[1015]: app-org.kde.falkon@1153328d8f74483e91d3fcd838499d8a.service: Consumed 18min 3.992s CPU time over 1h 33min 45.024s wall clock time, 1.2G memory peak.
+aug. 22 16:11:02 WARLORD konsole[297609]: kf.windowsystem: static int KX11Extras::currentDesktop() may only be used on X11
+aug. 22 16:11:02 WARLORD konsole[297609]: kf.windowsystem: static void KX11Extras::setOnDesktop(WId, int) may only be used on X11
+aug. 22 16:11:02 WARLORD systemd[1015]: app-org.kde.konsole@3ed76a31c173435689fc3755d00e8c65.service: Consumed 219ms CPU time over 1h 44min 52.128s wall clock time, 86.1M memory peak.
+aug. 22 16:11:02 WARLORD systemd[1015]: app-org.kde.konsole-297609.scope: Consumed 49.216s CPU time over 1h 44min 51.795s wall clock time, 57.2M memory peak.
+aug. 22 16:11:09 WARLORD xdg-document-portal[1618]: removing transfer 450020917774675858915250391676157661135 for dead peer :1.218
+aug. 22 16:11:09 WARLORD xdg-document-portal[1618]: removing transfer 117295455272424107134820540434702971866 for dead peer :1.218
+aug. 22 16:11:09 WARLORD xdg-document-portal[1618]: removing transfer 283726118767313023715398914978030333764 for dead peer :1.218
+aug. 22 16:11:09 WARLORD systemd[1015]: app-org.kde.dolphin@081de9b2006f4563ace270fc4306f873.service: Consumed 11.554s CPU time over 24min 40.010s wall clock time, 702.5M memory peak.
+aug. 22 16:11:14 WARLORD google-chrome-stable[330694]: [330689:330689:0822/161114.320984:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (1220.47s) location=Button@ui/views/controls/button/button.cc:669
+aug. 22 16:11:47 WARLORD google-chrome-stable[330694]: [330689:330738:0822/161147.220011:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 22 16:11:47 WARLORD google-chrome-stable[330694]: QThreadStorage: entry 2 destroyed before end of thread 0x18b4007190e0
+aug. 22 16:11:47 WARLORD google-chrome-stable[330694]: QThreadStorage: entry 1 destroyed before end of thread 0x18b4007190e0
+aug. 22 16:11:47 WARLORD systemd[1015]: app-com.google.Chrome-330689.scope: Consumed 19.407s CPU time over 29min 4.575s wall clock time, 372.8M memory peak.
+aug. 22 16:11:47 WARLORD systemd[1015]: app-google\x2dchrome@8367ec8fbcba46e591b30cf2f8a1bb9a.service: Consumed 2min 25.669s CPU time over 29min 5.214s wall clock time, 2G memory peak.
+aug. 22 16:11:51 WARLORD sudo[340918]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 22 16:11:51 WARLORD sudo[340918]: wils : TTY=/dev/pts/2 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+aug. 22 16:11:51 WARLORD sudo[340918]: pam_unix(sudo:session): session closed for user root
+aug. 22 16:11:51 WARLORD sudo[340922]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 22 16:11:51 WARLORD sudo[340922]: wils : TTY=/dev/pts/2 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
