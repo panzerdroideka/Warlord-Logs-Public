@@ -1,0 +1,13 @@
+### Chat Log: Combat 08/22 03:01 PM ###
+[08/22 03:30:44 PM] The Esh-kimâkhi Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 526 Shadow damage to Morale.
+[08/22 03:30:59 PM] The Esh-kimâkhi Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 555 Shadow damage to Morale.
+[08/22 03:53:32 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 03:53:32 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Barkhûshim Champion for 33,849 Lightning damage to Morale.
+[08/22 03:53:33 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Barkhûshim Champion for 16,176 Fire damage to Morale.
+[08/22 03:53:33 PM] Your mighty blow defeated the Barkhûshim Champion.
+[08/22 03:53:34 PM] Nlkosi scored a hit with Epic Conclusion on the Barkhûshim Champion for 44,868 Lightning damage to Morale.
+[08/22 03:53:42 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 03:53:42 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Barkhûshim Champion for 35,375 Lightning damage to Morale.
+[08/22 03:53:43 PM] Your mighty blow defeated the Barkhûshim Champion.
+[08/22 03:53:43 PM] Nlkosi scored a critical hit with Shocking Words on the Barkhûshim Champion for 106,216 Lightning damage to Morale.
+[08/22 03:59:17 PM] Nlkosi applied a benefit with Return to Vartúlin (Imhûlar) on Nlkosi.

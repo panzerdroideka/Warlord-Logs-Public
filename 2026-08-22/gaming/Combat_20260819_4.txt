@@ -1,0 +1,284 @@
+### Chat Log: Combat 08/19 10:50 PM ###
+[08/19 10:51:47 PM] Nothing to dispel.
+[08/19 10:51:47 PM] Nlkosi scored a critical hit with Improved Final Word on the Ordâkhai Cat-keeper.
+[08/19 10:51:48 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 8,864 Lightning damage to Morale.
+[08/19 10:51:49 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Cat-keeper for 37,815 Lightning damage to Morale.
+[08/19 10:51:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:51:50 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Cat-keeper for 14,685 Lightning damage to Morale.
+[08/19 10:51:51 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,830 points to Power.
+[08/19 10:51:51 PM] Sustenance applied a heal to Nlkosi restoring 19,178 points to Morale.
+[08/19 10:51:52 PM] Your mighty blow defeated the Ordâkhai Cat-keeper.
+[08/19 10:51:52 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Cat-keeper for 12,081 Lightning damage to Morale.
+[08/19 10:51:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Battle-cat for 12,396 Lightning damage to Morale.
+[08/19 10:51:59 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Battle-cat for 36,498 Lightning damage to Morale.
+[08/19 10:52:00 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:52:00 PM] Your mighty blow defeated the Ordâkhai Battle-cat.
+[08/19 10:52:01 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Battle-cat for 101,491 Lightning damage to Morale.
+[08/19 10:52:06 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Sorcerer for 30,734 Lightning damage to Morale.
+[08/19 10:52:07 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 5,609 Shadow damage to Morale.
+[08/19 10:52:07 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Sorcerer for 16,595 Lightning damage to Morale.
+[08/19 10:52:08 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 6,460 Lightning damage to Morale.
+[08/19 10:52:09 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,783 points to Power.
+[08/19 10:52:09 PM] Sustenance applied a critical heal to Nlkosi restoring 25,763 points to Morale.
+[08/19 10:52:09 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 20,485 Shadow damage to Morale.
+[08/19 10:52:10 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/19 10:52:10 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[08/19 10:52:10 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Sorcerer for 8,902 Lightning damage to Morale.
+[08/19 10:52:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 8,575 Lightning damage to Morale.
+[08/19 10:52:21 PM] The Ordâkhai Look-out missed trying to use a moderate thrown attack on Nlkosi.
+[08/19 10:52:21 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:52:21 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/19 10:52:22 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Look-out for 91,364 Lightning damage to Morale.
+[08/19 10:52:50 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 9,238 Lightning damage to Morale.
+[08/19 10:52:51 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 9,443 Lightning damage to Morale.
+[08/19 10:52:52 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 11,603 Lightning damage to Morale.
+[08/19 10:52:53 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 5,784 Lightning damage to Morale.
+[08/19 10:52:53 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,947 points to Power.
+[08/19 10:52:53 PM] Sustenance applied a heal to Nlkosi restoring 18,075 points to Morale.
+[08/19 10:52:54 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 9,419 Lightning damage to Morale.
+[08/19 10:52:55 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on Nlkosi for 7,040 Common damage to Morale.
+[08/19 10:52:55 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:52:55 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:52:55 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Warrior for 87,259 Lightning damage to Morale.
+[08/19 10:53:12 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:53:13 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Battle-cat for 26,726 Lightning damage to Morale.
+[08/19 10:53:14 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Battle-cat for 12,578 Lightning damage to Morale.
+[08/19 10:53:14 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Battle-cat for 5,527 Lightning damage to Morale.
+[08/19 10:53:15 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,924 points to Power.
+[08/19 10:53:15 PM] Sustenance applied a heal to Nlkosi restoring 19,358 points to Morale.
+[08/19 10:53:16 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Battle-cat for 11,120 Lightning damage to Morale.
+[08/19 10:53:17 PM] The Ordâkhai Battle-cat scored a hit with a weak swipe attack on Nlkosi for 5,280 Common damage to Morale.
+[08/19 10:53:17 PM] Your mighty blow defeated the Ordâkhai Battle-cat.
+[08/19 10:53:18 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Battle-cat for 11,119 Lightning damage to Morale.
+[08/19 10:53:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 12,533 Lightning damage to Morale.
+[08/19 10:53:22 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Ordâkhai Cat-keeper for 47,433 Lightning damage to Morale.
+[08/19 10:53:23 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:53:23 PM] Your mighty blow defeated the Ordâkhai Cat-keeper.
+[08/19 10:53:23 PM] Nlkosi scored a devastating hit with Epic Conclusion on the Ordâkhai Cat-keeper for 239,604 Lightning damage to Morale.
+[08/19 10:53:28 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 37,833 Lightning damage to Morale.
+[08/19 10:53:29 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Cat-keeper for 14,049 Lightning damage to Morale.
+[08/19 10:53:30 PM] Your mighty blow defeated the Ordâkhai Cat-keeper.
+[08/19 10:53:30 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Ordâkhai Cat-keeper for 47,816 Lightning damage to Morale.
+[08/19 10:53:30 PM] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 5,101 Common damage to Morale.
+[08/19 10:53:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 16,801 Fire damage to Morale.
+[08/19 10:53:32 PM] The Ordâkhai Warrior scored a hit with a minor melee attack on Nlkosi for 5,323 Common damage to Morale.
+[08/19 10:53:32 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 4,081 Common damage to Morale.
+[08/19 10:53:33 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/19 10:53:33 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 4,964 Lightning damage to Morale.
+[08/19 10:53:33 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/19 10:53:34 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:53:34 PM] The Ordâkhai Look-out scored a critical hit with a moderate thrown attack on Nlkosi for 8,024 Common damage to Morale.
+[08/19 10:53:35 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 43,871 Lightning damage to Morale.
+[08/19 10:53:36 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 4,081 Common damage to Morale.
+[08/19 10:53:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:53:37 PM] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Look-out for 29,926 Lightning damage to Morale.
+[08/19 10:53:38 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Look-out for 14,553 Lightning damage to Morale.
+[08/19 10:53:38 PM] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 5,101 Common damage to Morale.
+[08/19 10:53:39 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 14,333 Lightning damage to Morale.
+[08/19 10:53:39 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/19 10:53:55 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 4,715 Lightning damage to Morale.
+[08/19 10:53:56 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,852 points to Power.
+[08/19 10:53:56 PM] Sustenance applied a heal to Nlkosi restoring 19,480 points to Morale.
+[08/19 10:53:56 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 14,632 Shadow damage to Morale.
+[08/19 10:53:56 PM] The Ordâkhai Sorcerer scored a devastating hit with Song of Despair on Nlkosi.
+[08/19 10:53:56 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Sorcerer for 14,728 Lightning damage to Morale.
+[08/19 10:53:58 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Sorcerer for 14,184 Lightning damage to Morale.
+[08/19 10:54:00 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 14,632 Shadow damage to Morale.
+[08/19 10:54:00 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Sorcerer.
+[08/19 10:54:00 PM] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Sorcerer for 11,608 Frost damage to Morale.
+[08/19 10:54:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:54:01 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[08/19 10:54:01 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 3,369 Shadow damage to Morale.
+[08/19 10:54:01 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Sorcerer for 175,580 Lightning damage to Morale.
+[08/19 10:54:03 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 10,678 Lightning damage to Morale.
+[08/19 10:54:04 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:54:04 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Warrior for 95,074 Lightning damage to Morale.
+[08/19 10:54:08 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Sorceress for 13,300 Lightning damage to Morale.
+[08/19 10:54:10 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Sorceress for 10,399 Lightning damage to Morale.
+[08/19 10:54:10 PM] The Ordâkhai Sorceress scored a hit with Max Shadow Damage on Nlkosi for 20,485 Shadow damage to Morale.
+[08/19 10:54:10 PM] The Ordâkhai Sorceress scored a hit with Painful Memory on Nlkosi.
+[08/19 10:54:11 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/19 10:54:12 PM] The Ordâkhai Sorceress scored a hit with a weak thrown attack on Nlkosi for 5,609 Shadow damage to Morale.
+[08/19 10:54:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorceress for 17,061 Fire damage to Morale.
+[08/19 10:54:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorceress for 17,061 Fire damage to Morale.
+[08/19 10:54:14 PM] The Volcanic Rune-stone defeated the Ordâkhai Sorceress.
+[08/19 10:54:17 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/19 10:54:19 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Battle-cat for 11,576 Lightning damage to Morale.
+[08/19 10:54:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:54:19 PM] Your mighty blow defeated the Ordâkhai Battle-cat.
+[08/19 10:54:20 PM] Nlkosi scored a devastating hit with Essence of Storm on the Ordâkhai Battle-cat for 75,227 Lightning damage to Morale.
+[08/19 10:54:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 9,740 Lightning damage to Morale.
+[08/19 10:54:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:54:59 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/19 10:54:59 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Look-out for 81,308 Lightning damage to Morale.
+[08/19 10:55:00 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 20,485 Shadow damage to Morale.
+[08/19 10:55:00 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/19 10:55:03 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Sorcerer for 10,084 Lightning damage to Morale.
+[08/19 10:55:04 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 14,575 Lightning damage to Morale.
+[08/19 10:55:05 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 5,609 Shadow damage to Morale.
+[08/19 10:55:05 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 12,293 Lightning damage to Morale.
+[08/19 10:55:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 10,094 Lightning damage to Morale.
+[08/19 10:55:07 PM] The Ordâkhai Sorcerer scored a hit with a minor thrown attack on Nlkosi for 7,011 Shadow damage to Morale.
+[08/19 10:55:07 PM] The Ordâkhai Warrior missed trying to use a melee double attack on Nlkosi.
+[08/19 10:55:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 16,801 Fire damage to Morale.
+[08/19 10:55:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,801 Fire damage to Morale.
+[08/19 10:55:07 PM] The Ordâkhai Champion scored a hit with a mighty melee attack on Nlkosi for 13,609 Common damage to Morale.
+[08/19 10:55:07 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/19 10:55:08 PM] Nothing to dispel.
+[08/19 10:55:08 PM] The Ordâkhai Warrior scored a devastating hit with a melee double attack on Nlkosi for 9,339 Common damage to Morale.
+[08/19 10:55:08 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Champion.
+[08/19 10:55:09 PM] The Ordâkhai Champion scored a hit with a minor melee attack on Nlkosi for 7,561 Common damage to Morale.
+[08/19 10:55:09 PM] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 7,712 Shadow damage to Morale.
+[08/19 10:55:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 16,801 Fire damage to Morale.
+[08/19 10:55:09 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 16,274 Lightning damage to Morale.
+[08/19 10:55:10 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,048 Common damage to Morale.
+[08/19 10:55:11 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Champion for 13,502 Lightning damage to Morale.
+[08/19 10:55:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 16,801 Fire damage to Morale.
+[08/19 10:55:11 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 5,609 Shadow damage to Morale.
+[08/19 10:55:12 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 5,867 Common damage to Morale.
+[08/19 10:55:12 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:55:12 PM] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Champion for 66,831 Lightning damage to Morale.
+[08/19 10:55:12 PM] The Ordâkhai Warrior scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,441 Common damage to Morale.
+[08/19 10:55:13 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Champion for 7,397 Lightning damage to Morale.
+[08/19 10:55:13 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 16,801 Fire damage to Morale.
+[08/19 10:55:13 PM] The Volcanic Rune-stone defeated the Ordâkhai Warrior.
+[08/19 10:55:14 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,315 points to Power.
+[08/19 10:55:14 PM] Sustenance applied a heal to Nlkosi restoring 22,235 points to Morale.
+[08/19 10:55:14 PM] Nlkosi scored a hit with Static Surge on the Ordâkhai Champion for 24,353 Lightning damage to Morale.
+[08/19 10:55:14 PM] The Ordâkhai Champion scored a critical hit with a moderate melee attack on Nlkosi for 11,179 Common damage to Morale.
+[08/19 10:55:15 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/19 10:55:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 17,061 Fire damage to Morale.
+[08/19 10:55:16 PM] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Champion for 6,007 Lightning damage to Morale.
+[08/19 10:55:17 PM] Nlkosi scored a hit with Head-butt on the Ordâkhai Champion for 12,782 Common damage to Morale.
+[08/19 10:55:17 PM] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 6,667 Shadow damage to Morale.
+[08/19 10:55:18 PM] You have lost 6,667 points of temporary Morale!
+[08/19 10:55:19 PM] Nlkosi scored a critical hit with Vivid Imagery on the Ordâkhai Champion for 34,659 Lightning damage to Morale.
+[08/19 10:55:19 PM] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Sorcerer for 13,103 Lightning damage to Morale.
+[08/19 10:55:20 PM] Your mighty blow defeated the Ordâkhai Champion.
+[08/19 10:55:21 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Champion for 190,703 Lightning damage to Morale.
+[08/19 10:55:22 PM] Nothing to cure.
+[08/19 10:55:23 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/19 10:55:24 PM] Nothing to dispel.
+[08/19 10:55:24 PM] Nothing to cure.
+[08/19 10:55:24 PM] Nlkosi scored a hit with Speak No Evil on the Ordâkhai Sorcerer.
+[08/19 10:55:26 PM] Nothing to cure.
+[08/19 10:55:29 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Sorcerer for 1,621 Frost damage to Morale.
+[08/19 10:55:29 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/19 10:55:31 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[08/19 10:55:31 PM] Nlkosi scored a devastating hit with Essence of Winter on the Ordâkhai Sorcerer for 29,741 Frost damage to Morale.
+[08/19 10:55:34 PM] You have lost 54,245 points of temporary Morale!
+[08/19 10:55:37 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 12,990 Lightning damage to Morale.
+[08/19 10:55:38 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 10,229 Lightning damage to Morale.
+[08/19 10:55:40 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 4,839 Common damage to Morale.
+[08/19 10:55:40 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Warrior.
+[08/19 10:55:40 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:55:40 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 4,839 Common damage to Morale.
+[08/19 10:55:40 PM] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Warrior for 30,175 Lightning damage to Morale.
+[08/19 10:55:41 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:55:41 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 55,869 Lightning damage to Morale.
+[08/19 10:56:16 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 9,634 Lightning damage to Morale.
+[08/19 10:56:17 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 22,794 Lightning damage to Morale.
+[08/19 10:56:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:56:18 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:56:19 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 32,052 Lightning damage to Morale.
+[08/19 10:56:19 PM] The Ordâkhai Look-out scored a partially evaded hit with a weak thrown attack on Nlkosi for 4,287 Common damage to Morale.
+[08/19 10:56:20 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 13,712 Lightning damage to Morale.
+[08/19 10:56:21 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Look-out for 16,167 Lightning damage to Morale.
+[08/19 10:56:21 PM] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 5,796 Common damage to Morale.
+[08/19 10:56:22 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,960 points to Power.
+[08/19 10:56:22 PM] Sustenance applied a heal to Nlkosi restoring 20,575 points to Morale.
+[08/19 10:56:22 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Look-out for 14,922 Lightning damage to Morale.
+[08/19 10:56:23 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 4,637 Common damage to Morale.
+[08/19 10:56:25 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/19 10:56:25 PM] Nlkosi scored a hit with Essence of Winter on the Ordâkhai Look-out for 12,985 Frost damage to Morale.
+[08/19 10:56:25 PM] Nlkosi scored a hit with Essence of Winter on the Ordâkhai Cat-keeper for 10,051 Frost damage to Morale.
+[08/19 10:56:25 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/19 10:56:27 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 10,301 Lightning damage to Morale.
+[08/19 10:56:28 PM] Your mighty blow defeated the Ordâkhai Cat-keeper.
+[08/19 10:56:28 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Cat-keeper for 46,509 Lightning damage to Morale.
+[08/19 10:56:32 PM] Nlkosi tried to use Improved Final Word on the Ordâkhai Warrior but he resisted the attempt.
+[08/19 10:56:33 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 10,027 Lightning damage to Morale.
+[08/19 10:56:34 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on Nlkosi for 6,823 Common damage to Morale.
+[08/19 10:56:34 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 13,843 Lightning damage to Morale.
+[08/19 10:56:35 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 16,784 Lightning damage to Morale.
+[08/19 10:56:36 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 4,548 Common damage to Morale.
+[08/19 10:56:37 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 11,459 Lightning damage to Morale.
+[08/19 10:56:38 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:56:38 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 14,207 Lightning damage to Morale.
+[08/19 10:56:43 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Battle-cat for 10,875 Lightning damage to Morale.
+[08/19 10:56:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:56:43 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Battle-cat for 23,024 Lightning damage to Morale.
+[08/19 10:56:44 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,703 points to Power.
+[08/19 10:56:44 PM] Sustenance applied a heal to Nlkosi restoring 20,763 points to Morale.
+[08/19 10:56:46 PM] The Ordâkhai Battle-cat scored a hit with a weak melee attack on Nlkosi for 5,444 Common damage to Morale.
+[08/19 10:56:47 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Battle-cat for 1,588 Frost damage to Morale.
+[08/19 10:56:47 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/19 10:56:48 PM] The Ordâkhai Battle-cat scored a hit with a minor melee attack on Nlkosi for 6,804 Common damage to Morale.
+[08/19 10:56:49 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Battle-cat for 16,909 Fire damage to Morale.
+[08/19 10:56:49 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/19 10:56:50 PM] Your mighty blow defeated the Ordâkhai Battle-cat.
+[08/19 10:56:50 PM] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Battle-cat for 17,166 Lightning damage to Morale.
+[08/19 10:57:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 10,397 Lightning damage to Morale.
+[08/19 10:57:18 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 21,698 Lightning damage to Morale.
+[08/19 10:57:20 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Warrior.
+[08/19 10:57:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:57:20 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:57:21 PM] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Warrior for 53,144 Lightning damage to Morale.
+[08/19 10:57:48 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Cat-keeper for 12,244 Lightning damage to Morale.
+[08/19 10:57:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:57:49 PM] Your mighty blow defeated the Ordâkhai Cat-keeper.
+[08/19 10:57:50 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Cat-keeper for 73,559 Lightning damage to Morale.
+[08/19 10:57:51 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Battle-cat for 11,569 Lightning damage to Morale.
+[08/19 10:57:53 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Battle-cat.
+[08/19 10:57:55 PM] Nlkosi scored a devastating hit with Essence of Winter on the Ordâkhai Battle-cat for 31,121 Frost damage to Morale.
+[08/19 10:57:55 PM] Your mighty blow defeated the Ordâkhai Battle-cat.
+[08/19 10:57:56 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Ordâkhai Battle-cat for 37,954 Lightning damage to Morale.
+[08/19 10:58:04 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 8,382 Lightning damage to Morale.
+[08/19 10:58:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 10:58:05 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 29,356 Lightning damage to Morale.
+[08/19 10:58:06 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Warrior for 18,332 Lightning damage to Morale.
+[08/19 10:58:07 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,326 points to Power.
+[08/19 10:58:07 PM] Sustenance applied a heal to Nlkosi restoring 22,789 points to Morale.
+[08/19 10:58:08 PM] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Warrior for 6,487 Frost damage to Morale.
+[08/19 10:58:08 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,623 Common damage to Morale.
+[08/19 10:58:08 PM] The Ordâkhai Look-out scored a hit with Sniper Arrow on Nlkosi.
+[08/19 10:58:08 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/19 10:58:09 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Warrior for 36,203 Lightning damage to Morale.
+[08/19 10:58:10 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Look-out for 33,386 Lightning damage to Morale.
+[08/19 10:58:10 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,623 Common damage to Morale.
+[08/19 10:58:11 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/19 10:58:11 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Look-out for 56,452 Lightning damage to Morale.
+[08/19 10:58:12 PM] The Ordâkhai Look-out tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[08/19 10:58:14 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,623 Common damage to Morale.
+[08/19 10:58:16 PM] The Ordâkhai Look-out tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[08/19 10:58:18 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,796 Common damage to Morale.
+[08/19 10:58:20 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,796 Common damage to Morale.
+[08/19 10:58:22 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,796 Common damage to Morale.
+[08/19 10:58:24 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,796 Common damage to Morale.
+[08/19 10:58:26 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,796 Common damage to Morale.
+[08/19 10:58:28 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 5,796 Common damage to Morale.
+[08/19 11:03:28 PM] Nlkosi scored a hit with Ceaseless Argument on Kulgath the Ruiner for 10,762 Lightning damage to Morale.
+[08/19 11:03:29 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 11:03:29 PM] Kulgath the Ruiner scored a hit with a weak melee attack on Nlkosi for 5,645 Common damage to Morale.
+[08/19 11:03:29 PM] Nlkosi scored a critical hit with Writ of Lightning on Kulgath the Ruiner for 25,488 Lightning damage to Morale.
+[08/19 11:03:30 PM] Kulgath the Ruiner scored a hit with Forceful Slash on Nlkosi.
+[08/19 11:03:33 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/19 11:03:33 PM] Kulgath the Ruiner scored a hit with a melee double attack on Nlkosi for 5,645 Common damage to Morale.
+[08/19 11:03:34 PM] Kulgath the Ruiner scored a hit with a melee double attack on Nlkosi for 5,645 Common damage to Morale.
+[08/19 11:03:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on Kulgath the Ruiner for 17,581 Fire damage to Morale.
+[08/19 11:03:36 PM] Kulgath the Ruiner scored a hit with a mighty melee attack on Nlkosi for 12,702 Common damage to Morale.
+[08/19 11:03:36 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/19 11:03:37 PM] Nlkosi scored a hit with Ceaseless Argument on Kulgath the Ruiner for 12,975 Lightning damage to Morale.
+[08/19 11:03:37 PM] Nlkosi scored a hit with Fulgurite Strike on Kulgath the Ruiner for 4,981 Lightning damage to Morale.
+[08/19 11:03:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on Kulgath the Ruiner for 17,581 Fire damage to Morale.
+[08/19 11:03:38 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/19 11:03:39 PM] Nlkosi scored a critical hit with Writ of Lightning on Kulgath the Ruiner for 34,906 Lightning damage to Morale.
+[08/19 11:03:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on Kulgath the Ruiner for 18,102 Fire damage to Morale.
+[08/19 11:03:40 PM] Nlkosi scored a hit with Shocking Words on Kulgath the Ruiner for 50,978 Lightning damage to Morale.
+[08/19 11:03:40 PM] Nlkosi scored a hit with Fulgurite Strike on Kulgath the Ruiner for 5,005 Lightning damage to Morale.
+[08/19 11:03:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 310 points to Power.
+[08/19 11:03:41 PM] Nlkosi scored a critical hit with Essence of Storm on Kulgath the Ruiner for 56,382 Lightning damage to Morale.
+[08/19 11:03:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on Kulgath the Ruiner for 18,102 Fire damage to Morale.
+[08/19 11:03:42 PM] Nlkosi scored a hit with Fiery Ridicule on Kulgath the Ruiner for 6,022 Fire damage to Morale.
+[08/19 11:03:43 PM] Your mighty blow defeated Kulgath the Ruiner.
+[08/19 11:03:43 PM] Nlkosi scored a hit with Chilling Rhetoric on Kulgath the Ruiner for 8,064 Frost damage to Morale.

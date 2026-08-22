@@ -1,0 +1,848 @@
+### Chat Log: Combat 08/21 03:06 PM ###
+[08/21 03:11:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Sapper for 9,853 Lightning damage to Morale.
+[08/21 03:11:08 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Goblin Sapper for 10,172 Fire damage to Morale.
+[08/21 03:11:09 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Goblin Sapper for 13,973 Frost damage to Morale.
+[08/21 03:11:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:11:09 PM] Your mighty blow defeated the Goblin Sapper.
+[08/21 03:11:09 PM] Nlkosi scored a critical hit with Epic Conclusion on the Goblin Sapper for 104,847 Lightning damage to Morale.
+[08/21 03:11:11 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Watch-keep for 10,544 Lightning damage to Morale.
+[08/21 03:11:11 PM] The Goblin Watch-keep scored a hit with a minor melee attack on Nlkosi for 12,827 Common damage to Morale.
+[08/21 03:11:11 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Goblin Watch-keep for 14,764 Lightning damage to Morale.
+[08/21 03:11:12 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 2,253 Acid damage to Morale.
+[08/21 03:11:12 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,029 points to Power.
+[08/21 03:11:12 PM] Sustenance applied a heal to Nlkosi restoring 20,902 points to Morale.
+[08/21 03:11:13 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Watch-keep for 15,698 Lightning damage to Morale.
+[08/21 03:11:14 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Goblin Watch-keep for 11,200 Fire damage to Morale.
+[08/21 03:11:15 PM] The Goblin Watch-keep scored a hit with a moderate melee attack on Nlkosi for 13,263 Common damage to Morale.
+[08/21 03:11:16 PM] Nlkosi tried to use Distracting Flame on the Goblin Watch-keep but he resisted the attempt.
+[08/21 03:11:17 PM] The Goblin Watch-keep scored a partially evaded hit with a moderate swipe attack on Nlkosi for 12,283 Common damage to Morale.
+[08/21 03:11:17 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Goblin Watch-keep for 2,735 Fire damage to Morale.
+[08/21 03:11:17 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:11:17 PM] Nlkosi scored a hit with Essence of Flame on the Goblin Watch-keep for 15,453 Fire damage to Morale.
+[08/21 03:11:18 PM] Nlkosi scored a hit with Head-butt on the Goblin Watch-keep for 14,190 Common damage to Morale.
+[08/21 03:11:19 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 2,253 Acid damage to Morale.
+[08/21 03:11:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:11:28 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/21 03:11:29 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 5,220 Lightning damage to Morale.
+[08/21 03:11:29 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 4,959 Lightning damage to Morale.
+[08/21 03:11:29 PM] The Goblin Watch-keep scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,200 Common damage to Morale.
+[08/21 03:11:30 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/21 03:11:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:11:31 PM] The Goblin Raider scored a hit with a mighty thrown attack on the Volcanic Rune-stone for 4,949 Common damage to Morale.
+[08/21 03:11:31 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:11:31 PM] The Goblin Raider scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,879 Common damage to Morale.
+[08/21 03:11:31 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Watch-keep for 31,775 Lightning damage to Morale.
+[08/21 03:11:31 PM] The Goblin Watch-keep scored a partially parried hit with a minor melee attack on the Volcanic Rune-stone for 1,774 Common damage to Morale.
+[08/21 03:11:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:11:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:11:32 PM] The Volcanic Rune-stone defeated the Goblin Watch-keep.
+[08/21 03:11:32 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 5,209 Lightning damage to Morale.
+[08/21 03:11:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:11:35 PM] Your mighty blow defeated the Goblin Raider.
+[08/21 03:11:35 PM] Nlkosi scored a critical hit with Writ of Lightning on the Goblin Raider for 32,890 Lightning damage to Morale.
+[08/21 03:12:15 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Watch-keep for 10,604 Lightning damage to Morale.
+[08/21 03:12:16 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Watch-keep for 13,371 Lightning damage to Morale.
+[08/21 03:12:17 PM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Watch-keep for 5,240 Fire damage to Morale.
+[08/21 03:12:17 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:12:17 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:12:17 PM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Watch-keep for 58,621 Lightning damage to Morale.
+[08/21 03:12:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Raider for 11,228 Lightning damage to Morale.
+[08/21 03:12:48 PM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 23,089 Common damage to Morale.
+[08/21 03:12:48 PM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 23,089 Common damage to Morale.
+[08/21 03:12:49 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Raider.
+[08/21 03:12:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:12:49 PM] Your mighty blow defeated the Goblin Raider.
+[08/21 03:12:50 PM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Raider for 57,765 Lightning damage to Morale.
+[08/21 03:12:51 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Raider for 13,947 Lightning damage to Morale.
+[08/21 03:12:53 PM] Nlkosi scored a critical hit with Writ of Lightning on the Goblin Raider for 33,989 Lightning damage to Morale.
+[08/21 03:12:53 PM] The Goblin Raider tried to use a melee double attack on Nlkosi but he evaded the attempt.
+[08/21 03:12:53 PM] The Goblin Raider scored a hit with a melee double attack on Nlkosi for 8,765 Common damage to Morale.
+[08/21 03:12:54 PM] Your mighty blow defeated the Goblin Raider.
+[08/21 03:12:54 PM] Nlkosi scored a devastating hit with Shocking Words on the Goblin Raider for 150,694 Lightning damage to Morale.
+[08/21 03:13:00 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Watch-keep for 12,615 Lightning damage to Morale.
+[08/21 03:13:01 PM] Nlkosi scored a hit with Essence of Flame on the Goblin Watch-keep for 16,470 Fire damage to Morale.
+[08/21 03:13:02 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Watch-keep for 15,127 Lightning damage to Morale.
+[08/21 03:13:02 PM] The Goblin Watch-keep scored a hit with Melee Knockdown on Nlkosi.
+[08/21 03:13:04 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/21 03:13:04 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 10,262 Common damage to Morale.
+[08/21 03:13:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:13:05 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:13:05 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Watch-keep for 42,353 Lightning damage to Morale.
+[08/21 03:13:14 PM] The Goblin Sticker scored a hit with a mighty thrown attack on Nlkosi for 23,089 Common damage to Morale.
+[08/21 03:13:15 PM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 23,089 Common damage to Morale.
+[08/21 03:13:15 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 10,262 Common damage to Morale.
+[08/21 03:13:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:13:16 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/21 03:13:16 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 2,253 Acid damage to Morale.
+[08/21 03:13:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 5,051 Lightning damage to Morale.
+[08/21 03:13:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 4,877 Lightning damage to Morale.
+[08/21 03:13:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 4,951 Lightning damage to Morale.
+[08/21 03:13:18 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/21 03:13:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:13:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 17,891 Fire damage to Morale.
+[08/21 03:13:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:13:18 PM] The Goblin Watch-keep scored a critical hit with a moderate melee attack on the Volcanic Rune-stone for 3,938 Common damage to Morale.
+[08/21 03:13:18 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Watch-keep for 8,228 Lightning damage to Morale.
+[08/21 03:13:19 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 22,530 Acid damage to Morale.
+[08/21 03:13:19 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,394 points to Power.
+[08/21 03:13:19 PM] Sustenance applied a critical heal to Nlkosi restoring 24,619 points to Morale.
+[08/21 03:13:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:13:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 17,891 Fire damage to Morale.
+[08/21 03:13:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:13:20 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:13:20 PM] Nlkosi scored a hit with Shocking Words on the Goblin Watch-keep for 28,325 Lightning damage to Morale.
+[08/21 03:13:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 4,751 Lightning damage to Morale.
+[08/21 03:13:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 4,881 Lightning damage to Morale.
+[08/21 03:13:21 PM] The Goblin Raider missed trying to use a weak melee attack on the Volcanic Rune-stone.
+[08/21 03:13:21 PM] The Goblin Sticker scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,879 Common damage to Morale.
+[08/21 03:13:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:13:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 17,891 Fire damage to Morale.
+[08/21 03:13:22 PM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 21,704 Common damage to Morale.
+[08/21 03:13:22 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 22,530 Acid damage to Morale.
+[08/21 03:13:24 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Sticker but he was immune to the attempt.
+[08/21 03:13:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 4,766 Lightning damage to Morale.
+[08/21 03:13:24 PM] The Charged Fulgurite Rune-stone defeated the Goblin Sticker.
+[08/21 03:13:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 5,044 Lightning damage to Morale.
+[08/21 03:13:24 PM] The Charged Fulgurite Rune-stone defeated the Goblin Raider.
+[08/21 03:13:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 5,133 Lightning damage to Morale.
+[08/21 03:13:24 PM] The Goblin Watch-keep scored a hit with a moderate swipe attack on Nlkosi for 13,263 Common damage to Morale.
+[08/21 03:13:24 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Raider for 8,318 Lightning damage to Morale.
+[08/21 03:13:26 PM] The Goblin Raider scored a hit with a melee double attack on Nlkosi for 8,239 Common damage to Morale.
+[08/21 03:13:26 PM] Nlkosi scored a hit with Epic Conclusion on the Goblin Watch-keep for 41,813 Lightning damage to Morale.
+[08/21 03:13:27 PM] The Goblin Raider scored a hit with a melee double attack on Nlkosi for 8,239 Common damage to Morale.
+[08/21 03:13:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 5,223 Lightning damage to Morale.
+[08/21 03:13:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 5,177 Lightning damage to Morale.
+[08/21 03:13:27 PM] The Goblin Watch-keep tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/21 03:13:28 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/21 03:13:29 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 9,338 Common damage to Morale.
+[08/21 03:13:30 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Watch-keep for 1,950 Frost damage to Morale.
+[08/21 03:13:30 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Raider for 1,846 Frost damage to Morale.
+[08/21 03:13:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:13:30 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:13:30 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/21 03:13:31 PM] Nlkosi scored a critical hit with Vivid Imagery on the Goblin Watch-keep for 38,024 Lightning damage to Morale.
+[08/21 03:13:31 PM] Nlkosi scored a hit with Vivid Imagery on the Goblin Raider for 15,735 Lightning damage to Morale.
+[08/21 03:13:32 PM] The Goblin Raider scored a hit with Morale Damage on Nlkosi for 2,253 Acid damage to Morale.
+[08/21 03:13:33 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Raider for 2,155 Frost damage to Morale.
+[08/21 03:13:35 PM] The Goblin Raider scored a critical hit with a moderate thrown attack on Nlkosi for 17,756 Common damage to Morale.
+[08/21 03:13:35 PM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 25,702 Fire damage to Morale.
+[08/21 03:13:35 PM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 27,141 Fire damage to Morale.
+[08/21 03:13:36 PM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 24,931 Fire damage to Morale.
+[08/21 03:13:36 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Raider for 2,542 Frost damage to Morale.
+[08/21 03:13:40 PM] The Goblin Sapper scored a hit with Fire Gourd on Nlkosi for 26,576 Fire damage to Morale.
+[08/21 03:13:41 PM] The Goblin Raider scored a hit with a weak melee attack on Nlkosi for 7,713 Common damage to Morale.
+[08/21 03:13:42 PM] The Goblin Sapper incapacitated you.
+[08/21 03:13:43 PM] The Goblin Sapper scored a critical hit with a weak melee attack on Nlkosi for 12,840 Common damage to Morale.
+[08/21 03:13:43 PM] The Goblin Raider scored a hit with Thrown Root on Nlkosi.
+[08/21 03:13:46 PM] You succumb to your wounds.
+[08/21 03:14:18 PM] The Goblin Prowler scored a hit with a weak melee attack on Nlkosi for 9,407 Common damage to Morale.
+[08/21 03:14:19 PM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 9,407 Common damage to Morale.
+[08/21 03:14:20 PM] The Goblin Prowler scored a hit with Melee Med Bleed on Nlkosi.
+[08/21 03:14:21 PM] The Goblin Prowler scored a hit with Morale Damage on Nlkosi for 2,253 Acid damage to Morale.
+[08/21 03:14:22 PM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 9,407 Common damage to Morale.
+[08/21 03:14:23 PM] The Goblin Prowler scored a hit with a melee double attack on Nlkosi for 9,407 Common damage to Morale.
+[08/21 03:14:23 PM] The Goblin Prowler scored a hit with a melee double attack on Nlkosi for 9,407 Common damage to Morale.
+[08/21 03:14:24 PM] The Goblin Prowler scored a hit with Morale Damage on Nlkosi for 22,530 Acid damage to Morale.
+[08/21 03:14:25 PM] The Goblin Prowler scored a critical hit with a moderate melee attack on Nlkosi for 18,496 Common damage to Morale.
+[08/21 03:14:25 PM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 9,407 Common damage to Morale.
+[08/21 03:14:26 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Prowler for 5,140 Lightning damage to Morale.
+[08/21 03:14:26 PM] The Goblin Prowler scored a partially evaded hit with a minor melee attack on Nlkosi for 10,889 Common damage to Morale.
+[08/21 03:14:27 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,324 points to Power.
+[08/21 03:14:27 PM] Sustenance applied a critical heal to Nlkosi restoring 28,049 points to Morale.
+[08/21 03:14:27 PM] The Goblin Prowler scored a hit with Morale Damage on Nlkosi for 22,530 Acid damage to Morale.
+[08/21 03:14:28 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:14:28 PM] Nlkosi scored a critical hit with Writ of Lightning on the Goblin Prowler for 24,733 Lightning damage to Morale.
+[08/21 03:14:28 PM] The Goblin Prowler scored a hit with a weak melee attack on Nlkosi for 9,124 Common damage to Morale.
+[08/21 03:14:28 PM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 9,124 Common damage to Morale.
+[08/21 03:14:29 PM] Nlkosi scored a hit with Shocking Words on the Goblin Prowler for 34,466 Lightning damage to Morale.
+[08/21 03:14:30 PM] The Goblin Prowler scored a hit with Morale Damage on Nlkosi for 2,253 Acid damage to Morale.
+[08/21 03:14:31 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Prowler for 10,025 Lightning damage to Morale.
+[08/21 03:14:31 PM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 9,124 Common damage to Morale.
+[08/21 03:14:32 PM] Your mighty blow defeated the Goblin Prowler.
+[08/21 03:14:32 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Prowler for 13,424 Lightning damage to Morale.
+[08/21 03:14:34 PM] The Goblin Prowler scored a hit with Serious Wound on Nlkosi for 9,124 Common damage to Morale.
+[08/21 03:15:05 PM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 11,545 Common damage to Morale.
+[08/21 03:15:06 PM] The Goblin Watch-keep scored a critical hit with a weak melee attack on Nlkosi for 14,674 Common damage to Morale.
+[08/21 03:15:06 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Berserk for 3,854 Lightning damage to Morale.
+[08/21 03:15:07 PM] The Goblin Berserk scored a hit with a mighty melee attack on Nlkosi for 25,975 Common damage to Morale.
+[08/21 03:15:07 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,838 points to Power.
+[08/21 03:15:07 PM] Sustenance applied a heal to Nlkosi restoring 17,329 points to Morale.
+[08/21 03:15:08 PM] The Goblin Watch-keep scored a hit with a moderate melee attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:15:08 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Berserk for 29,649 Lightning damage to Morale.
+[08/21 03:15:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:15:09 PM] The Goblin Berserk scored a devastating hit with a moderate swipe attack on Nlkosi for 30,636 Common damage to Morale.
+[08/21 03:15:09 PM] Nlkosi scored a hit with Epic Conclusion on the Goblin Berserk for 37,101 Lightning damage to Morale.
+[08/21 03:15:10 PM] The Goblin Watch-keep scored a hit with a moderate swipe attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:15:11 PM] The Goblin Berserk scored a hit with a moderate melee attack on Nlkosi for 15,874 Common damage to Morale.
+[08/21 03:15:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:15:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:15:12 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 10,262 Common damage to Morale.
+[08/21 03:15:12 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/21 03:15:12 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 4,784 Lightning damage to Morale.
+[08/21 03:15:12 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 5,015 Lightning damage to Morale.
+[08/21 03:15:13 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/21 03:15:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:15:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:15:14 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Berserk for 12,080 Lightning damage to Morale.
+[08/21 03:15:15 PM] The Goblin Watch-keep scored a hit with a minor melee attack on the Volcanic Rune-stone for 2,750 Common damage to Morale.
+[08/21 03:15:15 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Berserk for 15,718 Lightning damage to Morale.
+[08/21 03:15:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:15:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:15:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Watch-keep for 4,758 Lightning damage to Morale.
+[08/21 03:15:16 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Berserk but he was immune to the attempt.
+[08/21 03:15:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 4,814 Lightning damage to Morale.
+[08/21 03:15:16 PM] Nothing to dispel.
+[08/21 03:15:16 PM] Nlkosi scored a hit with Head-butt on the Goblin Berserk for 13,220 Common damage to Morale.
+[08/21 03:15:16 PM] The Goblin Berserk scored a hit with a moderate melee attack on Nlkosi for 15,874 Common damage to Morale.
+[08/21 03:15:17 PM] Nlkosi scored a hit with Improved Final Word on the Goblin Berserk.
+[08/21 03:15:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:15:18 PM] The Volcanic Rune-stone defeated the Goblin Watch-keep.
+[08/21 03:15:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:15:18 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Berserk for 13,605 Lightning damage to Morale.
+[08/21 03:15:19 PM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 11,545 Common damage to Morale.
+[08/21 03:15:19 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Berserk but he was immune to the attempt.
+[08/21 03:15:19 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 5,272 Lightning damage to Morale.
+[08/21 03:15:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 18,160 Fire damage to Morale.
+[08/21 03:15:20 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Berserk for 11,830 Lightning damage to Morale.
+[08/21 03:15:20 PM] Nlkosi tried to use Induce Stunned on the Goblin Berserk but he was immune to the attempt.
+[08/21 03:15:21 PM] The Goblin Berserk scored a hit with a mighty melee attack on Nlkosi for 25,975 Common damage to Morale.
+[08/21 03:15:21 PM] Nlkosi scored a hit with Shocking Words on the Goblin Berserk for 32,267 Lightning damage to Morale.
+[08/21 03:15:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 18,160 Fire damage to Morale.
+[08/21 03:15:22 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Berserk but he was immune to the attempt.
+[08/21 03:15:22 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 4,978 Lightning damage to Morale.
+[08/21 03:15:22 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Berserk for 11,076 Lightning damage to Morale.
+[08/21 03:15:23 PM] The Goblin Berserk scored a hit with a moderate melee attack on Nlkosi for 15,874 Common damage to Morale.
+[08/21 03:15:24 PM] Your mighty blow defeated the Goblin Berserk.
+[08/21 03:15:25 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Berserk for 11,053 Lightning damage to Morale.
+[08/21 03:15:28 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/21 03:15:29 PM] Self-motivation applied a heal to Nlkosi restoring 4,000 points to Power.
+[08/21 03:15:29 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/21 03:15:40 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:15:41 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Goblin Sapper for 26,424 Lightning damage to Morale.
+[08/21 03:15:42 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Sapper for 13,131 Lightning damage to Morale.
+[08/21 03:15:43 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Goblin Sapper for 17,004 Frost damage to Morale.
+[08/21 03:15:44 PM] Your mighty blow defeated the Goblin Sapper.
+[08/21 03:15:45 PM] Nlkosi scored a hit with Essence of Winter on the Goblin Sapper for 8,806 Frost damage to Morale.
+[08/21 03:15:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Raider for 10,336 Lightning damage to Morale.
+[08/21 03:15:48 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Goblin Raider for 14,838 Lightning damage to Morale.
+[08/21 03:15:49 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,973 points to Power.
+[08/21 03:15:49 PM] Sustenance applied a heal to Nlkosi restoring 18,949 points to Morale.
+[08/21 03:15:49 PM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 22,396 Common damage to Morale.
+[08/21 03:15:51 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Raider.
+[08/21 03:15:51 PM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Raider for 6,318 Fire damage to Morale.
+[08/21 03:15:52 PM] Nlkosi scored a hit with Essence of Flame on the Goblin Raider for 17,707 Fire damage to Morale.
+[08/21 03:15:52 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:15:52 PM] Your mighty blow defeated the Goblin Raider.
+[08/21 03:15:53 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Raider for 40,697 Lightning damage to Morale.
+[08/21 03:16:09 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Sapper for 8,529 Lightning damage to Morale.
+[08/21 03:16:11 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Sapper for 9,405 Lightning damage to Morale.
+[08/21 03:16:12 PM] The Goblin Sticker scored a hit with a mighty thrown attack on Nlkosi for 23,089 Common damage to Morale.
+[08/21 03:16:12 PM] Nlkosi scored a hit with Shocking Words on the Goblin Sapper for 34,554 Lightning damage to Morale.
+[08/21 03:16:13 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Sapper for 4,286 Lightning damage to Morale.
+[08/21 03:16:14 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,963 points to Power.
+[08/21 03:16:14 PM] Sustenance applied a heal to Nlkosi restoring 19,315 points to Morale.
+[08/21 03:16:15 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:16:15 PM] Your mighty blow defeated the Goblin Sapper.
+[08/21 03:16:15 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Sapper for 36,809 Lightning damage to Morale.
+[08/21 03:16:16 PM] The Goblin Sticker scored a hit with a weak melee attack on Nlkosi for 8,502 Common damage to Morale.
+[08/21 03:16:16 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Sticker for 14,029 Lightning damage to Morale.
+[08/21 03:16:18 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Sticker for 16,576 Lightning damage to Morale.
+[08/21 03:16:18 PM] The Goblin Sticker scored a critical hit with a minor melee attack on Nlkosi for 15,198 Common damage to Morale.
+[08/21 03:16:19 PM] Your mighty blow defeated the Goblin Sticker.
+[08/21 03:16:19 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Sticker for 40,638 Lightning damage to Morale.
+[08/21 03:16:27 PM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 25,702 Fire damage to Morale.
+[08/21 03:16:28 PM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 68,984 Fire damage to Morale.
+[08/21 03:16:29 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 10,262 Common damage to Morale.
+[08/21 03:16:30 PM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 25,702 Fire damage to Morale.
+[08/21 03:16:30 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 2,253 Acid damage to Morale.
+[08/21 03:16:31 PM] The Goblin Sapper scored a hit with Burning Oil on Nlkosi for 51,250 Fire damage to Morale.
+[08/21 03:16:34 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/21 03:16:41 PM] Increased Morale applied a heal to Nlkosi restoring 9,165 points to Morale.
+[08/21 03:16:44 PM] You have lost 10,262 points of temporary Morale!
+[08/21 03:16:53 PM] You have lost 52,259 points of temporary Morale!
+[08/21 03:16:59 PM] The Goblin Watch-keep scored a hit with a moderate swipe attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:17:44 PM] Morale Restoration applied a heal to Nlkosi restoring 8,515 points to Morale.
+[08/21 03:17:46 PM] Morale Restoration applied a heal to Nlkosi restoring 8,515 points to Morale.
+[08/21 03:17:48 PM] Morale Restoration applied a heal to Nlkosi restoring 8,515 points to Morale.
+[08/21 03:17:50 PM] Morale Restoration applied a heal to Nlkosi restoring 8,515 points to Morale.
+[08/21 03:17:52 PM] Morale Restoration applied a heal to Nlkosi restoring 8,515 points to Morale.
+[08/21 03:18:19 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 10,262 Common damage to Morale.
+[08/21 03:18:24 PM] The Goblin Watch-keep scored a hit with a moderate melee attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:18:25 PM] The Goblin Watch-keep scored a partially evaded hit with a minor melee attack on Nlkosi for 11,879 Common damage to Morale.
+[08/21 03:18:26 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 2,366 Acid damage to Morale.
+[08/21 03:18:26 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Watch-keep for 10,139 Lightning damage to Morale.
+[08/21 03:18:27 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Watch-keep for 11,315 Lightning damage to Morale.
+[08/21 03:18:27 PM] The Goblin Watch-keep scored a hit with a moderate swipe attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:18:28 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 9,954 Common damage to Morale.
+[08/21 03:18:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Watch-keep for 5,982 Fire damage to Morale.
+[08/21 03:18:29 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:18:29 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 9,954 Common damage to Morale.
+[08/21 03:18:30 PM] The Goblin Watch-keep scored a hit with a moderate melee attack on Nlkosi for 13,687 Common damage to Morale.
+[08/21 03:18:31 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Watch-keep for 1,817 Frost damage to Morale.
+[08/21 03:18:31 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Watch-keep for 1,746 Frost damage to Morale.
+[08/21 03:18:31 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/21 03:18:31 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Goblin Watch-keep for 3,895 Fire damage to Morale.
+[08/21 03:18:31 PM] The Goblin Watch-keep scored a partially evaded hit with a minor melee attack on Nlkosi for 11,523 Common damage to Morale.
+[08/21 03:18:31 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:18:32 PM] Nlkosi scored a hit with Epic Conclusion on the Goblin Watch-keep for 61,206 Lightning damage to Morale.
+[08/21 03:18:32 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:18:32 PM] The Poison Puddles I incapacitated you.
+[08/21 03:18:36 PM] You succumb to your wounds.
+[08/21 03:19:05 PM] Increased Morale applied a heal to Nlkosi restoring 83,238 points to Morale.
+[08/21 03:19:12 PM] Nothing to cure.
+[08/21 03:19:54 PM] The Goblin Watch-keep scored a critical hit with a weak melee attack on Nlkosi for 14,674 Common damage to Morale.
+[08/21 03:19:59 PM] The Goblin Watch-keep scored a hit with a moderate swipe attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:20:00 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Watch-keep for 8,391 Lightning damage to Morale.
+[08/21 03:20:01 PM] The Goblin Watch-keep scored a hit with a moderate melee attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:20:02 PM] Nlkosi scored a hit with Shocking Words on the Goblin Watch-keep for 28,860 Lightning damage to Morale.
+[08/21 03:20:03 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Watch-keep for 4,889 Lightning damage to Morale.
+[08/21 03:20:04 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,962 points to Power.
+[08/21 03:20:04 PM] Sustenance applied a critical heal to Nlkosi restoring 24,068 points to Morale.
+[08/21 03:20:04 PM] Nlkosi scored a hit with Fiery Ridicule on the Goblin Watch-keep for 5,118 Fire damage to Morale.
+[08/21 03:20:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:20:05 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:20:05 PM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Watch-keep for 51,222 Lightning damage to Morale.
+[08/21 03:20:06 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/21 03:20:13 PM] The Goblin Berserk scored a hit with a moderate swipe attack on Nlkosi for 15,874 Common damage to Morale.
+[08/21 03:20:13 PM] You have lost 15,874 points of temporary Morale!
+[08/21 03:20:14 PM] The Goblin Berserk scored a hit with Morale Damage on Nlkosi for 2,247 Acid damage to Morale.
+[08/21 03:20:15 PM] You have lost 2,247 points of temporary Morale!
+[08/21 03:20:15 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:20:15 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Berserk for 35,268 Lightning damage to Morale.
+[08/21 03:20:16 PM] The Goblin Berserk scored a hit with a mighty melee attack on Nlkosi for 25,975 Common damage to Morale.
+[08/21 03:20:16 PM] You have lost 25,975 points of temporary Morale!
+[08/21 03:20:17 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Berserk for 9,888 Lightning damage to Morale.
+[08/21 03:20:17 PM] The Goblin Berserk scored a hit with Morale Damage on Nlkosi for 22,469 Acid damage to Morale.
+[08/21 03:20:18 PM] You have lost 18,425 points of temporary Morale!
+[08/21 03:20:18 PM] Nlkosi scored a critical hit with Epic Conclusion on the Goblin Berserk for 127,838 Lightning damage to Morale.
+[08/21 03:20:18 PM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 11,545 Common damage to Morale.
+[08/21 03:20:19 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Berserk for 17,606 Lightning damage to Morale.
+[08/21 03:20:20 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Berserk for 7,345 Lightning damage to Morale.
+[08/21 03:20:21 PM] The Goblin Berserk scored a hit with a moderate melee attack on Nlkosi for 15,874 Common damage to Morale.
+[08/21 03:20:21 PM] The Goblin Berserk scored a hit with Morale Damage on Nlkosi for 22,469 Acid damage to Morale.
+[08/21 03:20:21 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,394 points to Power.
+[08/21 03:20:21 PM] Sustenance applied a heal to Nlkosi restoring 20,316 points to Morale.
+[08/21 03:20:23 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk.
+[08/21 03:20:23 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Berserk for 12,927 Lightning damage to Morale.
+[08/21 03:20:24 PM] The Goblin Berserk scored a hit with Morale Damage on Nlkosi for 22,469 Acid damage to Morale.
+[08/21 03:20:24 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Goblin Berserk for 15,570 Fire damage to Morale.
+[08/21 03:20:25 PM] Nlkosi scored a hit with Shocking Words on the Goblin Berserk for 48,153 Lightning damage to Morale.
+[08/21 03:20:25 PM] Nothing to dispel.
+[08/21 03:20:25 PM] Nlkosi scored a devastating hit with Improved Final Word on the Goblin Berserk.
+[08/21 03:20:25 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 2,903 Fire damage to Morale.
+[08/21 03:20:27 PM] Nlkosi scored a hit with Head-butt on the Goblin Berserk for 13,920 Common damage to Morale.
+[08/21 03:20:27 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Goblin Berserk for 3,590 Fire damage to Morale.
+[08/21 03:20:28 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:20:28 PM] Your mighty blow defeated the Goblin Berserk.
+[08/21 03:20:28 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Goblin Berserk for 38,655 Lightning damage to Morale.
+[08/21 03:20:36 PM] The Goblin Raider scored a hit with a mighty thrown attack on Nlkosi for 21,011 Common damage to Morale.
+[08/21 03:20:38 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Goblin Raider for 32,108 Lightning damage to Morale.
+[08/21 03:20:39 PM] The Goblin Raider scored a hit with a moderate melee attack on Nlkosi for 10,968 Common damage to Morale.
+[08/21 03:20:39 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Raider for 11,166 Lightning damage to Morale.
+[08/21 03:20:40 PM] The Goblin Raider scored a hit with Morale Damage on Nlkosi for 2,366 Acid damage to Morale.
+[08/21 03:20:40 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Raider for 4,387 Lightning damage to Morale.
+[08/21 03:20:41 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,862 points to Power.
+[08/21 03:20:41 PM] Sustenance applied a heal to Nlkosi restoring 18,561 points to Morale.
+[08/21 03:20:42 PM] The Goblin Raider scored a critical hit with a minor melee attack on Nlkosi for 15,668 Common damage to Morale.
+[08/21 03:20:42 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Raider for 8,725 Lightning damage to Morale.
+[08/21 03:20:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:20:43 PM] Your mighty blow defeated the Goblin Raider.
+[08/21 03:20:43 PM] The Goblin Raider scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:20:43 PM] Nlkosi scored a critical hit with Epic Conclusion on the Goblin Raider for 116,778 Lightning damage to Morale.
+[08/21 03:20:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:21:00 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Goblin Sapper for 27,217 Lightning damage to Morale.
+[08/21 03:21:01 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Sapper for 13,663 Lightning damage to Morale.
+[08/21 03:21:02 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Sapper.
+[08/21 03:21:03 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Goblin Sapper for 18,187 Lightning damage to Morale.
+[08/21 03:21:04 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,611 points to Power.
+[08/21 03:21:04 PM] Sustenance applied a heal to Nlkosi restoring 22,515 points to Morale.
+[08/21 03:21:04 PM] Your mighty blow defeated the Goblin Sapper.
+[08/21 03:21:05 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Sapper for 14,356 Lightning damage to Morale.
+[08/21 03:21:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:21:21 PM] Nlkosi scored a critical hit with Scribe's Spark on the Goblin Sticker for 29,896 Lightning damage to Morale.
+[08/21 03:21:22 PM] Your mighty blow defeated the Goblin Sticker.
+[08/21 03:21:22 PM] Nlkosi scored a critical hit with Shocking Words on the Goblin Sticker for 86,519 Lightning damage to Morale.
+[08/21 03:21:25 PM] The Goblin Sticker scored a hit with a mighty thrown attack on Nlkosi for 23,089 Common damage to Morale.
+[08/21 03:21:25 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Goblin Sticker for 14,711 Lightning damage to Morale.
+[08/21 03:21:25 PM] The Goblin Watch-keep scored a hit with a weak melee attack on Nlkosi for 10,262 Common damage to Morale.
+[08/21 03:21:26 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,364 points to Power.
+[08/21 03:21:26 PM] Sustenance applied a heal to Nlkosi restoring 18,093 points to Morale.
+[08/21 03:21:27 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Sticker for 13,715 Lightning damage to Morale.
+[08/21 03:21:27 PM] The Goblin Watch-keep scored a hit with a moderate melee attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:21:28 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Sticker for 8,764 Lightning damage to Morale.
+[08/21 03:21:29 PM] The Goblin Sticker scored a hit with a minor melee attack on Nlkosi for 10,957 Common damage to Morale.
+[08/21 03:21:29 PM] The Goblin Watch-keep scored a hit with a moderate swipe attack on Nlkosi for 14,110 Common damage to Morale.
+[08/21 03:21:30 PM] The Goblin Sticker scored a hit with Morale Damage on Nlkosi for 2,366 Acid damage to Morale.
+[08/21 03:21:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:21:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 18,160 Fire damage to Morale.
+[08/21 03:21:31 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 2,366 Acid damage to Morale.
+[08/21 03:21:31 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/21 03:21:31 PM] Your mighty blow defeated the Goblin Sticker.
+[08/21 03:21:32 PM] Nlkosi scored a hit with Epic Conclusion on the Goblin Sticker for 46,955 Lightning damage to Morale.
+[08/21 03:21:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 17,891 Fire damage to Morale.
+[08/21 03:21:33 PM] The Goblin Watch-keep scored a hit with a moderate melee attack on the Volcanic Rune-stone for 3,025 Common damage to Morale.
+[08/21 03:21:33 PM] The Goblin Sticker scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:21:34 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:21:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Watch-keep for 18,160 Fire damage to Morale.
+[08/21 03:21:34 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Watch-keep for 8,803 Lightning damage to Morale.
+[08/21 03:21:35 PM] The Goblin Watch-keep scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,200 Common damage to Morale.
+[08/21 03:21:36 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Goblin Watch-keep for 13,880 Frost damage to Morale.
+[08/21 03:21:36 PM] Your mighty blow defeated the Goblin Watch-keep.
+[08/21 03:21:36 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Watch-keep for 12,941 Lightning damage to Morale.
+[08/21 03:21:37 PM] The Goblin Watch-keep scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:21:37 PM] The Goblin Sticker scored a hit with Morale Damage on Nlkosi for 2,366 Acid damage to Morale.
+[08/21 03:22:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:02 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/21 03:22:02 PM] The Goblin Berserk tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/21 03:22:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:04 PM] The Goblin Sticker scored a partially evaded hit with a mighty thrown attack on the Volcanic Rune-stone for 3,192 Common damage to Morale.
+[08/21 03:22:04 PM] The Goblin Berserk scored a hit with a mighty melee attack on the Volcanic Rune-stone for 5,568 Common damage to Morale.
+[08/21 03:22:05 PM] The Goblin Berserk scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,475 Common damage to Morale.
+[08/21 03:22:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Sticker for 4,973 Lightning damage to Morale.
+[08/21 03:22:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 4,877 Lightning damage to Morale.
+[08/21 03:22:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 5,003 Lightning damage to Morale.
+[08/21 03:22:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 17,891 Fire damage to Morale.
+[08/21 03:22:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:05 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/21 03:22:07 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Sticker for 10,155 Lightning damage to Morale.
+[08/21 03:22:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Sticker for 18,160 Fire damage to Morale.
+[08/21 03:22:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:07 PM] Your mighty blow defeated the Goblin Sticker.
+[08/21 03:22:08 PM] The Goblin Berserk scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,475 Common damage to Morale.
+[08/21 03:22:08 PM] Nlkosi scored a hit with Epic Conclusion on the Goblin Sticker for 54,455 Lightning damage to Morale.
+[08/21 03:22:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 4,730 Lightning damage to Morale.
+[08/21 03:22:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 5,015 Lightning damage to Morale.
+[08/21 03:22:09 PM] The Goblin Berserk scored a partially evaded hit with a moderate swipe attack on the Volcanic Rune-stone for 2,195 Common damage to Morale.
+[08/21 03:22:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:22:10 PM] Nlkosi scored a critical hit with Essence of Storm on the Goblin Berserk for 47,745 Lightning damage to Morale.
+[08/21 03:22:11 PM] The Goblin Berserk scored a hit with a mighty melee attack on the Volcanic Rune-stone for 5,568 Common damage to Morale.
+[08/21 03:22:11 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Berserk for 12,263 Lightning damage to Morale.
+[08/21 03:22:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 5,253 Lightning damage to Morale.
+[08/21 03:22:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 18,160 Fire damage to Morale.
+[08/21 03:22:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 5,123 Lightning damage to Morale.
+[08/21 03:22:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Berserk for 17,891 Fire damage to Morale.
+[08/21 03:22:12 PM] The Goblin Berserk scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,475 Common damage to Morale.
+[08/21 03:22:12 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Berserk for 10,229 Lightning damage to Morale.
+[08/21 03:22:14 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Goblin Berserk but he was immune to the attempt.
+[08/21 03:22:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 4,956 Lightning damage to Morale.
+[08/21 03:22:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Berserk for 5,143 Lightning damage to Morale.
+[08/21 03:22:15 PM] Nlkosi scored a hit with Essence of Winter on the Goblin Berserk for 14,974 Frost damage to Morale.
+[08/21 03:22:15 PM] Nlkosi scored a hit with Essence of Winter on the Goblin Berserk for 13,747 Frost damage to Morale.
+[08/21 03:22:15 PM] Nlkosi scored a hit with Sustaining Bolt on the Goblin Berserk for 7,041 Lightning damage to Morale.
+[08/21 03:22:16 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,163 points to Power.
+[08/21 03:22:16 PM] Sustenance applied a heal to Nlkosi restoring 24,123 points to Morale.
+[08/21 03:22:17 PM] Nlkosi scored a hit with Writ of Lightning on the Goblin Berserk for 9,635 Lightning damage to Morale.
+[08/21 03:22:17 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/21 03:22:17 PM] The Goblin Berserk scored a critical hit with a weak melee attack on Nlkosi for 15,518 Common damage to Morale.
+[08/21 03:22:19 PM] Nlkosi scored a critical hit with Distracting Flame on the Goblin Berserk.
+[08/21 03:22:19 PM] Nlkosi scored a hit with Scribe's Spark on the Goblin Berserk for 13,826 Lightning damage to Morale.
+[08/21 03:22:20 PM] The Goblin Berserk scored a hit with a minor melee attack on Nlkosi for 14,431 Common damage to Morale.
+[08/21 03:22:20 PM] The Goblin Berserk scored a hit with a minor melee attack on Nlkosi for 14,431 Common damage to Morale.
+[08/21 03:22:21 PM] Nlkosi scored a hit with Essence of Storm on the Goblin Berserk for 14,182 Lightning damage to Morale.
+[08/21 03:22:21 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 3,462 Fire damage to Morale.
+[08/21 03:22:22 PM] The Goblin Berserk scored a hit with a moderate melee attack on Nlkosi for 15,398 Common damage to Morale.
+[08/21 03:22:22 PM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 11,198 Common damage to Morale.
+[08/21 03:22:22 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Goblin Berserk for 45,248 Lightning damage to Morale.
+[08/21 03:22:22 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Goblin Berserk for 41,121 Lightning damage to Morale.
+[08/21 03:22:23 PM] Nothing to dispel.
+[08/21 03:22:23 PM] Nlkosi scored a hit with Improved Final Word on the Goblin Berserk.
+[08/21 03:22:23 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:22:24 PM] Nlkosi scored a hit with Static Surge on the Goblin Berserk for 28,497 Lightning damage to Morale.
+[08/21 03:22:24 PM] Nlkosi scored a devastating hit with Static Surge on the Goblin Berserk for 74,790 Lightning damage to Morale.
+[08/21 03:22:24 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Berserk for 2,880 Fire damage to Morale.
+[08/21 03:22:25 PM] Your mighty blow defeated the Goblin Berserk.
+[08/21 03:22:26 PM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Goblin Berserk for 15,301 Lightning damage to Morale.
+[08/21 03:22:28 PM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Berserk for 11,124 Frost damage to Morale.
+[08/21 03:22:28 PM] The Goblin Berserk scored a hit with a weak melee attack on Nlkosi for 10,852 Common damage to Morale.
+[08/21 03:22:30 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Berserk for 1,703 Frost damage to Morale.
+[08/21 03:22:30 PM] The Goblin Berserk scored a hit with a mighty melee attack on Nlkosi for 24,417 Common damage to Morale.
+[08/21 03:22:31 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/21 03:22:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Berserk for 14,287 Lightning damage to Morale.
+[08/21 03:22:32 PM] Nlkosi scored a hit with Shocking Touch on the Goblin Berserk for 5,565 Lightning damage to Morale.
+[08/21 03:22:33 PM] Nlkosi scored a hit with Flurry of Words on the Goblin Berserk for 2,661 Frost damage to Morale.
+[08/21 03:22:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:22:34 PM] Your mighty blow defeated the Goblin Berserk.
+[08/21 03:22:34 PM] Nlkosi scored a devastating hit with Concession and Rebuttal: Writ of Lightning on the Goblin Berserk for 31,783 Lightning damage to Morale.
+[08/21 03:22:58 PM] Nothing to cure.
+[08/21 03:22:58 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/21 03:23:00 PM] Nothing to cure.
+[08/21 03:23:01 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/21 03:23:02 PM] Nothing to cure.
+[08/21 03:23:02 PM] Korutásh scored a hit with Serious Wound on the Volcanic Rune-stone for 2,475 Common damage to Morale.
+[08/21 03:23:03 PM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 5,185 Lightning damage to Morale.
+[08/21 03:23:03 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 4,895 Lightning damage to Morale.
+[08/21 03:23:03 PM] Korutásh scored a hit with Melee Med Bleed on the Volcanic Rune-stone.
+[08/21 03:23:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 17,891 Fire damage to Morale.
+[08/21 03:23:03 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/21 03:23:03 PM] The Goblin Raider scored a hit with a mighty thrown attack on the Volcanic Rune-stone for 4,949 Common damage to Morale.
+[08/21 03:23:05 PM] Nlkosi scored a hit with Writ of Lightning on Korutásh for 8,568 Lightning damage to Morale.
+[08/21 03:23:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 18,160 Fire damage to Morale.
+[08/21 03:23:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:23:06 PM] Korutásh scored a hit with Serious Wound on the Volcanic Rune-stone for 2,475 Common damage to Morale.
+[08/21 03:23:06 PM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 4,835 Lightning damage to Morale.
+[08/21 03:23:06 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 4,872 Lightning damage to Morale.
+[08/21 03:23:06 PM] Nlkosi scored a hit with Essence of Storm on Korutásh for 18,060 Lightning damage to Morale.
+[08/21 03:23:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 18,160 Fire damage to Morale.
+[08/21 03:23:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:23:07 PM] Nlkosi scored a hit with Epic Conclusion on Korutásh for 56,523 Lightning damage to Morale.
+[08/21 03:23:09 PM] Korutásh tried to use Serious Wound on the Volcanic Rune-stone but it resisted the attempt.
+[08/21 03:23:09 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on Korutásh but he was immune to the attempt.
+[08/21 03:23:09 PM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 4,922 Lightning damage to Morale.
+[08/21 03:23:09 PM] Nlkosi scored a hit with Fulgurite Strike on the Goblin Raider for 4,827 Lightning damage to Morale.
+[08/21 03:23:09 PM] Nlkosi scored a hit with Writ of Lightning on Korutásh for 11,865 Lightning damage to Morale.
+[08/21 03:23:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 18,697 Fire damage to Morale.
+[08/21 03:23:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Goblin Raider for 17,891 Fire damage to Morale.
+[08/21 03:23:09 PM] The Volcanic Rune-stone defeated the Goblin Raider.
+[08/21 03:23:10 PM] Nlkosi scored a hit with Ceaseless Argument on Korutásh for 10,369 Lightning damage to Morale.
+[08/21 03:23:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on Korutásh for 18,697 Fire damage to Morale.
+[08/21 03:23:11 PM] Nlkosi scored a hit with Scribe's Spark on Korutásh for 12,412 Lightning damage to Morale.
+[08/21 03:23:12 PM] Korutásh scored a hit with Serious Wound on the Volcanic Rune-stone for 2,475 Common damage to Morale.
+[08/21 03:23:12 PM] Nlkosi scored a hit with Fulgurite Strike on Korutásh for 4,959 Lightning damage to Morale.
+[08/21 03:23:12 PM] Nlkosi scored a hit with Distracting Flame on Korutásh.
+[08/21 03:23:13 PM] Korutásh scored a hit with a weak melee attack on Nlkosi for 11,545 Common damage to Morale.
+[08/21 03:23:13 PM] Nlkosi scored a hit with Essence of Flame on Korutásh for 19,891 Fire damage to Morale.
+[08/21 03:23:14 PM] Nlkosi scored a hit with Sustaining Bolt on Korutásh for 9,975 Lightning damage to Morale.
+[08/21 03:23:14 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,176 points to Power.
+[08/21 03:23:14 PM] Sustenance applied a heal to Nlkosi restoring 18,452 points to Morale.
+[08/21 03:23:15 PM] Korutásh scored a hit with Morale Damage on Nlkosi for 2,366 Acid damage to Morale.
+[08/21 03:23:15 PM] Nlkosi scored a hit with Distracting Flame on Korutásh for 4,491 Fire damage to Morale.
+[08/21 03:23:15 PM] Nlkosi tried to use Induce Stunned on Korutásh but he was immune to the attempt.
+[08/21 03:23:15 PM] Nlkosi scored a hit with Shocking Words on Korutásh for 37,474 Lightning damage to Morale.
+[08/21 03:23:17 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:23:17 PM] Your mighty blow defeated Korutásh.
+[08/21 03:23:17 PM] Nlkosi scored a critical hit with Ceaseless Argument on Korutásh for 38,897 Lightning damage to Morale.
+[08/21 03:23:18 PM] Korutásh scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:23:21 PM] Korutásh scored a hit with Morale Damage on Nlkosi for 23,656 Acid damage to Morale.
+[08/21 03:31:42 PM] Logging chat tab Combat to file Z:\home\wils\Games\WARLORDLOTRO\Spillfiler\Combat_20260821_6.txt
+[08/21 03:37:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:37:41 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Stinging Guardian Bee for 26,662 Lightning damage to Morale.
+[08/21 03:37:42 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:37:42 PM] Nlkosi scored a critical hit with Essence of Storm on the Stinging Guardian Bee for 54,217 Lightning damage to Morale.
+[08/21 03:37:47 PM] Nlkosi scored a hit with Chilling Rhetoric on the Stinging Guardian Bee for 6,532 Frost damage to Morale.
+[08/21 03:37:48 PM] Nlkosi scored a hit with Distracting Flame on the Stinging Guardian Bee.
+[08/21 03:37:49 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 14,013 Lightning damage to Morale.
+[08/21 03:37:50 PM] Nlkosi scored a hit with Epic Conclusion on the Stinging Guardian Bee for 43,449 Lightning damage to Morale.
+[08/21 03:37:51 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:37:51 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 12,071 Lightning damage to Morale.
+[08/21 03:37:56 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 10,156 Lightning damage to Morale.
+[08/21 03:37:57 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:37:57 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Stinging Guardian Bee for 16,340 Lightning damage to Morale.
+[08/21 03:37:57 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,898 points to Power.
+[08/21 03:37:57 PM] Sustenance applied a heal to Nlkosi restoring 19,494 points to Morale.
+[08/21 03:37:58 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/21 03:38:00 PM] The Stinging Guardian Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:38:00 PM] Nlkosi scored a hit with Essence of Winter on the Stinging Guardian Bee for 12,512 Frost damage to Morale.
+[08/21 03:38:00 PM] The Stinging Guardian Bee scored a hit with Melee Med Bleed on Nlkosi.
+[08/21 03:38:00 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:38:00 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Stinging Guardian Bee for 11,507 Fire damage to Morale.
+[08/21 03:38:01 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 12,628 Lightning damage to Morale.
+[08/21 03:38:02 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:38:02 PM] Nlkosi scored a hit with Essence of Storm on the Stinging Guardian Bee for 12,984 Lightning damage to Morale.
+[08/21 03:38:03 PM] The Stinging Guardian Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:38:03 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:38:06 PM] The Stinging Guardian Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:38:06 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:38:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 10,315 Lightning damage to Morale.
+[08/21 03:38:08 PM] Nlkosi scored a hit with Shocking Words on the Stinging Guardian Bee for 35,755 Lightning damage to Morale.
+[08/21 03:38:09 PM] The Stinging Guardian Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:38:09 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:38:10 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 9,564 Lightning damage to Morale.
+[08/21 03:38:11 PM] Nlkosi scored a hit with Chilling Rhetoric on the Stinging Guardian Bee for 5,914 Frost damage to Morale.
+[08/21 03:38:11 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:38:11 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Stinging Guardian Bee for 11,807 Fire damage to Morale.
+[08/21 03:38:12 PM] The Stinging Guardian Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:38:12 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:38:15 PM] The Stinging Guardian Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:38:15 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:38:18 PM] You have lost 32,599 points of temporary Morale!
+[08/21 03:38:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 8,194 Lightning damage to Morale.
+[08/21 03:38:27 PM] Nlkosi scored a hit with Writ of Lightning on the Stinging Guardian Bee for 10,252 Lightning damage to Morale.
+[08/21 03:38:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Stinging Guardian Bee for 6,296 Fire damage to Morale.
+[08/21 03:38:28 PM] Nlkosi scored a hit with Chilling Rhetoric on the Stinging Guardian Bee for 9,338 Frost damage to Morale.
+[08/21 03:38:29 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:38:29 PM] Nlkosi scored a hit with Epic Conclusion on the Stinging Guardian Bee for 51,215 Lightning damage to Morale.
+[08/21 03:38:33 PM] Nlkosi scored a hit with Writ of Lightning on the Stinging Guardian Bee for 10,163 Lightning damage to Morale.
+[08/21 03:38:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:38:34 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:38:34 PM] Nlkosi scored a critical hit with Essence of Storm on the Stinging Guardian Bee for 61,965 Lightning damage to Morale.
+[08/21 03:38:41 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 13,127 Lightning damage to Morale.
+[08/21 03:38:43 PM] Nlkosi scored a devastating hit with Distracting Flame on the Stinging Guardian Bee.
+[08/21 03:38:43 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 13,878 Lightning damage to Morale.
+[08/21 03:38:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:38:44 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:38:44 PM] Nlkosi scored a devastating hit with Shocking Words on the Stinging Guardian Bee for 122,709 Lightning damage to Morale.
+[08/21 03:38:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Buzzing Worker Bee for 11,512 Lightning damage to Morale.
+[08/21 03:38:48 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Buzzing Worker Bee for 14,964 Frost damage to Morale.
+[08/21 03:38:48 PM] Nlkosi scored a hit with Fiery Ridicule on the Buzzing Worker Bee for 6,444 Fire damage to Morale.
+[08/21 03:38:49 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:38:49 PM] Nlkosi scored a critical hit with Essence of Storm on the Buzzing Worker Bee for 57,045 Lightning damage to Morale.
+[08/21 03:39:12 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:39:12 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Buzzing Worker Bee for 26,662 Lightning damage to Morale.
+[08/21 03:39:13 PM] Nlkosi scored a hit with Distracting Flame on the Buzzing Worker Bee.
+[08/21 03:39:14 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:39:14 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Buzzing Worker Bee for 41,082 Lightning damage to Morale.
+[08/21 03:39:17 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Buzzing Worker Bee for 40,305 Lightning damage to Morale.
+[08/21 03:39:18 PM] Nlkosi scored a hit with Essence of Storm on the Buzzing Worker Bee for 16,960 Lightning damage to Morale.
+[08/21 03:39:19 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:39:19 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Buzzing Worker Bee for 31,086 Lightning damage to Morale.
+[08/21 03:39:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 12,467 Lightning damage to Morale.
+[08/21 03:39:23 PM] Nlkosi scored a hit with Scribe's Spark on the Stinging Guardian Bee for 11,501 Lightning damage to Morale.
+[08/21 03:39:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Stinging Guardian Bee for 5,788 Fire damage to Morale.
+[08/21 03:39:24 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Stinging Guardian Bee for 24,647 Frost damage to Morale.
+[08/21 03:39:25 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:39:25 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 11,003 Lightning damage to Morale.
+[08/21 03:39:46 PM] Nlkosi scored a hit with Writ of Lightning on the Stinging Guardian Bee for 10,472 Lightning damage to Morale.
+[08/21 03:39:46 PM] Nothing to dispel.
+[08/21 03:39:46 PM] Nlkosi scored a hit with Improved Final Word on the Stinging Guardian Bee.
+[08/21 03:39:47 PM] Nlkosi scored a hit with Fiery Ridicule on the Stinging Guardian Bee for 4,967 Fire damage to Morale.
+[08/21 03:39:49 PM] Nlkosi scored a hit with Essence of Winter on the Stinging Guardian Bee for 9,711 Frost damage to Morale.
+[08/21 03:39:49 PM] Nlkosi scored a hit with Sustaining Bolt on the Stinging Guardian Bee for 5,323 Lightning damage to Morale.
+[08/21 03:39:50 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Stinging Guardian Bee for 2,429 Fire damage to Morale.
+[08/21 03:39:50 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,935 points to Power.
+[08/21 03:39:50 PM] Sustenance applied a heal to Nlkosi restoring 17,493 points to Morale.
+[08/21 03:39:50 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:39:51 PM] The Stinging Guardian Bee scored a hit with Melee Max Bleed on Nlkosi.
+[08/21 03:39:51 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Stinging Guardian Bee for 15,224 Frost damage to Morale.
+[08/21 03:39:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:39:51 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:39:51 PM] Nlkosi scored a critical hit with Essence of Storm on the Stinging Guardian Bee for 55,798 Lightning damage to Morale.
+[08/21 03:39:52 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:39:54 PM] The Stinging Guardian Bee tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[08/21 03:39:56 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:39:57 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 14,568 Lightning damage to Morale.
+[08/21 03:39:58 PM] Nlkosi scored a hit with Shocking Words on the Stinging Guardian Bee for 24,751 Lightning damage to Morale.
+[08/21 03:39:58 PM] The Stinging Guardian Bee tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[08/21 03:40:00 PM] Nlkosi scored a hit with Essence of Flame on the Stinging Guardian Bee for 14,419 Fire damage to Morale.
+[08/21 03:40:00 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:40:00 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 5,960 Common damage to Morale.
+[08/21 03:40:00 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Stinging Guardian Bee for 34,838 Lightning damage to Morale.
+[08/21 03:40:02 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 5,960 Common damage to Morale.
+[08/21 03:40:03 PM] Nlkosi scored a hit with Writ of Lightning on the Stinging Guardian Bee for 12,174 Lightning damage to Morale.
+[08/21 03:40:04 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 5,960 Common damage to Morale.
+[08/21 03:40:05 PM] Nlkosi scored a critical hit with Distracting Flame on the Stinging Guardian Bee.
+[08/21 03:40:05 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 11,038 Lightning damage to Morale.
+[08/21 03:40:06 PM] Nlkosi scored a hit with Sustaining Bolt on the Stinging Guardian Bee for 7,756 Lightning damage to Morale.
+[08/21 03:40:06 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 5,960 Common damage to Morale.
+[08/21 03:40:07 PM] The Stinging Guardian Bee tried to use Light Wound on Nlkosi but he resisted the attempt.
+[08/21 03:40:07 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,361 points to Power.
+[08/21 03:40:07 PM] Sustenance applied a heal to Nlkosi restoring 17,950 points to Morale.
+[08/21 03:40:07 PM] The Stinging Guardian Bee scored a partially evaded hit with Melee Min Bleed on Nlkosi.
+[08/21 03:40:07 PM] Nlkosi scored a critical hit with Distracting Flame on the Stinging Guardian Bee for 6,895 Fire damage to Morale.
+[08/21 03:40:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:40:07 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:40:08 PM] Nlkosi scored a critical hit with Epic Conclusion on the Stinging Guardian Bee for 184,994 Lightning damage to Morale.
+[08/21 03:40:08 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:11 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Buzzing Worker Bee for 10,615 Lightning damage to Morale.
+[08/21 03:40:23 PM] Nlkosi scored a hit with Sustaining Bolt on the Buzzing Worker Bee for 4,514 Lightning damage to Morale.
+[08/21 03:40:24 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,940 points to Power.
+[08/21 03:40:24 PM] Sustenance applied a critical heal to Nlkosi restoring 29,052 points to Morale.
+[08/21 03:40:25 PM] The Buzzing Worker Bee scored a hit with a moderate melee attack on Nlkosi for 6,556 Common damage to Morale.
+[08/21 03:40:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:40:26 PM] Nlkosi scored a critical hit with Writ of Lightning on the Buzzing Worker Bee for 29,302 Lightning damage to Morale.
+[08/21 03:40:26 PM] The Buzzing Worker Bee scored a hit with Serious Wound on Nlkosi for 4,620 Common damage to Morale.
+[08/21 03:40:26 PM] The Buzzing Worker Bee scored a hit with Melee Med Bleed on Nlkosi.
+[08/21 03:40:27 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:40:27 PM] Nlkosi scored a critical hit with Essence of Storm on the Buzzing Worker Bee for 65,533 Lightning damage to Morale.
+[08/21 03:40:29 PM] The Buzzing Worker Bee tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[08/21 03:40:32 PM] The Buzzing Worker Bee scored a hit with Serious Wound on Nlkosi for 4,620 Common damage to Morale.
+[08/21 03:40:34 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 12,484 Lightning damage to Morale.
+[08/21 03:40:35 PM] Nlkosi scored a hit with Scribe's Spark on the Stinging Guardian Bee for 13,064 Lightning damage to Morale.
+[08/21 03:40:35 PM] The Buzzing Worker Bee scored a hit with Serious Wound on Nlkosi for 4,620 Common damage to Morale.
+[08/21 03:40:36 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:36 PM] Nlkosi scored a hit with Essence of Flame on the Stinging Guardian Bee for 19,479 Fire damage to Morale.
+[08/21 03:40:36 PM] The Stinging Guardian Bee scored a hit with Melee Max Bleed on Nlkosi.
+[08/21 03:40:38 PM] Nlkosi scored a hit with Distracting Flame on the Stinging Guardian Bee.
+[08/21 03:40:38 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:38 PM] The Stinging Guardian Bee scored a hit with a weak melee attack on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:40:38 PM] The Buzzing Worker Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:40:38 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:40:39 PM] Nlkosi scored a hit with Shocking Words on the Stinging Guardian Bee for 35,169 Lightning damage to Morale.
+[08/21 03:40:40 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:41 PM] The Buzzing Worker Bee scored a hit with Serious Wound on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:40:42 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:45 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:45 PM] Nlkosi scored a hit with Sustaining Bolt on the Buzzing Worker Bee for 4,265 Lightning damage to Morale.
+[08/21 03:40:46 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,023 points to Power.
+[08/21 03:40:46 PM] Sustenance applied a heal to Nlkosi restoring 21,028 points to Morale.
+[08/21 03:40:47 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:47 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:47 PM] The Buzzing Worker Bee scored a partially evaded hit with Melee Max Bleed on Nlkosi.
+[08/21 03:40:48 PM] Nlkosi scored a hit with Essence of Winter on the Buzzing Worker Bee for 12,886 Frost damage to Morale.
+[08/21 03:40:48 PM] Nlkosi scored a hit with Essence of Storm on the Buzzing Worker Bee for 13,015 Lightning damage to Morale.
+[08/21 03:40:49 PM] The Stinging Guardian Bee tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[08/21 03:40:49 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:49 PM] The Buzzing Worker Bee scored a hit with a weak melee attack on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:40:50 PM] Nlkosi scored a hit with Chilling Rhetoric on the Buzzing Worker Bee for 7,401 Frost damage to Morale.
+[08/21 03:40:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:40:51 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:40:51 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:51 PM] Nlkosi scored a critical hit with Epic Conclusion on the Buzzing Worker Bee for 157,749 Lightning damage to Morale.
+[08/21 03:40:51 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:53 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:53 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:55 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:56 PM] The Buzzing Worker Bee tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[08/21 03:40:57 PM] The Stinging Guardian Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:57 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:40:57 PM] The Buzzing Worker Bee scored a hit with Melee Min Bleed on Nlkosi.
+[08/21 03:40:58 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:40:58 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Buzzing Worker Bee for 37,744 Lightning damage to Morale.
+[08/21 03:40:59 PM] Nlkosi scored a hit with Essence of Storm on the Buzzing Worker Bee for 17,451 Lightning damage to Morale.
+[08/21 03:41:00 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:41:00 PM] The Buzzing Worker Bee scored a hit with a weak melee attack on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:41:00 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:41:00 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Buzzing Worker Bee for 35,336 Lightning damage to Morale.
+[08/21 03:41:00 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:02 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:41:03 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:04 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:41:04 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 11,045 Lightning damage to Morale.
+[08/21 03:41:05 PM] Nlkosi scored a hit with Sustaining Bolt on the Stinging Guardian Bee for 4,577 Lightning damage to Morale.
+[08/21 03:41:05 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,190 points to Power.
+[08/21 03:41:05 PM] Sustenance applied a critical heal to Nlkosi restoring 29,206 points to Morale.
+[08/21 03:41:06 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:41:06 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:07 PM] The Stinging Guardian Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:07 PM] The Stinging Guardian Bee scored a hit with Melee Min Bleed on Nlkosi.
+[08/21 03:41:08 PM] The Buzzing Worker Bee scored a hit with Deep Wound on Nlkosi for 6,144 Common damage to Morale.
+[08/21 03:41:08 PM] Nlkosi scored a hit with Essence of Winter on the Stinging Guardian Bee for 8,886 Frost damage to Morale.
+[08/21 03:41:09 PM] Nlkosi scored a hit with Chilling Rhetoric on the Stinging Guardian Bee for 5,269 Frost damage to Morale.
+[08/21 03:41:09 PM] The Stinging Guardian Bee scored a hit with a moderate melee attack on Nlkosi for 6,759 Common damage to Morale.
+[08/21 03:41:09 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:09 PM] Nothing to dispel.
+[08/21 03:41:10 PM] The Stinging Guardian Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:10 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/21 03:41:10 PM] Nlkosi scored a hit with Improved Final Word on the Stinging Guardian Bee.
+[08/21 03:41:10 PM] You have lost 3,687 points of temporary Morale!
+[08/21 03:41:11 PM] The Stinging Guardian Bee scored a hit with a weak melee attack on Nlkosi for 4,915 Common damage to Morale.
+[08/21 03:41:11 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:41:11 PM] Nlkosi scored a hit with Vivid Imagery on the Stinging Guardian Bee for 9,750 Lightning damage to Morale.
+[08/21 03:41:12 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:12 PM] You have lost 3,687 points of temporary Morale!
+[08/21 03:41:13 PM] The Stinging Guardian Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:13 PM] You have lost 3,687 points of temporary Morale!
+[08/21 03:41:14 PM] Nlkosi scored a hit with Distracting Flame on the Stinging Guardian Bee.
+[08/21 03:41:14 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Guardian Bee for 13,323 Lightning damage to Morale.
+[08/21 03:41:15 PM] Your mighty blow defeated the Stinging Guardian Bee.
+[08/21 03:41:15 PM] You have lost 4,915 points of temporary Morale!
+[08/21 03:41:15 PM] Nlkosi scored a hit with Epic Conclusion on the Stinging Guardian Bee for 57,370 Lightning damage to Morale.
+[08/21 03:41:16 PM] The Stinging Guardian Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:16 PM] You have lost 3,687 points of temporary Morale!
+[08/21 03:41:19 PM] The Stinging Guardian Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:19 PM] You have lost 3,687 points of temporary Morale!
+[08/21 03:41:22 PM] The Stinging Guardian Bee tried to use Light Wound on Nlkosi but he resisted the attempt.
+[08/21 03:41:29 PM] You have lost 33,824 points of temporary Morale!
+[08/21 03:41:41 PM] Nlkosi scored a hit with Ceaseless Argument on the Buzzing Worker Bee for 8,233 Lightning damage to Morale.
+[08/21 03:41:42 PM] Nlkosi scored a hit with Shocking Words on the Buzzing Worker Bee for 28,079 Lightning damage to Morale.
+[08/21 03:41:43 PM] Nlkosi scored a hit with Fiery Ridicule on the Buzzing Worker Bee for 4,710 Fire damage to Morale.
+[08/21 03:41:44 PM] Nlkosi scored a hit with Distracting Flame on the Buzzing Worker Bee.
+[08/21 03:41:45 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:41:45 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:41:45 PM] Nlkosi scored a devastating hit with Essence of Storm on the Buzzing Worker Bee for 71,132 Lightning damage to Morale.
+[08/21 03:41:50 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Buzzing Worker Bee for 38,304 Lightning damage to Morale.
+[08/21 03:41:51 PM] Nlkosi scored a hit with Scribe's Spark on the Buzzing Worker Bee for 14,574 Lightning damage to Morale.
+[08/21 03:41:52 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:52 PM] The Buzzing Worker Bee scored a hit with Melee Min Bleed on Nlkosi.
+[08/21 03:41:52 PM] Nlkosi scored a hit with Writ of Lightning on the Buzzing Worker Bee for 11,479 Lightning damage to Morale.
+[08/21 03:41:53 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/21 03:41:53 PM] Nlkosi scored a hit with Fiery Ridicule on the Buzzing Worker Bee for 7,950 Fire damage to Morale.
+[08/21 03:41:55 PM] Nlkosi scored a hit with Essence of Storm on the Queen's Protector Bee for 16,022 Lightning damage to Morale.
+[08/21 03:41:55 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,687 Common damage to Morale.
+[08/21 03:41:57 PM] The Queen's Protector Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.
+[08/21 03:41:57 PM] Nlkosi scored a critical hit with Essence of Winter on the Queen's Protector Bee for 40,941 Frost damage to Morale.
+[08/21 03:41:57 PM] The Queen's Protector Bee scored a hit with Melee Min Bleed on Nlkosi.
+[08/21 03:41:58 PM] Nlkosi scored a hit with Writ of Lightning on the Queen's Protector Bee for 10,974 Lightning damage to Morale.
+[08/21 03:41:58 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,576 Common damage to Morale.
+[08/21 03:41:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:41:59 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Queen's Protector Bee for 39,052 Lightning damage to Morale.
+[08/21 03:41:59 PM] The Queen's Protector Bee scored a hit with a minor melee attack on Nlkosi for 7,515 Common damage to Morale.
+[08/21 03:42:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Queen's Protector Bee for 6,618 Fire damage to Morale.
+[08/21 03:42:00 PM] The Queen's Protector Bee scored a hit with Light Wound on Nlkosi for 4,509 Common damage to Morale.
+[08/21 03:42:01 PM] Nlkosi scored a hit with Chilling Rhetoric on the Queen's Protector Bee for 13,236 Frost damage to Morale.
+[08/21 03:42:01 PM] Your mighty blow defeated the Queen's Protector Bee.
+[08/21 03:42:01 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,576 Common damage to Morale.
+[08/21 03:42:01 PM] Nlkosi scored a critical hit with Epic Conclusion on the Queen's Protector Bee for 234,512 Lightning damage to Morale.
+[08/21 03:42:03 PM] The Queen's Protector Bee scored a hit with Light Wound on Nlkosi for 4,509 Common damage to Morale.
+[08/21 03:42:04 PM] Nlkosi scored a hit with Ceaseless Argument on the Queen's Protector Bee for 13,289 Lightning damage to Morale.
+[08/21 03:42:04 PM] The Buzzing Worker Bee scored a hit with Light Wound on Nlkosi for 3,576 Common damage to Morale.
+[08/21 03:42:05 PM] Nlkosi scored a critical hit with Shocking Words on the Queen's Protector Bee for 86,422 Lightning damage to Morale.
+[08/21 03:42:06 PM] The Queen's Protector Bee scored a hit with Light Wound on Nlkosi for 4,509 Common damage to Morale.
+[08/21 03:42:07 PM] Nlkosi scored a hit with Distracting Flame on the Queen's Protector Bee.
+[08/21 03:42:07 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/21 03:42:07 PM] Light Wound has been cured.
+[08/21 03:42:08 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/21 03:42:09 PM] Nlkosi scored a hit with Vivid Imagery on the Queen's Protector Bee for 16,182 Lightning damage to Morale.
+[08/21 03:42:09 PM] Light Wound has been cured.
+[08/21 03:42:09 PM] Nlkosi scored a critical hit with Distracting Flame on the Queen's Protector Bee for 6,479 Fire damage to Morale.
+[08/21 03:42:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:42:11 PM] Nlkosi scored a critical hit with Scribe's Spark on the Queen's Protector Bee for 42,793 Lightning damage to Morale.
+[08/21 03:42:11 PM] Nothing to cure.
+[08/21 03:42:11 PM] The Queen's Protector Bee scored a hit with a mighty melee attack on Nlkosi for 13,526 Common damage to Morale.
+[08/21 03:42:11 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Sustaining Bolt on the Queen's Protector Bee for 58,315 Lightning damage to Morale.
+[08/21 03:42:12 PM] Powerful Sustenance applied a heal to Nlkosi restoring 37,565 points to Morale.
+[08/21 03:42:12 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,726 points to Power.
+[08/21 03:42:12 PM] Nlkosi scored a hit with Distracting Flame on the Queen's Protector Bee for 3,317 Fire damage to Morale.
+[08/21 03:42:13 PM] Nothing to dispel.
+[08/21 03:42:13 PM] Nlkosi scored a hit with Essence of Storm on the Queen's Protector Bee for 15,718 Lightning damage to Morale.
+[08/21 03:42:13 PM] Nlkosi scored a hit with Improved Final Word on the Queen's Protector Bee.
+[08/21 03:42:13 PM] The Queen's Protector Bee scored a hit with a weak melee attack on Nlkosi for 6,012 Common damage to Morale.
+[08/21 03:42:14 PM] Nlkosi scored a hit with Head-butt on the Queen's Protector Bee for 13,920 Common damage to Morale.
+[08/21 03:42:15 PM] Nlkosi scored a critical hit with Distracting Flame on the Queen's Protector Bee for 6,350 Fire damage to Morale.
+[08/21 03:42:15 PM] Your mighty blow defeated the Queen's Protector Bee.
+[08/21 03:42:16 PM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Queen's Protector Bee for 10,761 Lightning damage to Morale.
+[08/21 03:42:22 PM] Self-motivation applied a heal to Nlkosi restoring 4,000 points to Power.
+[08/21 03:42:22 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/21 03:42:22 PM] Prelude to Hope applied a heal to Nlkosi restoring 5,448 points to Morale.
+[08/21 03:42:23 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/21 03:42:23 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,823 points to Morale.
+[08/21 03:42:24 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,500 points to Morale.
+[08/21 03:42:25 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,538 points to Morale.
+[08/21 03:42:26 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,622 points to Morale.
+[08/21 03:42:27 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,585 points to Morale.
+[08/21 03:42:29 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,508 points to Morale.
+[08/21 03:42:30 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,810 points to Morale.
+[08/21 03:42:31 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,836 points to Morale.
+[08/21 03:42:32 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,489 points to Morale.
+[08/21 03:42:33 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,848 points to Morale.
+[08/21 03:42:34 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,982 points to Morale.
+[08/21 03:42:35 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,943 points to Morale.
+[08/21 03:42:55 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/21 03:42:58 PM] Nlkosi scored a hit with Fulgurite Strike on the Aggressive Queen Bee for 5,007 Lightning damage to Morale.
+[08/21 03:42:58 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/21 03:43:01 PM] Nlkosi scored a hit with Fulgurite Strike on the Aggressive Queen Bee for 5,164 Lightning damage to Morale.
+[08/21 03:43:01 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Queen Bee for 9,667 Lightning damage to Morale.
+[08/21 03:43:02 PM] Nlkosi scored a hit with Epic Conclusion on the Aggressive Queen Bee for 42,989 Lightning damage to Morale.
+[08/21 03:43:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Aggressive Queen Bee for 17,891 Fire damage to Morale.
+[08/21 03:43:04 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Queen Bee for 9,171 Lightning damage to Morale.
+[08/21 03:43:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Aggressive Queen Bee for 5,058 Lightning damage to Morale.
+[08/21 03:43:04 PM] Nlkosi tried to use Induce Stunned on the Aggressive Queen Bee but she was immune to the attempt.
+[08/21 03:43:05 PM] Nlkosi scored a hit with Shocking Words on the Aggressive Queen Bee for 27,225 Lightning damage to Morale.
+[08/21 03:43:05 PM] The Aggressive Queen Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.
+[08/21 03:43:06 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Aggressive Queen Bee for 17,891 Fire damage to Morale.
+[08/21 03:43:06 PM] The Aggressive Queen Bee scored a partially evaded hit with Melee Min Bleed on Nlkosi.
+[08/21 03:43:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Queen Bee for 12,634 Lightning damage to Morale.
+[08/21 03:43:07 PM] Nothing to dispel.
+[08/21 03:43:07 PM] Nlkosi scored a hit with Essence of Storm on the Aggressive Queen Bee for 11,987 Lightning damage to Morale.
+[08/21 03:43:07 PM] Nlkosi scored a hit with Improved Final Word on the Aggressive Queen Bee.
+[08/21 03:43:07 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Aggressive Queen Bee but she was immune to the attempt.
+[08/21 03:43:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Aggressive Queen Bee for 4,716 Lightning damage to Morale.
+[08/21 03:43:07 PM] The Aggressive Queen Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.
+[08/21 03:43:08 PM] The Aggressive Queen Bee scored a hit with Melee Min Bleed on Nlkosi.
+[08/21 03:43:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/21 03:43:08 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Aggressive Queen Bee for 46,629 Lightning damage to Morale.
+[08/21 03:43:09 PM] The Aggressive Queen Bee scored a hit with a mighty melee attack on Nlkosi for 13,945 Common damage to Morale.
+[08/21 03:43:10 PM] Nlkosi scored a hit with Writ of Lightning on the Aggressive Queen Bee for 13,373 Lightning damage to Morale.
+[08/21 03:43:10 PM] The Aggressive Queen Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.
+[08/21 03:43:11 PM] Nlkosi scored a devastating hit with Distracting Flame on the Aggressive Queen Bee.
+[08/21 03:43:11 PM] The Aggressive Queen Bee scored a hit with a weak melee attack on Nlkosi for 6,198 Common damage to Morale.
+[08/21 03:43:12 PM] Your mighty blow defeated the Aggressive Queen Bee.
+[08/21 03:43:12 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Aggressive Queen Bee for 37,588 Lightning damage to Morale.
+[08/21 03:43:13 PM] The Aggressive Queen Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.
+[08/21 03:43:16 PM] The Aggressive Queen Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.
+[08/21 03:43:20 PM] The Aggressive Queen Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.
+[08/21 03:43:23 PM] The Aggressive Queen Bee scored a hit with Light Wound on Nlkosi for 4,648 Common damage to Morale.

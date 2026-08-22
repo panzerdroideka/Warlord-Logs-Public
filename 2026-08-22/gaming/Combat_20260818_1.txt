@@ -1,0 +1,796 @@
+### Chat Log: Combat 08/18 09:48 AM ###
+[08/18 09:49:02 AM] Nlkosi scored a hit with Fulgurite Strike on the Crypt Digger for 5,304 Lightning damage to Morale.
+[08/18 09:49:02 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 4,723 Lightning damage to Morale.
+[08/18 09:49:02 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/18 09:49:03 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 18,369 Fire damage to Morale.
+[08/18 09:49:03 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/18 09:49:04 AM] The Crypt Digger scored a hit with a weak melee attack on the Volcanic Rune-stone for 583 Common damage to Morale.
+[08/18 09:49:05 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 4,799 Lightning damage to Morale.
+[08/18 09:49:05 AM] Nlkosi scored a hit with Fulgurite Strike on the Crypt Digger for 5,130 Lightning damage to Morale.
+[08/18 09:49:05 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 18,369 Fire damage to Morale.
+[08/18 09:49:05 AM] The Volcanic Rune-stone defeated the Crypt Digger.
+[08/18 09:49:07 AM] The Urâshi Brute scored a hit with a weak thrown attack on the Charged Fulgurite Rune-stone for 1,369 Common damage to Morale.
+[08/18 09:49:07 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:49:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 4,874 Lightning damage to Morale.
+[08/18 09:49:09 AM] Nlkosi scored a critical hit with Essence of Winter on the Urâshi Ravager for 23,184 Frost damage to Morale.
+[08/18 09:49:09 AM] The Urâshi Brute scored a hit with a moderate thrown attack on the Charged Fulgurite Rune-stone for 1,882 Common damage to Morale.
+[08/18 09:49:09 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:49:09 AM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Ravager for 42,939 Lightning damage to Morale.
+[08/18 09:49:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 4,515 Lightning damage to Morale.
+[08/18 09:49:11 AM] The Urâshi Brute scored a hit with a weak thrown attack on the Charged Fulgurite Rune-stone for 1,369 Common damage to Morale.
+[08/18 09:49:11 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Brute for 10,216 Lightning damage to Morale.
+[08/18 09:49:12 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Brute for 12,003 Lightning damage to Morale.
+[08/18 09:49:14 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Brute for 13,060 Lightning damage to Morale.
+[08/18 09:49:15 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Brute.
+[08/18 09:49:16 AM] The Urâshi Brute scored a hit with a weak thrown attack on Nlkosi for 6,254 Common damage to Morale.
+[08/18 09:49:16 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Brute for 48,890 Lightning damage to Morale.
+[08/18 09:49:17 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:49:17 AM] Your mighty blow defeated the Urâshi Brute.
+[08/18 09:49:18 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Brute for 40,941 Lightning damage to Morale.
+[08/18 09:49:23 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Ravager for 11,172 Lightning damage to Morale.
+[08/18 09:49:24 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Ravager for 5,331 Lightning damage to Morale.
+[08/18 09:49:24 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,859 points to Power.
+[08/18 09:49:24 AM] Sustenance applied a heal to Nlkosi restoring 17,349 points to Morale.
+[08/18 09:49:26 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Ravager for 14,536 Lightning damage to Morale.
+[08/18 09:49:27 AM] Nothing to dispel.
+[08/18 09:49:27 AM] Nlkosi scored a critical hit with Improved Final Word on the Urâshi Ravager.
+[08/18 09:49:28 AM] The Urâshi Ravager scored a hit with a weak melee attack on Nlkosi for 3,980 Common damage to Morale.
+[08/18 09:49:29 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:49:29 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:49:29 AM] Nlkosi scored a critical hit with Vivid Imagery on the Urâshi Ravager for 34,614 Lightning damage to Morale.
+[08/18 09:49:34 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:49:36 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Heaver for 8,388 Frost damage to Morale.
+[08/18 09:49:40 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:49:40 AM] Your mighty blow defeated the Urâshi Heaver.
+[08/18 09:49:40 AM] Nlkosi scored a devastating hit with Shocking Words on the Urâshi Heaver for 100,054 Lightning damage to Morale.
+[08/18 09:49:44 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Ravager for 12,090 Lightning damage to Morale.
+[08/18 09:49:45 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Ravager for 15,127 Lightning damage to Morale.
+[08/18 09:49:46 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,833 points to Power.
+[08/18 09:49:46 AM] Sustenance applied a heal to Nlkosi restoring 21,305 points to Morale.
+[08/18 09:49:47 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Ravager for 1,248 Frost damage to Morale.
+[08/18 09:49:48 AM] The Urâshi Ravager scored a hit with a weak melee attack on Nlkosi for 3,980 Common damage to Morale.
+[08/18 09:49:49 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Ravager for 14,079 Lightning damage to Morale.
+[08/18 09:49:50 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Ravager for 1,702 Frost damage to Morale.
+[08/18 09:49:51 AM] The Urâshi Ravager scored a hit with a melee double attack on Nlkosi for 3,980 Common damage to Morale.
+[08/18 09:49:51 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:49:51 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:49:51 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Ravager for 50,904 Lightning damage to Morale.
+[08/18 09:49:56 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Ravager for 12,370 Lightning damage to Morale.
+[08/18 09:49:57 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Ravager for 7,721 Frost damage to Morale.
+[08/18 09:49:59 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Ravager for 13,003 Frost damage to Morale.
+[08/18 09:50:01 AM] Nothing to dispel.
+[08/18 09:50:01 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Ravager.
+[08/18 09:50:02 AM] The Urâshi Ravager scored a hit with a moderate swipe attack on Nlkosi for 5,473 Common damage to Morale.
+[08/18 09:50:03 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:50:03 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:50:03 AM] Nlkosi scored a critical hit with Vivid Imagery on the Urâshi Ravager for 35,073 Lightning damage to Morale.
+[08/18 09:50:16 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:50:18 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Ravager for 11,502 Frost damage to Morale.
+[08/18 09:50:19 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Ravager for 7,661 Lightning damage to Morale.
+[08/18 09:50:19 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Ravager for 1,292 Frost damage to Morale.
+[08/18 09:50:20 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Ravager for 5,197 Lightning damage to Morale.
+[08/18 09:50:21 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,822 points to Power.
+[08/18 09:50:21 AM] Sustenance applied a heal to Nlkosi restoring 18,891 points to Morale.
+[08/18 09:50:21 AM] The Urâshi Ravager scored a hit with a weak melee attack on Nlkosi for 3,861 Common damage to Morale.
+[08/18 09:50:22 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Ravager for 1,798 Frost damage to Morale.
+[08/18 09:50:23 AM] The Urâshi Ravager scored a hit with a minor melee attack on Nlkosi for 4,826 Common damage to Morale.
+[08/18 09:50:23 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Ravager for 4,887 Lightning damage to Morale.
+[08/18 09:50:24 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/18 09:50:25 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Ravager for 2,214 Frost damage to Morale.
+[08/18 09:50:26 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Ravager for 5,925 Frost damage to Morale.
+[08/18 09:50:26 AM] The Urâshi Ravager scored a hit with a weak melee attack on Nlkosi for 3,861 Common damage to Morale.
+[08/18 09:50:26 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Ravager for 4,947 Lightning damage to Morale.
+[08/18 09:50:27 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:50:27 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Ravager for 9,939 Lightning damage to Morale.
+[08/18 09:50:32 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Ravager for 8,922 Lightning damage to Morale.
+[08/18 09:50:34 AM] Nothing to dispel.
+[08/18 09:50:34 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Ravager.
+[08/18 09:50:36 AM] The Urâshi Ravager scored a hit with a weak melee attack on Nlkosi for 3,980 Common damage to Morale.
+[08/18 09:50:36 AM] You have lost 3,980 points of temporary Morale!
+[08/18 09:50:36 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/18 09:50:36 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Ravager for 5,951 Fire damage to Morale.
+[08/18 09:50:37 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/18 09:50:38 AM] The Urâshi Ravager scored a hit with a moderate swipe attack on Nlkosi for 5,473 Common damage to Morale.
+[08/18 09:50:38 AM] You have lost 5,473 points of temporary Morale!
+[08/18 09:50:38 AM] Nlkosi scored a hit with Vivid Imagery on the Urâshi Ravager for 12,599 Lightning damage to Morale.
+[08/18 09:50:38 AM] Nothing to cure.
+[08/18 09:50:39 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Urâshi Ravager for 3,256 Fire damage to Morale.
+[08/18 09:50:40 AM] Nlkosi scored a hit with Head-butt on the Urâshi Ravager for 12,654 Common damage to Morale.
+[08/18 09:50:40 AM] You have lost 8,955 points of temporary Morale!
+[08/18 09:50:40 AM] Nothing to cure.
+[08/18 09:50:41 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:50:41 AM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Ravager for 41,719 Lightning damage to Morale.
+[08/18 09:50:43 AM] Nothing to cure.
+[08/18 09:50:51 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Heaver for 11,093 Lightning damage to Morale.
+[08/18 09:50:54 AM] The Urâshi Heaver scored a hit with a weak thrown attack on Nlkosi for 3,791 Common damage to Morale.
+[08/18 09:50:54 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:50:54 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Heaver for 5,079 Lightning damage to Morale.
+[08/18 09:50:54 AM] You have lost 3,791 points of temporary Morale!
+[08/18 09:50:55 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,922 points to Power.
+[08/18 09:50:55 AM] Sustenance applied a heal to Nlkosi restoring 16,913 points to Morale.
+[08/18 09:50:55 AM] You have lost 37,104 points of temporary Morale!
+[08/18 09:50:56 AM] The Urâshi Heaver scored a hit with a minor thrown attack on Nlkosi for 4,738 Common damage to Morale.
+[08/18 09:50:57 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Heaver for 10,231 Frost damage to Morale.
+[08/18 09:50:58 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:50:58 AM] Your mighty blow defeated the Urâshi Heaver.
+[08/18 09:50:58 AM] Nlkosi scored a devastating hit with Ceaseless Argument on the Urâshi Heaver for 35,766 Lightning damage to Morale.
+[08/18 09:51:07 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Heaver for 29,270 Lightning damage to Morale.
+[08/18 09:51:08 AM] The Urâshi Heaver scored a hit with a minor thrown attack on Nlkosi for 4,738 Common damage to Morale.
+[08/18 09:51:10 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Heaver for 6,143 Lightning damage to Morale.
+[08/18 09:51:11 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,758 points to Power.
+[08/18 09:51:11 AM] Sustenance applied a heal to Nlkosi restoring 17,810 points to Morale.
+[08/18 09:51:13 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Heaver for 10,260 Lightning damage to Morale.
+[08/18 09:51:14 AM] The Urâshi Heaver scored a hit with Pestilent Filth on Nlkosi.
+[08/18 09:51:16 AM] The Urâshi Heaver scored a partially evaded hit with a moderate thrown attack on Nlkosi for 4,808 Common damage to Morale.
+[08/18 09:51:17 AM] Your mighty blow defeated the Urâshi Heaver.
+[08/18 09:51:17 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Heaver for 11,165 Lightning damage to Morale.
+[08/18 09:51:21 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:51:30 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:51:30 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Ravager for 28,535 Lightning damage to Morale.
+[08/18 09:51:32 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Ravager for 11,806 Frost damage to Morale.
+[08/18 09:51:33 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:51:33 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Ravager for 30,816 Lightning damage to Morale.
+[08/18 09:51:45 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:51:45 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Ravager for 28,535 Lightning damage to Morale.
+[08/18 09:51:46 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Ravager for 6,735 Lightning damage to Morale.
+[08/18 09:51:47 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,252 points to Power.
+[08/18 09:51:47 AM] Sustenance applied a critical heal to Nlkosi restoring 27,831 points to Morale.
+[08/18 09:51:48 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Ravager for 15,147 Frost damage to Morale.
+[08/18 09:51:49 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:51:49 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Ravager for 55,394 Lightning damage to Morale.
+[08/18 09:51:54 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:51:56 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Heaver for 11,066 Frost damage to Morale.
+[08/18 09:51:57 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Heaver for 11,680 Lightning damage to Morale.
+[08/18 09:51:58 AM] The Urâshi Heaver scored a partially evaded hit with a moderate thrown attack on Nlkosi for 4,808 Common damage to Morale.
+[08/18 09:51:58 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:51:58 AM] Your mighty blow defeated the Urâshi Heaver.
+[08/18 09:51:59 AM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Heaver for 92,309 Lightning damage to Morale.
+[08/18 09:52:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 17,253 Fire damage to Morale.
+[08/18 09:52:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 18,369 Fire damage to Morale.
+[08/18 09:52:51 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/18 09:52:51 AM] The Urâshi Brute scored a partially parried hit with a weak melee attack on the Volcanic Rune-stone for 990 Common damage to Morale.
+[08/18 09:52:52 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Brute for 4,649 Lightning damage to Morale.
+[08/18 09:52:52 AM] Nlkosi scored a hit with Fulgurite Strike on the Crypt Digger for 5,298 Lightning damage to Morale.
+[08/18 09:52:52 AM] The Crypt Digger scored a partially parried hit with a weak melee attack on the Volcanic Rune-stone for 371 Common damage to Morale.
+[08/18 09:52:52 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/18 09:52:52 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Brute for 17,253 Fire damage to Morale.
+[08/18 09:52:52 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Crypt Digger for 18,369 Fire damage to Morale.
+[08/18 09:52:52 AM] The Volcanic Rune-stone defeated the Crypt Digger.
+[08/18 09:52:53 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:52:53 AM] Your mighty blow defeated the Urâshi Brute.
+[08/18 09:52:53 AM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Brute for 126,369 Lightning damage to Morale.
+[08/18 09:53:04 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Ravager for 11,499 Lightning damage to Morale.
+[08/18 09:53:05 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:53:05 AM] Your mighty blow defeated the Urâshi Ravager.
+[08/18 09:53:05 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Ravager for 48,513 Lightning damage to Morale.
+[08/18 09:54:51 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 10,473 Lightning damage to Morale.
+[08/18 09:54:52 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Jackal for 6,560 Lightning damage to Morale.
+[08/18 09:54:53 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,181 points to Power.
+[08/18 09:54:53 AM] Sustenance applied a critical heal to Nlkosi restoring 25,691 points to Morale.
+[08/18 09:54:54 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Jackal for 9,756 Frost damage to Morale.
+[08/18 09:54:55 AM] The Urâshi Jackal scored a partially evaded hit with a weak melee attack on Nlkosi for 3,562 Common damage to Morale.
+[08/18 09:54:56 AM] Nlkosi scored a critical hit with Flurry of Words on the Urâshi Jackal for 2,111 Frost damage to Morale.
+[08/18 09:54:57 AM] The Urâshi Jackal scored a hit with a moderate melee attack on Nlkosi for 5,308 Common damage to Morale.
+[08/18 09:54:57 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:54:57 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 11,238 Lightning damage to Morale.
+[08/18 09:54:59 AM] The Urâshi Jackal scored a hit with a minor melee attack on Nlkosi for 4,826 Common damage to Morale.
+[08/18 09:54:59 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,868 Frost damage to Morale.
+[08/18 09:55:00 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 9,704 Lightning damage to Morale.
+[08/18 09:55:01 AM] The Urâshi Jackal scored a hit with a weak melee attack on Nlkosi for 3,741 Common damage to Morale.
+[08/18 09:55:02 AM] The Urâshi Jackal scored a hit with a moderate melee attack on Nlkosi for 5,144 Common damage to Morale.
+[08/18 09:55:03 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 2,192 Frost damage to Morale.
+[08/18 09:55:03 AM] The Flurry of Words defeated the Urâshi Jackal.
+[08/18 09:56:09 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Jackal for 4,781 Lightning damage to Morale.
+[08/18 09:56:10 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,842 points to Power.
+[08/18 09:56:10 AM] Sustenance applied a critical heal to Nlkosi restoring 28,604 points to Morale.
+[08/18 09:56:11 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 7,716 Lightning damage to Morale.
+[08/18 09:56:13 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,252 Frost damage to Morale.
+[08/18 09:56:13 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:56:14 AM] The Urâshi Jackal scored a hit with a weak melee attack on Nlkosi for 3,980 Common damage to Morale.
+[08/18 09:56:14 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Jackal for 26,375 Lightning damage to Morale.
+[08/18 09:56:15 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 10,969 Lightning damage to Morale.
+[08/18 09:56:16 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:56:16 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:56:16 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Jackal for 58,084 Lightning damage to Morale.
+[08/18 09:56:27 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Jackal for 11,877 Lightning damage to Morale.
+[08/18 09:56:28 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:56:29 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Jackal for 36,593 Lightning damage to Morale.
+[08/18 09:56:31 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:56:31 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Jackal for 11,879 Frost damage to Morale.
+[08/18 09:56:42 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Pack-leader for 4,610 Lightning damage to Morale.
+[08/18 09:56:43 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,126 points to Power.
+[08/18 09:56:43 AM] Sustenance applied a critical heal to Nlkosi restoring 25,575 points to Morale.
+[08/18 09:56:45 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Pack-leader for 1,555 Frost damage to Morale.
+[08/18 09:56:45 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:56:46 AM] The Urâshi Pack-leader scored a hit with a mighty melee attack on Nlkosi for 11,940 Common damage to Morale.
+[08/18 09:56:46 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:56:46 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Pack-leader for 25,132 Lightning damage to Morale.
+[08/18 09:56:47 AM] Your mighty blow defeated the Urâshi Pack-leader.
+[08/18 09:56:48 AM] Nlkosi scored a devastating hit with Shocking Words on the Urâshi Pack-leader for 108,834 Lightning damage to Morale.
+[08/18 09:57:08 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Jackal for 5,023 Lightning damage to Morale.
+[08/18 09:57:09 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,921 points to Power.
+[08/18 09:57:09 AM] Sustenance applied a heal to Nlkosi restoring 21,357 points to Morale.
+[08/18 09:57:11 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Jackal for 11,380 Frost damage to Morale.
+[08/18 09:57:12 AM] The Urâshi Jackal scored a devastating hit with a moderate melee attack on Nlkosi for 10,562 Common damage to Morale.
+[08/18 09:57:13 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,520 Frost damage to Morale.
+[08/18 09:57:13 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:57:14 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 8,642 Lightning damage to Morale.
+[08/18 09:57:14 AM] The Urâshi Jackal scored a hit with a weak melee attack on Nlkosi for 3,980 Common damage to Morale.
+[08/18 09:57:15 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Jackal for 22,441 Lightning damage to Morale.
+[08/18 09:57:16 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:57:16 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 11,173 Lightning damage to Morale.
+[08/18 09:57:33 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 12,611 Lightning damage to Morale.
+[08/18 09:57:33 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Jackal for 5,071 Lightning damage to Morale.
+[08/18 09:57:34 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,847 points to Power.
+[08/18 09:57:34 AM] Sustenance applied a heal to Nlkosi restoring 18,462 points to Morale.
+[08/18 09:57:36 AM] The Urâshi Jackal scored a hit with a weak melee attack on Nlkosi for 3,861 Common damage to Morale.
+[08/18 09:57:36 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:57:37 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Jackal for 29,756 Lightning damage to Morale.
+[08/18 09:57:38 AM] The Urâshi Jackal scored a hit with a moderate melee attack on Nlkosi for 5,144 Common damage to Morale.
+[08/18 09:57:40 AM] The Urâshi Jackal scored a hit with a minor melee attack on Nlkosi for 4,677 Common damage to Morale.
+[08/18 09:57:41 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,348 Frost damage to Morale.
+[08/18 09:57:41 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:57:41 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:57:41 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Jackal for 18,351 Lightning damage to Morale.
+[08/18 09:57:47 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:57:47 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:57:47 AM] Nlkosi scored a devastating hit with Shocking Words on the Urâshi Jackal for 105,448 Lightning damage to Morale.
+[08/18 09:57:56 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 9,116 Lightning damage to Morale.
+[08/18 09:57:58 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Jackal.
+[08/18 09:57:58 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Jackal for 7,878 Frost damage to Morale.
+[08/18 09:57:59 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Jackal for 5,243 Lightning damage to Morale.
+[08/18 09:57:59 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,841 points to Power.
+[08/18 09:57:59 AM] Sustenance applied a heal to Nlkosi restoring 20,152 points to Morale.
+[08/18 09:58:00 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Jackal for 3,672 Fire damage to Morale.
+[08/18 09:58:01 AM] The Urâshi Jackal missed trying to use a weak melee attack on Nlkosi.
+[08/18 09:58:01 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:58:01 AM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Jackal for 36,829 Lightning damage to Morale.
+[08/18 09:58:15 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:58:15 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Jackal for 12,407 Lightning damage to Morale.
+[08/18 09:58:16 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,770 points to Power.
+[08/18 09:58:16 AM] Sustenance applied a critical heal to Nlkosi restoring 21,480 points to Morale.
+[08/18 09:58:17 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 9,677 Lightning damage to Morale.
+[08/18 09:58:18 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Jackal for 8,300 Frost damage to Morale.
+[08/18 09:58:19 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:58:19 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Jackal for 36,647 Lightning damage to Morale.
+[08/18 09:58:27 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:58:28 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 10,673 Lightning damage to Morale.
+[08/18 09:58:30 AM] Nlkosi scored a devastating hit with Essence of Winter on the Urâshi Jackal for 30,800 Frost damage to Morale.
+[08/18 09:58:31 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,245 Frost damage to Morale.
+[08/18 09:58:31 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:58:31 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:58:31 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Jackal for 60,242 Lightning damage to Morale.
+[08/18 09:58:40 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Jackal for 4,301 Lightning damage to Morale.
+[08/18 09:58:40 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,755 points to Power.
+[08/18 09:58:40 AM] Sustenance applied a heal to Nlkosi restoring 15,498 points to Morale.
+[08/18 09:58:41 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Jackal for 7,892 Frost damage to Morale.
+[08/18 09:58:43 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 11,859 Lightning damage to Morale.
+[08/18 09:58:43 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:58:44 AM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Jackal for 46,199 Lightning damage to Morale.
+[08/18 09:58:47 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:58:47 AM] Nlkosi scored a devastating hit with Essence of Storm on the Urâshi Pack-leader for 63,752 Lightning damage to Morale.
+[08/18 09:58:49 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Pack-leader for 13,792 Lightning damage to Morale.
+[08/18 09:58:50 AM] The Urâshi Pack-leader scored a hit with a moderate melee attack on Nlkosi for 7,297 Common damage to Morale.
+[08/18 09:58:50 AM] Your mighty blow defeated the Urâshi Pack-leader.
+[08/18 09:58:50 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Pack-leader for 35,600 Lightning damage to Morale.
+[08/18 09:59:10 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:59:10 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Jackal for 12,407 Lightning damage to Morale.
+[08/18 09:59:11 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,781 points to Power.
+[08/18 09:59:11 AM] Sustenance applied a heal to Nlkosi restoring 21,117 points to Morale.
+[08/18 09:59:13 AM] Nlkosi scored a critical hit with Essence of Winter on the Urâshi Jackal for 19,161 Frost damage to Morale.
+[08/18 09:59:13 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 9,574 Lightning damage to Morale.
+[08/18 09:59:15 AM] The Urâshi Jackal scored a critical hit with a weak melee attack on Nlkosi for 5,692 Common damage to Morale.
+[08/18 09:59:16 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,677 Frost damage to Morale.
+[08/18 09:59:16 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:59:17 AM] The Urâshi Jackal scored a hit with a moderate melee attack on Nlkosi for 5,473 Common damage to Morale.
+[08/18 09:59:17 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:59:17 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 11,788 Lightning damage to Morale.
+[08/18 09:59:31 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Pack-leader.
+[08/18 09:59:31 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:59:32 AM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Pack-leader for 88,354 Lightning damage to Morale.
+[08/18 09:59:33 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/18 09:59:34 AM] Your mighty blow defeated the Urâshi Pack-leader.
+[08/18 09:59:34 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Pack-leader for 18,202 Lightning damage to Morale.
+[08/18 09:59:39 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Jackal for 14,243 Lightning damage to Morale.
+[08/18 09:59:40 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,766 points to Power.
+[08/18 09:59:40 AM] Sustenance applied a heal to Nlkosi restoring 17,826 points to Morale.
+[08/18 09:59:43 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,550 Frost damage to Morale.
+[08/18 09:59:43 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 09:59:43 AM] The Urâshi Jackal scored a hit with a weak melee attack on Nlkosi for 3,861 Common damage to Morale.
+[08/18 09:59:44 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 12,762 Lightning damage to Morale.
+[08/18 09:59:45 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:59:45 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 09:59:45 AM] Nlkosi scored a critical hit with Vivid Imagery on the Urâshi Jackal for 32,641 Lightning damage to Morale.
+[08/18 09:59:55 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 09:59:55 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Pack-leader for 40,014 Lightning damage to Morale.
+[08/18 09:59:56 AM] Your mighty blow defeated the Urâshi Pack-leader.
+[08/18 09:59:56 AM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Pack-leader for 159,349 Lightning damage to Morale.
+[08/18 10:00:01 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Jackal for 7,160 Lightning damage to Morale.
+[08/18 10:00:02 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,263 points to Power.
+[08/18 10:00:02 AM] Sustenance applied a heal to Nlkosi restoring 20,829 points to Morale.
+[08/18 10:00:03 AM] Nlkosi scored a critical hit with Essence of Winter on the Urâshi Jackal for 22,993 Frost damage to Morale.
+[08/18 10:00:04 AM] The Urâshi Jackal scored a hit with a weak melee attack on Nlkosi for 3,980 Common damage to Morale.
+[08/18 10:00:05 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Jackal for 10,771 Lightning damage to Morale.
+[08/18 10:00:06 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 10:00:06 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Jackal for 14,354 Lightning damage to Morale.
+[08/18 10:00:10 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:00:11 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:00:12 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Jackal for 32,289 Lightning damage to Morale.
+[08/18 10:00:13 AM] Nlkosi scored a critical hit with Distracting Flame on the Urâshi Jackal.
+[08/18 10:00:13 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Jackal for 1,480 Frost damage to Morale.
+[08/18 10:00:14 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Jackal for 14,983 Frost damage to Morale.
+[08/18 10:00:15 AM] Your mighty blow defeated the Urâshi Jackal.
+[08/18 10:00:15 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Jackal for 11,369 Lightning damage to Morale.
+[08/18 10:00:23 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Pack-leader for 22,643 Lightning damage to Morale.
+[08/18 10:00:24 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:00:24 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Pack-leader for 14,451 Lightning damage to Morale.
+[08/18 10:00:25 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,733 points to Power.
+[08/18 10:00:25 AM] Sustenance applied a critical heal to Nlkosi restoring 23,107 points to Morale.
+[08/18 10:00:27 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Pack-leader for 12,524 Frost damage to Morale.
+[08/18 10:00:30 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Pack-leader for 33,380 Lightning damage to Morale.
+[08/18 10:00:30 AM] The Urâshi Pack-leader tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/18 10:00:31 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Pack-leader for 12,172 Lightning damage to Morale.
+[08/18 10:00:32 AM] Your mighty blow defeated the Urâshi Pack-leader.
+[08/18 10:00:32 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Pack-leader for 59,242 Lightning damage to Morale.
+[08/18 10:02:25 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Warrior for 13,074 Lightning damage to Morale.
+[08/18 10:02:28 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Warrior for 9,095 Frost damage to Morale.
+[08/18 10:02:29 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Warrior for 10,149 Lightning damage to Morale.
+[08/18 10:02:29 AM] The Urâshi Warrior scored a hit with a moderate melee attack on Nlkosi for 5,994 Common damage to Morale.
+[08/18 10:02:30 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:02:30 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:02:30 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Warrior for 34,481 Lightning damage to Morale.
+[08/18 10:02:34 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:02:34 AM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Skirmisher for 99,446 Lightning damage to Morale.
+[08/18 10:02:37 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:02:39 AM] Nlkosi scored a critical hit with Distracting Flame on the Urâshi Warrior.
+[08/18 10:02:40 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Warrior for 7,670 Frost damage to Morale.
+[08/18 10:02:41 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Warrior for 9,871 Lightning damage to Morale.
+[08/18 10:02:41 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Warrior for 2,690 Fire damage to Morale.
+[08/18 10:02:42 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Warrior for 5,640 Lightning damage to Morale.
+[08/18 10:02:43 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,007 points to Power.
+[08/18 10:02:43 AM] Sustenance applied a heal to Nlkosi restoring 17,321 points to Morale.
+[08/18 10:02:44 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 10,140 Lightning damage to Morale.
+[08/18 10:02:44 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Warrior for 1,435 Frost damage to Morale.
+[08/18 10:02:44 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:02:44 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:02:44 AM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Warrior for 126,989 Lightning damage to Morale.
+[08/18 10:02:55 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Warrior for 10,088 Frost damage to Morale.
+[08/18 10:02:56 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Warrior for 5,732 Frost damage to Morale.
+[08/18 10:02:57 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Warrior for 11,416 Lightning damage to Morale.
+[08/18 10:02:58 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 10,079 Lightning damage to Morale.
+[08/18 10:02:58 AM] The Urâshi Warrior scored a hit with a moderate swipe attack on Nlkosi for 5,994 Common damage to Morale.
+[08/18 10:02:59 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 9,679 Lightning damage to Morale.
+[08/18 10:03:00 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:03:00 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:03:00 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Warrior for 54,261 Lightning damage to Morale.
+[08/18 10:03:06 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Skirmisher for 6,830 Lightning damage to Morale.
+[08/18 10:03:07 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,912 points to Power.
+[08/18 10:03:07 AM] Sustenance applied a heal to Nlkosi restoring 17,225 points to Morale.
+[08/18 10:03:09 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Skirmisher for 1,302 Frost damage to Morale.
+[08/18 10:03:10 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:03:10 AM] The Urâshi Skirmisher scored a critical hit with a weak melee attack on Nlkosi for 5,420 Common damage to Morale.
+[08/18 10:03:10 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Skirmisher for 11,253 Lightning damage to Morale.
+[08/18 10:03:12 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Skirmisher for 13,021 Lightning damage to Morale.
+[08/18 10:03:12 AM] The Urâshi Skirmisher scored a critical hit with a minor melee attack on Nlkosi for 6,776 Common damage to Morale.
+[08/18 10:03:12 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Skirmisher for 1,912 Frost damage to Morale.
+[08/18 10:03:13 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Skirmisher for 8,900 Lightning damage to Morale.
+[08/18 10:03:14 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:03:14 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Skirmisher for 31,842 Lightning damage to Morale.
+[08/18 10:03:24 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/18 10:03:25 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Warrior for 4,743 Lightning damage to Morale.
+[08/18 10:03:25 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/18 10:03:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Warrior for 4,483 Lightning damage to Morale.
+[08/18 10:03:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Warrior for 4,680 Lightning damage to Morale.
+[08/18 10:03:29 AM] The Urâshi Warrior scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 1,193 Common damage to Morale.
+[08/18 10:03:29 AM] The Urâshi Warrior scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 954 Common damage to Morale.
+[08/18 10:03:30 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:03:30 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Warrior for 8,843 Frost damage to Morale.
+[08/18 10:03:30 AM] Nlkosi scored a devastating hit with Sustaining Bolt on the Urâshi Warrior for 21,141 Lightning damage to Morale.
+[08/18 10:03:31 AM] The Urâshi Warrior tried to use Melee Min Bleed on the Charged Fulgurite Rune-stone but it parried the attempt.
+[08/18 10:03:31 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,004 points to Power.
+[08/18 10:03:31 AM] Sustenance applied a heal to Nlkosi restoring 18,617 points to Morale.
+[08/18 10:03:31 AM] The Urâshi Warrior scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 1,312 Common damage to Morale.
+[08/18 10:03:31 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Warrior for 4,547 Lightning damage to Morale.
+[08/18 10:03:31 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Warrior for 4,419 Lightning damage to Morale.
+[08/18 10:03:32 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:03:32 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Warrior for 32,040 Lightning damage to Morale.
+[08/18 10:03:33 AM] The Urâshi Warrior scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 954 Common damage to Morale.
+[08/18 10:03:34 AM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Warrior for 4,749 Lightning damage to Morale.
+[08/18 10:03:35 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 11,374 Lightning damage to Morale.
+[08/18 10:03:37 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/18 10:03:39 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Warrior for 10,390 Lightning damage to Morale.
+[08/18 10:03:40 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 10,636 Lightning damage to Morale.
+[08/18 10:03:41 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:03:41 AM] Nlkosi scored a hit with Head-butt on the Urâshi Warrior for 12,379 Common damage to Morale.
+[08/18 10:03:57 AM] You have lost 59,303 points of temporary Morale!
+[08/18 10:04:05 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Warrior for 5,732 Frost damage to Morale.
+[08/18 10:04:06 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Warrior for 10,529 Frost damage to Morale.
+[08/18 10:04:07 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:04:07 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Warrior for 24,813 Lightning damage to Morale.
+[08/18 10:04:10 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Warrior for 1,635 Frost damage to Morale.
+[08/18 10:04:10 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:04:11 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:04:11 AM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Warrior for 90,617 Lightning damage to Morale.
+[08/18 10:04:15 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Skirmisher for 13,698 Lightning damage to Morale.
+[08/18 10:04:16 AM] Nothing to dispel.
+[08/18 10:04:16 AM] Nlkosi scored a critical hit with Vivid Imagery on the Urâshi Skirmisher for 29,208 Lightning damage to Morale.
+[08/18 10:04:16 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Skirmisher.
+[08/18 10:04:18 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:04:18 AM] Nlkosi scored a hit with Essence of Flame on the Urâshi Skirmisher for 15,824 Fire damage to Morale.
+[08/18 10:04:29 AM] The Urâshi Skirmisher scored a hit with a weak melee attack on Nlkosi for 3,791 Common damage to Morale.
+[08/18 10:04:29 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Warrior for 3,851 Lightning damage to Morale.
+[08/18 10:04:30 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,882 points to Power.
+[08/18 10:04:30 AM] Sustenance applied a heal to Nlkosi restoring 17,029 points to Morale.
+[08/18 10:04:31 AM] The Urâshi Skirmisher scored a hit with a moderate melee attack on Nlkosi for 5,212 Common damage to Morale.
+[08/18 10:04:31 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Warrior for 7,881 Lightning damage to Morale.
+[08/18 10:04:33 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:04:33 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:04:33 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Warrior for 58,539 Lightning damage to Morale.
+[08/18 10:04:33 AM] The Urâshi Skirmisher scored a hit with a weak melee attack on Nlkosi for 3,791 Common damage to Morale.
+[08/18 10:04:34 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Skirmisher for 44,173 Lightning damage to Morale.
+[08/18 10:04:35 AM] The Urâshi Skirmisher scored a hit with a minor melee attack on Nlkosi for 4,454 Common damage to Morale.
+[08/18 10:04:36 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:04:36 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Skirmisher for 37,091 Lightning damage to Morale.
+[08/18 10:04:44 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 16,750 Fire damage to Morale.
+[08/18 10:04:45 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/18 10:04:46 AM] The Utûgi Devastator tried to use a mighty melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/18 10:04:46 AM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 4,892 Lightning damage to Morale.
+[08/18 10:04:47 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 16,750 Fire damage to Morale.
+[08/18 10:04:47 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/18 10:04:47 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:04:48 AM] Nlkosi scored a critical hit with Epic Conclusion on the Utûgi Devastator for 173,798 Lightning damage to Morale.
+[08/18 10:04:49 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 16,750 Fire damage to Morale.
+[08/18 10:04:49 AM] Nlkosi scored a devastating hit with Scribe's Spark on the Utûgi Devastator for 50,053 Lightning damage to Morale.
+[08/18 10:04:49 AM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 4,661 Lightning damage to Morale.
+[08/18 10:04:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 16,750 Fire damage to Morale.
+[08/18 10:04:51 AM] Nlkosi scored a hit with Vivid Imagery on the Utûgi Devastator for 12,426 Lightning damage to Morale.
+[08/18 10:04:52 AM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 4,636 Lightning damage to Morale.
+[08/18 10:04:52 AM] Nlkosi scored a hit with Chilling Rhetoric on the Utûgi Devastator for 9,573 Frost damage to Morale.
+[08/18 10:04:52 AM] Nothing to dispel.
+[08/18 10:04:52 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 16,750 Fire damage to Morale.
+[08/18 10:04:53 AM] Nlkosi scored a critical hit with Improved Final Word on the Utûgi Devastator.
+[08/18 10:04:54 AM] The Utûgi Devastator scored a hit with a moderate melee attack on Nlkosi for 9,382 Common damage to Morale.
+[08/18 10:04:54 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/18 10:04:55 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 16,750 Fire damage to Morale.
+[08/18 10:04:55 AM] Nlkosi scored a hit with Essence of Storm on the Utûgi Devastator for 12,060 Lightning damage to Morale.
+[08/18 10:04:55 AM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 4,647 Lightning damage to Morale.
+[08/18 10:04:56 AM] Nothing to cure.
+[08/18 10:04:56 AM] The Utûgi Devastator scored a hit with a weak melee attack on Nlkosi for 6,823 Common damage to Morale.
+[08/18 10:04:56 AM] Your mighty blow defeated the Utûgi Devastator.
+[08/18 10:04:56 AM] Nlkosi scored a hit with Fiery Ridicule on the Utûgi Devastator for 6,288 Fire damage to Morale.
+[08/18 10:04:58 AM] Nothing to cure.
+[08/18 10:05:00 AM] Nothing to cure.
+[08/18 10:05:53 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Skirmisher for 6,198 Frost damage to Morale.
+[08/18 10:05:55 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Skirmisher for 11,743 Frost damage to Morale.
+[08/18 10:05:56 AM] Nlkosi scored a critical hit with Distracting Flame on the Urâshi Skirmisher.
+[08/18 10:05:56 AM] The Urâshi Skirmisher scored a hit with a weak melee attack on Nlkosi for 3,791 Common damage to Morale.
+[08/18 10:05:56 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Skirmisher for 5,198 Lightning damage to Morale.
+[08/18 10:05:57 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,116 points to Power.
+[08/18 10:05:57 AM] Sustenance applied a heal to Nlkosi restoring 15,875 points to Morale.
+[08/18 10:05:58 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Skirmisher for 13,918 Lightning damage to Morale.
+[08/18 10:05:58 AM] The Urâshi Skirmisher scored a hit with a minor melee attack on Nlkosi for 4,596 Common damage to Morale.
+[08/18 10:05:59 AM] Nlkosi scored a critical hit with Distracting Flame on the Urâshi Skirmisher for 6,420 Fire damage to Morale.
+[08/18 10:05:59 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:06:00 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Skirmisher for 11,803 Lightning damage to Morale.
+[08/18 10:06:10 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:06:10 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:06:10 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:06:10 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Warrior for 52,962 Lightning damage to Morale.
+[08/18 10:06:18 AM] Nothing to dispel.
+[08/18 10:06:18 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Warrior.
+[08/18 10:06:20 AM] Nlkosi scored a devastating hit with Vivid Imagery on the Urâshi Warrior for 44,553 Lightning damage to Morale.
+[08/18 10:06:22 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:06:22 AM] Nlkosi scored a hit with Essence of Flame on the Urâshi Warrior for 16,074 Fire damage to Morale.
+[08/18 10:06:33 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Warrior for 4,589 Lightning damage to Morale.
+[08/18 10:06:34 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,072 points to Power.
+[08/18 10:06:34 AM] Sustenance applied a critical heal to Nlkosi restoring 25,312 points to Morale.
+[08/18 10:06:37 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Warrior.
+[08/18 10:06:38 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:06:38 AM] The Urâshi Warrior scored a critical hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:06:38 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Warrior for 31,001 Lightning damage to Morale.
+[08/18 10:06:38 AM] The Urâshi Warrior scored a critical hit with Melee Min Bleed on Nlkosi.
+[08/18 10:06:39 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Warrior for 14,640 Lightning damage to Morale.
+[08/18 10:06:40 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:06:40 AM] Nlkosi scored a devastating hit with Shocking Words on the Urâshi Warrior for 137,213 Lightning damage to Morale.
+[08/18 10:06:41 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:06:44 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:06:45 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:06:45 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Skirmisher for 62,083 Lightning damage to Morale.
+[08/18 10:06:47 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:06:48 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:06:49 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/18 10:06:50 AM] The Urâshi Warrior tried to use Light Wound on Nlkosi but he resisted the attempt.
+[08/18 10:06:51 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Captain for 12,270 Frost damage to Morale.
+[08/18 10:06:51 AM] Nothing to dispel.
+[08/18 10:06:51 AM] Nlkosi scored a critical hit with Improved Final Word on the Urâshi Captain.
+[08/18 10:06:52 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Captain for 1,671 Frost damage to Morale.
+[08/18 10:06:53 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:06:53 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:06:53 AM] You have lost 3,269 points of temporary Morale!
+[08/18 10:06:53 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Captain for 30,876 Lightning damage to Morale.
+[08/18 10:06:53 AM] You have lost 6,870 points of temporary Morale!
+[08/18 10:06:54 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Captain for 12,609 Lightning damage to Morale.
+[08/18 10:06:55 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Captain for 2,297 Frost damage to Morale.
+[08/18 10:06:56 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Captain for 31,188 Lightning damage to Morale.
+[08/18 10:06:57 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Captain for 22,036 Lightning damage to Morale.
+[08/18 10:06:57 AM] You have lost 5,496 points of temporary Morale!
+[08/18 10:06:57 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,972 points to Power.
+[08/18 10:06:57 AM] Sustenance applied a heal to Nlkosi restoring 18,985 points to Morale.
+[08/18 10:06:58 AM] Your mighty blow defeated the Urâshi Captain.
+[08/18 10:06:58 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Captain for 15,019 Lightning damage to Morale.
+[08/18 10:07:00 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Skirmisher for 12,737 Lightning damage to Morale.
+[08/18 10:07:02 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Skirmisher for 16,109 Frost damage to Morale.
+[08/18 10:07:02 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:07:02 AM] Nlkosi scored a critical hit with Writ of Lightning on the Urâshi Skirmisher for 32,665 Lightning damage to Morale.
+[08/18 10:07:04 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 13,602 Lightning damage to Morale.
+[08/18 10:07:06 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Warrior.
+[08/18 10:07:07 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/18 10:07:07 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:07:07 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 7,394 Fire damage to Morale.
+[08/18 10:07:07 AM] The Urâshi Warrior scored a hit with Melee Min Bleed on Nlkosi.
+[08/18 10:07:07 AM] You have lost 3,269 points of temporary Morale!
+[08/18 10:07:08 AM] Light Wound has been cured.
+[08/18 10:07:09 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Warrior for 3,481 Fire damage to Morale.
+[08/18 10:07:09 AM] You have lost 40,399 points of temporary Morale!
+[08/18 10:07:09 AM] Nlkosi scored a hit with Essence of Flame on the Urâshi Warrior for 24,531 Fire damage to Morale.
+[08/18 10:07:09 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:07:09 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:07:10 AM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Warrior for 119,457 Lightning damage to Morale.
+[08/18 10:07:10 AM] Nothing to cure.
+[08/18 10:07:12 AM] Nlkosi scored a devastating hit with Ceaseless Argument on the Urâshi Skirmisher for 44,426 Lightning damage to Morale.
+[08/18 10:07:12 AM] Nothing to cure.
+[08/18 10:07:15 AM] The Urâshi Skirmisher scored a hit with Poison Arrow Attack on Nlkosi.
+[08/18 10:07:16 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Skirmisher for 1,355 Frost damage to Morale.
+[08/18 10:07:16 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Warrior for 1,237 Frost damage to Morale.
+[08/18 10:07:16 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:07:16 AM] The Urâshi Skirmisher tried to use Poison Arrow on Nlkosi but he resisted the attempt.
+[08/18 10:07:16 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:07:17 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Skirmisher for 63,258 Lightning damage to Morale.
+[08/18 10:07:17 AM] The Urâshi Warrior scored a partially evaded hit with a weak melee attack on Nlkosi for 3,901 Common damage to Morale.
+[08/18 10:07:18 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Warrior for 11,976 Lightning damage to Morale.
+[08/18 10:07:19 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Warrior for 1,788 Frost damage to Morale.
+[08/18 10:07:20 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Warrior for 30,735 Lightning damage to Morale.
+[08/18 10:07:21 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:07:21 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 14,423 Lightning damage to Morale.
+[08/18 10:07:44 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Captain for 12,593 Lightning damage to Morale.
+[08/18 10:07:45 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:07:45 AM] Your mighty blow defeated the Urâshi Captain.
+[08/18 10:07:45 AM] Nlkosi scored a devastating hit with Epic Conclusion on the Urâshi Captain for 129,248 Lightning damage to Morale.
+[08/18 10:10:07 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Scout for 6,797 Frost damage to Morale.
+[08/18 10:10:08 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Scout for 4,565 Lightning damage to Morale.
+[08/18 10:10:08 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,867 points to Power.
+[08/18 10:10:08 AM] Sustenance applied a critical heal to Nlkosi restoring 30,283 points to Morale.
+[08/18 10:10:10 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Scout for 1,150 Frost damage to Morale.
+[08/18 10:10:11 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:10:11 AM] The Urâshi Scout scored a critical hit with a weak melee attack on Nlkosi for 5,420 Common damage to Morale.
+[08/18 10:10:11 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Scout for 10,377 Lightning damage to Morale.
+[08/18 10:10:12 AM] Your mighty blow defeated the Urâshi Scout.
+[08/18 10:10:13 AM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Scout for 34,617 Lightning damage to Morale.
+[08/18 10:10:28 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:10:29 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Captain for 14,146 Lightning damage to Morale.
+[08/18 10:10:29 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,827 points to Power.
+[08/18 10:10:29 AM] Sustenance applied a critical heal to Nlkosi restoring 24,673 points to Morale.
+[08/18 10:10:30 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/18 10:10:30 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Captain for 14,749 Frost damage to Morale.
+[08/18 10:10:32 AM] Nlkosi scored a critical hit with Essence of Winter on the Urâshi Captain for 21,762 Frost damage to Morale.
+[08/18 10:10:33 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Captain for 12,701 Lightning damage to Morale.
+[08/18 10:10:33 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Captain for 1,501 Frost damage to Morale.
+[08/18 10:10:34 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Captain for 13,324 Lightning damage to Morale.
+[08/18 10:10:35 AM] The Urâshi Captain scored a devastating hit with a weak melee attack on Nlkosi for 10,608 Common damage to Morale.
+[08/18 10:10:35 AM] You have lost 10,608 points of temporary Morale!
+[08/18 10:10:35 AM] Nlkosi scored a hit with Static Surge on the Urâshi Captain for 26,468 Lightning damage to Morale.
+[08/18 10:10:37 AM] The Urâshi Captain scored a hit with a mighty melee attack on Nlkosi for 12,367 Common damage to Morale.
+[08/18 10:10:37 AM] You have lost 12,367 points of temporary Morale!
+[08/18 10:10:37 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Captain for 17,649 Lightning damage to Morale.
+[08/18 10:10:39 AM] Your mighty blow defeated the Urâshi Captain.
+[08/18 10:10:39 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Captain for 44,500 Lightning damage to Morale.
+[08/18 10:10:49 AM] You have lost 36,328 points of temporary Morale!
+[08/18 10:10:50 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:10:50 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Scout for 29,745 Lightning damage to Morale.
+[08/18 10:10:52 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Scout for 7,140 Frost damage to Morale.
+[08/18 10:10:53 AM] Your mighty blow defeated the Urâshi Scout.
+[08/18 10:10:54 AM] Nlkosi scored a devastating hit with Essence of Winter on the Urâshi Scout for 25,872 Frost damage to Morale.
+[08/18 10:10:54 AM] Nlkosi scored a hit with Essence of Winter on the Urâshi Skirmisher for 9,092 Frost damage to Morale.
+[08/18 10:10:56 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:10:56 AM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Skirmisher for 115,597 Lightning damage to Morale.
+[08/18 10:10:59 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:10:59 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Skirmisher for 53,985 Lightning damage to Morale.
+[08/18 10:11:01 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:11:01 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Warrior for 36,749 Lightning damage to Morale.
+[08/18 10:11:03 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:11:03 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Warrior for 36,999 Lightning damage to Morale.
+[08/18 10:11:05 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Warrior for 12,284 Lightning damage to Morale.
+[08/18 10:11:06 AM] The Urâshi Warrior scored a hit with a weak melee attack on Nlkosi for 4,098 Common damage to Morale.
+[08/18 10:11:06 AM] Nothing to dispel.
+[08/18 10:11:07 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Warrior for 36,976 Lightning damage to Morale.
+[08/18 10:11:07 AM] Nlkosi scored a critical hit with Improved Final Word on the Urâshi Warrior.
+[08/18 10:11:08 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:11:08 AM] The Urâshi Warrior scored a hit with Melee Min Bleed on Nlkosi.
+[08/18 10:11:08 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:11:09 AM] Nlkosi scored a critical hit with Vivid Imagery on the Urâshi Warrior for 37,398 Lightning damage to Morale.
+[08/18 10:11:11 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:11:14 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:11:17 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:11:17 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Warrior for 7,143 Frost damage to Morale.
+[08/18 10:11:19 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Warrior.
+[08/18 10:11:20 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:11:21 AM] Nlkosi scored a hit with Essence of Flame on the Urâshi Warrior for 21,026 Fire damage to Morale.
+[08/18 10:11:22 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Warrior for 3,823 Fire damage to Morale.
+[08/18 10:11:22 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 5,163 Fire damage to Morale.
+[08/18 10:11:23 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:11:23 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Urâshi Warrior for 13,376 Fire damage to Morale.
+[08/18 10:11:24 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:11:24 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Warrior for 14,266 Lightning damage to Morale.
+[08/18 10:11:28 AM] Nothing to dispel.
+[08/18 10:11:28 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Scout.
+[08/18 10:11:31 AM] The Urâshi Scout scored a hit with Poison Arrow Attack on Nlkosi.
+[08/18 10:11:32 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Scout for 6,834 Fire damage to Morale.
+[08/18 10:11:34 AM] Nlkosi scored a hit with Essence of Flame on the Urâshi Scout for 22,006 Fire damage to Morale.
+[08/18 10:11:34 AM] Your mighty blow defeated the Urâshi Scout.
+[08/18 10:11:34 AM] The Urâshi Scout scored a hit with Poison Arrow on Nlkosi for 2,843 Common damage to Morale.
+[08/18 10:11:34 AM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Scout for 50,640 Lightning damage to Morale.
+[08/18 10:11:37 AM] The Urâshi Scout tried to use Poison Arrow on Nlkosi but he resisted the attempt.
+[08/18 10:11:39 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:11:40 AM] The Urâshi Scout tried to use Poison Arrow on Nlkosi but he resisted the attempt.
+[08/18 10:11:41 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Skirmisher.
+[08/18 10:11:43 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:11:43 AM] The Urâshi Scout scored a hit with Poison Arrow on Nlkosi for 2,843 Common damage to Morale.
+[08/18 10:11:43 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Skirmisher for 2,849 Fire damage to Morale.
+[08/18 10:11:43 AM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Skirmisher for 35,423 Lightning damage to Morale.
+[08/18 10:11:45 AM] The Urâshi Skirmisher scored a hit with Poison Arrow Attack on Nlkosi.
+[08/18 10:11:45 AM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Skirmisher for 9,051 Frost damage to Morale.
+[08/18 10:11:46 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:11:46 AM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Skirmisher for 12,095 Lightning damage to Morale.
+[08/18 10:11:47 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:11:50 AM] Nothing to dispel.
+[08/18 10:11:50 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Warrior for 34,512 Lightning damage to Morale.
+[08/18 10:11:50 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Warrior.
+[08/18 10:11:51 AM] The Urâshi Skirmisher tried to use Poison Arrow on Nlkosi but he resisted the attempt.
+[08/18 10:11:52 AM] Nlkosi scored a hit with Essence of Flame on the Urâshi Warrior for 17,191 Fire damage to Morale.
+[08/18 10:11:53 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:11:53 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Warrior for 59,787 Lightning damage to Morale.
+[08/18 10:11:54 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,171 Common damage to Morale.
+[08/18 10:11:54 AM] Nlkosi scored a hit with Static Surge on the Urâshi Warrior for 24,928 Lightning damage to Morale.
+[08/18 10:11:54 AM] The Urâshi Warrior scored a devastating hit with a weak melee attack on Nlkosi for 8,161 Common damage to Morale.
+[08/18 10:11:56 AM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Warrior for 6,479 Lightning damage to Morale.
+[08/18 10:11:56 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:11:56 AM] The Urâshi Warrior scored a hit with Melee Min Bleed on Nlkosi.
+[08/18 10:11:56 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,018 points to Power.
+[08/18 10:11:56 AM] Sustenance applied a heal to Nlkosi restoring 21,431 points to Morale.
+[08/18 10:11:57 AM] The Urâshi Skirmisher tried to use Poison Arrow on Nlkosi but he resisted the attempt.
+[08/18 10:11:57 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:11:57 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:11:57 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Warrior for 35,093 Lightning damage to Morale.
+[08/18 10:11:59 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:12:00 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:12:02 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:12:03 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:12:05 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,073 Common damage to Morale.
+[08/18 10:12:06 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:12:08 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:12:09 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:12:11 AM] Nothing to dispel.
+[08/18 10:12:11 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:12:11 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Scout.
+[08/18 10:12:12 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:12:13 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Scout.
+[08/18 10:12:14 AM] The Urâshi Scout scored a hit with a weak melee attack on Nlkosi for 3,791 Common damage to Morale.
+[08/18 10:12:15 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:12:15 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Scout for 12,890 Lightning damage to Morale.
+[08/18 10:12:16 AM] The Urâshi Scout scored a hit with a moderate melee attack on Nlkosi for 5,212 Common damage to Morale.
+[08/18 10:12:16 AM] The Urâshi Warrior scored a hit with a weak melee attack on Nlkosi for 4,359 Common damage to Morale.
+[08/18 10:12:16 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Scout for 3,322 Fire damage to Morale.
+[08/18 10:12:16 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Scout for 29,828 Lightning damage to Morale.
+[08/18 10:12:18 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,171 Common damage to Morale.
+[08/18 10:12:18 AM] The Urâshi Warrior scored a hit with a moderate swipe attack on Nlkosi for 5,814 Common damage to Morale.
+[08/18 10:12:19 AM] Nlkosi scored a hit with Distracting Flame on the Urâshi Scout for 2,980 Fire damage to Morale.
+[08/18 10:12:19 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Warrior for 1,158 Frost damage to Morale.
+[08/18 10:12:19 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Scout for 1,645 Frost damage to Morale.
+[08/18 10:12:19 AM] The Flurry of Words defeated the Urâshi Scout.
+[08/18 10:12:20 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:12:21 AM] The Urâshi Skirmisher scored a hit with Poison Arrow on Nlkosi for 3,171 Common damage to Morale.
+[08/18 10:12:21 AM] The Urâshi Warrior scored a hit with a weak melee attack on Nlkosi for 4,228 Common damage to Morale.
+[08/18 10:12:21 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Warrior for 10,103 Lightning damage to Morale.
+[08/18 10:12:22 AM] Nlkosi scored a hit with Flurry of Words on the Urâshi Warrior for 1,941 Frost damage to Morale.
+[08/18 10:12:23 AM] Nlkosi scored a hit with Vivid Imagery on the Urâshi Warrior for 9,183 Lightning damage to Morale.
+[08/18 10:12:24 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:12:24 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:12:24 AM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Warrior for 130,363 Lightning damage to Morale.
+[08/18 10:12:27 AM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/18 10:12:29 AM] Self-motivation applied a heal to Nlkosi restoring 3,622 points to Power.
+[08/18 10:12:29 AM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/18 10:12:32 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:12:32 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Skirmisher for 53,985 Lightning damage to Morale.
+[08/18 10:12:33 AM] Nothing to dispel.
+[08/18 10:12:34 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Skirmisher for 38,359 Lightning damage to Morale.
+[08/18 10:12:34 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Skirmisher.
+[08/18 10:12:35 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:12:36 AM] Nlkosi scored a critical hit with Essence of Flame on the Urâshi Skirmisher for 32,188 Fire damage to Morale.
+[08/18 10:12:37 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/18 10:12:37 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 5,999 Fire damage to Morale.
+[08/18 10:12:38 AM] Nothing to cure.
+[08/18 10:12:39 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 6,792 Fire damage to Morale.
+[08/18 10:12:40 AM] Nothing to cure.
+[08/18 10:12:40 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 8,057 Fire damage to Morale.
+[08/18 10:12:42 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 7,304 Fire damage to Morale.
+[08/18 10:12:42 AM] Nothing to cure.
+[08/18 10:12:43 AM] Nlkosi scored a hit with Shocking Touch on the Urâshi Warrior for 5,678 Lightning damage to Morale.
+[08/18 10:12:44 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:12:44 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:12:44 AM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Warrior for 103,347 Lightning damage to Morale.
+[08/18 10:12:44 AM] The Urâshi Warrior scored a hit with a minor melee attack on Nlkosi for 5,449 Common damage to Morale.
+[08/18 10:12:45 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:12:45 AM] Nlkosi scored a critical hit with Static Surge on the Urâshi Warrior for 63,685 Lightning damage to Morale.
+[08/18 10:12:50 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:12:50 AM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Warrior for 62,083 Lightning damage to Morale.
+[08/18 10:12:52 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 5,534 Fire damage to Morale.
+[08/18 10:12:54 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/18 10:12:54 AM] The Urâshi Warrior scored a hit with a weak melee attack on Nlkosi for 4,359 Common damage to Morale.
+[08/18 10:12:55 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Warrior for 14,392 Lightning damage to Morale.
+[08/18 10:12:55 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Urâshi Warrior for 5,179 Fire damage to Morale.
+[08/18 10:12:55 AM] Nothing to cure.
+[08/18 10:12:56 AM] The Urâshi Warrior scored a hit with Light Wound on Nlkosi for 3,269 Common damage to Morale.
+[08/18 10:12:57 AM] The Urâshi Warrior scored a hit with Melee Min Bleed on Nlkosi.
+[08/18 10:12:57 AM] Light Wound has been cured.
+[08/18 10:12:58 AM] Nothing to dispel.
+[08/18 10:12:58 AM] Nlkosi scored a hit with Improved Final Word on the Urâshi Warrior.
+[08/18 10:12:58 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Urâshi Warrior for 2,627 Fire damage to Morale.
+[08/18 10:12:59 AM] The Urâshi Warrior scored a hit with a weak melee attack on Nlkosi for 4,359 Common damage to Morale.
+[08/18 10:12:59 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 6,676 Fire damage to Morale.
+[08/18 10:12:59 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:12:59 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:13:00 AM] Nothing to cure.
+[08/18 10:13:00 AM] Nlkosi scored a critical hit with Vivid Imagery on the Urâshi Warrior for 36,563 Lightning damage to Morale.
+[08/18 10:13:03 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/18 10:13:04 AM] Nothing to cure.
+[08/18 10:13:06 AM] Nothing to cure.
+[08/18 10:13:07 AM] Nlkosi scored a hit with Essence of Storm on the Urâshi Warrior for 17,843 Lightning damage to Morale.
+[08/18 10:13:08 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:13:08 AM] Nothing to cure.
+[08/18 10:13:09 AM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Warrior for 50,284 Lightning damage to Morale.
+[08/18 10:13:11 AM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Warrior for 5,662 Fire damage to Morale.
+[08/18 10:13:11 AM] The Urâshi Warrior scored a hit with a weak melee attack on Nlkosi for 4,228 Common damage to Morale.
+[08/18 10:13:12 AM] Nlkosi scored a hit with Shocking Touch on the Urâshi Warrior for 4,576 Lightning damage to Morale.
+[08/18 10:13:14 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Urâshi Warrior for 3,031 Fire damage to Morale.
+[08/18 10:13:14 AM] Nlkosi scored a critical hit with Essence of Flame on the Urâshi Warrior for 31,701 Fire damage to Morale.
+[08/18 10:13:14 AM] Your mighty blow defeated the Urâshi Warrior.
+[08/18 10:13:15 AM] Nlkosi scored a hit with Shocking Words on the Urâshi Warrior for 34,926 Lightning damage to Morale.
+[08/18 10:13:25 AM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Skirmisher for 9,476 Lightning damage to Morale.
+[08/18 10:13:26 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:13:27 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Skirmisher for 32,745 Lightning damage to Morale.
+[08/18 10:13:28 AM] Your mighty blow defeated the Urâshi Skirmisher.
+[08/18 10:13:28 AM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Skirmisher for 11,540 Lightning damage to Morale.
+[08/18 10:13:48 AM] Nlkosi scored a hit with Volcanic Rune-stone on Madmurúk for 16,750 Fire damage to Morale.
+[08/18 10:13:48 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/18 10:13:49 AM] Madmurúk scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 963 Common damage to Morale.
+[08/18 10:13:49 AM] Nlkosi scored a hit with Fulgurite Strike on Madmurúk for 4,726 Lightning damage to Morale.
+[08/18 10:13:50 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/18 10:13:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on Madmurúk for 16,750 Fire damage to Morale.
+[08/18 10:13:50 AM] Master of Tragedy applied a heal to Nlkosi restoring 295 points to Power.
+[08/18 10:13:50 AM] Nothing to dispel.
+[08/18 10:13:51 AM] Nlkosi scored a critical hit with Epic Conclusion on Madmurúk for 124,774 Lightning damage to Morale.
+[08/18 10:13:51 AM] Nlkosi scored a hit with Improved Final Word on Madmurúk.
+[08/18 10:13:51 AM] Madmurúk scored a hit with a melee double attack on the Volcanic Rune-stone for 1,493 Common damage to Morale.
+[08/18 10:13:51 AM] Madmurúk scored a hit with a melee double attack on the Volcanic Rune-stone for 1,493 Common damage to Morale.
+[08/18 10:13:52 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/18 10:13:52 AM] Nlkosi scored a hit with Volcanic Rune-stone on Madmurúk for 16,750 Fire damage to Morale.
+[08/18 10:13:52 AM] Nlkosi scored a hit with Fulgurite Strike on Madmurúk for 4,768 Lightning damage to Morale.
+[08/18 10:13:54 AM] Nlkosi scored a hit with Flurry of Words on Madmurúk for 1,352 Frost damage to Morale.
+[08/18 10:13:54 AM] Nlkosi scored a hit with Volcanic Rune-stone on Madmurúk for 16,750 Fire damage to Morale.
+[08/18 10:13:54 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/18 10:13:55 AM] Nlkosi scored a devastating hit with Writ of Lightning on Madmurúk for 27,442 Lightning damage to Morale.
+[08/18 10:13:55 AM] Nlkosi scored a hit with Sustaining Bolt on Madmurúk for 7,150 Lightning damage to Morale.
+[08/18 10:13:55 AM] Nlkosi scored a hit with Fulgurite Strike on Madmurúk for 4,952 Lightning damage to Morale.
+[08/18 10:13:56 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,231 points to Power.
+[08/18 10:13:56 AM] Sustenance applied a heal to Nlkosi restoring 20,026 points to Morale.
+[08/18 10:13:57 AM] Nlkosi scored a hit with Flurry of Words on Madmurúk for 2,287 Frost damage to Morale.
+[08/18 10:13:57 AM] Nlkosi scored a critical hit with Essence of Storm on Madmurúk for 54,601 Lightning damage to Morale.
+[08/18 10:13:58 AM] Nlkosi scored a hit with Fulgurite Strike on Madmurúk for 4,540 Lightning damage to Morale.
+[08/18 10:13:58 AM] Nlkosi scored a critical hit with Ceaseless Argument on Madmurúk for 38,073 Lightning damage to Morale.
+[08/18 10:14:00 AM] Nlkosi scored a hit with Flurry of Words on Madmurúk for 2,059 Frost damage to Morale.
+[08/18 10:14:00 AM] Nlkosi scored a hit with Ceaseless Argument on Madmurúk for 13,758 Lightning damage to Morale.
+[08/18 10:14:01 AM] Nlkosi scored a hit with Writ of Lightning on Madmurúk for 11,064 Lightning damage to Morale.
+[08/18 10:14:02 AM] Your mighty blow defeated Madmurúk.
+[08/18 10:14:02 AM] Nlkosi scored a hit with Chilling Rhetoric on Madmurúk for 10,122 Frost damage to Morale.
+[08/18 10:14:11 AM] You have lost 59,303 points of temporary Morale!
+[08/18 10:23:14 AM] The Dumûri Guard defeated the Ikorbâni Hind.
