@@ -1,0 +1,227 @@
+aug. 25 00:00:01 WARLORD CRON[14341]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:00:01 WARLORD CRON[14340]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:00:01 WARLORD CRON[14345]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:00:01 WARLORD CRON[14344]: (root) CMD (timeshift --check --scripted)
+aug. 25 00:00:01 WARLORD systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+aug. 25 00:00:01 WARLORD systemd[1]: Starting sysstat-rotate.service - system activity accounting tool...
+aug. 25 00:00:01 WARLORD kernel: sh (14345): drop_caches: 3
+aug. 25 00:00:01 WARLORD CRON[14341]: pam_unix(cron:session): session closed for user root
+aug. 25 00:00:01 WARLORD systemd[1]: sysstat-rotate.service: Deactivated successfully.
+aug. 25 00:00:01 WARLORD systemd[1]: Finished sysstat-rotate.service - system activity accounting tool.
+aug. 25 00:00:01 WARLORD systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+aug. 25 00:00:01 WARLORD systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+aug. 25 00:00:02 WARLORD crontab[14403]: (root) LIST (root)
+aug. 25 00:00:02 WARLORD crontab[14404]: (root) LIST (root)
+aug. 25 00:00:02 WARLORD systemd[1]: run-timeshift-14344-backup.mount: Deactivated successfully.
+aug. 25 00:00:02 WARLORD CRON[14340]: pam_unix(cron:session): session closed for user root
+aug. 25 00:00:35 WARLORD systemd[998]: drkonqi-coredump-pickup.service: Service reached runtime time limit. Stopping.
+aug. 25 00:00:35 WARLORD systemd[998]: drkonqi-coredump-pickup.service: Failed with result 'timeout'.
+aug. 25 00:05:01 WARLORD CRON[16233]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:05:01 WARLORD CRON[16235]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:05:01 WARLORD kernel: sh (16235): drop_caches: 3
+aug. 25 00:05:01 WARLORD CRON[16233]: pam_unix(cron:session): session closed for user root
+aug. 25 00:07:18 WARLORD systemd[1]: Starting sysstat-summary.service - Generate a daily summary of process accounting...
+aug. 25 00:07:18 WARLORD systemd[1]: sysstat-summary.service: Deactivated successfully.
+aug. 25 00:07:18 WARLORD systemd[1]: Finished sysstat-summary.service - Generate a daily summary of process accounting.
+aug. 25 00:10:01 WARLORD CRON[18072]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:10:01 WARLORD CRON[18075]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:10:01 WARLORD kernel: sh (18075): drop_caches: 3
+aug. 25 00:10:01 WARLORD CRON[18072]: pam_unix(cron:session): session closed for user root
+aug. 25 00:15:01 WARLORD CRON[19959]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:15:01 WARLORD CRON[19962]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:15:01 WARLORD kernel: sh (19962): drop_caches: 3
+aug. 25 00:15:01 WARLORD CRON[19959]: pam_unix(cron:session): session closed for user root
+aug. 25 00:17:01 WARLORD CRON[20707]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:17:01 WARLORD CRON[20709]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+aug. 25 00:17:01 WARLORD CRON[20707]: pam_unix(cron:session): session closed for user root
+aug. 25 00:20:01 WARLORD CRON[21861]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:20:01 WARLORD CRON[21864]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:20:01 WARLORD kernel: sh (21864): drop_caches: 3
+aug. 25 00:20:01 WARLORD CRON[21861]: pam_unix(cron:session): session closed for user root
+aug. 25 00:23:45 WARLORD wpa_supplicant[849]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 25 00:23:45 WARLORD wpa_supplicant[849]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 25 00:23:45 WARLORD wpa_supplicant[849]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 25 00:23:45 WARLORD wpa_supplicant[849]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 25 00:25:01 WARLORD CRON[23687]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:25:01 WARLORD CRON[23689]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:25:02 WARLORD kernel: sh (23689): drop_caches: 3
+aug. 25 00:25:02 WARLORD CRON[23687]: pam_unix(cron:session): session closed for user root
+aug. 25 00:25:48 WARLORD plasmashell[1309]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+aug. 25 00:25:48 WARLORD systemd[998]: Started app-google\x2dchrome@b9a1866148174150b2d0e26ec630cf51.service - Google Chrome - Nettleser.
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24079:0825/002549.214381:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24079:0825/002549.214474:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24079:0825/002549.214494:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24081:0825/002549.214382:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24105:0825/002549.214584:ERROR:net/disk_cache/disk_cache.cc:285] Unable to create cache
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24081:0825/002549.214589:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24081:0825/002549.214594:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24008:24105:0825/002549.214655:ERROR:net/disk_cache/disk_cache.cc:285] Unable to create cache
+aug. 25 00:25:49 WARLORD systemd[998]: Started app-com.google.Chrome-24008.scope.
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24087:24092:0825/002549.360959:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24087:24092:0825/002549.361071:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24087:24092:0825/002549.361090:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: [24087:24093:0825/002549.364282:ERROR:net/disk_cache/disk_cache.cc:285] Unable to create cache
+aug. 25 00:25:49 WARLORD google-chrome-stable[24013]: Created TensorFlow Lite XNNPACK delegate for CPU.
+aug. 25 00:25:51 WARLORD google-chrome-stable[24013]: [24008:24042:0825/002551.952816:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 25 00:26:19 WARLORD chrome[24008]: [24008:24038:0825/002619.229904:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+aug. 25 00:26:19 WARLORD google-chrome-stable[24013]: [24008:24116:0825/002619.246227:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 25 00:26:19 WARLORD google-chrome-stable[24013]: [24008:24117:0825/002619.246232:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 25 00:26:19 WARLORD google-chrome-stable[24013]: [24008:24115:0825/002619.246313:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 25 00:26:21 WARLORD google-chrome-stable[24013]: [24008:24042:0825/002621.112300:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 25 00:26:30 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 00:26:30 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 00:26:31 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 00:26:31 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 00:26:31 WARLORD spectacle[24723]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 00:26:31 WARLORD spectacle[24723]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 00:26:31 WARLORD spectacle[24723]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 00:26:43 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 1.773s CPU time over 13.011s wall clock time, 313.2M memory peak.
+aug. 25 00:27:16 WARLORD google-chrome-stable[24013]: [24008:24042:0825/002716.976661:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 25 00:28:39 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 00:28:39 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 00:28:39 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 00:28:39 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 00:28:39 WARLORD spectacle[25734]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 00:28:39 WARLORD spectacle[25734]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 00:28:39 WARLORD spectacle[25734]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 00:28:43 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 2.049s CPU time over 4.273s wall clock time, 167.3M memory peak.
+aug. 25 00:28:46 WARLORD systemd[998]: Started app-google\x2dchrome@ef7690a8b2a843f48746212ff5f561b5.service - Google Chrome - Nettleser.
+aug. 25 00:28:47 WARLORD google-chrome-stable[25859]: Åpner i den eksisterende nettleserøkten.
+aug. 25 00:28:47 WARLORD systemd[998]: app-google\x2dchrome@ef7690a8b2a843f48746212ff5f561b5.service: Consumed 147ms CPU time over 123ms wall clock time, 73.4M memory peak.
+aug. 25 00:28:49 WARLORD google-chrome-stable[24013]: [24008:24008:0825/002849.908809:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+aug. 25 00:29:00 WARLORD google-chrome-stable[24013]: [24008:24042:0825/002900.717128:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 25 00:29:18 WARLORD systemd[1]: Starting logrotate.service - Rotate log files...
+aug. 25 00:29:18 WARLORD systemd[1]: logrotate.service: Deactivated successfully.
+aug. 25 00:29:18 WARLORD systemd[1]: Finished logrotate.service - Rotate log files.
+aug. 25 00:30:01 WARLORD CRON[26412]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:30:01 WARLORD CRON[26414]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:30:01 WARLORD kernel: sh (26414): drop_caches: 3
+aug. 25 00:30:01 WARLORD CRON[26412]: pam_unix(cron:session): session closed for user root
+aug. 25 00:30:26 WARLORD kwin_wayland_wrapper[1140]: qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Unable to open /proc/1140/root")
+aug. 25 00:32:38 WARLORD google-chrome-stable[24013]: [24008:24042:0825/003238.974409:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 25 00:33:16 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 00:33:16 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 00:33:16 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 00:33:16 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 00:33:16 WARLORD spectacle[27701]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 00:33:16 WARLORD spectacle[27701]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 00:33:16 WARLORD spectacle[27701]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 00:33:43 WARLORD spectacle[27701]: QQmlComponent: Cannot create a component in an invalid context
+aug. 25 00:33:43 WARLORD spectacle[27701]: QQmlComponent: Cannot create a component in an invalid context
+aug. 25 00:33:47 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 3.738s CPU time over 31.240s wall clock time, 425.5M memory peak.
+aug. 25 00:34:19 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 00:34:19 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 00:34:19 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 00:34:19 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 00:34:19 WARLORD spectacle[28206]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 00:34:19 WARLORD spectacle[28206]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 00:34:19 WARLORD spectacle[28206]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 00:34:23 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 2.314s CPU time over 4.508s wall clock time, 168.7M memory peak.
+aug. 25 00:34:38 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 00:34:38 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 00:34:38 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 00:34:38 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 00:34:38 WARLORD spectacle[28398]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 00:34:38 WARLORD spectacle[28398]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 00:34:38 WARLORD spectacle[28398]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 00:35:01 WARLORD CRON[28615]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:35:01 WARLORD CRON[28620]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:35:01 WARLORD kernel: sh (28620): drop_caches: 3
+aug. 25 00:35:01 WARLORD CRON[28615]: pam_unix(cron:session): session closed for user root
+aug. 25 00:35:40 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 25 00:35:40 WARLORD dbus-daemon[697]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.77' (uid=989 pid=28868 comm="/usr/bin/fwupdmgr refresh")
+aug. 25 00:35:40 WARLORD systemd[1]: Starting modprobe@sd_mod.service - Load Kernel Module sd_mod...
+aug. 25 00:35:40 WARLORD systemd[1]: modprobe@sd_mod.service: Deactivated successfully.
+aug. 25 00:35:40 WARLORD systemd[1]: Finished modprobe@sd_mod.service - Load Kernel Module sd_mod.
+aug. 25 00:35:40 WARLORD systemd[1]: Starting fwupd.service - Firmware update daemon...
+aug. 25 00:35:41 WARLORD fwupd[28877]: 22:35:41.717 FuMain               fwupd 2.1.1 ready for requests (locale nb_NO.UTF-8)
+aug. 25 00:35:41 WARLORD dbus-daemon[697]: [system] Successfully activated service 'org.freedesktop.fwupd'
+aug. 25 00:35:41 WARLORD systemd[1]: Started fwupd.service - Firmware update daemon.
+aug. 25 00:35:41 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 25 00:35:41 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 25 00:35:48 WARLORD spectacle[28398]: QQmlComponent: Cannot create a component in an invalid context
+aug. 25 00:35:48 WARLORD spectacle[28398]: QQmlComponent: Cannot create a component in an invalid context
+aug. 25 00:35:53 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 2.255s CPU time over 1min 15.060s wall clock time, 189.2M memory peak.
+aug. 25 00:35:56 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 00:35:56 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 00:35:56 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 00:35:56 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 00:35:56 WARLORD spectacle[29022]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 00:35:56 WARLORD spectacle[29022]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 00:35:56 WARLORD spectacle[29022]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 00:35:58 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 1.109s CPU time over 2.713s wall clock time, 249.9M memory peak.
+aug. 25 00:36:01 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 00:36:01 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 00:36:01 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 00:36:01 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 00:36:01 WARLORD spectacle[29114]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 00:36:01 WARLORD spectacle[29114]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 00:36:01 WARLORD spectacle[29114]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 00:36:24 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 3.461s CPU time over 23.352s wall clock time, 188.4M memory peak.
+aug. 25 00:37:47 WARLORD google-chrome-stable[24013]: [24008:24060:0825/003747.428148:ERROR:content/browser/browser_main_loop.cc:277] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 25 00:37:47 WARLORD google-chrome-stable[24013]: QThreadStorage: entry 2 destroyed before end of thread 0xa4007191a0
+aug. 25 00:37:47 WARLORD google-chrome-stable[24013]: QThreadStorage: entry 1 destroyed before end of thread 0xa4007191a0
+aug. 25 00:37:47 WARLORD systemd[998]: app-com.google.Chrome-24008.scope: Consumed 16.121s CPU time over 11min 58.105s wall clock time, 653.6M memory peak.
+aug. 25 00:37:47 WARLORD systemd[998]: app-google\x2dchrome@b9a1866148174150b2d0e26ec630cf51.service: Consumed 2min 55.397s CPU time over 11min 58.923s wall clock time, 2.3G memory peak.
+aug. 25 00:40:01 WARLORD CRON[30855]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:40:01 WARLORD CRON[30857]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:40:01 WARLORD kernel: sh (30857): drop_caches: 3
+aug. 25 00:40:01 WARLORD CRON[30855]: pam_unix(cron:session): session closed for user root
+aug. 25 00:45:01 WARLORD CRON[32683]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:45:01 WARLORD CRON[32685]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:45:01 WARLORD kernel: sh (32685): drop_caches: 3
+aug. 25 00:45:01 WARLORD CRON[32683]: pam_unix(cron:session): session closed for user root
+aug. 25 00:50:01 WARLORD CRON[34510]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:50:01 WARLORD CRON[34512]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:50:02 WARLORD kernel: sh (34512): drop_caches: 3
+aug. 25 00:50:02 WARLORD CRON[34510]: pam_unix(cron:session): session closed for user root
+aug. 25 00:55:01 WARLORD CRON[36319]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 00:55:01 WARLORD CRON[36321]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 00:55:01 WARLORD kernel: sh (36321): drop_caches: 3
+aug. 25 00:55:01 WARLORD CRON[36319]: pam_unix(cron:session): session closed for user root
+aug. 25 01:00:01 WARLORD CRON[38144]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 01:00:01 WARLORD CRON[38143]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 01:00:01 WARLORD CRON[38147]: (root) CMD (timeshift --check --scripted)
+aug. 25 01:00:01 WARLORD CRON[38148]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 01:00:01 WARLORD kernel: sh (38148): drop_caches: 3
+aug. 25 01:00:01 WARLORD CRON[38144]: pam_unix(cron:session): session closed for user root
+aug. 25 01:00:02 WARLORD crontab[38177]: (root) LIST (root)
+aug. 25 01:00:02 WARLORD crontab[38178]: (root) LIST (root)
+aug. 25 01:00:02 WARLORD systemd[1]: run-timeshift-38147-backup.mount: Deactivated successfully.
+aug. 25 01:00:02 WARLORD CRON[38143]: pam_unix(cron:session): session closed for user root
+aug. 25 01:05:01 WARLORD CRON[40037]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 25 01:05:01 WARLORD CRON[40039]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 25 01:05:01 WARLORD kernel: sh (40039): drop_caches: 3
+aug. 25 01:05:01 WARLORD CRON[40037]: pam_unix(cron:session): session closed for user root
+aug. 25 01:05:20 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 01:05:20 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 01:05:20 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 01:05:20 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 01:05:20 WARLORD spectacle[40154]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 01:05:20 WARLORD spectacle[40154]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 01:05:20 WARLORD spectacle[40154]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 01:05:26 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 2.454s CPU time over 6.468s wall clock time, 413M memory peak.
+aug. 25 01:05:44 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1140 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 25 01:05:44 WARLORD systemd[998]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 25 01:05:44 WARLORD dbus-daemon[1022]: [session uid=1000 pid=1022 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 25 01:05:44 WARLORD systemd[998]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 25 01:05:44 WARLORD spectacle[40377]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 25 01:05:44 WARLORD spectacle[40377]: spectacle: Detected Tesseract version "5.5.0"
+aug. 25 01:05:44 WARLORD spectacle[40377]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 25 01:05:49 WARLORD systemd[998]: app-org.kde.spectacle.service: Consumed 2.096s CPU time over 5.366s wall clock time, 168.1M memory peak.
+aug. 25 01:06:52 WARLORD bash[4472]: [2026-08-25 01:06:52.206] [MANGOHUD] [info] [logging.cpp:79] /home/wils/GitHub/wine_2026-08-24_23-33-50_summary.csv
+aug. 25 01:07:11 WARLORD kded6[1266]: Service  ":1.69" unregistered
+aug. 25 01:07:13 WARLORD systemd[998]: app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@47188d7c60314c93ae7a9c097ac4bcf9.service: Consumed 1h 4min 54.275s CPU time over 1h 36min 30.869s wall clock time, 6.7G memory peak.
+aug. 25 01:07:27 WARLORD konsole[4349]: kf.windowsystem: static int KX11Extras::currentDesktop() may only be used on X11
+aug. 25 01:07:27 WARLORD konsole[4349]: kf.windowsystem: static void KX11Extras::setOnDesktop(WId, int) may only be used on X11
+aug. 25 01:07:27 WARLORD systemd[998]: app-org.kde.konsole-4349.scope: Consumed 23.591s CPU time over 1h 34min 17.935s wall clock time, 29.5M memory peak.
+aug. 25 01:07:31 WARLORD konsole[2052]: kf.windowsystem: static int KX11Extras::currentDesktop() may only be used on X11
+aug. 25 01:07:31 WARLORD konsole[2052]: kf.windowsystem: static void KX11Extras::setOnDesktop(WId, int) may only be used on X11
+aug. 25 01:07:31 WARLORD systemd[998]: app-org.kde.konsole@ecc3987ea4864f81ad9321b21c38d69d.service: Consumed 192ms CPU time over 1h 36min 12.468s wall clock time, 78.1M memory peak.
+aug. 25 01:07:33 WARLORD systemd[998]: Started app-org.kde.konsole@96c46485bd264c99b1813195cdda1d7d.service - Konsole - Terminal.
+aug. 25 01:07:33 WARLORD systemd[998]: Started app-org.kde.konsole-41139.scope.
+aug. 25 01:07:44 WARLORD sudo[41176]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 25 01:07:44 WARLORD sudo[41176]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+aug. 25 01:07:44 WARLORD sudo[41176]: pam_unix(sudo:session): session closed for user root
+aug. 25 01:07:44 WARLORD sudo[41183]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 25 01:07:44 WARLORD sudo[41183]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
