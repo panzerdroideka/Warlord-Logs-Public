@@ -1,0 +1,361 @@
+aug. 26 00:00:01 WARLORD CRON[10542]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:00:01 WARLORD CRON[10541]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:00:01 WARLORD CRON[10545]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:00:01 WARLORD CRON[10546]: (root) CMD (timeshift --check --scripted)
+aug. 26 00:00:01 WARLORD systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+aug. 26 00:00:01 WARLORD systemd[1]: Starting sysstat-rotate.service - system activity accounting tool...
+aug. 26 00:00:01 WARLORD kernel: sh (10545): drop_caches: 3
+aug. 26 00:00:01 WARLORD CRON[10542]: pam_unix(cron:session): session closed for user root
+aug. 26 00:00:01 WARLORD systemd[1]: sysstat-rotate.service: Deactivated successfully.
+aug. 26 00:00:01 WARLORD systemd[1]: Finished sysstat-rotate.service - system activity accounting tool.
+aug. 26 00:00:01 WARLORD systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+aug. 26 00:00:01 WARLORD systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+aug. 26 00:00:01 WARLORD crontab[10673]: (root) LIST (root)
+aug. 26 00:00:01 WARLORD crontab[10674]: (root) LIST (root)
+aug. 26 00:00:01 WARLORD systemd[1]: run-timeshift-10546-backup.mount: Deactivated successfully.
+aug. 26 00:00:01 WARLORD xdg-desktop-portal-kde[1716]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:00:01 WARLORD xdg-desktop-portal-kde[1716]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:00:01 WARLORD CRON[10541]: pam_unix(cron:session): session closed for user root
+aug. 26 00:00:16 WARLORD systemd[1011]: Started app-org.kde.gwenview@2c13d91b5bb8490fae2c87cb793f29c8.service - Gwenview - Image Viewer.
+aug. 26 00:00:17 WARLORD gwenview[10691]: QPainter::begin: Paint device returned engine == 0, type: 2
+aug. 26 00:00:17 WARLORD gwenview[10691]: QPainter::setOpacity: Painter not active
+aug. 26 00:00:17 WARLORD gwenview[10691]: QPainter::end: Painter not active, aborted
+aug. 26 00:00:32 WARLORD dbus-daemon[1033]: [session uid=1000 pid=1033 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1151 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 26 00:00:32 WARLORD systemd[1011]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 26 00:00:32 WARLORD dbus-daemon[1033]: [session uid=1000 pid=1033 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 26 00:00:32 WARLORD systemd[1011]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 26 00:00:32 WARLORD spectacle[10747]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 26 00:00:32 WARLORD spectacle[10747]: spectacle: Detected Tesseract version "5.5.0"
+aug. 26 00:00:32 WARLORD spectacle[10747]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList("image/png") File patterns: QList() label: "PNG-bilde")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.filewidgets.kfilefiltercombo: KFileFilterCombo::setCurrentFilter: Could not find file filter KFileFilter(MIME patterns: QList() File patterns: QList("*.png") label: "PNG-bilde")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.bash_aliases")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.bash_aliases.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.bash_history")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.bash_history.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.bash_logout")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.bashrc")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.dxvk.conf")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.gitconfig")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.gtkrc-2.0")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.nanorc")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.profile")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.tidal-dl.json")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.vimrc")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/.wget-hsts")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/AnythingLLMDesktop.AppImage")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/WARLORD-LAN-FIX.yaml")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Warlord_Clean_Audit.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Warlord_Full_Audit.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/bash_aliases.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/bash_history.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/boot_historikk.log")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/boot_warlord_final.img")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/boot_warlord_fixed.img")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/boothistorikk.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/boothistorikk21062026.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/dmesglog.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/dmesglog06062026.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/dmesglog1808.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/dmesglog18082026.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/dmesglog19000000082026.txttt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/dpkg-query_-llog.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/fungerende-nettverk.yaml")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/google-chrome-stable_current_amd64.deb")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/grub_cfg.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/halloffame.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/journal18082026.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/journalctl-xe.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/journalctl_xe.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/journalctllog06062026.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/journallog1808.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/krasj_logg.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/langjournakl.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/langjournal.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/mesglog19000000082026.txttt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/obsidian key pair - wils.vault")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/samsung-klimtlte.img.backup")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/sort")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/systemctl_service_log.txt")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/warlord_final.dtb")
+aug. 26 00:00:40 WARLORD spectacle[10747]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/warlord_v2.dtb")
+aug. 26 00:00:51 WARLORD systemd[1011]: Started app-org.kde.dolphin@ef44ab59a1224bd78c804310456708c9.service - Dolphin - Filbehandler.
+aug. 26 00:00:54 WARLORD dolphin[10844]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:00:54 WARLORD dolphin[10844]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:01:00 WARLORD dolphin[10844]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:01:00 WARLORD dolphin[10844]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:01:00 WARLORD dolphin[10844]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:01:00 WARLORD dolphin[10844]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:01:00 WARLORD dolphin[10844]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 00:01:09 WARLORD systemd[1011]: app-org.kde.dolphin@ef44ab59a1224bd78c804310456708c9.service: Consumed 3.596s CPU time over 18.632s wall clock time, 347.5M memory peak.
+aug. 26 00:01:12 WARLORD systemd[1011]: app-org.kde.spectacle.service: Consumed 2.339s CPU time over 40.630s wall clock time, 346.6M memory peak.
+aug. 26 00:01:16 WARLORD wireplumber[1043]: wp-event-dispatcher: <WpAsyncEventHook:0x5e7d3e923ea0> failed: <WpSiStandardLink:0x5e7d3eaf15b0> link failed: 1 of 1 PipeWire links failed to activate
+aug. 26 00:01:39 WARLORD kactivitymanagerd[1311]: org.kde.kactivities.plugin.recentlyused-eventspy: could not parse "/home/wils/.local/share/recently-used.xbel" error was  "Unexpected '<'."
+aug. 26 00:02:29 WARLORD dbus-daemon[1033]: [session uid=1000 pid=1033 pidfd=5] Activating via systemd: service name='org.kde.spectacle' unit='app-org.kde.spectacle.service' requested by ':1.16' (uid=1000 pid=1151 comm="/usr/bin/kwin_wayland --wayland-fd 7 --socket wayl")
+aug. 26 00:02:29 WARLORD systemd[1011]: Starting app-org.kde.spectacle.service - Spectacle screenshot capture utility...
+aug. 26 00:02:29 WARLORD dbus-daemon[1033]: [session uid=1000 pid=1033 pidfd=5] Successfully activated service 'org.kde.spectacle'
+aug. 26 00:02:29 WARLORD systemd[1011]: Started app-org.kde.spectacle.service - Spectacle screenshot capture utility.
+aug. 26 00:02:29 WARLORD spectacle[11121]: spectacle: Attempting to use Tesseract library "libtesseract.so.5"
+aug. 26 00:02:29 WARLORD spectacle[11121]: spectacle: Detected Tesseract version "5.5.0"
+aug. 26 00:02:29 WARLORD spectacle[11121]: spectacle: Loaded Tesseract runtime library from "libtesseract.so.5"
+aug. 26 00:02:36 WARLORD spectacle[11121]: "There are still \"1\" items in the process of being created at engine destruction."
+aug. 26 00:02:36 WARLORD systemd[1011]: app-org.kde.spectacle.service: Consumed 1.330s CPU time over 6.833s wall clock time, 146.8M memory peak.
+aug. 26 00:05:01 WARLORD CRON[11460]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:05:01 WARLORD CRON[11462]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:05:02 WARLORD kernel: sh (11462): drop_caches: 3
+aug. 26 00:05:02 WARLORD CRON[11460]: pam_unix(cron:session): session closed for user root
+aug. 26 00:07:27 WARLORD systemd[1]: Starting sysstat-summary.service - Generate a daily summary of process accounting...
+aug. 26 00:07:27 WARLORD systemd[1]: sysstat-summary.service: Deactivated successfully.
+aug. 26 00:07:27 WARLORD systemd[1]: Finished sysstat-summary.service - Generate a daily summary of process accounting.
+aug. 26 00:10:01 WARLORD CRON[11997]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:10:01 WARLORD CRON[11999]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:10:01 WARLORD kernel: sh (11999): drop_caches: 3
+aug. 26 00:10:01 WARLORD CRON[11997]: pam_unix(cron:session): session closed for user root
+aug. 26 00:10:54 WARLORD google-chrome-stable[7993]: [7988:8039:0826/001054.779509:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 00:10:54 WARLORD google-chrome-stable[7993]: QThreadStorage: entry 2 destroyed before end of thread 0x28c400715560
+aug. 26 00:10:54 WARLORD google-chrome-stable[7993]: QThreadStorage: entry 1 destroyed before end of thread 0x28c400715560
+aug. 26 00:10:54 WARLORD systemd[1011]: app-com.google.Chrome-7988.scope: Consumed 20.181s CPU time over 28min 50.170s wall clock time, 347.4M memory peak.
+aug. 26 00:10:54 WARLORD systemd[1011]: app-google\x2dchrome@d15b040a56f4410ba3899f06bfd7ea2e.service: Consumed 4min 54.901s CPU time over 28min 50.770s wall clock time, 1.8G memory peak.
+aug. 26 00:15:01 WARLORD CRON[12546]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:15:01 WARLORD CRON[12548]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:15:01 WARLORD kernel: sh (12548): drop_caches: 3
+aug. 26 00:15:01 WARLORD CRON[12546]: pam_unix(cron:session): session closed for user root
+aug. 26 00:17:01 WARLORD CRON[12729]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:17:01 WARLORD CRON[12731]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+aug. 26 00:17:01 WARLORD CRON[12729]: pam_unix(cron:session): session closed for user root
+aug. 26 00:20:01 WARLORD CRON[12998]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:20:01 WARLORD CRON[13000]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:20:01 WARLORD kernel: sh (13000): drop_caches: 3
+aug. 26 00:20:01 WARLORD CRON[12998]: pam_unix(cron:session): session closed for user root
+aug. 26 00:25:01 WARLORD CRON[13457]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:25:01 WARLORD CRON[13459]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:25:01 WARLORD kernel: sh (13459): drop_caches: 3
+aug. 26 00:25:01 WARLORD CRON[13457]: pam_unix(cron:session): session closed for user root
+aug. 26 00:30:01 WARLORD CRON[13906]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:30:01 WARLORD CRON[13909]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:30:01 WARLORD kernel: sh (13909): drop_caches: 3
+aug. 26 00:30:01 WARLORD CRON[13906]: pam_unix(cron:session): session closed for user root
+aug. 26 00:30:13 WARLORD systemd[1]: Starting logrotate.service - Rotate log files...
+aug. 26 00:30:13 WARLORD systemd[1]: logrotate.service: Deactivated successfully.
+aug. 26 00:30:13 WARLORD systemd[1]: Finished logrotate.service - Rotate log files.
+aug. 26 00:35:01 WARLORD CRON[14369]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:35:01 WARLORD CRON[14372]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:35:01 WARLORD kernel: sh (14372): drop_caches: 3
+aug. 26 00:35:01 WARLORD CRON[14369]: pam_unix(cron:session): session closed for user root
+aug. 26 00:37:16 WARLORD systemd[1011]: Started app-google\x2dchrome@d984a931a5b244a9ad09f22717f8848a.service - Google Chrome - Nettleser.
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14641:0826/003717.277721:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14675:0826/003717.277721:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14675:0826/003717.277964:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14675:0826/003717.278083:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14641:0826/003717.278101:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14641:0826/003717.278114:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14695:0826/003717.278189:ERROR:net/disk_cache/disk_cache.cc:290] Unable to create cache
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14695:0826/003717.278195:ERROR:net/disk_cache/disk_cache.cc:290] Unable to create cache
+aug. 26 00:37:17 WARLORD systemd[1011]: Started app-com.google.Chrome-14603.scope.
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14683:14688:0826/003717.444406:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14683:14688:0826/003717.444531:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14683:14688:0826/003717.444539:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14683:14689:0826/003717.447309:ERROR:net/disk_cache/disk_cache.cc:290] Unable to create cache
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: Created TensorFlow Lite XNNPACK delegate for CPU.
+aug. 26 00:37:17 WARLORD google-chrome-stable[14608]: [14603:14603:0826/003717.646431:ERROR:chrome/browser/component_updater/optimization_guide_on_device_model_installer.cc:597] Failed to update on-device model component with error 5
+aug. 26 00:37:20 WARLORD google-chrome-stable[14608]: [14603:14643:0826/003720.012327:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 00:37:47 WARLORD chrome[14603]: [14603:14637:0826/003747.297182:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+aug. 26 00:37:47 WARLORD google-chrome-stable[14608]: [14603:14713:0826/003747.317280:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 00:37:47 WARLORD google-chrome-stable[14608]: [14603:14711:0826/003747.317276:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 00:37:47 WARLORD google-chrome-stable[14608]: [14603:14712:0826/003747.317600:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 00:37:49 WARLORD google-chrome-stable[14608]: [14603:14643:0826/003749.096631:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 00:38:47 WARLORD google-chrome-stable[14608]: [14603:14643:0826/003847.416049:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 00:40:01 WARLORD CRON[15319]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:40:01 WARLORD CRON[15323]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:40:02 WARLORD kernel: sh (15323): drop_caches: 3
+aug. 26 00:40:02 WARLORD CRON[15319]: pam_unix(cron:session): session closed for user root
+aug. 26 00:40:29 WARLORD google-chrome-stable[14608]: [14603:14643:0826/004029.632302:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 00:43:54 WARLORD google-chrome-stable[14608]: [14603:14643:0826/004354.984428:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 00:45:01 WARLORD CRON[15844]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:45:01 WARLORD CRON[15846]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:45:01 WARLORD kernel: sh (15846): drop_caches: 3
+aug. 26 00:45:01 WARLORD CRON[15844]: pam_unix(cron:session): session closed for user root
+aug. 26 00:50:01 WARLORD CRON[16403]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:50:01 WARLORD CRON[16405]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:50:01 WARLORD CRON[16403]: pam_unix(cron:session): session closed for user root
+aug. 26 00:50:01 WARLORD kernel: sh (16405): drop_caches: 3
+aug. 26 00:51:06 WARLORD google-chrome-stable[14608]: [14603:14643:0826/005106.149050:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 00:55:01 WARLORD CRON[16943]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 00:55:01 WARLORD CRON[16947]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 00:55:01 WARLORD kernel: sh (16947): drop_caches: 3
+aug. 26 00:55:01 WARLORD CRON[16943]: pam_unix(cron:session): session closed for user root
+aug. 26 00:58:31 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 26 00:58:31 WARLORD dbus-daemon[709]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.105' (uid=989 pid=17337 comm="/usr/bin/fwupdmgr refresh")
+aug. 26 00:58:31 WARLORD systemd[1]: Starting modprobe@sd_mod.service - Load Kernel Module sd_mod...
+aug. 26 00:58:31 WARLORD systemd[1]: modprobe@sd_mod.service: Deactivated successfully.
+aug. 26 00:58:31 WARLORD systemd[1]: Finished modprobe@sd_mod.service - Load Kernel Module sd_mod.
+aug. 26 00:58:31 WARLORD systemd[1]: Starting fwupd.service - Firmware update daemon...
+aug. 26 00:58:32 WARLORD fwupd[17346]: 22:58:32.108 FuMain               fwupd 2.1.1 ready for requests (locale nb_NO.UTF-8)
+aug. 26 00:58:32 WARLORD dbus-daemon[709]: [system] Successfully activated service 'org.freedesktop.fwupd'
+aug. 26 00:58:32 WARLORD systemd[1]: Started fwupd.service - Firmware update daemon.
+aug. 26 00:58:32 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 26 00:58:32 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 26 01:00:01 WARLORD CRON[17517]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:00:01 WARLORD CRON[17516]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:00:01 WARLORD CRON[17520]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:00:01 WARLORD CRON[17521]: (root) CMD (timeshift --check --scripted)
+aug. 26 01:00:01 WARLORD CRON[17517]: pam_unix(cron:session): session closed for user root
+aug. 26 01:00:01 WARLORD kernel: sh (17520): drop_caches: 3
+aug. 26 01:00:02 WARLORD crontab[17551]: (root) LIST (root)
+aug. 26 01:00:02 WARLORD crontab[17552]: (root) LIST (root)
+aug. 26 01:00:02 WARLORD systemd[1]: run-timeshift-17521-backup.mount: Deactivated successfully.
+aug. 26 01:00:02 WARLORD CRON[17516]: pam_unix(cron:session): session closed for user root
+aug. 26 01:00:35 WARLORD wpa_supplicant[869]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 26 01:02:31 WARLORD systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+aug. 26 01:02:31 WARLORD systemd[1]: fwupd-refresh.service: Deactivated successfully.
+aug. 26 01:02:31 WARLORD systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+aug. 26 01:05:01 WARLORD CRON[18103]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:05:01 WARLORD CRON[18105]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:05:01 WARLORD kernel: sh (18105): drop_caches: 3
+aug. 26 01:05:01 WARLORD CRON[18103]: pam_unix(cron:session): session closed for user root
+aug. 26 01:08:27 WARLORD google-chrome-stable[14608]: [14603:14643:0826/010827.482114:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 01:08:53 WARLORD google-chrome-stable[14608]: [14603:14643:0826/010853.053024:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 01:09:52 WARLORD google-chrome-stable[14608]: [14603:14643:0826/010952.767627:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 01:10:01 WARLORD CRON[18653]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:10:01 WARLORD CRON[18655]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:10:01 WARLORD kernel: sh (18655): drop_caches: 3
+aug. 26 01:10:01 WARLORD CRON[18653]: pam_unix(cron:session): session closed for user root
+aug. 26 01:11:43 WARLORD google-chrome-stable[14608]: [14603:14643:0826/011143.050553:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 01:14:56 WARLORD google-chrome-stable[14608]: [14603:14643:0826/011456.401252:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 01:15:01 WARLORD CRON[19202]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:15:01 WARLORD CRON[19204]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:15:01 WARLORD kernel: sh (19204): drop_caches: 3
+aug. 26 01:15:01 WARLORD CRON[19202]: pam_unix(cron:session): session closed for user root
+aug. 26 01:17:01 WARLORD CRON[19440]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:17:01 WARLORD CRON[19442]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+aug. 26 01:17:01 WARLORD CRON[19440]: pam_unix(cron:session): session closed for user root
+aug. 26 01:20:01 WARLORD CRON[19752]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:20:01 WARLORD CRON[19754]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:20:01 WARLORD kernel: sh (19754): drop_caches: 3
+aug. 26 01:20:01 WARLORD CRON[19752]: pam_unix(cron:session): session closed for user root
+aug. 26 01:20:52 WARLORD google-chrome-stable[14608]: [14603:14643:0826/012052.752246:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 01:25:01 WARLORD CRON[20282]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:25:01 WARLORD CRON[20284]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:25:01 WARLORD kernel: sh (20284): drop_caches: 3
+aug. 26 01:25:01 WARLORD CRON[20282]: pam_unix(cron:session): session closed for user root
+aug. 26 01:30:01 WARLORD CRON[20835]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:30:01 WARLORD CRON[20838]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:30:02 WARLORD kernel: sh (20838): drop_caches: 3
+aug. 26 01:30:02 WARLORD CRON[20835]: pam_unix(cron:session): session closed for user root
+aug. 26 01:35:01 WARLORD CRON[21379]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:35:01 WARLORD CRON[21381]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:35:01 WARLORD kernel: sh (21381): drop_caches: 3
+aug. 26 01:35:01 WARLORD CRON[21379]: pam_unix(cron:session): session closed for user root
+aug. 26 01:40:01 WARLORD CRON[21924]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:40:01 WARLORD CRON[21926]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:40:01 WARLORD kernel: sh (21926): drop_caches: 3
+aug. 26 01:40:01 WARLORD CRON[21924]: pam_unix(cron:session): session closed for user root
+aug. 26 01:45:01 WARLORD CRON[22480]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:45:01 WARLORD CRON[22482]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:45:01 WARLORD kernel: sh (22482): drop_caches: 3
+aug. 26 01:45:01 WARLORD CRON[22480]: pam_unix(cron:session): session closed for user root
+aug. 26 01:50:01 WARLORD CRON[23025]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:50:01 WARLORD CRON[23028]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:50:01 WARLORD kernel: sh (23028): drop_caches: 3
+aug. 26 01:50:01 WARLORD CRON[23025]: pam_unix(cron:session): session closed for user root
+aug. 26 01:51:58 WARLORD wpa_supplicant[869]: wlp2s0: Reject scan trigger since one is already pending
+aug. 26 01:55:01 WARLORD CRON[23580]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 01:55:01 WARLORD CRON[23582]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 01:55:01 WARLORD kernel: sh (23582): drop_caches: 3
+aug. 26 01:55:01 WARLORD CRON[23580]: pam_unix(cron:session): session closed for user root
+aug. 26 01:58:29 WARLORD kded6[1279]: Service  ":1.89" unregistered
+aug. 26 01:58:31 WARLORD systemd[1011]: app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@05a3e0451bb04a36b3b19b0c87bbe444.service: Consumed 1h 34min 2.270s CPU time over 2h 17min 43.205s wall clock time, 6G memory peak.
+aug. 26 02:00:01 WARLORD CRON[24143]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 02:00:01 WARLORD CRON[24142]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 02:00:01 WARLORD CRON[24148]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 02:00:01 WARLORD CRON[24149]: (root) CMD (timeshift --check --scripted)
+aug. 26 02:00:01 WARLORD CRON[24143]: pam_unix(cron:session): session closed for user root
+aug. 26 02:00:01 WARLORD kernel: sh (24148): drop_caches: 3
+aug. 26 02:00:02 WARLORD crontab[24175]: (root) LIST (root)
+aug. 26 02:00:02 WARLORD crontab[24176]: (root) LIST (root)
+aug. 26 02:00:02 WARLORD systemd[1]: run-timeshift-24149-backup.mount: Deactivated successfully.
+aug. 26 02:00:02 WARLORD CRON[24142]: pam_unix(cron:session): session closed for user root
+aug. 26 02:00:25 WARLORD google-chrome-stable[14608]: [14603:14658:0826/020025.453396:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 02:00:25 WARLORD google-chrome-stable[14608]: QThreadStorage: entry 2 destroyed before end of thread 0x7640070d2e0
+aug. 26 02:00:25 WARLORD google-chrome-stable[14608]: QThreadStorage: entry 1 destroyed before end of thread 0x7640070d2e0
+aug. 26 02:00:25 WARLORD systemd[1011]: app-com.google.Chrome-14603.scope: Consumed 24.828s CPU time over 1h 23min 8.054s wall clock time, 486.5M memory peak.
+aug. 26 02:00:25 WARLORD systemd[1011]: app-google\x2dchrome@d984a931a5b244a9ad09f22717f8848a.service: Consumed 12min 38.960s CPU time over 1h 23min 8.876s wall clock time, 2.1G memory peak.
+aug. 26 02:00:38 WARLORD systemd[1011]: app-org.kde.gwenview@2c13d91b5bb8490fae2c87cb793f29c8.service: Consumed 4.142s CPU time over 2h 22.159s wall clock time, 1.1G memory peak.
+aug. 26 02:00:46 WARLORD plasmashell[1319]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+aug. 26 02:00:46 WARLORD systemd[1011]: Started app-org.kde.dolphin@94c45185b4804b328b4504b6995df583.service - Dolphin - Filbehandler.
+aug. 26 02:00:54 WARLORD dolphin[24283]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 02:00:54 WARLORD dolphin[24283]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 02:01:16 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Bilder/Skjermbilde_20260826_000229.png") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Skjermbilde_20260826_000229.png") mode= 436
+aug. 26 02:01:42 WARLORD plasmashell[1319]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+aug. 26 02:01:42 WARLORD systemd[1011]: Started app-google\x2dchrome@8de4600d9b1940749643a6a9c39dc68e.service - Google Chrome - Nettleser.
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24662:0826/020143.154219:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24628:0826/020143.154218:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24628:0826/020143.154295:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24628:0826/020143.154303:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/js
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24662:0826/020143.156592:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24662:0826/020143.156603:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Code Cache/wasm
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24682:0826/020143.156772:ERROR:net/disk_cache/disk_cache.cc:290] Unable to create cache
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24594:24682:0826/020143.156852:ERROR:net/disk_cache/disk_cache.cc:290] Unable to create cache
+aug. 26 02:01:43 WARLORD systemd[1011]: Started app-com.google.Chrome-24594.scope.
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24670:24675:0826/020143.260554:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24670:24675:0826/020143.260636:ERROR:net/disk_cache/simple/simple_backend_impl.cc:81] Failed to create directory: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24670:24675:0826/020143.260645:ERROR:net/disk_cache/simple/simple_backend_impl.cc:749] Simple Cache Backend: wrong file structure on disk: 1 path: /home/wils/.cache/google-chrome/Default/Cache/Cache_Data
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: [24670:24676:0826/020143.277812:ERROR:net/disk_cache/disk_cache.cc:290] Unable to create cache
+aug. 26 02:01:43 WARLORD google-chrome-stable[24599]: Created TensorFlow Lite XNNPACK delegate for CPU.
+aug. 26 02:01:46 WARLORD google-chrome-stable[24599]: [24594:24630:0826/020146.362255:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 02:02:08 WARLORD wpa_supplicant[869]: wlp2s0: RSN: Group rekeying completed with 30:bd:13:7c:37:47 [GTK=CCMP]
+aug. 26 02:02:11 WARLORD google-chrome-stable[24599]: [24594:24630:0826/020211.134322:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 02:02:13 WARLORD chrome[24594]: [24594:24624:0826/020213.166054:INFO:chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+aug. 26 02:02:13 WARLORD google-chrome-stable[24599]: [24594:24699:0826/020213.179144:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 02:02:13 WARLORD google-chrome-stable[24599]: [24594:24700:0826/020213.179149:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 02:02:13 WARLORD google-chrome-stable[24599]: [24594:24698:0826/020213.179145:ERROR:content/browser/browser_main_loop.cc:279] GLib: g_main_context_pop_thread_default: assertion 'stack != NULL' failed
+aug. 26 02:02:54 WARLORD google-chrome-stable[24599]: [24594:24630:0826/020254.530273:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 02:04:09 WARLORD dolphin[24283]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 02:04:09 WARLORD dolphin[24283]: kf.kio.gui: PreviewJob subjob had an error: ""
+aug. 26 02:04:22 WARLORD google-chrome-stable[24599]: [24594:24630:0826/020422.127737:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+aug. 26 02:04:28 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260822_134315084 (1).jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260822_134315084 (1).jpg") mode= 436
+aug. 26 02:04:28 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260822_134336282 (1).jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260822_134336282 (1).jpg") mode= 436
+aug. 26 02:04:28 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260825_223557213.jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260825_223557213.jpg") mode= 436
+aug. 26 02:04:28 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260825_223619385.jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260825_223619385.jpg") mode= 436
+aug. 26 02:04:28 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260825_223605460.jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260825_223605460.jpg") mode= 436
+aug. 26 02:04:28 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260822_134315084.jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260822_134315084.jpg") mode= 436
+aug. 26 02:04:28 WARLORD dolphin[24283]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+aug. 26 02:04:28 WARLORD dolphin[24283]: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+aug. 26 02:04:31 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260822_134315084.jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260822_134315084.jpg") mode= 436
+aug. 26 02:04:31 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260822_134336282.jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260822_134336282.jpg") mode= 436
+aug. 26 02:04:31 WARLORD dolphin[24283]: kf.kio.workers.file: copy() QUrl("file:///home/wils/Nedlastinger/PXL_20260822_134333669.jpg") to QUrl("file:///home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/Warlord_W1-AceMagician_MiniPC-Creative_Cooling_Solution_ALL_FOR_FREE/PXL_20260822_134333669.jpg") mode= 436
+aug. 26 02:04:50 WARLORD systemd[1011]: Started app-org.kde.gwenview@f4c69d11040842a49e09276637bc54c7.service - Gwenview - Image Viewer.
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:51 WARLORD gwenview[25496]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:04:55 WARLORD systemd[1011]: app-org.kde.gwenview@f4c69d11040842a49e09276637bc54c7.service: Consumed 1.010s CPU time over 4.534s wall clock time, 245.8M memory peak.
+aug. 26 02:05:01 WARLORD CRON[25526]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+aug. 26 02:05:01 WARLORD CRON[25528]: (root) CMD (sync && echo 3 > /proc/sys/vm/drop_caches)
+aug. 26 02:05:01 WARLORD kernel: sh (25528): drop_caches: 3
+aug. 26 02:05:01 WARLORD CRON[25526]: pam_unix(cron:session): session closed for user root
+aug. 26 02:05:09 WARLORD systemd[1011]: Started app-org.kde.gwenview@5a818bc9a0bc4f5e95d83629feaef8b3.service - Gwenview - Image Viewer.
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:10 WARLORD gwenview[25542]: org.kde.kdegraphics.gwenview.lib: Failed to read some meta info: No namespace info available for XMP prefix `Item'
+aug. 26 02:05:13 WARLORD systemd[1011]: app-org.kde.gwenview@5a818bc9a0bc4f5e95d83629feaef8b3.service: Consumed 900ms CPU time over 3.110s wall clock time, 343.7M memory peak.
+aug. 26 02:06:37 WARLORD xdg-document-portal[1609]: removing transfer 125245165258142701507118701528241786750 for dead peer :1.165
+aug. 26 02:06:37 WARLORD systemd[1011]: app-org.kde.dolphin@94c45185b4804b328b4504b6995df583.service: Consumed 10.724s CPU time over 5min 51.490s wall clock time, 665.4M memory peak.
+aug. 26 02:06:52 WARLORD sudo[25764]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 26 02:06:52 WARLORD sudo[25764]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/Nedlastinger ; USER=root ; COMMAND=/usr/bin/dmesg
+aug. 26 02:06:52 WARLORD sudo[25764]: pam_unix(sudo:session): session closed for user root
+aug. 26 02:06:52 WARLORD sudo[25768]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+aug. 26 02:06:52 WARLORD sudo[25768]: wils : TTY=/dev/pts/1 ; PWD=/home/wils/Nedlastinger ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
