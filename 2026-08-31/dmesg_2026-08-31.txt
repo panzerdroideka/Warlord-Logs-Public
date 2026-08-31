@@ -1230,3 +1230,12 @@
 [   13.442896] wlp2s0: associated
 [   13.506048] wlp2s0: Limiting TX power to 30 (30 - 0) dBm as advertised by 30:bd:13:7c:37:47
 [   20.663944] tee (2099): drop_caches: 3
+[  600.805507] usb 5-1: new full-speed USB device number 2 using xhci_hcd
+[  600.955597] usb 5-1: New USB device found, idVendor=21b4, idProduct=0085, bcdDevice= 1.10
+[  600.955603] usb 5-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  600.955605] usb 5-1: Product: AudioQuest DragonFly Cobalt v1.0
+[  600.955607] usb 5-1: Manufacturer: AudioQuest
+[  600.955608] usb 5-1: SerialNumber: AQDFCB0100126375
+[  606.104531] hid-generic 0003:21B4:0085.000A: hiddev98,hidraw7: USB HID v1.11 Device [AudioQuest AudioQuest DragonFly Cobalt v1.0] on usb-0000:c6:00.3-1/input2
+[  606.136974] mc: Linux media interface: v0.10
+[  606.264857] usbcore: registered new interface driver snd-usb-audio
