@@ -1,0 +1,101 @@
+sep. 22 00:00:01 WARLORD CRON[213556]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+sep. 22 00:00:01 WARLORD CRON[213558]: (root) CMD (timeshift --check --scripted)
+sep. 22 00:00:01 WARLORD systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+sep. 22 00:00:01 WARLORD systemd[1]: Starting sysstat-rotate.service - system activity accounting tool...
+sep. 22 00:00:01 WARLORD systemd[1]: sysstat-rotate.service: Deactivated successfully.
+sep. 22 00:00:01 WARLORD systemd[1]: Finished sysstat-rotate.service - system activity accounting tool.
+sep. 22 00:00:01 WARLORD systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+sep. 22 00:00:01 WARLORD systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+sep. 22 00:00:01 WARLORD crontab[213682]: (root) LIST (root)
+sep. 22 00:00:01 WARLORD crontab[213683]: (root) LIST (root)
+sep. 22 00:00:01 WARLORD systemd[1]: run-timeshift-213558-backup.mount: Deactivated successfully.
+sep. 22 00:00:01 WARLORD CRON[213556]: pam_unix(cron:session): session closed for user root
+sep. 22 00:00:12 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:00:12 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:00:12 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:00:42 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:00:42 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:00:42 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:01:12 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:01:12 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:01:12 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:01:18 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:18 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:18 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:18 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:26 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:26 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:26 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:26 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:42 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:01:42 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:01:42 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:01:44 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:44 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:44 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:44 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:01:45 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:02:12 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:02:12 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:02:12 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:02:13 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:02:13 WARLORD kate[213242]: kf.kio.gui: PreviewJob subjob had an error: ""
+sep. 22 00:02:35 WARLORD kactivitymanagerd[1441]: org.kde.kactivities.plugin.recentlyused-eventspy: could not parse "/home/wils/.local/share/recently-used.xbel" error was  "Expected '>', but got ':'."
+sep. 22 00:02:42 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:02:42 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:02:42 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:03:12 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:03:12 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:03:12 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/.directory")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal-ok-Eldr.ass")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal-ok-Eldr.kdenlive")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal-ok-Eldr.kdenlive-2.ass")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal-ok-Eldr.kdenlive-3.ass")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal-ok-Eldr_backup0.kdenlive")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal-ok-Eldr_lekeseg.kdenlive")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal_okEldr.mp4")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal_ok_Eldr.kdenlive")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal_ok_Eldr.kdenlive-1.ass")
+sep. 22 00:03:29 WARLORD xdg-desktop-portal-kde[1806]: kf.kio.widgets.kdirmodel: No node found for item that was just removed: QUrl("file:///home/wils/Videoklipp/Stal_ok_Eldr_Skapr_Mjollnir.mp4")
+sep. 22 00:03:42 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:03:42 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:03:42 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:03:53 WARLORD xdg-desktop-portal-kde[214038]: qt.gui.imageio.jpeg: Corrupt JPEG data: premature end of data segment
+sep. 22 00:03:53 WARLORD xdg-desktop-portal-kde[214038]: qt.gui.imageio.jpeg: Unsupported marker type 0xa0
+sep. 22 00:03:53 WARLORD xdg-desktop-portal-kde[214038]: qt.gui.imageio.jpeg: Unsupported marker type 0xa0
+sep. 22 00:04:00 WARLORD xdg-desktop-portal-kde[214038]: qt.gui.imageio.jpeg: Corrupt JPEG data: premature end of data segment
+sep. 22 00:04:00 WARLORD xdg-desktop-portal-kde[214038]: qt.gui.imageio.jpeg: Unsupported marker type 0xa0
+sep. 22 00:04:00 WARLORD xdg-desktop-portal-kde[214038]: qt.gui.imageio.jpeg: Unsupported marker type 0xa0
+sep. 22 00:04:12 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:04:12 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:04:12 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:04:42 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:04:42 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:04:42 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:05:12 WARLORD systemd[1078]: app-org.kde.plasma.emojier@3be3fa64ab5449c68381c56934b87a73.service: Consumed 570ms CPU time over 6min 18.928s wall clock time, 89.9M memory peak.
+sep. 22 00:05:12 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:05:12 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:05:12 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:05:15 WARLORD plasmashell[1450]: qrc:/qt/qml/plasma/applet/org/kde/plasma/taskmanager/ToolTipDelegate.qml:63: TypeError: Cannot read property 'containsMouse' of null
+sep. 22 00:05:15 WARLORD systemd[1078]: app-org.kde.dolphin@721b750f916a4768a459ef63b41666da.service: Consumed 4.265s CPU time over 1h 50min 6.799s wall clock time, 359.9M memory peak.
+sep. 22 00:05:19 WARLORD systemd[1078]: app-org.kde.kate@ff74ce451f4d47e7a023c661dafeaf40.service: Consumed 10.154s CPU time over 9min 2.333s wall clock time, 503.9M memory peak.
+sep. 22 00:05:26 WARLORD systemd[1078]: app-flatpak-md.obsidian.Obsidian-358738298.scope: Consumed 7.394s CPU time over 14min 9.930s wall clock time, 739.9M memory peak.
+sep. 22 00:05:28 WARLORD systemd[1078]: Started app-org.kde.konsole@1cfad0cbb07f48a3ab76ecaea3a48c80.service - Konsole - Terminal.
+sep. 22 00:05:28 WARLORD systemd[1078]: Started app-org.kde.konsole-214153.scope.
+sep. 22 00:05:28 WARLORD plasmashell[1450]: error creating screencast "Fant ikke vindus-ID {0259a061-c78f-446f-9afc-e4e06dc4c24d}"
+sep. 22 00:05:42 WARLORD dbus-daemon[710]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.65' (uid=1000 pid=1868 comm="/usr/bin/kdeconnectd")
+sep. 22 00:05:42 WARLORD dbus-daemon[710]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+sep. 22 00:05:42 WARLORD org.kde.kdeconnect[1868]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+sep. 22 00:05:47 WARLORD sudo[214281]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+sep. 22 00:05:47 WARLORD sudo[214281]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+sep. 22 00:05:47 WARLORD sudo[214281]: pam_unix(sudo:session): session closed for user root
+sep. 22 00:05:47 WARLORD sudo[214286]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+sep. 22 00:05:47 WARLORD sudo[214286]: wils : TTY=/dev/pts/1 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
