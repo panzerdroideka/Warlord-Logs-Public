@@ -4625,3 +4625,376 @@ Nov 03 09:55:02 WARLORD sudo[13111]: wils : TTY=/dev/pts/3 ; PWD=/home/wils ; US
 Nov 03 09:55:02 WARLORD sudo[13111]: pam_unix(sudo:session): session closed for user root
 Nov 03 09:55:02 WARLORD sudo[13143]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
 Nov 03 09:55:02 WARLORD sudo[13143]: wils : TTY=/dev/pts/3 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00
+Nov 03 09:55:02 WARLORD sudo[13143]: pam_unix(sudo:session): session closed for user root
+Nov 03 09:55:11 WARLORD sudo[13211]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+Nov 03 09:55:11 WARLORD sudo[13211]: wils : TTY=/dev/pts/3 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl stop udisks2.service
+Nov 03 09:55:11 WARLORD systemd[1]: Stopping udisks2.service - Disk Manager...
+Nov 03 09:55:11 WARLORD systemd[1]: udisks2.service: Deactivated successfully.
+Nov 03 09:55:11 WARLORD systemd[1]: Stopped udisks2.service - Disk Manager.
+Nov 03 09:55:11 WARLORD sudo[13211]: pam_unix(sudo:session): session closed for user root
+Nov 03 09:55:11 WARLORD sudo[13217]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+Nov 03 09:55:11 WARLORD sudo[13217]: wils : TTY=/dev/pts/3 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/systemctl mask udisks2.service
+Nov 03 09:55:11 WARLORD systemd[1]: Reload requested from client PID 13220 ('systemctl') (unit user@1000.service)...
+Nov 03 09:55:11 WARLORD systemd[1]: Reloading...
+Nov 03 09:55:11 WARLORD systemd[1]: Reloading finished in 183 ms.
+Nov 03 09:55:11 WARLORD sudo[13217]: pam_unix(sudo:session): session closed for user root
+Nov 03 09:55:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:55:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:55:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:55:14 WARLORD kernel: usb 1-1.4: USB disconnect, device number 8
+Nov 03 09:55:14 WARLORD org.kde.kmtpd5[11885]: ERROR: Could not close session!
+Nov 03 09:55:14 WARLORD org.kde.kmtpd5[11885]: inep: usb_get_endpoint_status(): No such device
+Nov 03 09:55:14 WARLORD org.kde.kmtpd5[11885]: outep: usb_get_endpoint_status(): No such device
+Nov 03 09:55:26 WARLORD bash[10835]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+Nov 03 09:55:26 WARLORD bash[10835]: info:  Presenter: Actual swapchain properties:
+Nov 03 09:55:26 WARLORD bash[10835]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+Nov 03 09:55:26 WARLORD bash[10835]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+Nov 03 09:55:26 WARLORD bash[10835]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+Nov 03 09:55:26 WARLORD bash[10835]: info:    Buffer size:  3200x1800
+Nov 03 09:55:26 WARLORD bash[10835]: info:    Image count:  4
+Nov 03 09:55:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:55:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:55:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:56:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:56:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:56:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:56:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:56:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:56:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:57:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:57:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:57:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:57:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:57:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:57:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:58:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:58:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:58:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:58:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:58:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:58:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:59:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:59:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:59:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 09:59:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 09:59:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 09:59:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:00:01 WARLORD CRON[14710]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Nov 03 10:00:01 WARLORD CRON[14712]: (root) CMD (timeshift --check --scripted)
+Nov 03 10:00:02 WARLORD crontab[14746]: (root) LIST (root)
+Nov 03 10:00:02 WARLORD crontab[14747]: (root) LIST (root)
+Nov 03 10:00:02 WARLORD systemd[1]: run-timeshift-14712-backup.mount: Deactivated successfully.
+Nov 03 10:00:02 WARLORD CRON[14710]: pam_unix(cron:session): session closed for user root
+Nov 03 10:00:10 WARLORD systemd[980]: drkonqi-coredump-pickup.service: Service reached runtime time limit. Stopping.
+Nov 03 10:00:10 WARLORD systemd[980]: drkonqi-coredump-pickup.service: Failed with result 'timeout'.
+Nov 03 10:00:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:00:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:00:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:00:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:00:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:00:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:01:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:01:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:01:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:01:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:01:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:01:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:02:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:02:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:02:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:02:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:02:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:02:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:03:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:03:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:03:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:03:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:03:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:03:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:04:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:04:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:04:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:04:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:04:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:04:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:05:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:05:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:05:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:05:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:05:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:05:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:06:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:06:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:06:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:06:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:06:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:06:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:07:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:07:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:07:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:07:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:07:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:07:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:08:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:08:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:08:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:08:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:08:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:08:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:09:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:09:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:09:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:09:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:09:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:09:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:10:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:10:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:10:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:10:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:10:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:10:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:11:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:11:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:11:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:11:15 WARLORD bash[10835]: warn:  DXGI: MakeWindowAssociation: Ignoring flags
+Nov 03 10:11:16 WARLORD bash[10835]: info:  Presenter: Actual swapchain properties:
+Nov 03 10:11:16 WARLORD bash[10835]: info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+Nov 03 10:11:16 WARLORD bash[10835]: info:    Color space:  VK_COLOR_SPACE_SRGB_NONLINEAR_KHR
+Nov 03 10:11:16 WARLORD bash[10835]: info:    Present mode: VK_PRESENT_MODE_FIFO_KHR (dynamic: yes)
+Nov 03 10:11:16 WARLORD bash[10835]: info:    Buffer size:  3200x1800
+Nov 03 10:11:16 WARLORD bash[10835]: info:    Image count:  4
+Nov 03 10:11:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:11:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:11:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:12:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:12:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:12:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:12:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:12:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:12:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:13:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:13:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:13:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:13:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:13:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:13:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:14:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:14:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:14:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:14:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:14:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:14:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:15:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:15:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:15:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:15:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:15:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:15:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:16:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:16:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:16:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:16:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:16:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:16:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:17:01 WARLORD CRON[19795]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Nov 03 10:17:01 WARLORD CRON[19797]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+Nov 03 10:17:01 WARLORD CRON[19795]: pam_unix(cron:session): session closed for user root
+Nov 03 10:17:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:17:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:17:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:17:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:17:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:17:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:18:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:18:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:18:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:18:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:18:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:18:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:19:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:19:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:19:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:19:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:19:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:19:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:20:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:20:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:20:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:20:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:20:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:20:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:21:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:21:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:21:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:21:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:21:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:21:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:22:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:22:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:22:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:22:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:22:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:22:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:23:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:23:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:23:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:23:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:23:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:23:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:24:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:24:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:24:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:24:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:24:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:24:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:25:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:25:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:25:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:25:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:25:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:25:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:26:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:26:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:26:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:26:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:26:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:26:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:27:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:27:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:27:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:27:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:27:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:27:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:28:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:28:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:28:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:28:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:28:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:28:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:29:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:29:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:29:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:29:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:29:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:29:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:30:01 WARLORD CRON[23729]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Nov 03 10:30:01 WARLORD CRON[23731]: (root) CMD (if [ -x /etc/init.d/anacron ] && ! [ -d /run/systemd/system ]; then exec /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Nov 03 10:30:01 WARLORD CRON[23729]: pam_unix(cron:session): session closed for user root
+Nov 03 10:30:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:30:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:30:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:30:12 WARLORD flatpak[1788]: 2026-11-03 09:30:12 Checking for update using Github
+Nov 03 10:30:12 WARLORD flatpak[1788]: 2026-11-03 09:30:12 Success.
+Nov 03 10:30:12 WARLORD flatpak[1788]: 2026-11-03 09:30:12 Latest version is 1.15.0
+Nov 03 10:30:12 WARLORD flatpak[1788]: 2026-11-03 09:30:12 App is up to date.
+Nov 03 10:30:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:30:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:30:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:31:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:31:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:31:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:31:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:31:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:31:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:32:07 WARLORD systemd[1]: Started anacron.service - Run anacron jobs.
+Nov 03 10:32:07 WARLORD anacron[24346]: Anacron 2.3 started on 2026-11-03
+Nov 03 10:32:07 WARLORD anacron[24346]: Normal exit (0 jobs run)
+Nov 03 10:32:07 WARLORD systemd[1]: anacron.service: Deactivated successfully.
+Nov 03 10:32:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:32:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:32:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:32:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:32:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:32:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:33:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:33:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:33:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:33:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:33:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:33:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:34:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:34:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:34:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:34:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:34:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:34:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:35:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:35:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:35:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:35:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:35:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:35:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:36:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:36:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:36:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:36:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:36:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:36:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:37:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:37:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:37:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:37:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:37:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:37:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:38:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:38:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:38:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:38:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:38:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:38:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:39:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:39:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:39:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:39:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:39:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:39:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:40:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:40:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:40:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:40:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:40:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:40:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:41:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:41:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:41:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:41:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:41:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:41:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:42:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:42:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:42:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:42:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:42:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:42:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:43:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:43:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:43:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:43:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:43:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:43:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:44:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:44:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:44:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:44:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:44:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:44:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:45:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:45:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:45:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:45:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:45:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:45:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:45:50 WARLORD bash[10835]: [2026-11-03 10:45:50.500] [MANGOHUD] [info] [logging.cpp:79] /home/wils/GitHub/wine_2026-11-03_09-49-49_summary.csv
+Nov 03 10:46:11 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:46:11 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:46:11 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:46:41 WARLORD dbus-daemon[680]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.63' (uid=1000 pid=1898 comm="/usr/bin/kdeconnectd")
+Nov 03 10:46:41 WARLORD dbus-daemon[680]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.service failed to load properly, please adjust/correct and reload service manager: File exists
+Nov 03 10:46:41 WARLORD org.kde.kdeconnect[1898]: qt.bluetooth.bluez: Cannot find Bluez 5 adapter for device search false
+Nov 03 10:46:58 WARLORD kded6[1277]: Service  ":1.81" unregistered
+Nov 03 10:47:00 WARLORD systemd[980]: app-Start\x2d\x2dLotRO\x20Warlord\x20Edition@9577386581154a24a34a02aa24704762.service: Consumed 32min 8.582s CPU time over 59min 37.300s wall clock time, 12.4G memory peak.
+Nov 03 10:47:08 WARLORD sudo[28901]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+Nov 03 10:47:08 WARLORD sudo[28901]: wils : TTY=/dev/pts/3 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/dmesg
+Nov 03 10:47:08 WARLORD sudo[28901]: pam_unix(sudo:session): session closed for user root
+Nov 03 10:47:08 WARLORD sudo[28924]: pam_unix(sudo:session): session opened for user root(uid=0) by wils(uid=1000)
+Nov 03 10:47:08 WARLORD sudo[28924]: wils : TTY=/dev/pts/3 ; PWD=/home/wils ; USER=root ; COMMAND=/usr/bin/journalctl --since 00:00:00

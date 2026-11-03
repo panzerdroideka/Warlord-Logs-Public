@@ -1256,3 +1256,4 @@
 [ 1284.674626] usb 1-1.4: Product: Pixel 10 Pro XL
 [ 1284.674632] usb 1-1.4: Manufacturer: Google
 [ 1284.674633] usb 1-1.4: SerialNumber: 57151FDCQ00B54
+[ 1513.420018] usb 1-1.4: USB disconnect, device number 8
